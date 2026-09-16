@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}ごみ収集日を住所で検索 — 今日・明日に出せるごみがすぐ分かる | {{ site }}{% endblock %}
+{% block head %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"{{ site }}","applicationCategory":"UtilitiesApplication","inLanguage":"ja","url":"{{ origin }}{{ base }}","offers":{"@type":"Offer","price":"0","priceCurrency":"JPY"}}</script>{% endblock %}
+{% block content %}
+<section class="hero">
+  <h1>明日、何ごみの日?</h1>
+  <p>町名を入れるだけ。今日・明日に出せるごみと、この1週間の収集日をその場で表示します。{% for c in cities.values() %}{{ c.city }}{% if not loop.last %}・{% endif %}{% endfor %}の{{ '{:,}'.format(n_towns) }}町丁目に対応、市の公開データ基準。一度選んだ住所は次回も覚えています。</p>
+</section>
+
+<section class="calc-grid">
+<div class="calc card" id="calc">
+  <h2 class="card-title">住所を選ぶ</h2>
+  <label class="field">町名・丁目
+    <input id="addr" class="pick search" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" autocomplete="off" placeholder="例: 北区 大淀中 2丁目、tsurukemine"><ul class="menu" id="addr-menu" role="listbox" hidden></ul>
+  </label>
+  <p class="hint">漢字でもローマ字でも探せます。丁目まで選ぶと番地ごとの違いも表示します。</p>
+</div>
+<div id="result" class="result" aria-live="polite"></div>
+</section>
+
+<div class="ad-slot"><!-- ad: home --></div>
+
+<div class="sec"><div class="sec-h"><h2>対応している市</h2></div>
+<div class="cities">{% for ce, c in cities.items() %}<a href="{{ base }}{{ ce }}/"><b>{{ c.city }}</b><span>{{ c.wards|length }}区 · {{ '{:,}'.format(c.wards.values()|map(attribute='towns')|map('length')|sum) }}町丁目</span></a>{% endfor %}</div>
+</div>
+
+<section class="prose">
+  <h2>同じ区でも、丁目や番地で曜日が違います</h2>
+  <p>市の「ごみ収集日一覧」は区ごとのPDFや表で、自分の町名を探すのに手間がかかります。このサイトは市が公開しているデータを町丁目・番地単位まで分解し、住所を選ぶだけで「今日は何を出す日か」に直接答えます。大阪市は収集時間帯(例: 10:00~12:00)、横浜市・北九州市は「朝8時まで」の出し方の目安も一緒に表示します。</p>
+  <h2>祝日と年末年始</h2>
+  <p>3市とも祝日はふだん通り収集されます。年末年始(12月31日〜1月3日)は原則お休みで、その前後は混み合います。<a href="{{ base }}guide/nenmatsu/">年末年始のごみ出し</a>にまとめました。</p>
+</section>
+<script src="{{ base }}static/app.js?v={{ v }}" defer></script>
+{% endblock %}

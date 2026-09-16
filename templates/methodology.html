@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+{% block title %}データの出どころと更新方法 | {{ site }}{% endblock %}
+{% block content %}<h1>データの出どころ</h1><div class="prose">
+{% for c in cities.values() %}<p><strong>{{ c.city }}</strong>: {{ c.city }}が公開している収集日データ({{ c.source }}、{{ c.fetched }}取得)。{% if c.rules.holiday_collection %}{{ c.rules.holiday_collection }}。{% endif %}</p>{% endfor %}
+<p>「今日と明日」の判定は、公開データの曜日・週の規則から計算しています。臨時変更、災害、市の告知による特別収集は反映されないことがあります。次の対応予定: 東京23区(世田谷区から)、広島市。</p></div>{% endblock %}

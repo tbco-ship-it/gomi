@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}{{ c.city }}{{ w.ward }}のごみ収集日 — {{ w.towns|length }}町丁目の曜日一覧 | {{ site }}{% endblock %}
+{% block description %}{{ c.city }}{{ w.ward }}の町丁目ごとのごみ収集曜日。町名を選ぶと{{ TYPE_ORDER|length }}種類のごみの曜日・時間と番地ごとの違いが分かります。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ base }}">ホーム</a> › <a href="{{ base }}{{ c.city_en }}/">{{ c.city }}</a> › {{ w.ward }}</nav>
+<h1>{{ w.ward }}のごみ収集日</h1>
+<p class="prose">{{ c.city }}{{ w.ward }}の{{ w.towns|length }}町丁目。右側は{% set f = (w.towns.values()|first) %}{{ f.main.types[f.primary].label }}の曜日です。</p>
+<div class="ad-slot"><!-- ad: ward --></div>
+{% set towns = w.towns.values()|sort(attribute='romaji') %}
+<ul class="list">{% for g in towns %}<li><a href="{{ base }}{{ g.slug }}/">{{ g.town }}{{ g.chome }}<span class="meta">{% if g.main.types[g.primary].days %}{{ g.main.types[g.primary].days|join('・') }}{% else %}—{% endif %}</span></a></li>{% endfor %}</ul>
+{% endblock %}

@@ -603,7 +603,7 @@ header.top{position:sticky;top:0;z-index:30;display:flex;align-items:center;just
 .week .dnum{font-size:1.05rem;font-weight:700;line-height:1;font-feature-settings:"tnum"}
 .week .dots{display:flex;flex-direction:column;gap:4px;width:100%;align-items:center}
 .dot{display:inline-block;width:10px;height:10px;border-radius:50%;flex:none}
-.week .day .tag{font-size:.68rem;font-weight:700;line-height:1.15;color:#fff;padding:3px 5px;border-radius:7px;width:calc(100% - 4px);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.week .day .tag{font-size:.68rem;font-weight:700;line-height:1.15;color:#fff;filter:saturate(1.05) brightness(.86);padding:3px 5px;border-radius:7px;width:calc(100% - 4px);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 @media(max-width:560px){.week{gap:4px}.week .day{min-height:78px;padding:8px 2px 6px;border-radius:11px}.week .day .tag{font-size:.6rem;padding:3px 3px}.week .dnum{font-size:.95rem}}
 .types{list-style:none;margin:0;padding:0}
 .types li{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}

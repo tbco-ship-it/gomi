@@ -25,8 +25,17 @@ def nfkc(s):
     return unicodedata.normalize("NFKC", s or "")
 
 
+def split_addr(r):
+    """(town, chome, sub) — Osaka towns without 丁目 carry the 番地 in `chome` ("1番"); that is a sub-area, not a page."""
+    town, chome, sub = nfkc(r["town"]), nfkc(r.get("chome")), r.get("sub") or ""
+    if re.fullmatch(r"\d+番.*", chome):
+        sub, chome = (chome + (" " + sub if sub else "")), ""
+    return town, chome, sub
+
+
 def group_key(r):
-    return (r["city_en"], r["ward_en"], nfkc(r["town"]), nfkc(r.get("chome")))
+    town, chome, _ = split_addr(r)
+    return (r["city_en"], r["ward_en"], town, chome)
 
 
 def sched_sig(r):
@@ -46,7 +55,7 @@ def main():
 
     cities = {}
     groups = {}
-    for f in sorted((ROOT / "data/normalized").glob("*.json")):
+    for f in [ROOT / "data/normalized" / f"{c}.json" for c in ("osaka", "yokohama", "kitakyushu")]:
         recs = json.loads(f.read_text())
         for r in recs:
             if not r["types"]:
@@ -55,14 +64,18 @@ def main():
             c = cities[r["city_en"]]
             c["wards"].setdefault(r["ward_en"], {"ward": r["ward"], "ward_en": r["ward_en"], "towns": {}})
             k = group_key(r)
+            town, chome, sub = split_addr(r)
+            r["sub"] = sub
             if k not in groups:
                 slug = r["slug"]
-                # town-level slug: strip trailing 番地 part when sub is present
-                if r.get("sub"):
+                if sub and chome:
+                    # town-level slug: strip trailing 番地 part
                     m = re.match(r"^(.*?/[^/]+?-\d+)(?:-.*)?$", r["slug"])
                     slug = m.group(1) if m else r["slug"].rsplit("-", 1)[0]
+                elif sub:
+                    slug = f"{r['city_en']}/{r['ward_en']}/{r['romaji']}"
                 groups[k] = {"city_en": r["city_en"], "city": r["city"], "pref": r["pref"], "ward": r["ward"], "ward_en": r["ward_en"],
-                             "town": nfkc(r["town"]), "chome": nfkc(r.get("chome")), "romaji": r.get("romaji", ""), "slug": slug,
+                             "town": town, "chome": chome, "romaji": r.get("romaji", ""), "slug": slug,
                              "records": [], "rules": r.get("rules", {}), "source": r["source"]}
             groups[k]["records"].append(r)
     # resolve slug collisions across groups (different chome parsed to same slug)

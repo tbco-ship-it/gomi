@@ -4,7 +4,7 @@ import json, re, sys, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-HOST = "tbco-ship-it.github.io"
+HOST = "gomiday.com"
 KEY = (ROOT / "static/indexnow-key.txt").read_text().strip()
 urls = re.findall(r"<loc>([^<]+)</loc>", (ROOT / "dist/sitemap.xml").read_text())
 if len(sys.argv) > 1:

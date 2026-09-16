@@ -55,7 +55,10 @@ def main():
 
     cities = {}
     groups = {}
-    for f in [ROOT / "data/normalized" / f"{c}.json" for c in ("osaka", "yokohama", "kitakyushu")]:
+    ndir = ROOT / "data/normalized"
+    first = ["osaka", "yokohama", "kitakyushu"]  # nav order; new cities append alphabetically
+    files = [ndir / f"{c}.json" for c in first if (ndir / f"{c}.json").exists()] + sorted(f for f in ndir.glob("*.json") if f.stem not in first)
+    for f in files:
         recs = json.loads(f.read_text())
         for r in recs:
             if not r["types"]:

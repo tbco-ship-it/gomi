@@ -532,7 +532,7 @@
     "ward_en": "aoba",
     "town": "あざみ野南",
     "romaji": "azaminominami",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/aoba/azaminominami-1-4",
     "types": {
@@ -742,7 +742,7 @@
     "ward_en": "aoba",
     "town": "美しが丘",
     "romaji": "utsukushigaoka",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/aoba/utsukushigaoka-1-5",
     "types": {
@@ -847,7 +847,7 @@
     "ward_en": "aoba",
     "town": "美しが丘西",
     "romaji": "utsukushigaokanishi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/aoba/utsukushigaokanishi-1-3",
     "types": {
@@ -1057,7 +1057,7 @@
     "ward_en": "aoba",
     "town": "荏子田",
     "romaji": "egomata",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/aoba/egomata-1-3",
     "types": {
@@ -1162,7 +1162,7 @@
     "ward_en": "aoba",
     "town": "荏田北",
     "romaji": "edakita",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/aoba/edakita-1-3",
     "types": {
@@ -1372,7 +1372,7 @@
     "ward_en": "aoba",
     "town": "荏田西",
     "romaji": "edanishi",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/aoba/edanishi-1-5",
     "types": {
@@ -1897,7 +1897,7 @@
     "ward_en": "aoba",
     "town": "桂台",
     "romaji": "katsuradai",
-    "chome": "1～2丁目",
+    "chome": "1~2丁目",
     "sub": "",
     "slug": "yokohama/aoba/katsuradai-1-2",
     "types": {
@@ -3682,7 +3682,7 @@
     "ward_en": "aoba",
     "town": "新石川",
     "romaji": "shinishikawa",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/aoba/shinishikawa-1-4",
     "types": {
@@ -3892,7 +3892,7 @@
     "ward_en": "aoba",
     "town": "すすき野",
     "romaji": "susukino",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/aoba/susukino-1-3",
     "types": {
@@ -4522,7 +4522,7 @@
     "ward_en": "aoba",
     "town": "奈良",
     "romaji": "nara",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/aoba/nara-1-5",
     "types": {
@@ -6832,8 +6832,8 @@
     "ward_en": "asahi",
     "town": "本村町",
     "romaji": "motomuramachi",
-    "chome": "１～25番地",
-    "sub": "相鉄線南側",
+    "chome": "",
+    "sub": "1~25番地 相鉄線南側",
     "slug": "yokohama/asahi/motomuramachi-1-25",
     "types": {
       "burnable": {
@@ -8722,7 +8722,7 @@
     "ward_en": "asahi",
     "town": "若葉台",
     "romaji": "wakabadai",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/asahi/wakabadai-1-4",
     "types": {
@@ -8932,7 +8932,7 @@
     "ward_en": "asahi",
     "town": "笹野台",
     "romaji": "sasanodai",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/asahi/sasanodai-1-4",
     "types": {
@@ -9667,7 +9667,7 @@
     "ward_en": "asahi",
     "town": "白根",
     "romaji": "shirone",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/asahi/shirone-1-3",
     "types": {
@@ -9877,7 +9877,7 @@
     "ward_en": "asahi",
     "town": "白根",
     "romaji": "shirone",
-    "chome": "6～8丁目",
+    "chome": "6~8丁目",
     "sub": "",
     "slug": "yokohama/asahi/shirone-6-8",
     "types": {
@@ -10403,7 +10403,7 @@
     "town": "鶴ケ峰",
     "romaji": "tsurukemine",
     "chome": "1丁目",
-    "sub": "5～9番地付近",
+    "sub": "5~9番地付近",
     "slug": "yokohama/asahi/tsurukemine-1-5-9",
     "types": {
       "burnable": {
@@ -10717,7 +10717,7 @@
     "ward_en": "asahi",
     "town": "鶴ケ峰本町",
     "romaji": "tsurukeminehoncho",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/asahi/tsurukeminehoncho-1-3",
     "types": {
@@ -11032,7 +11032,7 @@
     "ward_en": "asahi",
     "town": "中沢",
     "romaji": "nakazawa",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/asahi/nakazawa-1-3",
     "types": {
@@ -11137,7 +11137,7 @@
     "ward_en": "asahi",
     "town": "中白根",
     "romaji": "nakashirone",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/asahi/nakashirone-1-4",
     "types": {
@@ -11347,7 +11347,7 @@
     "ward_en": "izumi",
     "town": "和泉が丘",
     "romaji": "izumigaoka",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/izumi/izumigaoka-1-3",
     "types": {
@@ -11452,7 +11452,7 @@
     "ward_en": "izumi",
     "town": "和泉中央北",
     "romaji": "izumichuokita",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/izumi/izumichuokita-1-6",
     "types": {
@@ -11557,7 +11557,7 @@
     "ward_en": "izumi",
     "town": "和泉中央南",
     "romaji": "izumichuominami",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/izumi/izumichuominami-1-4",
     "types": {
@@ -11767,8 +11767,8 @@
     "ward_en": "izumi",
     "town": "和泉中央南",
     "romaji": "izumichuominami",
-    "chome": "5丁目20～23、29～31、19と28の一部",
-    "sub": "",
+    "chome": "5丁目",
+    "sub": "20~23、29~31、19と28の一部",
     "slug": "yokohama/izumi/izumichuominami-5-20-23-29-31-19-28-1",
     "types": {
       "burnable": {
@@ -11872,8 +11872,8 @@
     "ward_en": "izumi",
     "town": "和泉町",
     "romaji": "izumicho",
-    "chome": "1～999番地",
-    "sub": "一部異なる地域あり",
+    "chome": "",
+    "sub": "1~999番地 一部異なる地域あり",
     "slug": "yokohama/izumi/izumicho-1-999-1",
     "types": {
       "burnable": {
@@ -11977,8 +11977,8 @@
     "ward_en": "izumi",
     "town": "和泉町",
     "romaji": "izumicho",
-    "chome": "1～42番地および900番地台の一部",
-    "sub": "元木町内会",
+    "chome": "",
+    "sub": "1~42番地および900番地台の一部 元木町内会",
     "slug": "yokohama/izumi/izumicho-1-42-900-1",
     "types": {
       "burnable": {
@@ -12080,11 +12080,11 @@
     "city_en": "yokohama",
     "ward": "泉区",
     "ward_en": "izumi",
-    "town": "和泉町1000～1500台",
-    "romaji": "izumicho1000-1500dai",
+    "town": "和泉町",
+    "romaji": "izumicho",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/izumi/izumicho1000-1500dai",
+    "sub": "1000~1500台",
+    "slug": "yokohama/izumi/izumicho-1000-1500",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -12187,8 +12187,8 @@
     "ward_en": "izumi",
     "town": "和泉町",
     "romaji": "izumicho",
-    "chome": "1600～3298番地台",
-    "sub": "",
+    "chome": "",
+    "sub": "1600~3298番地台",
     "slug": "yokohama/izumi/izumicho-1600-3298",
     "types": {
       "burnable": {
@@ -12290,11 +12290,11 @@
     "city_en": "yokohama",
     "ward": "泉区",
     "ward_en": "izumi",
-    "town": "和泉町3299～3300台の一部",
-    "romaji": "izumicho3299-3300dainoichibu",
+    "town": "和泉町",
+    "romaji": "izumicho",
     "chome": "",
-    "sub": "3347～3355台除く",
-    "slug": "yokohama/izumi/izumicho3299-3300dainoichibu-3347-3355",
+    "sub": "3299~3300台の一部 3347~3355台除く",
+    "slug": "yokohama/izumi/izumicho-3299-3300-1-3347-3355",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -12397,8 +12397,8 @@
     "ward_en": "izumi",
     "town": "和泉町",
     "romaji": "izumicho",
-    "chome": "3347～3355番地台",
-    "sub": "和泉川寄りを除く",
+    "chome": "",
+    "sub": "3347~3355番地台 和泉川寄りを除く",
     "slug": "yokohama/izumi/izumicho-3347-3355",
     "types": {
       "burnable": {
@@ -12502,8 +12502,8 @@
     "ward_en": "izumi",
     "town": "和泉町",
     "romaji": "izumicho",
-    "chome": "3400～3500番地台",
-    "sub": "",
+    "chome": "",
+    "sub": "3400~3500番地台",
     "slug": "yokohama/izumi/izumicho-3400-3500",
     "types": {
       "burnable": {
@@ -12607,8 +12607,8 @@
     "ward_en": "izumi",
     "town": "和泉町",
     "romaji": "izumicho",
-    "chome": "3600～4000番地台",
-    "sub": "一部異なる地域あり",
+    "chome": "",
+    "sub": "3600~4000番地台 一部異なる地域あり",
     "slug": "yokohama/izumi/izumicho-3600-4000-1",
     "types": {
       "burnable": {
@@ -12712,8 +12712,8 @@
     "ward_en": "izumi",
     "town": "和泉町",
     "romaji": "izumicho",
-    "chome": "4100～5800番地台",
-    "sub": "一部異なる地域あり",
+    "chome": "",
+    "sub": "4100~5800番地台 一部異なる地域あり",
     "slug": "yokohama/izumi/izumicho-4100-5800-1",
     "types": {
       "burnable": {
@@ -12817,8 +12817,8 @@
     "ward_en": "izumi",
     "town": "和泉町",
     "romaji": "izumicho",
-    "chome": "5400番台の一部",
-    "sub": "宮西橋際集積場所利用地域",
+    "chome": "",
+    "sub": "5400番台の一部 宮西橋際集積場所利用地域",
     "slug": "yokohama/izumi/izumicho-5400-1",
     "types": {
       "burnable": {
@@ -12922,8 +12922,8 @@
     "ward_en": "izumi",
     "town": "和泉町",
     "romaji": "izumicho",
-    "chome": "5900～6200番地台",
-    "sub": "",
+    "chome": "",
+    "sub": "5900~6200番地台",
     "slug": "yokohama/izumi/izumicho-5900-6200",
     "types": {
       "burnable": {
@@ -13025,11 +13025,11 @@
     "city_en": "yokohama",
     "ward": "泉区",
     "ward_en": "izumi",
-    "town": "和泉町6400台",
-    "romaji": "izumicho6400dai",
+    "town": "和泉町",
+    "romaji": "izumicho",
     "chome": "",
-    "sub": "主水分橋～宮西橋際までの地域",
-    "slug": "yokohama/izumi/izumicho6400dai",
+    "sub": "6400台 主水分橋~宮西橋際までの地域",
+    "slug": "yokohama/izumi/izumicho-6400",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -13130,11 +13130,11 @@
     "city_en": "yokohama",
     "ward": "泉区",
     "ward_en": "izumi",
-    "town": "和泉町6500台",
-    "romaji": "izumicho6500dai",
+    "town": "和泉町",
+    "romaji": "izumicho",
     "chome": "",
-    "sub": "上飯田町大塚～いずみ野駅方面左側地域",
-    "slug": "yokohama/izumi/izumicho6500dai",
+    "sub": "6500台 上飯田町大塚~いずみ野駅方面左側地域",
+    "slug": "yokohama/izumi/izumicho-6500",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -13235,11 +13235,11 @@
     "city_en": "yokohama",
     "ward": "泉区",
     "ward_en": "izumi",
-    "town": "和泉町6500台",
-    "romaji": "izumicho6500dai",
+    "town": "和泉町",
+    "romaji": "izumicho",
     "chome": "",
-    "sub": "上飯田町大塚～いずみ野駅方面右側地域",
-    "slug": "yokohama/izumi/izumicho6500dai-2",
+    "sub": "6500台 上飯田町大塚~いずみ野駅方面右側地域",
+    "slug": "yokohama/izumi/izumicho-6500-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -13342,8 +13342,8 @@
     "ward_en": "izumi",
     "town": "和泉町",
     "romaji": "izumicho",
-    "chome": "6600～7900番地台",
-    "sub": "",
+    "chome": "",
+    "sub": "6600~7900番地台",
     "slug": "yokohama/izumi/izumicho-6600-7900",
     "types": {
       "burnable": {
@@ -13553,7 +13553,7 @@
     "town": "上飯田町",
     "romaji": "kamiiidamachi",
     "chome": "",
-    "sub": "長後街道を戸塚に向かって右側地域（南側地域）",
+    "sub": "長後街道を戸塚に向かって右側地域(南側地域)",
     "slug": "yokohama/izumi/kamiiidamachi",
     "types": {
       "burnable": {
@@ -13658,7 +13658,7 @@
     "town": "上飯田町",
     "romaji": "kamiiidamachi",
     "chome": "",
-    "sub": "長後街道を戸塚に向かって左側地域（北側地域）",
+    "sub": "長後街道を戸塚に向かって左側地域(北側地域)",
     "slug": "yokohama/izumi/kamiiidamachi-2",
     "types": {
       "burnable": {
@@ -13762,8 +13762,8 @@
     "ward_en": "izumi",
     "town": "中田北",
     "romaji": "nakadakita",
-    "chome": "1丁目全域",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "全域",
     "slug": "yokohama/izumi/nakadakita-1",
     "types": {
       "burnable": {
@@ -13867,7 +13867,7 @@
     "ward_en": "izumi",
     "town": "中田北",
     "romaji": "nakadakita",
-    "chome": "２丁目",
+    "chome": "2丁目",
     "sub": "中田東側集積場所利用者除く",
     "slug": "yokohama/izumi/nakadakita-2",
     "types": {
@@ -13972,7 +13972,7 @@
     "ward_en": "izumi",
     "town": "中田北",
     "romaji": "nakadakita",
-    "chome": "３丁目",
+    "chome": "3丁目",
     "sub": "富士見丘町内会を除く",
     "slug": "yokohama/izumi/nakadakita-3",
     "types": {
@@ -14182,8 +14182,8 @@
     "ward_en": "izumi",
     "town": "中田町",
     "romaji": "chudencho",
-    "chome": "2700番台～3400番台",
-    "sub": "",
+    "chome": "",
+    "sub": "2700番台~3400番台",
     "slug": "yokohama/izumi/chudencho-2700-3400",
     "types": {
       "burnable": {
@@ -14287,7 +14287,7 @@
     "ward_en": "izumi",
     "town": "中田西",
     "romaji": "nakadanishi",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/izumi/nakadanishi-1-4",
     "types": {
@@ -14392,7 +14392,7 @@
     "ward_en": "izumi",
     "town": "中田東",
     "romaji": "nakadahigashi",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/izumi/nakadahigashi-1-4",
     "types": {
@@ -14497,7 +14497,7 @@
     "ward_en": "izumi",
     "town": "中田南",
     "romaji": "nakadaminami",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/izumi/nakadaminami-1-5",
     "types": {
@@ -14602,8 +14602,8 @@
     "ward_en": "izumi",
     "town": "西が岡",
     "romaji": "nishigaoka",
-    "chome": "1～3丁目",
-    "sub": "1丁目28～32を除く",
+    "chome": "1~3丁目",
+    "sub": "1丁目28~32を除く",
     "slug": "yokohama/izumi/nishigaoka-1-3-1-28-32",
     "types": {
       "burnable": {
@@ -14707,8 +14707,8 @@
     "ward_en": "izumi",
     "town": "西が岡",
     "romaji": "nishigaoka",
-    "chome": "1丁目28～32番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "28~32番地",
     "slug": "yokohama/izumi/nishigaoka-1-28-32",
     "types": {
       "burnable": {
@@ -14812,8 +14812,8 @@
     "ward_en": "izumi",
     "town": "岡津町",
     "romaji": "okatsumachi",
-    "chome": "1～300番地",
-    "sub": "240～242番を除く",
+    "chome": "",
+    "sub": "1~300番地 240~242番を除く",
     "slug": "yokohama/izumi/okatsumachi-1-300-240-242",
     "types": {
       "burnable": {
@@ -14917,8 +14917,8 @@
     "ward_en": "izumi",
     "town": "岡津町",
     "romaji": "okatsumachi",
-    "chome": "240～242番地",
-    "sub": "",
+    "chome": "",
+    "sub": "240~242番地",
     "slug": "yokohama/izumi/okatsumachi-240-242",
     "types": {
       "burnable": {
@@ -15022,8 +15022,8 @@
     "ward_en": "izumi",
     "town": "岡津町",
     "romaji": "okatsumachi",
-    "chome": "500～600番地",
-    "sub": "",
+    "chome": "",
+    "sub": "500~600番地",
     "slug": "yokohama/izumi/okatsumachi-500-600",
     "types": {
       "burnable": {
@@ -15125,11 +15125,11 @@
     "city_en": "yokohama",
     "ward": "泉区",
     "ward_en": "izumi",
-    "town": "岡津町1000～1400台",
-    "romaji": "okatsumachi1000-1400dai",
+    "town": "岡津町",
+    "romaji": "okatsumachi",
     "chome": "",
-    "sub": "1200と1400一部除く",
-    "slug": "yokohama/izumi/okatsumachi1000-1400dai-1200-14001",
+    "sub": "1000~1400台 1200と1400一部除く",
+    "slug": "yokohama/izumi/okatsumachi-1000-1400-1200-14001",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -15230,11 +15230,11 @@
     "city_en": "yokohama",
     "ward": "泉区",
     "ward_en": "izumi",
-    "town": "岡津町1200と1400一部",
-    "romaji": "okatsumachi1200to1400ichibu",
+    "town": "岡津町",
+    "romaji": "okatsumachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/izumi/okatsumachi1200to1400ichibu",
+    "sub": "1200と1400一部",
+    "slug": "yokohama/izumi/okatsumachi-1200-14001",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -15337,8 +15337,8 @@
     "ward_en": "izumi",
     "town": "岡津町",
     "romaji": "okatsumachi",
-    "chome": "1500～3200番地台",
-    "sub": "",
+    "chome": "",
+    "sub": "1500~3200番地台",
     "slug": "yokohama/izumi/okatsumachi-1500-3200",
     "types": {
       "burnable": {
@@ -15547,7 +15547,7 @@
     "ward_en": "izumi",
     "town": "下和泉",
     "romaji": "shitaizumi",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/izumi/shitaizumi-1-5",
     "types": {
@@ -15862,8 +15862,8 @@
     "ward_en": "izumi",
     "town": "新橋町",
     "romaji": "shimbashimachi",
-    "chome": "500～700番地の一部",
-    "sub": "弥生台側集積場所利用者",
+    "chome": "",
+    "sub": "500~700番地の一部 弥生台側集積場所利用者",
     "slug": "yokohama/izumi/shimbashimachi-500-700-1",
     "types": {
       "burnable": {
@@ -15967,8 +15967,8 @@
     "ward_en": "izumi",
     "town": "新橋町",
     "romaji": "shimbashimachi",
-    "chome": "800番地の一部",
-    "sub": "鎌倉道沿い集積場所利用者",
+    "chome": "",
+    "sub": "800番地の一部 鎌倉道沿い集積場所利用者",
     "slug": "yokohama/izumi/shimbashimachi-800-1",
     "types": {
       "burnable": {
@@ -16072,8 +16072,8 @@
     "ward_en": "izumi",
     "town": "弥生台",
     "romaji": "yayoidai",
-    "chome": "1～37番地",
-    "sub": "",
+    "chome": "",
+    "sub": "1~37番地",
     "slug": "yokohama/izumi/yayoidai-1-37",
     "types": {
       "burnable": {
@@ -16177,8 +16177,8 @@
     "ward_en": "izumi",
     "town": "弥生台",
     "romaji": "yayoidai",
-    "chome": "38～75番地",
-    "sub": "44番を除く",
+    "chome": "",
+    "sub": "38~75番地 44番を除く",
     "slug": "yokohama/izumi/yayoidai-38-75-44",
     "types": {
       "burnable": {
@@ -16282,8 +16282,8 @@
     "ward_en": "izumi",
     "town": "弥生台",
     "romaji": "yayoidai",
-    "chome": "44番地",
-    "sub": "",
+    "chome": "",
+    "sub": "44番地",
     "slug": "yokohama/izumi/yayoidai-44",
     "types": {
       "burnable": {
@@ -16387,8 +16387,8 @@
     "ward_en": "izumi",
     "town": "ゆめが丘",
     "romaji": "yumegaoka",
-    "chome": "１～７番地",
-    "sub": "",
+    "chome": "",
+    "sub": "1~7番地",
     "slug": "yokohama/izumi/yumegaoka-1-7",
     "types": {
       "burnable": {
@@ -16492,8 +16492,8 @@
     "ward_en": "izumi",
     "town": "ゆめが丘",
     "romaji": "yumegaoka",
-    "chome": "16～72番地",
-    "sub": "",
+    "chome": "",
+    "sub": "16~72番地",
     "slug": "yokohama/izumi/yumegaoka-16-72",
     "types": {
       "burnable": {
@@ -16597,7 +16597,7 @@
     "ward_en": "izumi",
     "town": "領家",
     "romaji": "ryouke",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/izumi/ryouke-1-4",
     "types": {
@@ -16702,7 +16702,7 @@
     "ward_en": "izumi",
     "town": "緑園",
     "romaji": "ryokuen",
-    "chome": "1～7丁目",
+    "chome": "1~7丁目",
     "sub": "",
     "slug": "yokohama/izumi/ryokuen-1-7",
     "types": {
@@ -16807,7 +16807,7 @@
     "ward_en": "isogo",
     "town": "磯子",
     "romaji": "isogo",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/isogo/isogo-1-5",
     "types": {
@@ -16912,8 +16912,8 @@
     "ward_en": "isogo",
     "town": "磯子",
     "romaji": "isogo",
-    "chome": "3丁目6番",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "6番",
     "slug": "yokohama/isogo/isogo-3-6",
     "types": {
       "burnable": {
@@ -17017,8 +17017,8 @@
     "ward_en": "isogo",
     "town": "磯子",
     "romaji": "isogo",
-    "chome": "3丁目13番",
-    "sub": "ブリリア磯子",
+    "chome": "3丁目",
+    "sub": "13番 ブリリア磯子",
     "slug": "yokohama/isogo/isogo-3-13",
     "types": {
       "burnable": {
@@ -17227,8 +17227,8 @@
     "ward_en": "isogo",
     "town": "磯子",
     "romaji": "isogo",
-    "chome": "6丁目2～3番の一部",
-    "sub": "",
+    "chome": "6丁目",
+    "sub": "2~3番の一部",
     "slug": "yokohama/isogo/isogo-6-2-3-1",
     "types": {
       "burnable": {
@@ -17437,8 +17437,8 @@
     "ward_en": "isogo",
     "town": "磯子",
     "romaji": "isogo",
-    "chome": "7丁目1・3・4の一部と16～23番",
-    "sub": "",
+    "chome": "7丁目",
+    "sub": "1・3・4の一部と16~23番",
     "slug": "yokohama/isogo/isogo-7-1-3-4-1-16-23",
     "types": {
       "burnable": {
@@ -17647,8 +17647,8 @@
     "ward_en": "isogo",
     "town": "磯子",
     "romaji": "isogo",
-    "chome": "8丁目一部：15～19",
-    "sub": "",
+    "chome": "8丁目",
+    "sub": "一部:15~19",
     "slug": "yokohama/isogo/isogo-8-1-15-19",
     "types": {
       "burnable": {
@@ -17857,8 +17857,8 @@
     "ward_en": "isogo",
     "town": "磯子台",
     "romaji": "isogodai",
-    "chome": "27番",
-    "sub": "ブリリア磯子",
+    "chome": "",
+    "sub": "27番 ブリリア磯子",
     "slug": "yokohama/isogo/isogodai-27",
     "types": {
       "burnable": {
@@ -18380,11 +18380,11 @@
     "city_en": "yokohama",
     "ward": "磯子区",
     "ward_en": "isogo",
-    "town": "久木町23の一部と",
-    "romaji": "hisakimachi23noichibuto",
-    "chome": "24番",
-    "sub": "",
-    "slug": "yokohama/isogo/hisakimachi23noichibuto-24",
+    "town": "久木町",
+    "romaji": "hisakimachi",
+    "chome": "",
+    "sub": "23の一部と24番",
+    "slug": "yokohama/isogo/hisakimachi-23-1-24-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -19117,8 +19117,8 @@
     "ward_en": "isogo",
     "town": "栗木",
     "romaji": "kuriki",
-    "chome": "3丁目1～8番の一部",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "1~8番の一部",
     "slug": "yokohama/isogo/kuriki-3-1-8-1",
     "types": {
       "burnable": {
@@ -19642,8 +19642,8 @@
     "ward_en": "isogo",
     "town": "森",
     "romaji": "mori",
-    "chome": "2丁目8番",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "8番",
     "slug": "yokohama/isogo/mori-2-8",
     "types": {
       "burnable": {
@@ -19852,8 +19852,8 @@
     "ward_en": "isogo",
     "town": "森",
     "romaji": "mori",
-    "chome": "3丁目21番の一部",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "21番の一部",
     "slug": "yokohama/isogo/mori-3-21-1",
     "types": {
       "burnable": {
@@ -20062,8 +20062,8 @@
     "ward_en": "isogo",
     "town": "森",
     "romaji": "mori",
-    "chome": "4丁目1～3番",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "1~3番",
     "slug": "yokohama/isogo/mori-4-1-3",
     "types": {
       "burnable": {
@@ -20272,8 +20272,8 @@
     "ward_en": "isogo",
     "town": "森",
     "romaji": "mori",
-    "chome": "5丁目19番",
-    "sub": "",
+    "chome": "5丁目",
+    "sub": "19番",
     "slug": "yokohama/isogo/mori-5-19",
     "types": {
       "burnable": {
@@ -20692,7 +20692,7 @@
     "ward_en": "isogo",
     "town": "岡村",
     "romaji": "okamura",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/isogo/okamura-1-6",
     "types": {
@@ -20797,8 +20797,8 @@
     "ward_en": "isogo",
     "town": "岡村",
     "romaji": "okamura",
-    "chome": "1丁目一部：19～21・25番",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "一部:19~21・25番",
     "slug": "yokohama/isogo/okamura-1-1-19-21-25",
     "types": {
       "burnable": {
@@ -20902,8 +20902,8 @@
     "ward_en": "isogo",
     "town": "岡村",
     "romaji": "okamura",
-    "chome": "5丁目一部：19～22番",
-    "sub": "",
+    "chome": "5丁目",
+    "sub": "一部:19~22番",
     "slug": "yokohama/isogo/okamura-5-1-19-22",
     "types": {
       "burnable": {
@@ -21007,8 +21007,8 @@
     "ward_en": "isogo",
     "town": "岡村",
     "romaji": "okamura",
-    "chome": "6丁目一部：10～13",
-    "sub": "",
+    "chome": "6丁目",
+    "sub": "一部:10~13",
     "slug": "yokohama/isogo/okamura-6-1-10-13",
     "types": {
       "burnable": {
@@ -21217,8 +21217,8 @@
     "ward_en": "isogo",
     "town": "岡村",
     "romaji": "okamura",
-    "chome": "7丁目1～3番の一部",
-    "sub": "",
+    "chome": "7丁目",
+    "sub": "1~3番の一部",
     "slug": "yokohama/isogo/okamura-7-1-3-1",
     "types": {
       "burnable": {
@@ -21427,7 +21427,7 @@
     "ward_en": "isogo",
     "town": "汐見台",
     "romaji": "shiomidai",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/isogo/shiomidai-1-3",
     "types": {
@@ -21532,8 +21532,8 @@
     "ward_en": "isogo",
     "town": "汐見台",
     "romaji": "shiomidai",
-    "chome": "2丁目9-21・9-29・10・11番",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "9-21・9-29・10・11番",
     "slug": "yokohama/isogo/shiomidai-2-9-21-9-29-10-11",
     "types": {
       "burnable": {
@@ -22372,7 +22372,7 @@
     "ward_en": "isogo",
     "town": "杉田",
     "romaji": "sugita",
-    "chome": "4～6丁目",
+    "chome": "4~6丁目",
     "sub": "",
     "slug": "yokohama/isogo/sugita-4-6",
     "types": {
@@ -22477,8 +22477,8 @@
     "ward_en": "isogo",
     "town": "杉田",
     "romaji": "sugita",
-    "chome": "6丁目2・3番",
-    "sub": "",
+    "chome": "6丁目",
+    "sub": "2・3番",
     "slug": "yokohama/isogo/sugita-6-2-3",
     "types": {
       "burnable": {
@@ -22687,8 +22687,8 @@
     "ward_en": "isogo",
     "town": "杉田",
     "romaji": "sugita",
-    "chome": "8丁目1番",
-    "sub": "",
+    "chome": "8丁目",
+    "sub": "1番",
     "slug": "yokohama/isogo/sugita-8-1",
     "types": {
       "burnable": {
@@ -22897,8 +22897,8 @@
     "ward_en": "isogo",
     "town": "杉田",
     "romaji": "sugita",
-    "chome": "9丁目1番50号",
-    "sub": "",
+    "chome": "9丁目",
+    "sub": "1番50号",
     "slug": "yokohama/isogo/sugita-9-1-50",
     "types": {
       "burnable": {
@@ -23107,8 +23107,8 @@
     "ward_en": "isogo",
     "town": "杉田坪呑",
     "romaji": "sugitatsubodon",
-    "chome": "10～13番の一部",
-    "sub": "",
+    "chome": "",
+    "sub": "10~13番の一部",
     "slug": "yokohama/isogo/sugitatsubodon-10-13-1",
     "types": {
       "burnable": {
@@ -23842,8 +23842,8 @@
     "ward_en": "isogo",
     "town": "中原",
     "romaji": "nakahara",
-    "chome": "3丁目1～4・14番",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "1~4・14番",
     "slug": "yokohama/isogo/nakahara-3-1-4-14",
     "types": {
       "burnable": {
@@ -24157,8 +24157,8 @@
     "ward_en": "isogo",
     "town": "洋光台",
     "romaji": "youkodai",
-    "chome": "1丁目13と14番の一部",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "13と14番の一部",
     "slug": "yokohama/isogo/youkodai-1-13-14-1",
     "types": {
       "burnable": {
@@ -24367,8 +24367,8 @@
     "ward_en": "isogo",
     "town": "洋光台",
     "romaji": "youkodai",
-    "chome": "3丁目1～10番",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "1~10番",
     "slug": "yokohama/isogo/youkodai-3-1-10",
     "types": {
       "burnable": {
@@ -24577,8 +24577,8 @@
     "ward_en": "isogo",
     "town": "洋光台",
     "romaji": "youkodai",
-    "chome": "5丁目4番",
-    "sub": "",
+    "chome": "5丁目",
+    "sub": "4番",
     "slug": "yokohama/isogo/youkodai-5-4",
     "types": {
       "burnable": {
@@ -24682,8 +24682,8 @@
     "ward_en": "isogo",
     "town": "洋光台",
     "romaji": "youkodai",
-    "chome": "6丁目33～43番",
-    "sub": "",
+    "chome": "6丁目",
+    "sub": "33~43番",
     "slug": "yokohama/isogo/youkodai-6-33-43",
     "types": {
       "burnable": {
@@ -25102,8 +25102,8 @@
     "ward_en": "kanagawa",
     "town": "入江",
     "romaji": "irie",
-    "chome": "1丁目1～28番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "1~28番地",
     "slug": "yokohama/kanagawa/irie-1-1-28",
     "types": {
       "burnable": {
@@ -25207,8 +25207,8 @@
     "ward_en": "kanagawa",
     "town": "入江",
     "romaji": "irie",
-    "chome": "1丁目29～34番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "29~34番地",
     "slug": "yokohama/kanagawa/irie-1-29-34",
     "types": {
       "burnable": {
@@ -25522,8 +25522,8 @@
     "ward_en": "kanagawa",
     "town": "浦島丘",
     "romaji": "urashimaoka",
-    "chome": "3番地",
-    "sub": "",
+    "chome": "",
+    "sub": "3番地",
     "slug": "yokohama/kanagawa/urashimaoka-3",
     "types": {
       "burnable": {
@@ -25942,8 +25942,8 @@
     "ward_en": "kanagawa",
     "town": "羽沢町",
     "romaji": "hazawamachi",
-    "chome": "1～1560番地付近",
-    "sub": "",
+    "chome": "",
+    "sub": "1~1560番地付近",
     "slug": "yokohama/kanagawa/hazawamachi-1-1560",
     "types": {
       "burnable": {
@@ -26047,8 +26047,8 @@
     "ward_en": "kanagawa",
     "town": "羽沢町",
     "romaji": "hazawamachi",
-    "chome": "1560番地付近～1965番地",
-    "sub": "",
+    "chome": "",
+    "sub": "1560番地付近~1965番地",
     "slug": "yokohama/kanagawa/hazawamachi-1560-1965",
     "types": {
       "burnable": {
@@ -26152,7 +26152,7 @@
     "ward_en": "kanagawa",
     "town": "羽沢南",
     "romaji": "hazawaminami",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/kanagawa/hazawaminami-1-4",
     "types": {
@@ -26572,8 +26572,8 @@
     "ward_en": "kanagawa",
     "town": "東神奈川",
     "romaji": "higashikanagawa",
-    "chome": "1丁目14",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "14",
     "slug": "yokohama/kanagawa/higashikanagawa-1-14",
     "types": {
       "burnable": {
@@ -26782,8 +26782,8 @@
     "ward_en": "kanagawa",
     "town": "平川町",
     "romaji": "hirakawacho",
-    "chome": "1・2番地付近",
-    "sub": "",
+    "chome": "",
+    "sub": "1・2番地付近",
     "slug": "yokohama/kanagawa/hirakawacho-1-2",
     "types": {
       "burnable": {
@@ -27307,8 +27307,8 @@
     "ward_en": "kanagawa",
     "town": "片倉",
     "romaji": "katakura",
-    "chome": "4丁目1～3番地",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "1~3番地",
     "slug": "yokohama/kanagawa/katakura-4-1-3",
     "types": {
       "burnable": {
@@ -27412,8 +27412,8 @@
     "ward_en": "kanagawa",
     "town": "片倉",
     "romaji": "katakura",
-    "chome": "4丁目4～26番地",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "4~26番地",
     "slug": "yokohama/kanagawa/katakura-4-4-26",
     "types": {
       "burnable": {
@@ -27517,8 +27517,8 @@
     "ward_en": "kanagawa",
     "town": "片倉",
     "romaji": "katakura",
-    "chome": "4丁目新横浜ミユキマンション",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "新横浜ミユキマンション",
     "slug": "yokohama/kanagawa/katakura-4",
     "types": {
       "burnable": {
@@ -29302,7 +29302,7 @@
     "ward_en": "kanagawa",
     "town": "子安通",
     "romaji": "koyasutoori",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/kanagawa/koyasutoori-1-3",
     "types": {
@@ -29512,7 +29512,7 @@
     "ward_en": "kanagawa",
     "town": "松見町",
     "romaji": "matsumimachi",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/kanagawa/matsumimachi-1-4",
     "types": {
@@ -29617,7 +29617,7 @@
     "ward_en": "kanagawa",
     "town": "松本町",
     "romaji": "matsumotomachi",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/kanagawa/matsumotomachi-1-6",
     "types": {
@@ -30245,11 +30245,11 @@
     "city_en": "yokohama",
     "ward": "神奈川区",
     "ward_en": "kanagawa",
-    "town": "三ツ沢東町の一部",
-    "romaji": "santsutakutomachinoichibu",
+    "town": "三ツ沢東町",
+    "romaji": "santsutakutomachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanagawa/santsutakutomachinoichibu",
+    "sub": "の一部",
+    "slug": "yokohama/kanagawa/santsutakutomachi-1",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -30772,8 +30772,8 @@
     "ward_en": "kanagawa",
     "town": "七島町",
     "romaji": "shichishimamachi",
-    "chome": "112～146番地",
-    "sub": "",
+    "chome": "",
+    "sub": "112~146番地",
     "slug": "yokohama/kanagawa/shichishimamachi-112-146",
     "types": {
       "burnable": {
@@ -30877,8 +30877,8 @@
     "ward_en": "kanagawa",
     "town": "七島町",
     "romaji": "shichishimamachi",
-    "chome": "147～163番地",
-    "sub": "",
+    "chome": "",
+    "sub": "147~163番地",
     "slug": "yokohama/kanagawa/shichishimamachi-147-163",
     "types": {
       "burnable": {
@@ -30982,8 +30982,8 @@
     "ward_en": "kanagawa",
     "town": "七島町",
     "romaji": "shichishimamachi",
-    "chome": "1～110番地",
-    "sub": "",
+    "chome": "",
+    "sub": "1~110番地",
     "slug": "yokohama/kanagawa/shichishimamachi-1-110",
     "types": {
       "burnable": {
@@ -31192,7 +31192,7 @@
     "ward_en": "kanagawa",
     "town": "西神奈川",
     "romaji": "saishinnagawa",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/kanagawa/saishinnagawa-1-3",
     "types": {
@@ -31295,11 +31295,11 @@
     "city_en": "yokohama",
     "ward": "神奈川区",
     "ward_en": "kanagawa",
-    "town": "西菅田団地1～3街区及び4街区1～6号棟",
-    "romaji": "nishisugatadanchi1-3gaikuoyobi4gaiku1-6gouto",
+    "town": "西菅田団地",
+    "romaji": "nishisugatadanchi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanagawa/nishisugatadanchi1-3gaikuoyobi4gaiku1-6gouto",
+    "sub": "1~3街区及び4街区1~6号棟",
+    "slug": "yokohama/kanagawa/nishisugatadanchi-1-3-4-1-6",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -31400,11 +31400,11 @@
     "city_en": "yokohama",
     "ward": "神奈川区",
     "ward_en": "kanagawa",
-    "town": "西菅田団地5～7街区及び4街区7～9号棟",
-    "romaji": "nishisugatadanchi5-7gaikuoyobi4gaiku7-9gouto",
+    "town": "西菅田団地",
+    "romaji": "nishisugatadanchi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanagawa/nishisugatadanchi5-7gaikuoyobi4gaiku7-9gouto",
+    "sub": "5~7街区及び4街区7~9号棟",
+    "slug": "yokohama/kanagawa/nishisugatadanchi-5-7-4-7-9",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -31507,7 +31507,7 @@
     "ward_en": "kanagawa",
     "town": "西寺尾",
     "romaji": "nishiterao",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/kanagawa/nishiterao-1-4",
     "types": {
@@ -31612,8 +31612,8 @@
     "ward_en": "kanagawa",
     "town": "西寺尾",
     "romaji": "nishiterao",
-    "chome": "1丁目27・30・31番地の一部",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "27・30・31番地の一部",
     "slug": "yokohama/kanagawa/nishiterao-1-27-30-31-1",
     "types": {
       "burnable": {
@@ -31822,8 +31822,8 @@
     "ward_en": "kanagawa",
     "town": "大口通",
     "romaji": "oguchitoori",
-    "chome": "1～17番地",
-    "sub": "",
+    "chome": "",
+    "sub": "1~17番地",
     "slug": "yokohama/kanagawa/oguchitoori-1-17",
     "types": {
       "burnable": {
@@ -31927,8 +31927,8 @@
     "ward_en": "kanagawa",
     "town": "大口通",
     "romaji": "oguchitoori",
-    "chome": "18～26番地",
-    "sub": "",
+    "chome": "",
+    "sub": "18~26番地",
     "slug": "yokohama/kanagawa/oguchitoori-18-26",
     "types": {
       "burnable": {
@@ -32032,8 +32032,8 @@
     "ward_en": "kanagawa",
     "town": "大口通",
     "romaji": "oguchitoori",
-    "chome": "27～199番地",
-    "sub": "",
+    "chome": "",
+    "sub": "27~199番地",
     "slug": "yokohama/kanagawa/oguchitoori-27-199",
     "types": {
       "burnable": {
@@ -32137,8 +32137,8 @@
     "ward_en": "kanagawa",
     "town": "大口仲町",
     "romaji": "oguchinakacho",
-    "chome": "1～9番地",
-    "sub": "",
+    "chome": "",
+    "sub": "1~9番地",
     "slug": "yokohama/kanagawa/oguchinakacho-1-9",
     "types": {
       "burnable": {
@@ -32242,8 +32242,8 @@
     "ward_en": "kanagawa",
     "town": "大口仲町",
     "romaji": "oguchinakacho",
-    "chome": "10～37番地",
-    "sub": "",
+    "chome": "",
+    "sub": "10~37番地",
     "slug": "yokohama/kanagawa/oguchinakacho-10-37",
     "types": {
       "burnable": {
@@ -32347,8 +32347,8 @@
     "ward_en": "kanagawa",
     "town": "大口仲町",
     "romaji": "oguchinakacho",
-    "chome": "38～50番地",
-    "sub": "",
+    "chome": "",
+    "sub": "38~50番地",
     "slug": "yokohama/kanagawa/oguchinakacho-38-50",
     "types": {
       "burnable": {
@@ -32452,8 +32452,8 @@
     "ward_en": "kanagawa",
     "town": "大口仲町",
     "romaji": "oguchinakacho",
-    "chome": "51～130番地",
-    "sub": "",
+    "chome": "",
+    "sub": "51~130番地",
     "slug": "yokohama/kanagawa/oguchinakacho-51-130",
     "types": {
       "burnable": {
@@ -32557,8 +32557,8 @@
     "ward_en": "kanagawa",
     "town": "大口仲町",
     "romaji": "oguchinakacho",
-    "chome": "136～138番地",
-    "sub": "",
+    "chome": "",
+    "sub": "136~138番地",
     "slug": "yokohama/kanagawa/oguchinakacho-136-138",
     "types": {
       "burnable": {
@@ -32662,8 +32662,8 @@
     "ward_en": "kanagawa",
     "town": "大口仲町",
     "romaji": "oguchinakacho",
-    "chome": "150～470番地",
-    "sub": "",
+    "chome": "",
+    "sub": "150~470番地",
     "slug": "yokohama/kanagawa/oguchinakacho-150-470",
     "types": {
       "burnable": {
@@ -32977,8 +32977,8 @@
     "ward_en": "kanagawa",
     "town": "六角橋",
     "romaji": "rokkakubashi",
-    "chome": "2丁目1～3・7～34番地・4～6番地一部",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "1~3・7~34番地・4~6番地一部",
     "slug": "yokohama/kanagawa/rokkakubashi-2-1-3-7-34-4-6-1",
     "types": {
       "burnable": {
@@ -33082,8 +33082,8 @@
     "ward_en": "kanagawa",
     "town": "六角橋",
     "romaji": "rokkakubashi",
-    "chome": "2丁目4～6番地一部",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "4~6番地一部",
     "slug": "yokohama/kanagawa/rokkakubashi-2-4-6-1",
     "types": {
       "burnable": {
@@ -33187,8 +33187,8 @@
     "ward_en": "kanagawa",
     "town": "六角橋",
     "romaji": "rokkakubashi",
-    "chome": "3丁目1・19～27番地",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "1・19~27番地",
     "slug": "yokohama/kanagawa/rokkakubashi-3-1-19-27",
     "types": {
       "burnable": {
@@ -33292,8 +33292,8 @@
     "ward_en": "kanagawa",
     "town": "六角橋",
     "romaji": "rokkakubashi",
-    "chome": "3丁目2～18番地",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "2~18番地",
     "slug": "yokohama/kanagawa/rokkakubashi-3-2-18",
     "types": {
       "burnable": {
@@ -33607,8 +33607,8 @@
     "ward_en": "kanagawa",
     "town": "六角橋",
     "romaji": "rokkakubashi",
-    "chome": "5丁目一部",
-    "sub": "",
+    "chome": "5丁目",
+    "sub": "一部",
     "slug": "yokohama/kanagawa/rokkakubashi-5-1",
     "types": {
       "burnable": {
@@ -33922,8 +33922,8 @@
     "ward_en": "kanagawa",
     "town": "斎藤分町",
     "romaji": "saitobuncho",
-    "chome": "49・50番地周辺",
-    "sub": "",
+    "chome": "",
+    "sub": "49・50番地周辺",
     "slug": "yokohama/kanagawa/saitobuncho-49-50",
     "types": {
       "burnable": {
@@ -34342,8 +34342,8 @@
     "ward_en": "kanagawa",
     "town": "三枚町",
     "romaji": "sammaimachi",
-    "chome": "1～195番地",
-    "sub": "",
+    "chome": "",
+    "sub": "1~195番地",
     "slug": "yokohama/kanagawa/sammaimachi-1-195",
     "types": {
       "burnable": {
@@ -34447,8 +34447,8 @@
     "ward_en": "kanagawa",
     "town": "三枚町",
     "romaji": "sammaimachi",
-    "chome": "198～220番地",
-    "sub": "",
+    "chome": "",
+    "sub": "198~220番地",
     "slug": "yokohama/kanagawa/sammaimachi-198-220",
     "types": {
       "burnable": {
@@ -34552,8 +34552,8 @@
     "ward_en": "kanagawa",
     "town": "三枚町",
     "romaji": "sammaimachi",
-    "chome": "230～260番地",
-    "sub": "",
+    "chome": "",
+    "sub": "230~260番地",
     "slug": "yokohama/kanagawa/sammaimachi-230-260",
     "types": {
       "burnable": {
@@ -34657,8 +34657,8 @@
     "ward_en": "kanagawa",
     "town": "三枚町",
     "romaji": "sammaimachi",
-    "chome": "280～800番地",
-    "sub": "",
+    "chome": "",
+    "sub": "280~800番地",
     "slug": "yokohama/kanagawa/sammaimachi-280-800",
     "types": {
       "burnable": {
@@ -35707,8 +35707,8 @@
     "ward_en": "kanagawa",
     "town": "新子安",
     "romaji": "shinkoyasu",
-    "chome": "１丁目18番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "18番地",
     "slug": "yokohama/kanagawa/shinkoyasu-1-18-2",
     "types": {
       "burnable": {
@@ -36022,8 +36022,8 @@
     "ward_en": "kanagawa",
     "town": "菅田町",
     "romaji": "sugatamachi",
-    "chome": "1～1300番地",
-    "sub": "",
+    "chome": "",
+    "sub": "1~1300番地",
     "slug": "yokohama/kanagawa/sugatamachi-1-1300",
     "types": {
       "burnable": {
@@ -36127,8 +36127,8 @@
     "ward_en": "kanagawa",
     "town": "菅田町",
     "romaji": "sugatamachi",
-    "chome": "1400～2881番地",
-    "sub": "",
+    "chome": "",
+    "sub": "1400~2881番地",
     "slug": "yokohama/kanagawa/sugatamachi-1400-2881",
     "types": {
       "burnable": {
@@ -36232,8 +36232,8 @@
     "ward_en": "kanagawa",
     "town": "菅田町",
     "romaji": "sugatamachi",
-    "chome": "15・107・670番地",
-    "sub": "",
+    "chome": "",
+    "sub": "15・107・670番地",
     "slug": "yokohama/kanagawa/sugatamachi-15-107-670",
     "types": {
       "burnable": {
@@ -36337,8 +36337,8 @@
     "ward_en": "kanagawa",
     "town": "菅田町",
     "romaji": "sugatamachi",
-    "chome": "2930・2973・2975番地",
-    "sub": "",
+    "chome": "",
+    "sub": "2930・2973・2975番地",
     "slug": "yokohama/kanagawa/sugatamachi-2930-2973-2975",
     "types": {
       "burnable": {
@@ -36442,8 +36442,8 @@
     "ward_en": "kanagawa",
     "town": "菅田町",
     "romaji": "sugatamachi",
-    "chome": "488-4-7～488-7-9番地",
-    "sub": "",
+    "chome": "",
+    "sub": "488-4-7~488-7-9番地",
     "slug": "yokohama/kanagawa/sugatamachi-488-4-7-488-7-9",
     "types": {
       "burnable": {
@@ -36862,7 +36862,7 @@
     "ward_en": "kanagawa",
     "town": "反町",
     "romaji": "tammachi",
-    "chome": "１～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/kanagawa/tammachi-1-4",
     "types": {
@@ -37072,7 +37072,7 @@
     "ward_en": "kanagawa",
     "town": "千若町",
     "romaji": "senjakumachi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/kanagawa/senjakumachi-1-3",
     "types": {
@@ -37177,7 +37177,7 @@
     "ward_en": "kanagawa",
     "town": "鶴屋町",
     "romaji": "tsuruyamachi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/kanagawa/tsuruyamachi-1-3",
     "types": {
@@ -37912,7 +37912,7 @@
     "ward_en": "kanazawa",
     "town": "東朝比奈",
     "romaji": "tochohina",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/tochohina-1-3",
     "types": {
@@ -38437,7 +38437,7 @@
     "ward_en": "kanazawa",
     "town": "六浦",
     "romaji": "mutsuura",
-    "chome": "2～5丁目",
+    "chome": "2~5丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/mutsuura-2-5",
     "types": {
@@ -38752,7 +38752,7 @@
     "ward_en": "kanazawa",
     "town": "六浦南",
     "romaji": "mutsuuraminami",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/mutsuuraminami-1-5",
     "types": {
@@ -38855,11 +38855,11 @@
     "city_en": "yokohama",
     "ward": "金沢区",
     "ward_en": "kanazawa",
-    "town": "片吹57-62京急線西側狭路",
-    "romaji": "hensui57-62keikyuusennishigawakyouro",
+    "town": "片吹",
+    "romaji": "hensui",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanazawa/hensui57-62keikyuusennishigawakyouro",
+    "sub": "57-62京急線西側狭路",
+    "slug": "yokohama/kanazawa/hensui-57-62",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -38960,11 +38960,11 @@
     "city_en": "yokohama",
     "ward": "金沢区",
     "ward_en": "kanazawa",
-    "town": "片吹京急線西側",
-    "romaji": "hensuikeikyuusennishigawa",
+    "town": "片吹",
+    "romaji": "hensui",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanazawa/hensuikeikyuusennishigawa",
+    "sub": "京急線西側",
+    "slug": "yokohama/kanazawa/hensui",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -39065,11 +39065,11 @@
     "city_en": "yokohama",
     "ward": "金沢区",
     "ward_en": "kanazawa",
-    "town": "片吹京急線東側",
-    "romaji": "hensuikeikyuusenhigashigawa",
+    "town": "片吹",
+    "romaji": "hensui",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanazawa/hensuikeikyuusenhigashigawa",
+    "sub": "京急線東側",
+    "slug": "yokohama/kanazawa/hensui-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -39382,7 +39382,7 @@
     "ward_en": "kanazawa",
     "town": "釜利谷西",
     "romaji": "kamatoshitaninishi",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/kamatoshitaninishi-1-6",
     "types": {
@@ -39697,8 +39697,8 @@
     "ward_en": "kanazawa",
     "town": "釜利谷東",
     "romaji": "kamariyahigashi",
-    "chome": "2丁目の一部",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "の一部",
     "slug": "yokohama/kanazawa/kamariyahigashi-2-1-2",
     "types": {
       "burnable": {
@@ -39802,7 +39802,7 @@
     "ward_en": "kanazawa",
     "town": "釜利谷東",
     "romaji": "kamariyahigashi",
-    "chome": "3～4丁目",
+    "chome": "3~4丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/kamariyahigashi-3-4",
     "types": {
@@ -39907,7 +39907,7 @@
     "ward_en": "kanazawa",
     "town": "釜利谷東",
     "romaji": "kamariyahigashi",
-    "chome": "5～8丁目",
+    "chome": "5~8丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/kamariyahigashi-5-8",
     "types": {
@@ -40012,7 +40012,7 @@
     "ward_en": "kanazawa",
     "town": "釜利谷南",
     "romaji": "kamatoshitaniminami",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/kamatoshitaniminami-1-4",
     "types": {
@@ -40537,7 +40537,7 @@
     "ward_en": "kanazawa",
     "town": "西柴",
     "romaji": "nishishiba",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/nishishiba-1-4",
     "types": {
@@ -40642,7 +40642,7 @@
     "ward_en": "kanazawa",
     "town": "能見台",
     "romaji": "noukendai",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/noukendai-1-6",
     "types": {
@@ -41375,11 +41375,11 @@
     "city_en": "yokohama",
     "ward": "金沢区",
     "ward_en": "kanazawa",
-    "town": "瀬戸京急線西側",
-    "romaji": "setokeikyuusennishigawa",
+    "town": "瀬戸",
+    "romaji": "seto",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanazawa/setokeikyuusennishigawa",
+    "sub": "京急線西側",
+    "slug": "yokohama/kanazawa/seto",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -41480,11 +41480,11 @@
     "city_en": "yokohama",
     "ward": "金沢区",
     "ward_en": "kanazawa",
-    "town": "瀬戸京急線東側",
-    "romaji": "setokeikyuusenhigashigawa",
+    "town": "瀬戸",
+    "romaji": "seto",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanazawa/setokeikyuusenhigashigawa",
+    "sub": "京急線東側",
+    "slug": "yokohama/kanazawa/seto-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -42112,7 +42112,7 @@
     "ward_en": "kanazawa",
     "town": "富岡西",
     "romaji": "tomiokanishi",
-    "chome": "1～7丁目",
+    "chome": "1~7丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/tomiokanishi-1-7",
     "types": {
@@ -42217,7 +42217,7 @@
     "ward_en": "kanazawa",
     "town": "富岡東",
     "romaji": "tomiokahigashi",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/kanazawa/tomiokahigashi-1-5",
     "types": {
@@ -42530,11 +42530,11 @@
     "city_en": "yokohama",
     "ward": "金沢区",
     "ward_en": "kanazawa",
-    "town": "谷津町京急線西側",
-    "romaji": "yatsumachikeikyuusennishigawa",
+    "town": "谷津町",
+    "romaji": "yatsumachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanazawa/yatsumachikeikyuusennishigawa",
+    "sub": "京急線西側",
+    "slug": "yokohama/kanazawa/yatsumachi",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -42635,11 +42635,11 @@
     "city_en": "yokohama",
     "ward": "金沢区",
     "ward_en": "kanazawa",
-    "town": "谷津町京急線東側",
-    "romaji": "yatsumachikeikyuusenhigashigawa",
+    "town": "谷津町",
+    "romaji": "yatsumachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanazawa/yatsumachikeikyuusenhigashigawa",
+    "sub": "京急線東側",
+    "slug": "yokohama/kanazawa/yatsumachi-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -42740,11 +42740,11 @@
     "city_en": "yokohama",
     "ward": "金沢区",
     "ward_en": "kanazawa",
-    "town": "谷津町称名寺一方通行側",
-    "romaji": "yatsuchoshoumeiteraippoutsuukogawa",
+    "town": "谷津町",
+    "romaji": "yatsumachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kanazawa/yatsuchoshoumeiteraippoutsuukogawa",
+    "sub": "称名寺一方通行側",
+    "slug": "yokohama/kanazawa/yatsumachi-1",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -42952,7 +42952,7 @@
     "ward_en": "konan",
     "town": "大久保",
     "romaji": "okubo",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/konan/okubo-1-3",
     "types": {
@@ -43057,7 +43057,7 @@
     "ward_en": "konan",
     "town": "上大岡西",
     "romaji": "kamiookanishi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/konan/kamiookanishi-1-3",
     "types": {
@@ -43162,7 +43162,7 @@
     "ward_en": "konan",
     "town": "上大岡東",
     "romaji": "kamiookahigashi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "上大岡東3丁目11の一部を除く",
     "slug": "yokohama/konan/kamiookahigashi-1-3-3-11-1",
     "types": {
@@ -43267,8 +43267,8 @@
     "ward_en": "konan",
     "town": "上大岡東",
     "romaji": "kamiookahigashi",
-    "chome": "3丁目11の一部",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "11の一部",
     "slug": "yokohama/konan/kamiookahigashi-3-11-1",
     "types": {
       "burnable": {
@@ -43477,8 +43477,8 @@
     "ward_en": "konan",
     "town": "上永谷",
     "romaji": "uenagatani",
-    "chome": "3丁目1・3番",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "1・3番",
     "slug": "yokohama/konan/uenagatani-3-1-3",
     "types": {
       "burnable": {
@@ -43582,8 +43582,8 @@
     "ward_en": "konan",
     "town": "上永谷",
     "romaji": "uenagatani",
-    "chome": "3丁目2・4～38番",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "2・4~38番",
     "slug": "yokohama/konan/uenagatani-3-2-4-38",
     "types": {
       "burnable": {
@@ -43687,7 +43687,7 @@
     "ward_en": "konan",
     "town": "上永谷",
     "romaji": "uenagatani",
-    "chome": "4～6丁目",
+    "chome": "4~6丁目",
     "sub": "",
     "slug": "yokohama/konan/uenagatani-4-6",
     "types": {
@@ -43897,7 +43897,7 @@
     "ward_en": "konan",
     "town": "港南",
     "romaji": "konan",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/konan/konan-1-6",
     "types": {
@@ -44002,7 +44002,7 @@
     "ward_en": "konan",
     "town": "港南台",
     "romaji": "konandai",
-    "chome": "1～9丁目",
+    "chome": "1~9丁目",
     "sub": "",
     "slug": "yokohama/konan/konandai-1-9",
     "types": {
@@ -44422,8 +44422,8 @@
     "ward_en": "konan",
     "town": "東永谷",
     "romaji": "toeitani",
-    "chome": "3丁目1～45・52番の一部・53～63番",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "1~45・52番の一部・53~63番",
     "slug": "yokohama/konan/toeitani-3-1-45-52-1-53-63",
     "types": {
       "burnable": {
@@ -44527,8 +44527,8 @@
     "ward_en": "konan",
     "town": "東永谷",
     "romaji": "toeitani",
-    "chome": "3丁目46～51・52番の一部",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "46~51・52番の一部",
     "slug": "yokohama/konan/toeitani-3-46-51-52-1",
     "types": {
       "burnable": {
@@ -44632,7 +44632,7 @@
     "ward_en": "konan",
     "town": "日限山",
     "romaji": "nichigenyama",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/konan/nichigenyama-1-4",
     "types": {
@@ -44737,8 +44737,8 @@
     "ward_en": "konan",
     "town": "日野",
     "romaji": "hino",
-    "chome": "1・2丁目日野2丁目22の一部を除く",
-    "sub": "",
+    "chome": "1・2丁目",
+    "sub": "日野2丁目22の一部を除く",
     "slug": "yokohama/konan/hino-1-2-2-22-1",
     "types": {
       "burnable": {
@@ -44842,8 +44842,8 @@
     "ward_en": "konan",
     "town": "日野",
     "romaji": "hino",
-    "chome": "2丁目22の一部",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "22の一部",
     "slug": "yokohama/konan/hino-2-22-1",
     "types": {
       "burnable": {
@@ -44947,8 +44947,8 @@
     "ward_en": "konan",
     "town": "日野",
     "romaji": "hino",
-    "chome": "3・4丁目日野4丁目7の一部を除く",
-    "sub": "",
+    "chome": "3・4丁目",
+    "sub": "日野4丁目7の一部を除く",
     "slug": "yokohama/konan/hino-3-4-4-7-1",
     "types": {
       "burnable": {
@@ -45052,8 +45052,8 @@
     "ward_en": "konan",
     "town": "日野",
     "romaji": "hino",
-    "chome": "4丁目7の一部",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "7の一部",
     "slug": "yokohama/konan/hino-4-7-1",
     "types": {
       "burnable": {
@@ -45262,8 +45262,8 @@
     "ward_en": "konan",
     "town": "日野",
     "romaji": "hino",
-    "chome": "6～9丁目日野9丁目7の一部を除く",
-    "sub": "",
+    "chome": "6~9丁目",
+    "sub": "日野9丁目7の一部を除く",
     "slug": "yokohama/konan/hino-6-9-9-7-1",
     "types": {
       "burnable": {
@@ -45367,8 +45367,8 @@
     "ward_en": "konan",
     "town": "日野",
     "romaji": "hino",
-    "chome": "9丁目7の一部",
-    "sub": "",
+    "chome": "9丁目",
+    "sub": "7の一部",
     "slug": "yokohama/konan/hino-9-7-1",
     "types": {
       "burnable": {
@@ -45578,7 +45578,7 @@
     "town": "日野中央",
     "romaji": "hinochuo",
     "chome": "2丁目",
-    "sub": "32～34番の一部を除く",
+    "sub": "32~34番の一部を除く",
     "slug": "yokohama/konan/hinochuo-2-32-34-1",
     "types": {
       "burnable": {
@@ -45683,7 +45683,7 @@
     "town": "日野中央",
     "romaji": "hinochuo",
     "chome": "2丁目",
-    "sub": "32～34番の一部を含む",
+    "sub": "32~34番の一部を含む",
     "slug": "yokohama/konan/hinochuo-2-32-34-1-2",
     "types": {
       "burnable": {
@@ -45892,7 +45892,7 @@
     "ward_en": "konan",
     "town": "日野南",
     "romaji": "hinominami",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/konan/hinominami-1-3",
     "types": {
@@ -45997,7 +45997,7 @@
     "ward_en": "konan",
     "town": "日野南",
     "romaji": "hinominami",
-    "chome": "4～7丁目",
+    "chome": "4~7丁目",
     "sub": "",
     "slug": "yokohama/konan/hinominami-4-7",
     "types": {
@@ -46102,8 +46102,8 @@
     "ward_en": "konan",
     "town": "丸山台",
     "romaji": "maruyamadai",
-    "chome": "1～4丁目",
-    "sub": "3丁目パレスTSKⅡを除く",
+    "chome": "1~4丁目",
+    "sub": "3丁目パレスTSKIIを除く",
     "slug": "yokohama/konan/maruyamadai-1-4-3",
     "types": {
       "burnable": {
@@ -46208,7 +46208,7 @@
     "town": "丸山台",
     "romaji": "maruyamadai",
     "chome": "3丁目",
-    "sub": "パレスTSKⅡ",
+    "sub": "パレスTSKII",
     "slug": "yokohama/konan/maruyamadai-3",
     "types": {
       "burnable": {
@@ -46310,11 +46310,11 @@
     "city_en": "yokohama",
     "ward": "港南区",
     "ward_en": "konan",
-    "town": "野庭町野庭町25、26の一部を除く",
-    "romaji": "nobachonobacho25-26noichibuwonozoku",
+    "town": "野庭町",
+    "romaji": "nobacho",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/konan/nobachonobacho25-26noichibuwonozoku",
+    "sub": "25、26の一部を除く",
+    "slug": "yokohama/konan/nobacho-25-26-1",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -46415,11 +46415,11 @@
     "city_en": "yokohama",
     "ward": "港南区",
     "ward_en": "konan",
-    "town": "野庭町25、26の一部",
-    "romaji": "nobacho25-26noichibu",
+    "town": "野庭町",
+    "romaji": "nobacho",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/konan/nobacho25-26noichibu",
+    "sub": "25、26の一部",
+    "slug": "yokohama/konan/nobacho-25-26-1-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -46627,8 +46627,8 @@
     "ward_en": "konan",
     "town": "笹下",
     "romaji": "sasashita",
-    "chome": "1・2丁目笹下1丁目10の一部と笹下2丁目30の一部を除く",
-    "sub": "",
+    "chome": "1・2丁目",
+    "sub": "笹下1丁目10の一部と笹下2丁目30の一部を除く",
     "slug": "yokohama/konan/sasashita-1-2-1-10-1-2-30-1",
     "types": {
       "burnable": {
@@ -46732,8 +46732,8 @@
     "ward_en": "konan",
     "town": "笹下",
     "romaji": "sasashita",
-    "chome": "1丁目10の一部と笹下2丁目30の一部",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "10の一部と笹下2丁目30の一部",
     "slug": "yokohama/konan/sasashita-1-10-1-2-30-1",
     "types": {
       "burnable": {
@@ -46837,7 +46837,7 @@
     "ward_en": "konan",
     "town": "笹下",
     "romaji": "sasashita",
-    "chome": "3～7丁目",
+    "chome": "3~7丁目",
     "sub": "",
     "slug": "yokohama/konan/sasashita-3-7",
     "types": {
@@ -46942,7 +46942,7 @@
     "ward_en": "konan",
     "town": "下永谷",
     "romaji": "shitanagatani",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/konan/shitanagatani-1-6",
     "types": {
@@ -47047,8 +47047,8 @@
     "ward_en": "konan",
     "town": "下永谷",
     "romaji": "shitanagatani",
-    "chome": "2丁目の一部",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "の一部",
     "slug": "yokohama/konan/shitanagatani-2-1",
     "types": {
       "burnable": {
@@ -47152,7 +47152,7 @@
     "ward_en": "konan",
     "town": "芹が谷",
     "romaji": "serigatani",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/konan/serigatani-1-5",
     "types": {
@@ -47257,8 +47257,8 @@
     "ward_en": "kohoku",
     "town": "大倉山",
     "romaji": "okurayama",
-    "chome": "1丁目１〜２９番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "1〜29番地",
     "slug": "yokohama/kohoku/okurayama-1-1-29",
     "types": {
       "burnable": {
@@ -47362,8 +47362,8 @@
     "ward_en": "kohoku",
     "town": "大倉山",
     "romaji": "okurayama",
-    "chome": "1丁目３０〜３５番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "30〜35番地",
     "slug": "yokohama/kohoku/okurayama-1-30-35",
     "types": {
       "burnable": {
@@ -47572,8 +47572,8 @@
     "ward_en": "kohoku",
     "town": "大倉山",
     "romaji": "okurayama",
-    "chome": "4丁目13〜15番地の一部",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "13〜15番地の一部",
     "slug": "yokohama/kohoku/okurayama-4-13-15-1",
     "types": {
       "burnable": {
@@ -47677,8 +47677,8 @@
     "ward_en": "kohoku",
     "town": "大倉山",
     "romaji": "okurayama",
-    "chome": "4丁目上記以外の地域",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "上記以外の地域",
     "slug": "yokohama/kohoku/okurayama-4",
     "types": {
       "burnable": {
@@ -47782,7 +47782,7 @@
     "ward_en": "kohoku",
     "town": "大倉山",
     "romaji": "okurayama",
-    "chome": "５〜7丁目",
+    "chome": "5〜7丁目",
     "sub": "",
     "slug": "yokohama/kohoku/okurayama-5-7",
     "types": {
@@ -47992,8 +47992,8 @@
     "ward_en": "kohoku",
     "town": "大曽根",
     "romaji": "osone",
-    "chome": "１丁目25・26の一部",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "25・26の一部",
     "slug": "yokohama/kohoku/osone-1-25-26-1",
     "types": {
       "burnable": {
@@ -48307,8 +48307,8 @@
     "ward_en": "kohoku",
     "town": "日吉",
     "romaji": "hiyoshi",
-    "chome": "3丁目１～３番地",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "1~3番地",
     "slug": "yokohama/kohoku/hiyoshi-3-1-3",
     "types": {
       "burnable": {
@@ -48412,8 +48412,8 @@
     "ward_en": "kohoku",
     "town": "日吉",
     "romaji": "hiyoshi",
-    "chome": "3丁目４～２３番地",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "4~23番地",
     "slug": "yokohama/kohoku/hiyoshi-3-4-23",
     "types": {
       "burnable": {
@@ -48517,8 +48517,8 @@
     "ward_en": "kohoku",
     "town": "日吉",
     "romaji": "hiyoshi",
-    "chome": "4丁目１・４～２１番地",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "1・4~21番地",
     "slug": "yokohama/kohoku/hiyoshi-4-1-4-21",
     "types": {
       "burnable": {
@@ -48622,8 +48622,8 @@
     "ward_en": "kohoku",
     "town": "日吉",
     "romaji": "hiyoshi",
-    "chome": "4丁目2～３番地",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "2~3番地",
     "slug": "yokohama/kohoku/hiyoshi-4-2-3",
     "types": {
       "burnable": {
@@ -48727,7 +48727,7 @@
     "ward_en": "kohoku",
     "town": "日吉",
     "romaji": "hiyoshi",
-    "chome": "5～7丁目",
+    "chome": "5~7丁目",
     "sub": "",
     "slug": "yokohama/kohoku/hiyoshi-5-7",
     "types": {
@@ -48832,7 +48832,7 @@
     "ward_en": "kohoku",
     "town": "日吉本町",
     "romaji": "hiyoshihoncho",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/kohoku/hiyoshihoncho-1-6",
     "types": {
@@ -49042,7 +49042,7 @@
     "ward_en": "kohoku",
     "town": "菊名",
     "romaji": "kikuna",
-    "chome": "1～7丁目",
+    "chome": "1~7丁目",
     "sub": "",
     "slug": "yokohama/kohoku/kikuna-1-7",
     "types": {
@@ -49775,11 +49775,11 @@
     "city_en": "yokohama",
     "ward": "港北区",
     "ward_en": "kohoku",
-    "town": "師岡町環状線北側",
-    "romaji": "morookamachikanjousenkitagawa",
+    "town": "師岡町",
+    "romaji": "morookamachi",
     "chome": "",
-    "sub": "師岡南町内会地域を除く",
-    "slug": "yokohama/kohoku/morookamachikanjousenkitagawa",
+    "sub": "環状線北側 師岡南町内会地域を除く",
+    "slug": "yokohama/kohoku/morookamachi",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -49880,11 +49880,11 @@
     "city_en": "yokohama",
     "ward": "港北区",
     "ward_en": "kohoku",
-    "town": "師岡町環状線南側および北側師岡南町会エリア",
-    "romaji": "morookamachikanjousenminamigawaoyobikitagawamorookaminamimachikaieria",
+    "town": "師岡町",
+    "romaji": "morookamachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kohoku/morookamachikanjousenminamigawaoyobikitagawamorookaminamimachikaieria",
+    "sub": "環状線南側および北側師岡南町会エリア",
+    "slug": "yokohama/kohoku/morookamachi-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -49987,7 +49987,7 @@
     "ward_en": "kohoku",
     "town": "仲手原",
     "romaji": "nakatehara",
-    "chome": "１丁目",
+    "chome": "1丁目",
     "sub": "",
     "slug": "yokohama/kohoku/nakatehara-1",
     "types": {
@@ -50092,7 +50092,7 @@
     "ward_en": "kohoku",
     "town": "仲手原",
     "romaji": "nakatehara",
-    "chome": "２丁目",
+    "chome": "2丁目",
     "sub": "",
     "slug": "yokohama/kohoku/nakatehara-2",
     "types": {
@@ -50197,8 +50197,8 @@
     "ward_en": "kohoku",
     "town": "仲手原",
     "romaji": "nakatehara",
-    "chome": "２丁目35・38・41の一部",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "35・38・41の一部",
     "slug": "yokohama/kohoku/nakatehara-2-35-38-41-1",
     "types": {
       "burnable": {
@@ -50825,11 +50825,11 @@
     "city_en": "yokohama",
     "ward": "港北区",
     "ward_en": "kohoku",
-    "town": "篠原町2553・2557・2565・2735付近",
-    "romaji": "shinoharacho2553-2557-2565-2735fukin",
+    "town": "篠原町",
+    "romaji": "shinoharacho",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/kohoku/shinoharacho2553-2557-2565-2735fukin",
+    "sub": "2553・2557・2565・2735付近",
+    "slug": "yokohama/kohoku/shinoharacho-2553-2557-2565-2735",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -52087,8 +52087,8 @@
     "ward_en": "kohoku",
     "town": "樽町",
     "romaji": "tarumachi",
-    "chome": "１丁目30の一部",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "30の一部",
     "slug": "yokohama/kohoku/tarumachi-1-30-1",
     "types": {
       "burnable": {
@@ -52192,8 +52192,8 @@
     "ward_en": "kohoku",
     "town": "樽町",
     "romaji": "tarumachi",
-    "chome": "２丁目13の一部",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "13の一部",
     "slug": "yokohama/kohoku/tarumachi-2-13-1",
     "types": {
       "burnable": {
@@ -52925,11 +52925,11 @@
     "city_en": "yokohama",
     "ward": "栄区",
     "ward_en": "sakae",
-    "town": "飯島町1～2199",
-    "romaji": "iijimamachi1-2199",
+    "town": "飯島町",
+    "romaji": "iijimamachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/sakae/iijimamachi1-2199",
+    "sub": "1~2199",
+    "slug": "yokohama/sakae/iijimamachi-1-2199",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -53030,11 +53030,11 @@
     "city_en": "yokohama",
     "ward": "栄区",
     "ward_en": "sakae",
-    "town": "飯島町2200～2599",
-    "romaji": "iijimamachi2200-2599",
+    "town": "飯島町",
+    "romaji": "iijimamachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/sakae/iijimamachi2200-2599",
+    "sub": "2200~2599",
+    "slug": "yokohama/sakae/iijimamachi-2200-2599",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -53135,11 +53135,11 @@
     "city_en": "yokohama",
     "ward": "栄区",
     "ward_en": "sakae",
-    "town": "飯島町2800～2999",
-    "romaji": "iijimamachi2800-2999",
+    "town": "飯島町",
+    "romaji": "iijimamachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/sakae/iijimamachi2800-2999",
+    "sub": "2800~2999",
+    "slug": "yokohama/sakae/iijimamachi-2800-2999",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -53240,11 +53240,11 @@
     "city_en": "yokohama",
     "ward": "栄区",
     "ward_en": "sakae",
-    "town": "犬山町1～75",
-    "romaji": "inuyamamachi1-75",
+    "town": "犬山町",
+    "romaji": "inuyamamachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/sakae/inuyamamachi1-75",
+    "sub": "1~75",
+    "slug": "yokohama/sakae/inuyamamachi-1-75",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -53662,7 +53662,7 @@
     "ward_en": "sakae",
     "town": "本郷台",
     "romaji": "hongoudai",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/sakae/hongoudai-1-5",
     "types": {
@@ -53977,7 +53977,7 @@
     "ward_en": "sakae",
     "town": "笠間",
     "romaji": "kasama",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/sakae/kasama-1-5",
     "types": {
@@ -54817,7 +54817,7 @@
     "ward_en": "sakae",
     "town": "桂台南",
     "romaji": "katsuradaiminami",
-    "chome": "１・2丁目",
+    "chome": "1・2丁目",
     "sub": "",
     "slug": "yokohama/sakae/katsuradaiminami-1-2",
     "types": {
@@ -55130,11 +55130,11 @@
     "city_en": "yokohama",
     "ward": "栄区",
     "ward_en": "sakae",
-    "town": "上郷町1～199の一部",
-    "romaji": "kamisatomachi1-199noichibu",
+    "town": "上郷町",
+    "romaji": "kamisatomachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/sakae/kamisatomachi1-199noichibu",
+    "sub": "1~199の一部",
+    "slug": "yokohama/sakae/kamisatomachi-1-199-1",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -55235,11 +55235,11 @@
     "city_en": "yokohama",
     "ward": "栄区",
     "ward_en": "sakae",
-    "town": "上郷町1～199の一部",
-    "romaji": "kamisatomachi1-199noichibu",
+    "town": "上郷町",
+    "romaji": "kamisatomachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/sakae/kamisatomachi1-199noichibu-2",
+    "sub": "1~199の一部",
+    "slug": "yokohama/sakae/kamisatomachi-1-199-1-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -55340,11 +55340,11 @@
     "city_en": "yokohama",
     "ward": "栄区",
     "ward_en": "sakae",
-    "town": "上郷町200～1699",
-    "romaji": "kamisatomachi200-1699",
+    "town": "上郷町",
+    "romaji": "kamisatomachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/sakae/kamisatomachi200-1699",
+    "sub": "200~1699",
+    "slug": "yokohama/sakae/kamisatomachi-200-1699",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -55445,11 +55445,11 @@
     "city_en": "yokohama",
     "ward": "栄区",
     "ward_en": "sakae",
-    "town": "上郷町1700～2299",
-    "romaji": "kamisatomachi1700-2299",
+    "town": "上郷町",
+    "romaji": "kamisatomachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/sakae/kamisatomachi1700-2299",
+    "sub": "1700~2299",
+    "slug": "yokohama/sakae/kamisatomachi-1700-2299",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -55550,11 +55550,11 @@
     "city_en": "yokohama",
     "ward": "栄区",
     "ward_en": "sakae",
-    "town": "上郷町4400～4599",
-    "romaji": "kamisatomachi4400-4599",
+    "town": "上郷町",
+    "romaji": "kamisatomachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/sakae/kamisatomachi4400-4599",
+    "sub": "4400~4599",
+    "slug": "yokohama/sakae/kamisatomachi-4400-4599",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -55972,8 +55972,8 @@
     "ward_en": "sakae",
     "town": "小菅ヶ谷",
     "romaji": "kosugeketani",
-    "chome": "1丁目1～5",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "1~5",
     "slug": "yokohama/sakae/kosugeketani-1-1-5",
     "types": {
       "burnable": {
@@ -56077,8 +56077,8 @@
     "ward_en": "sakae",
     "town": "小菅ヶ谷",
     "romaji": "kosugeketani",
-    "chome": "1丁目6～31",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "6~31",
     "slug": "yokohama/sakae/kosugeketani-1-6-31",
     "types": {
       "burnable": {
@@ -56182,7 +56182,7 @@
     "ward_en": "sakae",
     "town": "小菅ヶ谷",
     "romaji": "kosugeketani",
-    "chome": "2～4丁目",
+    "chome": "2~4丁目",
     "sub": "",
     "slug": "yokohama/sakae/kosugeketani-2-4",
     "types": {
@@ -56497,7 +56497,7 @@
     "ward_en": "sakae",
     "town": "庄戸",
     "romaji": "shouko",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/sakae/shouko-1-5",
     "types": {
@@ -57337,7 +57337,7 @@
     "ward_en": "seya",
     "town": "相沢",
     "romaji": "aizawa",
-    "chome": "2・5～7丁目",
+    "chome": "2・5~7丁目",
     "sub": "",
     "slug": "yokohama/seya/aizawa-2-5-7",
     "types": {
@@ -57442,7 +57442,7 @@
     "ward_en": "seya",
     "town": "阿久和西",
     "romaji": "akuwanishi",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/seya/akuwanishi-1-4",
     "types": {
@@ -57547,7 +57547,7 @@
     "ward_en": "seya",
     "town": "阿久和東",
     "romaji": "akuwahigashi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/seya/akuwahigashi-1-3",
     "types": {
@@ -57862,7 +57862,7 @@
     "ward_en": "seya",
     "town": "阿久和南",
     "romaji": "akuwaminami",
-    "chome": "2～4丁目",
+    "chome": "2~4丁目",
     "sub": "",
     "slug": "yokohama/seya/akuwaminami-2-4",
     "types": {
@@ -58492,8 +58492,8 @@
     "ward_en": "seya",
     "town": "橋戸",
     "romaji": "hashido",
-    "chome": "3丁目51番地",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "51番地",
     "slug": "yokohama/seya/hashido-3-51",
     "types": {
       "burnable": {
@@ -58598,7 +58598,7 @@
     "town": "二ツ橋町",
     "romaji": "nitsuhashimachi",
     "chome": "",
-    "sub": "387～537番地を除く",
+    "sub": "387~537番地を除く",
     "slug": "yokohama/seya/nitsuhashimachi-387-537",
     "types": {
       "burnable": {
@@ -58702,8 +58702,8 @@
     "ward_en": "seya",
     "town": "二ツ橋町",
     "romaji": "nitsuhashimachi",
-    "chome": "387～537番地",
-    "sub": "",
+    "chome": "",
+    "sub": "387~537番地",
     "slug": "yokohama/seya/nitsuhashimachi-387-537-2",
     "types": {
       "burnable": {
@@ -59647,8 +59647,8 @@
     "ward_en": "seya",
     "town": "南台",
     "romaji": "minamidai",
-    "chome": "1丁目1～36番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "1~36番地",
     "slug": "yokohama/seya/minamidai-1-1-36",
     "types": {
       "burnable": {
@@ -59752,8 +59752,8 @@
     "ward_en": "seya",
     "town": "南台",
     "romaji": "minamidai",
-    "chome": "1丁目37～45番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "37~45番地",
     "slug": "yokohama/seya/minamidai-1-37-45",
     "types": {
       "burnable": {
@@ -60067,7 +60067,7 @@
     "ward_en": "seya",
     "town": "宮沢",
     "romaji": "miyazawa",
-    "chome": "2～4丁目",
+    "chome": "2~4丁目",
     "sub": "",
     "slug": "yokohama/seya/miyazawa-2-4",
     "types": {
@@ -60277,7 +60277,7 @@
     "ward_en": "seya",
     "town": "下瀬谷",
     "romaji": "shimoseya",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/seya/shimoseya-1-3",
     "types": {
@@ -60382,8 +60382,8 @@
     "ward_en": "seya",
     "town": "瀬谷",
     "romaji": "seya",
-    "chome": "1丁目1～22番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "1~22番地",
     "slug": "yokohama/seya/seya-1-1-22",
     "types": {
       "burnable": {
@@ -60487,8 +60487,8 @@
     "ward_en": "seya",
     "town": "瀬谷",
     "romaji": "seya",
-    "chome": "1丁目23～30番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "23~30番地",
     "slug": "yokohama/seya/seya-1-23-30",
     "types": {
       "burnable": {
@@ -60592,7 +60592,7 @@
     "ward_en": "seya",
     "town": "瀬谷",
     "romaji": "seya",
-    "chome": "2～4丁目",
+    "chome": "2~4丁目",
     "sub": "",
     "slug": "yokohama/seya/seya-2-4",
     "types": {
@@ -61957,7 +61957,7 @@
     "ward_en": "tsuzuki",
     "town": "牛久保西",
     "romaji": "ushikubonishi",
-    "chome": "2～4丁目",
+    "chome": "2~4丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/ushikubonishi-2-4",
     "types": {
@@ -62062,7 +62062,7 @@
     "ward_en": "tsuzuki",
     "town": "牛久保東",
     "romaji": "ushikubohigashi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/ushikubohigashi-1-3",
     "types": {
@@ -62167,7 +62167,7 @@
     "ward_en": "tsuzuki",
     "town": "荏田東",
     "romaji": "edahigashi",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/edahigashi-1-4",
     "types": {
@@ -62377,7 +62377,7 @@
     "ward_en": "tsuzuki",
     "town": "荏田南",
     "romaji": "edaminami",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/edaminami-1-3",
     "types": {
@@ -63217,7 +63217,7 @@
     "ward_en": "tsuzuki",
     "town": "早渕",
     "romaji": "sofuchi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/sofuchi-1-3",
     "types": {
@@ -63427,7 +63427,7 @@
     "ward_en": "tsuzuki",
     "town": "東山田",
     "romaji": "higashiyamata",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/higashiyamata-1-4",
     "types": {
@@ -64477,7 +64477,7 @@
     "ward_en": "tsuzuki",
     "town": "北山田",
     "romaji": "kitayamata",
-    "chome": "1～7丁目",
+    "chome": "1~7丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/kitayamata-1-7",
     "types": {
@@ -64687,7 +64687,7 @@
     "ward_en": "tsuzuki",
     "town": "南山田",
     "romaji": "nanzanta",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/nanzanta-1-3",
     "types": {
@@ -65002,7 +65002,7 @@
     "ward_en": "tsuzuki",
     "town": "中川",
     "romaji": "nakagawa",
-    "chome": "1・3～8丁目",
+    "chome": "1・3~8丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/nakagawa-1-3-8",
     "types": {
@@ -65317,7 +65317,7 @@
     "ward_en": "tsuzuki",
     "town": "仲町台",
     "romaji": "nakamachidai",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/nakamachidai-1-5",
     "types": {
@@ -66367,7 +66367,7 @@
     "ward_en": "tsuzuki",
     "town": "茅ケ崎東",
     "romaji": "mekesakihigashi",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/mekesakihigashi-1-5",
     "types": {
@@ -66472,7 +66472,7 @@
     "ward_en": "tsuzuki",
     "town": "茅ケ崎南",
     "romaji": "mekesakiminami",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/mekesakiminami-1-3",
     "types": {
@@ -66577,7 +66577,7 @@
     "ward_en": "tsuzuki",
     "town": "茅ケ崎南",
     "romaji": "mekesakiminami",
-    "chome": "4～5丁目",
+    "chome": "4~5丁目",
     "sub": "",
     "slug": "yokohama/tsuzuki/mekesakiminami-4-5",
     "types": {
@@ -67732,8 +67732,8 @@
     "ward_en": "tsurumi",
     "town": "潮田町",
     "romaji": "ushiodacho",
-    "chome": "2丁目一部の地域",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "一部の地域",
     "slug": "yokohama/tsurumi/ushiodacho-2-1",
     "types": {
       "burnable": {
@@ -68152,7 +68152,7 @@
     "ward_en": "tsurumi",
     "town": "馬場",
     "romaji": "baba",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/baba-1-3",
     "types": {
@@ -68257,7 +68257,7 @@
     "ward_en": "tsurumi",
     "town": "馬場",
     "romaji": "baba",
-    "chome": "4～6丁目",
+    "chome": "4~6丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/baba-4-6",
     "types": {
@@ -68572,7 +68572,7 @@
     "ward_en": "tsurumi",
     "town": "東寺尾",
     "romaji": "higashiterao",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/higashiterao-1-5",
     "types": {
@@ -69097,8 +69097,8 @@
     "ward_en": "tsurumi",
     "town": "東寺尾東台",
     "romaji": "higashiteraototai",
-    "chome": "8番地の一部",
-    "sub": "",
+    "chome": "",
+    "sub": "8番地の一部",
     "slug": "yokohama/tsurumi/higashiteraototai-8-1",
     "types": {
       "burnable": {
@@ -69517,7 +69517,7 @@
     "ward_en": "tsurumi",
     "town": "本町通",
     "romaji": "honchotoori",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/honchotoori-1-4",
     "types": {
@@ -69727,8 +69727,8 @@
     "ward_en": "tsurumi",
     "town": "梶山",
     "romaji": "kajiyama",
-    "chome": "2丁目9番地の一部",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "9番地の一部",
     "slug": "yokohama/tsurumi/kajiyama-2-9-1",
     "types": {
       "burnable": {
@@ -69832,7 +69832,7 @@
     "ward_en": "tsurumi",
     "town": "上末吉",
     "romaji": "uesuekichi",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/uesuekichi-1-5",
     "types": {
@@ -69937,8 +69937,8 @@
     "ward_en": "tsurumi",
     "town": "上末吉",
     "romaji": "uesuekichi",
-    "chome": "1丁目1番地の一部",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "1番地の一部",
     "slug": "yokohama/tsurumi/uesuekichi-1-1-1",
     "types": {
       "burnable": {
@@ -70252,7 +70252,7 @@
     "ward_en": "tsurumi",
     "town": "岸谷",
     "romaji": "kishitani",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/kishitani-1-4",
     "types": {
@@ -70357,7 +70357,7 @@
     "ward_en": "tsurumi",
     "town": "北寺尾",
     "romaji": "kitaterao",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/kitaterao-1-5",
     "types": {
@@ -70462,8 +70462,8 @@
     "ward_en": "tsurumi",
     "town": "北寺尾",
     "romaji": "kitaterao",
-    "chome": "5丁目7・11番地の一部",
-    "sub": "",
+    "chome": "5丁目",
+    "sub": "7・11番地の一部",
     "slug": "yokohama/tsurumi/kitaterao-5-7-11-1",
     "types": {
       "burnable": {
@@ -70777,7 +70777,7 @@
     "ward_en": "tsurumi",
     "town": "駒岡",
     "romaji": "komaoka",
-    "chome": "1～３丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/komaoka-1-3",
     "types": {
@@ -70882,8 +70882,8 @@
     "ward_en": "tsurumi",
     "town": "駒岡",
     "romaji": "komaoka",
-    "chome": "1丁目2番地の一部",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "2番地の一部",
     "slug": "yokohama/tsurumi/komaoka-1-2-1",
     "types": {
       "burnable": {
@@ -70987,8 +70987,8 @@
     "ward_en": "tsurumi",
     "town": "駒岡",
     "romaji": "komaoka",
-    "chome": "1丁目3～8・33・37番地の一部",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "3~8・33・37番地の一部",
     "slug": "yokohama/tsurumi/komaoka-1-3-8-33-37-1",
     "types": {
       "burnable": {
@@ -71092,8 +71092,8 @@
     "ward_en": "tsurumi",
     "town": "駒岡",
     "romaji": "komaoka",
-    "chome": "3丁目3・4・24・25・26番地の一部",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "3・4・24・25・26番地の一部",
     "slug": "yokohama/tsurumi/komaoka-3-3-4-24-25-26-1",
     "types": {
       "burnable": {
@@ -71617,7 +71617,7 @@
     "ward_en": "tsurumi",
     "town": "矢向",
     "romaji": "yako",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/yako-1-6",
     "types": {
@@ -71827,8 +71827,8 @@
     "ward_en": "tsurumi",
     "town": "仲通",
     "romaji": "nakadoori",
-    "chome": "1丁目一部の地域",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "一部の地域",
     "slug": "yokohama/tsurumi/nakadoori-1-1",
     "types": {
       "burnable": {
@@ -72037,7 +72037,7 @@
     "ward_en": "tsurumi",
     "town": "生麦",
     "romaji": "namamugi",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/namamugi-1-5",
     "types": {
@@ -72142,7 +72142,7 @@
     "ward_en": "tsurumi",
     "town": "栄町通",
     "romaji": "sakaemachitoori",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/sakaemachitoori-1-3",
     "types": {
@@ -72772,7 +72772,7 @@
     "ward_en": "tsurumi",
     "town": "下野谷町",
     "romaji": "shitanoyacho",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/shitanoyacho-1-4",
     "types": {
@@ -72877,7 +72877,7 @@
     "ward_en": "tsurumi",
     "town": "尻手",
     "romaji": "shitte",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/shitte-1-3",
     "types": {
@@ -73087,7 +73087,7 @@
     "ward_en": "tsurumi",
     "town": "下末吉",
     "romaji": "shimosueyoshi",
-    "chome": "2～4丁目",
+    "chome": "2~4丁目",
     "sub": "",
     "slug": "yokohama/tsurumi/shimosueyoshi-2-4",
     "types": {
@@ -74662,7 +74662,7 @@
     "ward_en": "totsuka",
     "town": "原宿",
     "romaji": "harajuku",
-    "chome": "3～5丁目",
+    "chome": "3~5丁目",
     "sub": "",
     "slug": "yokohama/totsuka/harajuku-3-5",
     "types": {
@@ -74872,7 +74872,7 @@
     "ward_en": "totsuka",
     "town": "平戸",
     "romaji": "hirado",
-    "chome": "1～3・5丁目",
+    "chome": "1~3・5丁目",
     "sub": "",
     "slug": "yokohama/totsuka/hirado-1-3-5",
     "types": {
@@ -74977,7 +74977,7 @@
     "ward_en": "totsuka",
     "town": "平戸",
     "romaji": "hirado",
-    "chome": "４丁目",
+    "chome": "4丁目",
     "sub": "",
     "slug": "yokohama/totsuka/hirado-4",
     "types": {
@@ -75188,8 +75188,8 @@
     "town": "平戸町",
     "romaji": "hiradocho",
     "chome": "",
-    "sub": "環状２号線の東側 一部異なる地域あり",
-    "slug": "yokohama/totsuka/hiradocho-2-1",
+    "sub": "一部異なる地域あり 環状2号線の東側",
+    "slug": "yokohama/totsuka/hiradocho-1-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -75293,7 +75293,7 @@
     "town": "平戸町",
     "romaji": "hiradocho",
     "chome": "",
-    "sub": "環状２号線の西側",
+    "sub": "環状2号線の西側",
     "slug": "yokohama/totsuka/hiradocho-2",
     "types": {
       "burnable": {
@@ -76235,11 +76235,11 @@
     "city_en": "yokohama",
     "ward": "戸塚区",
     "ward_en": "totsuka",
-    "town": "上矢部町2847の一部",
-    "romaji": "kamiyabecho2847noichibu",
+    "town": "上矢部町",
+    "romaji": "kamiyabecho",
     "chome": "",
-    "sub": "国道１号線上の集積場所",
-    "slug": "yokohama/totsuka/kamiyabecho2847noichibu-1",
+    "sub": "2847の一部 国道1号線上の集積場所",
+    "slug": "yokohama/totsuka/kamiyabecho-2847-1-1",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -76552,7 +76552,7 @@
     "ward_en": "totsuka",
     "town": "汲沢",
     "romaji": "gumizawa",
-    "chome": "3～8丁目",
+    "chome": "3~8丁目",
     "sub": "",
     "slug": "yokohama/totsuka/gumizawa-3-8",
     "types": {
@@ -76760,11 +76760,11 @@
     "city_en": "yokohama",
     "ward": "戸塚区",
     "ward_en": "totsuka",
-    "town": "汲沢町の一部",
-    "romaji": "gumizawamachinoichibu",
+    "town": "汲沢町",
+    "romaji": "gumizawamachi",
     "chome": "",
-    "sub": "深谷交番付近",
-    "slug": "yokohama/totsuka/gumizawamachinoichibu",
+    "sub": "の一部 深谷交番付近",
+    "slug": "yokohama/totsuka/gumizawamachi-1",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -77077,8 +77077,8 @@
     "ward_en": "totsuka",
     "town": "舞岡町",
     "romaji": "maiokamachi",
-    "chome": "33～48番地付近",
-    "sub": "柏尾町との境目の道路の一部",
+    "chome": "",
+    "sub": "33~48番地付近 柏尾町との境目の道路の一部",
     "slug": "yokohama/totsuka/maiokamachi-33-48-1",
     "types": {
       "burnable": {
@@ -77182,8 +77182,8 @@
     "ward_en": "totsuka",
     "town": "舞岡町",
     "romaji": "maiokamachi",
-    "chome": "115～122番地付近",
-    "sub": "吉田町との境目の道路の一部",
+    "chome": "",
+    "sub": "115~122番地付近 吉田町との境目の道路の一部",
     "slug": "yokohama/totsuka/maiokamachi-115-122-1",
     "types": {
       "burnable": {
@@ -77287,8 +77287,8 @@
     "ward_en": "totsuka",
     "town": "舞岡町",
     "romaji": "maiokamachi",
-    "chome": "1091番地付近",
-    "sub": "日立和敬寮前のバス停付近のみ",
+    "chome": "",
+    "sub": "1091番地付近 日立和敬寮前のバス停付近のみ",
     "slug": "yokohama/totsuka/maiokamachi-1091",
     "types": {
       "burnable": {
@@ -77392,8 +77392,8 @@
     "ward_en": "totsuka",
     "town": "舞岡町",
     "romaji": "maiokamachi",
-    "chome": "3575～3589番地付近",
-    "sub": "柏尾町との境目の道路の一部",
+    "chome": "",
+    "sub": "3575~3589番地付近 柏尾町との境目の道路の一部",
     "slug": "yokohama/totsuka/maiokamachi-3575-3589-1",
     "types": {
       "burnable": {
@@ -77600,11 +77600,11 @@
     "city_en": "yokohama",
     "ward": "戸塚区",
     "ward_en": "totsuka",
-    "town": "前田町付近）",
-    "romaji": "maedamachifukin",
+    "town": "前田町",
+    "romaji": "maedamachi",
     "chome": "",
-    "sub": "国道１号線（品濃口～赤関橋",
-    "slug": "yokohama/totsuka/maedamachifukin-1",
+    "sub": "品濃口~赤関橋 国道1号線付近",
+    "slug": "yokohama/totsuka/maedamachi-1",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -77812,7 +77812,7 @@
     "ward_en": "totsuka",
     "town": "南舞岡",
     "romaji": "minamimaioka",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/totsuka/minamimaioka-1-4",
     "types": {
@@ -77918,7 +77918,7 @@
     "town": "矢部町",
     "romaji": "yabemachi",
     "chome": "",
-    "sub": "ＪＲ線路の西側",
+    "sub": "JR線路の西側",
     "slug": "yokohama/totsuka/yabemachi",
     "types": {
       "burnable": {
@@ -78023,7 +78023,7 @@
     "town": "矢部町",
     "romaji": "yabemachi",
     "chome": "",
-    "sub": "ＪＲ線路の東側",
+    "sub": "JR線路の東側",
     "slug": "yokohama/totsuka/yabemachi-2",
     "types": {
       "burnable": {
@@ -78440,11 +78440,11 @@
     "city_en": "yokohama",
     "ward": "戸塚区",
     "ward_en": "totsuka",
-    "town": "戸塚町より北側）",
-    "romaji": "totsukachoyorikitagawa",
+    "town": "戸塚町",
+    "romaji": "totsukacho",
     "chome": "",
-    "sub": "ハローワーク戸塚（戸塚町3722番地 一部異なる地域あり",
-    "slug": "yokohama/totsuka/totsukachoyorikitagawa-3722-1",
+    "sub": "一部異なる地域あり 戸塚町3722番地 ハローワーク戸塚より北側",
+    "slug": "yokohama/totsuka/totsukacho-1-3722",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -78545,11 +78545,11 @@
     "city_en": "yokohama",
     "ward": "戸塚区",
     "ward_en": "totsuka",
-    "town": "戸塚町より南側）",
-    "romaji": "totsukachoyoriminamigawa",
+    "town": "戸塚町",
+    "romaji": "totsukacho",
     "chome": "",
-    "sub": "ハローワーク戸塚（戸塚町3722番地 一部異なる地域あり",
-    "slug": "yokohama/totsuka/totsukachoyoriminamigawa-3722-1",
+    "sub": "一部異なる地域あり 戸塚町3722番地 ハローワーク戸塚より南側",
+    "slug": "yokohama/totsuka/totsukacho-1-3722-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -78862,7 +78862,7 @@
     "ward_en": "naka",
     "town": "相生町",
     "romaji": "aioicho",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/naka/aioicho-1-6",
     "types": {
@@ -79072,7 +79072,7 @@
     "ward_en": "naka",
     "town": "曙町",
     "romaji": "akebonocho",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/naka/akebonocho-1-5",
     "types": {
@@ -79387,7 +79387,7 @@
     "ward_en": "naka",
     "town": "石川町",
     "romaji": "ishikawacho",
-    "chome": "3～5丁目",
+    "chome": "3~5丁目",
     "sub": "",
     "slug": "yokohama/naka/ishikawacho-3-5",
     "types": {
@@ -79492,7 +79492,7 @@
     "ward_en": "naka",
     "town": "伊勢佐木町",
     "romaji": "isezakicho",
-    "chome": "1～7丁目",
+    "chome": "1~7丁目",
     "sub": "",
     "slug": "yokohama/naka/isezakicho-1-7",
     "types": {
@@ -79702,8 +79702,8 @@
     "ward_en": "naka",
     "town": "上野町",
     "romaji": "uenomachi",
-    "chome": "1・2丁目西之谷町側",
-    "sub": "",
+    "chome": "1・2丁目",
+    "sub": "西之谷町側",
     "slug": "yokohama/naka/uenomachi-1-2-2",
     "types": {
       "burnable": {
@@ -80017,7 +80017,7 @@
     "ward_en": "naka",
     "town": "羽衣町",
     "romaji": "hagoromocho",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/naka/hagoromocho-1-3",
     "types": {
@@ -80122,8 +80122,8 @@
     "ward_en": "naka",
     "town": "羽衣町",
     "romaji": "hagoromocho",
-    "chome": "1～3丁目国道16号線よりイセザキモール側",
-    "sub": "",
+    "chome": "1~3丁目",
+    "sub": "国道16号線よりイセザキモール側",
     "slug": "yokohama/naka/hagoromocho-1-3-16",
     "types": {
       "burnable": {
@@ -81067,7 +81067,7 @@
     "ward_en": "naka",
     "town": "弁天通",
     "romaji": "bentendoori",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/naka/bentendoori-1-6",
     "types": {
@@ -81382,8 +81382,8 @@
     "ward_en": "naka",
     "town": "本郷町",
     "romaji": "hongoumachi",
-    "chome": "1・2丁目本牧通りから千代町側",
-    "sub": "",
+    "chome": "1・2丁目",
+    "sub": "本牧通りから千代町側",
     "slug": "yokohama/naka/hongoumachi-1-2",
     "types": {
       "burnable": {
@@ -81487,7 +81487,7 @@
     "ward_en": "naka",
     "town": "本町",
     "romaji": "honcho",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/naka/honcho-1-6",
     "types": {
@@ -82117,8 +82117,8 @@
     "ward_en": "naka",
     "town": "本牧町",
     "romaji": "hommokumachi",
-    "chome": "1丁目大鳥小学校周辺",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "大鳥小学校周辺",
     "slug": "yokohama/naka/hommokumachi-1-2",
     "types": {
       "burnable": {
@@ -82222,8 +82222,8 @@
     "ward_en": "naka",
     "town": "本牧町",
     "romaji": "hommokumachi",
-    "chome": "1丁目見晴らしトンネル側",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "見晴らしトンネル側",
     "slug": "yokohama/naka/hommokumachi-1-3",
     "types": {
       "burnable": {
@@ -82432,8 +82432,8 @@
     "ward_en": "naka",
     "town": "本牧町",
     "romaji": "hommokumachi",
-    "chome": "2丁目大鳥小学校周辺",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "大鳥小学校周辺",
     "slug": "yokohama/naka/hommokumachi-2-2",
     "types": {
       "burnable": {
@@ -82537,8 +82537,8 @@
     "ward_en": "naka",
     "town": "本牧町",
     "romaji": "hommokumachi",
-    "chome": "2丁目本牧通りから北方町側",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "本牧通りから北方町側",
     "slug": "yokohama/naka/hommokumachi-2-3",
     "types": {
       "burnable": {
@@ -82745,11 +82745,11 @@
     "city_en": "yokohama",
     "ward": "中区",
     "ward_en": "naka",
-    "town": "本牧原16-1",
-    "romaji": "hommokuhara16-1",
+    "town": "本牧原",
+    "romaji": "hommokuhara",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/naka/hommokuhara16-1",
+    "sub": "16-1",
+    "slug": "yokohama/naka/hommokuhara-16-1",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -83060,11 +83060,11 @@
     "city_en": "yokohama",
     "ward": "中区",
     "ward_en": "naka",
-    "town": "本牧間門本牧通りから本牧荒井側",
-    "romaji": "hommokumakadohommokutorikarahommokuaraigawa",
+    "town": "本牧間門",
+    "romaji": "hommokumakado",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/naka/hommokumakadohommokutorikarahommokuaraigawa",
+    "sub": "本牧通りから本牧荒井側",
+    "slug": "yokohama/naka/hommokumakado-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -83270,11 +83270,11 @@
     "city_en": "yokohama",
     "ward": "中区",
     "ward_en": "naka",
-    "town": "本牧満坂大鳥小学校周辺",
-    "romaji": "hommokumanbandaitorishougakkoushuuhen",
+    "town": "本牧満坂",
+    "romaji": "hommokumansaka",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/naka/hommokumanbandaitorishougakkoushuuhen",
+    "sub": "大鳥小学校周辺",
+    "slug": "yokohama/naka/hommokumansaka-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -83587,8 +83587,8 @@
     "ward_en": "naka",
     "town": "本牧宮原",
     "romaji": "hommokumiyahara",
-    "chome": "8～10番地",
-    "sub": "",
+    "chome": "",
+    "sub": "8~10番地",
     "slug": "yokohama/naka/hommokumiyahara-8-10",
     "types": {
       "burnable": {
@@ -84637,7 +84637,7 @@
     "ward_en": "naka",
     "town": "寿町",
     "romaji": "kotobukicho",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/naka/kotobukicho-1-4",
     "types": {
@@ -84847,8 +84847,8 @@
     "ward_en": "naka",
     "town": "小港町",
     "romaji": "kominatomachi",
-    "chome": "1丁目磯子線から本牧町側",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "磯子線から本牧町側",
     "slug": "yokohama/naka/kominatomachi-1-2",
     "types": {
       "burnable": {
@@ -84952,8 +84952,8 @@
     "ward_en": "naka",
     "town": "小港町",
     "romaji": "kominatomachi",
-    "chome": "1丁目磯子線からビューコート小港側",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "磯子線からビューコート小港側",
     "slug": "yokohama/naka/kominatomachi-1-3",
     "types": {
       "burnable": {
@@ -85162,8 +85162,8 @@
     "ward_en": "naka",
     "town": "小港町",
     "romaji": "kominatomachi",
-    "chome": "2丁目関東財務局小港住宅",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "関東財務局小港住宅",
     "slug": "yokohama/naka/kominatomachi-2-2",
     "types": {
       "burnable": {
@@ -85372,7 +85372,7 @@
     "ward_en": "naka",
     "town": "松影町",
     "romaji": "matsukagecho",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/naka/matsukagecho-1-4",
     "types": {
@@ -85580,11 +85580,11 @@
     "city_en": "yokohama",
     "ward": "中区",
     "ward_en": "naka",
-    "town": "豆口台第4公園周辺",
-    "romaji": "mamekuchidaidai4koenshuuhen",
+    "town": "豆口台",
+    "romaji": "mamekuchidai",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/naka/mamekuchidaidai4koenshuuhen",
+    "sub": "第4公園周辺",
+    "slug": "yokohama/naka/mamekuchidai-4",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -85687,7 +85687,7 @@
     "ward_en": "naka",
     "town": "港町",
     "romaji": "minatomachi",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/naka/minatomachi-1-6",
     "types": {
@@ -85792,7 +85792,7 @@
     "ward_en": "naka",
     "town": "南仲通",
     "romaji": "minaminakadoori",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/naka/minaminakadoori-1-5",
     "types": {
@@ -86002,7 +86002,7 @@
     "ward_en": "naka",
     "town": "宮川町",
     "romaji": "miyagawacho",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/naka/miyagawacho-1-3",
     "types": {
@@ -86422,8 +86422,8 @@
     "ward_en": "naka",
     "town": "麦田町",
     "romaji": "mugitamachi",
-    "chome": "1・2丁目本牧通りから山手公園側",
-    "sub": "",
+    "chome": "1・2丁目",
+    "sub": "本牧通りから山手公園側",
     "slug": "yokohama/naka/mugitamachi-1-2-2",
     "types": {
       "burnable": {
@@ -86632,8 +86632,8 @@
     "ward_en": "naka",
     "town": "麦田町",
     "romaji": "mugitamachi",
-    "chome": "3丁目本牧通りから鷺山側",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "本牧通りから鷺山側",
     "slug": "yokohama/naka/mugitamachi-3-2",
     "types": {
       "burnable": {
@@ -86737,8 +86737,8 @@
     "ward_en": "naka",
     "town": "麦田町",
     "romaji": "mugitamachi",
-    "chome": "4丁目本牧通りから妙香寺台側",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "本牧通りから妙香寺台側",
     "slug": "yokohama/naka/mugitamachi-4",
     "types": {
       "burnable": {
@@ -86842,8 +86842,8 @@
     "ward_en": "naka",
     "town": "麦田町",
     "romaji": "mugitamachi",
-    "chome": "4丁目本牧通りから山手駅側",
-    "sub": "商店街通り沿い",
+    "chome": "4丁目",
+    "sub": "本牧通りから山手駅側 商店街通り沿い",
     "slug": "yokohama/naka/mugitamachi-4-2",
     "types": {
       "burnable": {
@@ -86947,8 +86947,8 @@
     "ward_en": "naka",
     "town": "麦田町",
     "romaji": "mugitamachi",
-    "chome": "4丁目本牧通りから山手駅側（本牧通り沿い",
-    "sub": "",
+    "chome": "4丁目",
+    "sub": "本牧通りから山手駅側 本牧通り沿い",
     "slug": "yokohama/naka/mugitamachi-4-3",
     "types": {
       "burnable": {
@@ -87680,11 +87680,11 @@
     "city_en": "yokohama",
     "ward": "中区",
     "ward_en": "naka",
-    "town": "西竹之丸柏葉公園通り側",
-    "romaji": "nishitakeyukimarukashiwabakoentorigawa",
+    "town": "西竹之丸",
+    "romaji": "nishitakeyukimaru",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/naka/nishitakeyukimarukashiwabakoentorigawa",
+    "sub": "柏葉公園通り側",
+    "slug": "yokohama/naka/nishitakeyukimaru-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -88312,7 +88312,7 @@
     "ward_en": "naka",
     "town": "野毛町",
     "romaji": "nogemachi",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/naka/nogemachi-1-4",
     "types": {
@@ -88837,8 +88837,8 @@
     "ward_en": "naka",
     "town": "扇町",
     "romaji": "ogimachi",
-    "chome": "1丁目2-1～8番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "2-1~8番地",
     "slug": "yokohama/naka/ogimachi-1-2-1-8",
     "types": {
       "burnable": {
@@ -89047,8 +89047,8 @@
     "ward_en": "naka",
     "town": "扇町",
     "romaji": "ogimachi",
-    "chome": "2丁目3ー1～6番地・6～6-15番地",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "3ー1~6番地・6~6-15番地",
     "slug": "yokohama/naka/ogimachi-2-3-1-6-6-6-15",
     "types": {
       "burnable": {
@@ -89257,8 +89257,8 @@
     "ward_en": "naka",
     "town": "扇町",
     "romaji": "ogimachi",
-    "chome": "3丁目7～7-9番地・10～10-5番地",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "7~7-9番地・10~10-5番地",
     "slug": "yokohama/naka/ogimachi-3-7-7-9-10-10-5",
     "types": {
       "burnable": {
@@ -89572,7 +89572,7 @@
     "ward_en": "naka",
     "town": "太田町",
     "romaji": "otamachi",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/naka/otamachi-1-6",
     "types": {
@@ -89782,7 +89782,7 @@
     "ward_en": "naka",
     "town": "尾上町",
     "romaji": "onoemachi",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/naka/onoemachi-1-6",
     "types": {
@@ -90412,7 +90412,7 @@
     "ward_en": "naka",
     "town": "末吉町",
     "romaji": "sueyoshicho",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/naka/sueyoshicho-1-4",
     "types": {
@@ -90517,7 +90517,7 @@
     "ward_en": "naka",
     "town": "住吉町",
     "romaji": "sumiyoshicho",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/naka/sumiyoshicho-1-6",
     "types": {
@@ -90830,11 +90830,11 @@
     "city_en": "yokohama",
     "ward": "中区",
     "ward_en": "naka",
-    "town": "滝之上20～21-1・聖光学院プール側",
-    "romaji": "takinoue20-21-1-shoukogakuinpuurugawa",
+    "town": "滝之上",
+    "romaji": "takinoue",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/naka/takinoue20-21-1-shoukogakuinpuurugawa",
+    "sub": "20~21-1・聖光学院プール側",
+    "slug": "yokohama/naka/takinoue-20-21-1",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -91357,7 +91357,7 @@
     "ward_en": "naka",
     "town": "長者町",
     "romaji": "chojamachi",
-    "chome": "2～4丁目",
+    "chome": "2~4丁目",
     "sub": "",
     "slug": "yokohama/naka/chojamachi-2-4",
     "types": {
@@ -91567,8 +91567,8 @@
     "ward_en": "naka",
     "town": "長者町",
     "romaji": "chojamachi",
-    "chome": "5丁目根岸道路より関内駅側",
-    "sub": "",
+    "chome": "5丁目",
+    "sub": "根岸道路より関内駅側",
     "slug": "yokohama/naka/chojamachi-5-2",
     "types": {
       "burnable": {
@@ -91672,7 +91672,7 @@
     "ward_en": "naka",
     "town": "長者町",
     "romaji": "chojamachi",
-    "chome": "6～9丁目",
+    "chome": "6~9丁目",
     "sub": "",
     "slug": "yokohama/naka/chojamachi-6-9",
     "types": {
@@ -92092,7 +92092,7 @@
     "ward_en": "naka",
     "town": "常盤町",
     "romaji": "tokiwamachi",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/naka/tokiwamachi-1-6",
     "types": {
@@ -92615,11 +92615,11 @@
     "city_en": "yokohama",
     "ward": "中区",
     "ward_en": "naka",
-    "town": "山手町共立学園周辺",
-    "romaji": "yamatechokyouritsugakuenshuuhen",
+    "town": "山手町",
+    "romaji": "yamatecho",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/naka/yamatechokyouritsugakuenshuuhen",
+    "sub": "共立学園周辺",
+    "slug": "yokohama/naka/yamatecho-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -93037,8 +93037,8 @@
     "ward_en": "naka",
     "town": "山元町",
     "romaji": "yamamotomachi",
-    "chome": "1丁目1～7番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "1~7番地",
     "slug": "yokohama/naka/yamamotomachi-1-1-7",
     "types": {
       "burnable": {
@@ -93142,7 +93142,7 @@
     "ward_en": "naka",
     "town": "山元町",
     "romaji": "yamamotomachi",
-    "chome": "2～5丁目",
+    "chome": "2~5丁目",
     "sub": "",
     "slug": "yokohama/naka/yamamotomachi-2-5",
     "types": {
@@ -93247,8 +93247,8 @@
     "ward_en": "naka",
     "town": "山元町",
     "romaji": "yamamotomachi",
-    "chome": "5丁目公園",
-    "sub": "",
+    "chome": "5丁目",
+    "sub": "公園",
     "slug": "yokohama/naka/yamamotomachi-5",
     "types": {
       "burnable": {
@@ -93877,7 +93877,7 @@
     "ward_en": "nishi",
     "town": "伊勢町",
     "romaji": "isecho",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/nishi/isecho-1-3",
     "types": {
@@ -94297,7 +94297,7 @@
     "ward_en": "nishi",
     "town": "花咲町",
     "romaji": "hanasakimachi",
-    "chome": "4～7丁目",
+    "chome": "4~7丁目",
     "sub": "",
     "slug": "yokohama/nishi/hanasakimachi-4-7",
     "types": {
@@ -94822,8 +94822,8 @@
     "ward_en": "nishi",
     "town": "藤棚町",
     "romaji": "fujidanamachi",
-    "chome": "1丁目28～50",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "28~50",
     "slug": "yokohama/nishi/fujidanamachi-1-28-50",
     "types": {
       "burnable": {
@@ -95242,7 +95242,7 @@
     "ward_en": "nishi",
     "town": "北幸",
     "romaji": "kitasachi",
-    "chome": "1～2丁目",
+    "chome": "1~2丁目",
     "sub": "",
     "slug": "yokohama/nishi/kitasachi-1-2",
     "types": {
@@ -95662,7 +95662,7 @@
     "ward_en": "nishi",
     "town": "みなとみらい",
     "romaji": "minatomirai",
-    "chome": "3～6丁目",
+    "chome": "3~6丁目",
     "sub": "",
     "slug": "yokohama/nishi/minatomirai-3-6",
     "types": {
@@ -95872,7 +95872,7 @@
     "ward_en": "nishi",
     "town": "南幸",
     "romaji": "minamisaiwai",
-    "chome": "1～2丁目",
+    "chome": "1~2丁目",
     "sub": "",
     "slug": "yokohama/nishi/minamisaiwai-1-2",
     "types": {
@@ -96607,7 +96607,7 @@
     "ward_en": "nishi",
     "town": "桜木町",
     "romaji": "sakuragicho",
-    "chome": "4～7丁目",
+    "chome": "4~7丁目",
     "sub": "",
     "slug": "yokohama/nishi/sakuragicho-4-7",
     "types": {
@@ -96712,8 +96712,8 @@
     "ward_en": "nishi",
     "town": "桜木町",
     "romaji": "sakuragicho",
-    "chome": "7丁目48",
-    "sub": "",
+    "chome": "7丁目",
+    "sub": "48",
     "slug": "yokohama/nishi/sakuragicho-7-48",
     "types": {
       "burnable": {
@@ -96920,11 +96920,11 @@
     "city_en": "yokohama",
     "ward": "西区",
     "ward_en": "nishi",
-    "town": "浅間台123・127～129",
-    "romaji": "asamadai123-127-129",
+    "town": "浅間台",
+    "romaji": "asamadai",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/nishi/asamadai123-127-129",
+    "sub": "123・127~129",
+    "slug": "yokohama/nishi/asamadai-123-127-129",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -97132,7 +97132,7 @@
     "ward_en": "nishi",
     "town": "浅間町",
     "romaji": "asamamachi",
-    "chome": "2～5丁目",
+    "chome": "2~5丁目",
     "sub": "",
     "slug": "yokohama/nishi/asamamachi-2-5",
     "types": {
@@ -97237,7 +97237,7 @@
     "ward_en": "nishi",
     "town": "高島",
     "romaji": "takashima",
-    "chome": "1～2丁目",
+    "chome": "1~2丁目",
     "sub": "",
     "slug": "yokohama/nishi/takashima-1-2",
     "types": {
@@ -97552,7 +97552,7 @@
     "ward_en": "nishi",
     "town": "戸部町",
     "romaji": "tobemachi",
-    "chome": "1～7丁目",
+    "chome": "1~7丁目",
     "sub": "",
     "slug": "yokohama/nishi/tobemachi-1-7",
     "types": {
@@ -97762,7 +97762,7 @@
     "ward_en": "nishi",
     "town": "西戸部町",
     "romaji": "nishitobemachi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/nishi/nishitobemachi-1-3",
     "types": {
@@ -98390,11 +98390,11 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "岩井町【JR線路より西側】",
-    "romaji": "iwaimachi-jrsenroyorinishigawa",
+    "town": "岩井町",
+    "romaji": "iwaimachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/hodogaya/iwaimachi-jrsenroyorinishigawa",
+    "sub": "JR線路より西側",
+    "slug": "yokohama/hodogaya/iwaimachi",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -98495,11 +98495,11 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "岩井町【JR線路より東側】",
-    "romaji": "iwaimachi-jrsenroyorihigashigawa",
+    "town": "岩井町",
+    "romaji": "iwaimachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/hodogaya/iwaimachi-jrsenroyorihigashigawa",
+    "sub": "JR線路より東側",
+    "slug": "yokohama/hodogaya/iwaimachi-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -98705,11 +98705,11 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "岩崎町【市営岩崎住宅付近】",
-    "romaji": "iwasakimachi-shieiiwasakijuutakufukin",
+    "town": "岩崎町",
+    "romaji": "iwasakimachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/hodogaya/iwasakimachi-shieiiwasakijuutakufukin",
+    "sub": "市営岩崎住宅付近",
+    "slug": "yokohama/hodogaya/iwasakimachi-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -99125,10 +99125,10 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "初音ケ丘【",
+    "town": "初音ケ丘",
     "romaji": "hatsunekeoka",
-    "chome": "4・8番地付近】",
-    "sub": "",
+    "chome": "",
+    "sub": "4・8番地付近",
     "slug": "yokohama/hodogaya/hatsunekeoka-4-8",
     "types": {
       "burnable": {
@@ -99650,11 +99650,11 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "仏向町【サンシティ付近】",
-    "romaji": "hotokemukaimachi-sanshiteifukin",
+    "town": "仏向町",
+    "romaji": "hotokemukaimachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/hodogaya/hotokemukaimachi-sanshiteifukin",
+    "sub": "サンシティ付近",
+    "slug": "yokohama/hodogaya/hotokemukaimachi-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -99755,11 +99755,11 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "仏向町【和田町駅北側】",
-    "romaji": "hotokemukaimachi-wadamachiekikitagawa",
+    "town": "仏向町",
+    "romaji": "hotokemukaimachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/hodogaya/hotokemukaimachi-wadamachiekikitagawa",
+    "sub": "和田町駅北側",
+    "slug": "yokohama/hodogaya/hotokemukaimachi-3",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -99967,7 +99967,7 @@
     "ward_en": "hodogaya",
     "town": "法泉町",
     "romaji": "housenmachi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/hodogaya/housenmachi-1-3",
     "types": {
@@ -100282,8 +100282,8 @@
     "ward_en": "hodogaya",
     "town": "星川",
     "romaji": "hoshikawa",
-    "chome": "3丁目【8～11番地付近】",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "8~11番地付近",
     "slug": "yokohama/hodogaya/hoshikawa-3-8-11",
     "types": {
       "burnable": {
@@ -100387,7 +100387,7 @@
     "ward_en": "hodogaya",
     "town": "保土ケ谷町",
     "romaji": "hotsuchiketanimachi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/hodogaya/hotsuchiketanimachi-1-3",
     "types": {
@@ -100910,10 +100910,10 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "鎌谷町【",
+    "town": "鎌谷町",
     "romaji": "kamagayamachi",
-    "chome": "48～51番地付近】",
-    "sub": "",
+    "chome": "",
+    "sub": "48~51番地付近",
     "slug": "yokohama/hodogaya/kamagayamachi-48-51",
     "types": {
       "burnable": {
@@ -101122,7 +101122,7 @@
     "ward_en": "hodogaya",
     "town": "上星川",
     "romaji": "jouseikawa",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/hodogaya/jouseikawa-1-3",
     "types": {
@@ -101647,7 +101647,7 @@
     "ward_en": "hodogaya",
     "town": "権太坂",
     "romaji": "gontasaka",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/hodogaya/gontasaka-1-3",
     "types": {
@@ -101752,7 +101752,7 @@
     "ward_en": "hodogaya",
     "town": "峰岡町",
     "romaji": "mineokacho",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/hodogaya/mineokacho-1-3",
     "types": {
@@ -101857,8 +101857,8 @@
     "ward_en": "hodogaya",
     "town": "峰岡町",
     "romaji": "mineokacho",
-    "chome": "3丁目【桜道橋付近】",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "桜道橋付近",
     "slug": "yokohama/hodogaya/mineokacho-3",
     "types": {
       "burnable": {
@@ -102067,7 +102067,7 @@
     "ward_en": "hodogaya",
     "town": "宮田町",
     "romaji": "miyatamachi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/hodogaya/miyatamachi-1-3",
     "types": {
@@ -102382,8 +102382,8 @@
     "ward_en": "hodogaya",
     "town": "和田",
     "romaji": "wada",
-    "chome": "2丁目【常盤台公園付近】",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "常盤台公園付近",
     "slug": "yokohama/hodogaya/wada-2",
     "types": {
       "burnable": {
@@ -102695,11 +102695,11 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "境木本町【環状2号線沿い】",
-    "romaji": "sakaikimotomachi-kanjou2gousensoi",
+    "town": "境木本町",
+    "romaji": "sakaikimotomachi",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/hodogaya/sakaikimotomachi-kanjou2gousensoi",
+    "sub": "環状2号線沿い",
+    "slug": "yokohama/hodogaya/sakaikimotomachi-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -103430,11 +103430,11 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "常盤台【横浜新道西側】",
-    "romaji": "tokiwadai-yokohamashindounishigawa",
+    "town": "常盤台",
+    "romaji": "tokiwadai",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/hodogaya/tokiwadai-yokohamashindounishigawa",
+    "sub": "横浜新道西側",
+    "slug": "yokohama/hodogaya/tokiwadai",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -103535,11 +103535,11 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "常盤台【横浜新道東側】",
-    "romaji": "tokiwadai-yokohamashindouhigashigawa",
+    "town": "常盤台",
+    "romaji": "tokiwadai",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/hodogaya/tokiwadai-yokohamashindouhigashigawa",
+    "sub": "横浜新道東側",
+    "slug": "yokohama/hodogaya/tokiwadai-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -103640,11 +103640,11 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "西久保町【JR線路から西側】",
-    "romaji": "nishikubocho-jrsenrokaranishigawa",
+    "town": "西久保町",
+    "romaji": "nishikubocho",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/hodogaya/nishikubocho-jrsenrokaranishigawa",
+    "sub": "JR線路から西側",
+    "slug": "yokohama/hodogaya/nishikubocho",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -103745,11 +103745,11 @@
     "city_en": "yokohama",
     "ward": "保土ケ谷区",
     "ward_en": "hodogaya",
-    "town": "西久保町【JR線路から東側】",
-    "romaji": "nishikubocho-jrsenrokarahigashigawa",
+    "town": "西久保町",
+    "romaji": "nishikubocho",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/hodogaya/nishikubocho-jrsenrokarahigashigawa",
+    "sub": "JR線路から東側",
+    "slug": "yokohama/hodogaya/nishikubocho-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -103852,7 +103852,7 @@
     "ward_en": "hodogaya",
     "town": "西谷町・西谷",
     "romaji": "nishitanimachi-nishitani",
-    "chome": "1～４丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/hodogaya/nishitanimachi-nishitani-1-4",
     "types": {
@@ -104272,8 +104272,8 @@
     "ward_en": "midori",
     "town": "白山",
     "romaji": "hakusan",
-    "chome": "1丁目23・24番地",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "23・24番地",
     "slug": "yokohama/midori/hakusan-1-23-24",
     "types": {
       "burnable": {
@@ -104377,7 +104377,7 @@
     "ward_en": "midori",
     "town": "白山",
     "romaji": "hakusan",
-    "chome": "2～4丁目",
+    "chome": "2~4丁目",
     "sub": "",
     "slug": "yokohama/midori/hakusan-2-4",
     "types": {
@@ -104482,7 +104482,7 @@
     "ward_en": "midori",
     "town": "東本郷",
     "romaji": "higashimotosato",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/midori/higashimotosato-1-6",
     "types": {
@@ -104902,8 +104902,8 @@
     "ward_en": "midori",
     "town": "上山",
     "romaji": "ueyama",
-    "chome": "1～3丁目",
-    "sub": "２丁目の3～5を除く",
+    "chome": "1~3丁目",
+    "sub": "2丁目の3~5を除く",
     "slug": "yokohama/midori/ueyama-1-3-2-3-5",
     "types": {
       "burnable": {
@@ -105007,8 +105007,8 @@
     "ward_en": "midori",
     "town": "上山",
     "romaji": "ueyama",
-    "chome": "２丁目３・４・５番地",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "3・4・5番地",
     "slug": "yokohama/midori/ueyama-2-3-4-5",
     "types": {
       "burnable": {
@@ -105217,7 +105217,7 @@
     "ward_en": "midori",
     "town": "鴨居",
     "romaji": "kamoi",
-    "chome": "5～7丁目",
+    "chome": "5~7丁目",
     "sub": "",
     "slug": "yokohama/midori/kamoi-5-7",
     "types": {
@@ -105322,8 +105322,8 @@
     "ward_en": "midori",
     "town": "鴨居町",
     "romaji": "kamoimachi",
-    "chome": "200～399番地",
-    "sub": "",
+    "chome": "",
+    "sub": "200~399番地",
     "slug": "yokohama/midori/kamoimachi-200-399",
     "types": {
       "burnable": {
@@ -105427,8 +105427,8 @@
     "ward_en": "midori",
     "town": "鴨居町",
     "romaji": "kamoimachi",
-    "chome": "800～2699番地",
-    "sub": "",
+    "chome": "",
+    "sub": "800~2699番地",
     "slug": "yokohama/midori/kamoimachi-800-2699",
     "types": {
       "burnable": {
@@ -105637,7 +105637,7 @@
     "ward_en": "midori",
     "town": "霧が丘",
     "romaji": "kirigaoka",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/midori/kirigaoka-1-6",
     "types": {
@@ -105847,7 +105847,7 @@
     "ward_en": "midori",
     "town": "中山",
     "romaji": "nakayama",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/midori/nakayama-1-6",
     "types": {
@@ -105952,7 +105952,7 @@
     "ward_en": "midori",
     "town": "長津田",
     "romaji": "nagatsuda",
-    "chome": "1～7丁目",
+    "chome": "1~7丁目",
     "sub": "",
     "slug": "yokohama/midori/nagatsuda-1-7",
     "types": {
@@ -106162,7 +106162,7 @@
     "ward_en": "midori",
     "town": "長津田みなみ台",
     "romaji": "nagatsudaminamidai",
-    "chome": "1～6丁目",
+    "chome": "1~6丁目",
     "sub": "",
     "slug": "yokohama/midori/nagatsudaminamidai-1-6",
     "types": {
@@ -106267,8 +106267,8 @@
     "ward_en": "midori",
     "town": "長津田みなみ台",
     "romaji": "nagatsudaminamidai",
-    "chome": "7-1～8・33番地",
-    "sub": "",
+    "chome": "",
+    "sub": "7-1~8・33番地",
     "slug": "yokohama/midori/nagatsudaminamidai-7-1-8-33",
     "types": {
       "burnable": {
@@ -106372,8 +106372,8 @@
     "ward_en": "midori",
     "town": "長津田みなみ台",
     "romaji": "nagatsudaminamidai",
-    "chome": "7-9～32番地",
-    "sub": "",
+    "chome": "",
+    "sub": "7-9~32番地",
     "slug": "yokohama/midori/nagatsudaminamidai-7-9-32",
     "types": {
       "burnable": {
@@ -106792,7 +106792,7 @@
     "ward_en": "midori",
     "town": "竹山",
     "romaji": "takeyama",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/midori/takeyama-1-4",
     "types": {
@@ -107737,7 +107737,7 @@
     "ward_en": "minami",
     "town": "大岡",
     "romaji": "ooka",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/minami/ooka-1-5",
     "types": {
@@ -108157,7 +108157,7 @@
     "ward_en": "minami",
     "town": "日枝町",
     "romaji": "hiedamachi",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/minami/hiedamachi-1-5",
     "types": {
@@ -108584,7 +108584,8 @@
     "rules": {
       "holiday_collection": "祝日も収集",
       "time_by": "8:00",
-      "yearend": "12/31~1/3 休止"
+      "yearend": "12/31~1/3 休止",
+      "note": "南事務所にお問合せください。"
     },
     "source": {
       "url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/minami/hagyou.html",
@@ -108834,8 +108835,8 @@
     "ward_en": "minami",
     "town": "別所",
     "romaji": "bessho",
-    "chome": "2丁目5丁目側",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "5丁目側",
     "slug": "yokohama/minami/bessho-2-5",
     "types": {
       "burnable": {
@@ -109044,8 +109045,8 @@
     "ward_en": "minami",
     "town": "別所",
     "romaji": "bessho",
-    "chome": "3丁目ヒルズ上大岡ガーデニア",
-    "sub": "",
+    "chome": "3丁目",
+    "sub": "ヒルズ上大岡ガーデニア",
     "slug": "yokohama/minami/bessho-3-2",
     "types": {
       "burnable": {
@@ -109149,7 +109150,7 @@
     "ward_en": "minami",
     "town": "別所",
     "romaji": "bessho",
-    "chome": "4～7丁目",
+    "chome": "4~7丁目",
     "sub": "",
     "slug": "yokohama/minami/bessho-4-7",
     "types": {
@@ -109567,11 +109568,11 @@
     "city_en": "yokohama",
     "ward": "南区",
     "ward_en": "minami",
-    "town": "唐沢平楽境",
-    "romaji": "karasawaheirakusakai",
+    "town": "唐沢",
+    "romaji": "karasawa",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/minami/karasawaheirakusakai",
+    "sub": "平楽境",
+    "slug": "yokohama/minami/karasawa-2",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -109672,11 +109673,11 @@
     "city_en": "yokohama",
     "ward": "南区",
     "ward_en": "minami",
-    "town": "唐沢バス通り周辺",
-    "romaji": "karasawabasutorishuuhen",
+    "town": "唐沢",
+    "romaji": "karasawa",
     "chome": "",
-    "sub": "",
-    "slug": "yokohama/minami/karasawabasutorishuuhen",
+    "sub": "バス通り周辺",
+    "slug": "yokohama/minami/karasawa-3",
     "types": {
       "burnable": {
         "label": "燃やすごみ",
@@ -109779,7 +109780,7 @@
     "ward_en": "minami",
     "town": "共進町",
     "romaji": "kyoushinmachi",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/minami/kyoushinmachi-1-3",
     "types": {
@@ -110094,7 +110095,7 @@
     "ward_en": "minami",
     "town": "前里町",
     "romaji": "maesatomachi",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/minami/maesatomachi-1-4",
     "types": {
@@ -110409,7 +110410,7 @@
     "ward_en": "minami",
     "town": "南太田",
     "romaji": "minamiota",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/minami/minamiota-1-4",
     "types": {
@@ -110514,7 +110515,7 @@
     "ward_en": "minami",
     "town": "南吉田町",
     "romaji": "minamiyoshidamachi",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/minami/minamiyoshidamachi-1-5",
     "types": {
@@ -110934,8 +110935,8 @@
     "ward_en": "minami",
     "town": "六ツ川",
     "romaji": "rokutsukawa",
-    "chome": "1丁目サニーハイツ他2ヶ所",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "サニーハイツ他2ヶ所",
     "slug": "yokohama/minami/rokutsukawa-1-2",
     "types": {
       "burnable": {
@@ -111039,7 +111040,7 @@
     "ward_en": "minami",
     "town": "六ツ川",
     "romaji": "rokutsukawa",
-    "chome": "2～4丁目",
+    "chome": "2~4丁目",
     "sub": "",
     "slug": "yokohama/minami/rokutsukawa-2-4",
     "types": {
@@ -111249,7 +111250,7 @@
     "ward_en": "minami",
     "town": "中里",
     "romaji": "nakazato",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/minami/nakazato-1-4",
     "types": {
@@ -111774,7 +111775,7 @@
     "ward_en": "minami",
     "town": "永田北",
     "romaji": "nagatakita",
-    "chome": "1～3丁目",
+    "chome": "1~3丁目",
     "sub": "",
     "slug": "yokohama/minami/nagatakita-1-3",
     "types": {
@@ -112194,8 +112195,8 @@
     "ward_en": "minami",
     "town": "永田東",
     "romaji": "nagatahigashi",
-    "chome": "1丁目永田東2丁目境",
-    "sub": "",
+    "chome": "1丁目",
+    "sub": "永田東2丁目境",
     "slug": "yokohama/minami/nagatahigashi-1-2",
     "types": {
       "burnable": {
@@ -112404,7 +112405,7 @@
     "ward_en": "minami",
     "town": "永田南",
     "romaji": "nagataminami",
-    "chome": "1・２丁目",
+    "chome": "1・2丁目",
     "sub": "",
     "slug": "yokohama/minami/nagataminami-1-2",
     "types": {
@@ -112509,8 +112510,8 @@
     "ward_en": "minami",
     "town": "永田南",
     "romaji": "nagataminami",
-    "chome": "2丁目永田東2丁目境",
-    "sub": "",
+    "chome": "2丁目",
+    "sub": "永田東2丁目境",
     "slug": "yokohama/minami/nagataminami-2-2",
     "types": {
       "burnable": {
@@ -112824,7 +112825,7 @@
     "ward_en": "minami",
     "town": "山王町",
     "romaji": "sannoumachi",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/minami/sannoumachi-1-5",
     "types": {
@@ -113979,7 +113980,7 @@
     "ward_en": "minami",
     "town": "吉野町",
     "romaji": "yoshinocho",
-    "chome": "1～5丁目",
+    "chome": "1~5丁目",
     "sub": "",
     "slug": "yokohama/minami/yoshinocho-1-5",
     "types": {
@@ -114084,7 +114085,7 @@
     "ward_en": "minami",
     "town": "若宮町",
     "romaji": "wakamiyacho",
-    "chome": "1～4丁目",
+    "chome": "1~4丁目",
     "sub": "",
     "slug": "yokohama/minami/wakamiyacho-1-4",
     "types": {

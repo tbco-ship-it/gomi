@@ -47,39 +47,78 @@ def extract_nums(text: str) -> str:
     return "-".join(nums) if nums else ""
 
 
+import unicodedata
+
+
 def parse_town_str(raw_town: str) -> Tuple[str, str, str]:
-    raw_town = raw_town.strip().lstrip("※*・# ").strip()
+    raw_town = unicodedata.normalize("NFKC", raw_town).strip().lstrip("*#※・ ")
+    sub_parts: List[str] = []
 
-    note_part = ""
+    # 1. ※ notes
     if "※" in raw_town:
-        parts = raw_town.split("※", 1)
-        raw_town = parts[0]
-        note_part = parts[1].strip()
+        parts = raw_town.split("※")
+        raw_town = parts[0].strip()
+        for p in parts[1:]:
+            if p.strip():
+                sub_parts.append(p.strip())
 
-    m_paren = re.search(r"[（\(](.*?)[）\)]", raw_town)
-    paren_sub = m_paren.group(1).strip() if m_paren else ""
-    base = re.sub(r"[（\(].*?[）\)]", "", raw_town).strip()
+    # 2. 【...】 brackets
+    while "【" in raw_town and "】" in raw_town:
+        m = re.search(r"【(.*?)】", raw_town)
+        if not m:
+            break
+        sub_parts.append(m.group(1).strip())
+        raw_town = raw_town[: m.start()] + raw_town[m.end() :]
+        raw_town = raw_town.strip()
 
-    sub_parts = [p for p in [paren_sub, note_part] if p]
-    sub = " ".join(sub_parts)
+    # 3. (...) parens
+    while "(" in raw_town and ")" in raw_town:
+        m = re.search(r"\(([^()]*)\)", raw_town)
+        if not m:
+            break
+        sub_parts.append(m.group(1).strip())
+        raw_town = raw_town[: m.start()] + raw_town[m.end() :]
+        raw_town = raw_town.strip()
 
-    m_chome = re.search(r"([0-9０-９一二三四五六七八九十・～~〜\-]+丁目.*)$", base)
+    # Unclosed paren like '(本牧通り沿い'
+    if "(" in raw_town:
+        m = re.search(r"\(+(.*)$", raw_town)
+        if m:
+            sub_parts.append(m.group(1).strip())
+            raw_town = raw_town[: m.start()].strip()
+
+    base = raw_town.strip()
+
+    # 4. Check 丁目
+    m_chome = re.search(r"([0-9・~〜\-]+丁目)", base)
     if m_chome:
-        chome = m_chome.group(1)
-        town = base[: m_chome.start()]
+        chome = m_chome.group(1).strip()
+        town = base[: m_chome.start()].strip()
+        extra = base[m_chome.end() :].strip()
+        if extra:
+            sub_parts.insert(0, extra)
     else:
-        m_banchi = re.search(r"([0-9０-９一二三四五六七八九十・～~〜\-]+番(?:地)?.*)$", base)
-        if m_banchi:
-            chome = m_banchi.group(1)
-            town = base[: m_banchi.start()]
-        else:
-            chome = ""
-            town = base
-
-    if not town and chome:
-        town = chome
         chome = ""
+        m_dig = re.search(r"(第?\d+.*)$", base)
+        if m_dig:
+            town = base[: m_dig.start()].strip()
+            sub_parts.insert(0, m_dig.group(1).strip())
+        else:
+            text_sub_pat = r"(京急線.*側|称名寺一方通行側|環状線.*|柏葉公園通り側|本牧通り.*側|共立学園周辺|大鳥小学校周辺|バス通り周辺|平楽境|の一部.*)$"
+            m_text = re.search(text_sub_pat, base)
+            if m_text:
+                town = base[: m_text.start()].strip()
+                sub_parts.insert(0, m_text.group(1).strip())
+            else:
+                town = base
 
+    if town == "野庭町野庭町":
+        town = "野庭町"
+    if town.endswith("の一部"):
+        sub_parts.insert(0, "一部")
+        town = town[:-3].strip()
+
+    sub = " ".join(p for p in sub_parts if p).strip()
     return town.strip(), chome.strip(), sub.strip()
 
 
@@ -166,6 +205,21 @@ def normalize_yokohama(input_path: str, output_path: str):
                     "time": time_slot,
                 }
 
+        rules = {
+            "holiday_collection": "祝日も収集",
+            "time_by": "8:00",
+            "yearend": "12/31~1/3 休止",
+        }
+        if not types:
+            raw_sbd = r.get("schedule_by_day", {})
+            note_candidates = [v for v in raw_sbd.values() if "問合" in v or "事務所" in v]
+            if note_candidates:
+                rules["note"] = note_candidates[0]
+            elif raw_sbd:
+                rules["note"] = ", ".join(raw_sbd.values())
+            else:
+                rules["note"] = "事務所にお問合せください"
+
         record = {
             "pref": "神奈川県",
             "city": "横浜市",
@@ -178,11 +232,7 @@ def normalize_yokohama(input_path: str, output_path: str):
             "sub": sub,
             "slug": slug,
             "types": types,
-            "rules": {
-                "holiday_collection": "祝日も収集",
-                "time_by": "8:00",
-                "yearend": "12/31~1/3 休止",
-            },
+            "rules": rules,
             "source": {
                 "url": r.get("source_url", "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushu/"),
                 "fetched": TODAY_STR,

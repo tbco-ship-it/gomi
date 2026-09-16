@@ -6,6 +6,7 @@
   const JDAY = '日月火水木金土';
   const ORDER = ['burnable', 'resource', 'plastic', 'paper_cloth', 'nonburnable', 'bulky'];
   const COLOR = { burnable: '#ff7a00', resource: '#3182f6', plastic: '#00b06f', paper_cloth: '#8b5cf6', nonburnable: '#6b7684', bulky: '#f04452' };
+  const TAG = { ...COLOR, burnable: '#d95d00', plastic: '#00885a' }; // white text needs ≥3:1
   const now = new Date(); now.setHours(0, 0, 0, 0);
   const addDays = (d, n) => { const x = new Date(d); x.setDate(x.getDate() + n); return x; };
   const iso = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
@@ -27,7 +28,7 @@
     sub = today.length ? `今日(${md(now)})は ${today.map(lbl).join('・')} の日です。` : `今日(${md(now)})の収集はありません。`;
     const t0 = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], now)]).filter(x => x[1]).sort((a, b) => a[1] - b[1]);
     const upcoming = t0.map(([k, d]) => `<div class="item"><span class="dot" style="background:${COLOR[k]}"></span><b>${lbl(k)}</b>${types[k].time ? `<span class="tsub"> ${types[k].time}</span>` : ''}<span class="when">${rel(d)}</span></div>`).join('');
-    const week = Array.from({ length: 7 }, (_, i) => { const d = addDays(now, i); const ks = typesOn(types, d); return `<div class="day${i === 0 ? ' today' : ''}"><span class="dow">${i === 0 ? '今日' : JDAY[d.getDay()]}</span><span class="dnum">${d.getDate()}</span><span class="dots">${ks.map(k => `<span class="tag" style="background:${COLOR[k]}">${lbl(k).replace(/ごみ$|資源$/, '') || lbl(k)}</span>`).join('')}</span></div>`; }).join('');
+    const week = Array.from({ length: 7 }, (_, i) => { const d = addDays(now, i); const ks = typesOn(types, d); return `<div class="day${i === 0 ? ' today' : ''}"><span class="dow">${i === 0 ? '今日' : JDAY[d.getDay()]}</span><span class="dnum">${d.getDate()}</span><span class="dots">${ks.map(k => `<span class="tag" style="background:${TAG[k]}">${lbl(k).replace(/ごみ$|資源$/, '') || lbl(k)}</span>`).join('')}</span></div>`; }).join('');
     if (root) {
       root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${head}</span></div><p class="sheet-title">${sub}</p><div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">この住所のページ(番地の違い・.ics)</a></p></section><div class="week">${week}</div>`;
     } else {

@@ -65,10 +65,10 @@
   const input = $('addr'); if (!input) return;
   const out = $('result'), menu = $('addr-menu');
   const RAW = await (await fetch(base + 'static/index.json?v=' + v)).json();
-  const D = RAW.items.map(([c, w, we, t, ch, r, k, s, ty]) => ({ c, cn: RAW.cities[c], w, we, t, ch, r, k, s, ty: Object.fromEntries(Object.entries(ty).map(([tk, [d, wk, tm]]) => [tk, { l: RAW.labels[c][tk], d, w: wk, tm }])) }));
+  const D = RAW.items.map(([c, w, we, t, ch, r, k, s, ty]) => ({ c, cn: RAW.cities[c], w, we, t, ch, r, kana: k, s, ty: Object.fromEntries(Object.entries(ty).map(([tk, [d, wk, tm]]) => [tk, { l: RAW.labels[c][tk], d, w: wk, tm }])) }));
   const kata2hira = s => s.replace(/[ァ-ヶ]/g, c => String.fromCharCode(c.charCodeAt(0) - 0x60));
   const norm = s => kata2hira(s.toLowerCase()).replace(/[\s　]+/g, '').replace(/ヶ/g, 'ケ').replace(/丁目|ちょうめ/g, '');
-  D.forEach(e => { e.k = norm(e.cn + e.w + e.t + e.ch); e.k2 = norm(e.w + e.t + e.ch); e.rk = e.r.toLowerCase().replace(/\s+/g, ''); e.kn = (e.k || '').replace(/\s+/g, ''); e.name = e.w + e.t + e.ch; });
+  D.forEach(e => { e.k = norm(e.cn + e.w + e.t + e.ch); e.k2 = norm(e.w + e.t + e.ch); e.rk = e.r.toLowerCase().replace(/\s+/g, ''); e.kn = kata2hira(e.kana || '').replace(/\s+/g, ''); e.name = e.w + e.t + e.ch; });
   let items = [], active = -1;
   function open(q) {
     const nq = norm(q);

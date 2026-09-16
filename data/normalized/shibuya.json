@@ -1,0 +1,3590 @@
+[
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上原",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "uehara",
+    "slug": "shibuya/uehara-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "上原",
+      "chome": "1丁目",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上原",
+    "chome": "2丁目・3丁目",
+    "sub": "",
+    "romaji": "uehara",
+    "slug": "shibuya/uehara-2chome-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "上原",
+      "chome": "2丁目・3丁目",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "鶯谷町",
+    "chome": "",
+    "sub": "",
+    "romaji": "uguisudanimachi",
+    "slug": "shibuya/uguisudanimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "鶯谷町",
+      "chome": "",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "宇田川町",
+    "chome": "",
+    "sub": "繁華街は7:30",
+    "romaji": "udagawacho",
+    "slug": "shibuya/udagawacho-hankagaiha7-30",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "宇田川町",
+      "chome": "",
+      "sub": "繁華街は7:30",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "恵比寿",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "ebisu",
+    "slug": "shibuya/ebisu-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "恵比寿",
+      "chome": "1丁目・2丁目",
+      "sub": "",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "恵比寿",
+    "chome": "3丁目・4丁目",
+    "sub": "",
+    "romaji": "ebisu",
+    "slug": "shibuya/ebisu-3chome-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "恵比寿",
+      "chome": "3丁目・4丁目",
+      "sub": "",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "恵比寿西",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "ebisunishi",
+    "slug": "shibuya/ebisunishi-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "恵比寿西",
+      "chome": "1丁目・2丁目",
+      "sub": "",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "恵比寿南",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "ebisuminami",
+    "slug": "shibuya/ebisuminami-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "恵比寿南",
+      "chome": "1丁目",
+      "sub": "",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "恵比寿南",
+    "chome": "2丁目・3丁目",
+    "sub": "",
+    "romaji": "ebisuminami",
+    "slug": "shibuya/ebisuminami-2chome-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "恵比寿南",
+      "chome": "2丁目・3丁目",
+      "sub": "",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "大山町",
+    "chome": "",
+    "sub": "",
+    "romaji": "oyamacho",
+    "slug": "shibuya/oyamacho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "大山町",
+      "chome": "",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        4
+      ],
+      "resource": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "神山町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kamiyamamachi",
+    "slug": "shibuya/kamiyamamachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "神山町",
+      "chome": "",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "桜丘町",
+    "chome": "",
+    "sub": "繁華街は7:30",
+    "romaji": "sakuraokamachi",
+    "slug": "shibuya/sakuraokamachi-hankagaiha7-30",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "桜丘町",
+      "chome": "",
+      "sub": "繁華街は7:30",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "笹塚",
+    "chome": "1丁目",
+    "sub": "52〜64番除く",
+    "romaji": "sasazuka",
+    "slug": "shibuya/sasazuka-1chome-52-64bannozoku",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "笹塚",
+      "chome": "1丁目",
+      "sub": "52〜64番除く",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        4
+      ],
+      "resource": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "笹塚",
+    "chome": "1丁目(52〜64)・2丁目・3丁目",
+    "sub": "",
+    "romaji": "sasazuka",
+    "slug": "shibuya/sasazuka-1chome-52-64-2chome-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "笹塚",
+      "chome": "1丁目(52〜64)・2丁目・3丁目",
+      "sub": "",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        4
+      ],
+      "resource": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "猿楽町",
+    "chome": "",
+    "sub": "",
+    "romaji": "sarugakucho",
+    "slug": "shibuya/sarugakucho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "猿楽町",
+      "chome": "",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "渋谷",
+    "chome": "1丁目〜4丁目",
+    "sub": "",
+    "romaji": "shibuya",
+    "slug": "shibuya/shibuya-1chome-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "渋谷",
+      "chome": "1丁目〜4丁目",
+      "sub": "",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "渋谷",
+    "chome": "",
+    "sub": "7:30から収集を始める地域",
+    "romaji": "shibuya",
+    "slug": "shibuya/shibuya-7-30karashuushuuwohajimeruchiiki",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "渋谷",
+      "chome": "",
+      "sub": "7:30から収集を始める地域",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "松濤",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "shouto",
+    "slug": "shibuya/shouto-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "松濤",
+      "chome": "1丁目・2丁目",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "松濤",
+    "chome": "",
+    "sub": "7:30から収集を始める地域",
+    "romaji": "shouto",
+    "slug": "shibuya/shouto-7-30karashuushuuwohajimeruchiiki",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "松濤",
+      "chome": "",
+      "sub": "7:30から収集を始める地域",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "神宮前",
+    "chome": "1丁目",
+    "sub": "繁華街は7:30",
+    "romaji": "jinguumae",
+    "slug": "shibuya/jinguumae-1chome-hankagaiha7-30",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "神宮前",
+      "chome": "1丁目",
+      "sub": "繁華街は7:30",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "神宮前",
+    "chome": "2丁目〜4丁目",
+    "sub": "繁華街は7:30",
+    "romaji": "jinguumae",
+    "slug": "shibuya/jinguumae-2chome-4chome-hankagaiha7-30",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "神宮前",
+      "chome": "2丁目〜4丁目",
+      "sub": "繁華街は7:30",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "神宮前",
+    "chome": "5丁目",
+    "sub": "",
+    "romaji": "jinguumae",
+    "slug": "shibuya/jinguumae-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "神宮前",
+      "chome": "5丁目",
+      "sub": "",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "神宮前",
+    "chome": "6丁目",
+    "sub": "繁華街は7:30",
+    "romaji": "jinguumae",
+    "slug": "shibuya/jinguumae-6chome-hankagaiha7-30",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "神宮前",
+      "chome": "6丁目",
+      "sub": "繁華街は7:30",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "神泉町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kamiizumimachi",
+    "slug": "shibuya/kamiizumimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "神泉町",
+      "chome": "",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "神泉町",
+    "chome": "",
+    "sub": "7:30から収集を始める地域",
+    "romaji": "kamiizumimachi",
+    "slug": "shibuya/kamiizumimachi-7-30karashuushuuwohajimeruchiiki",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "神泉町",
+      "chome": "",
+      "sub": "7:30から収集を始める地域",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "神南",
+    "chome": "1丁目",
+    "sub": "繁華街は7:30",
+    "romaji": "jinnan",
+    "slug": "shibuya/jinnan-1chome-hankagaiha7-30",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "神南",
+      "chome": "1丁目",
+      "sub": "繁華街は7:30",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "千駄ヶ谷",
+    "chome": "1丁目〜4丁目",
+    "sub": "",
+    "romaji": "sendagaya",
+    "slug": "shibuya/sendagaya-1chome-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "千駄ヶ谷",
+      "chome": "1丁目〜4丁目",
+      "sub": "",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "千駄ヶ谷",
+    "chome": "5丁目・6丁目",
+    "sub": "",
+    "romaji": "sendagaya",
+    "slug": "shibuya/sendagaya-5chome-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "千駄ヶ谷",
+      "chome": "5丁目・6丁目",
+      "sub": "",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        4
+      ],
+      "resource": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代官山町",
+    "chome": "",
+    "sub": "",
+    "romaji": "daikanyamamachi",
+    "slug": "shibuya/daikanyamamachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "代官山町",
+      "chome": "",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "道玄坂",
+    "chome": "1丁目・2丁目1〜10",
+    "sub": "7:30",
+    "romaji": "dougenzaka",
+    "slug": "shibuya/dougenzaka-1chome-2chome1-10-7-30",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "道玄坂",
+      "chome": "1丁目・2丁目1〜10",
+      "sub": "7:30",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "道玄坂",
+    "chome": "2丁目(1〜10除く)",
+    "sub": "7:30",
+    "romaji": "dougenzaka",
+    "slug": "shibuya/dougenzaka-2chome-1-10nozoku-7-30",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "道玄坂",
+      "chome": "2丁目(1〜10除く)",
+      "sub": "7:30",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "富ヶ谷",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "tomiketani",
+    "slug": "shibuya/tomiketani-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "富ヶ谷",
+      "chome": "1丁目",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "富ヶ谷",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "tomiketani",
+    "slug": "shibuya/tomiketani-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "富ヶ谷",
+      "chome": "2丁目",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "南平台町",
+    "chome": "",
+    "sub": "",
+    "romaji": "nampeidaimachi",
+    "slug": "shibuya/nampeidaimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "南平台町",
+      "chome": "",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "西原",
+    "chome": "1丁目〜3丁目",
+    "sub": "",
+    "romaji": "nishihara",
+    "slug": "shibuya/nishihara-1chome-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "西原",
+      "chome": "1丁目〜3丁目",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "幡ヶ谷",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "hatagaya",
+    "slug": "shibuya/hatagaya-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "幡ヶ谷",
+      "chome": "1丁目",
+      "sub": "",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        4
+      ],
+      "resource": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "幡ヶ谷",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "hatagaya",
+    "slug": "shibuya/hatagaya-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "幡ヶ谷",
+      "chome": "2丁目",
+      "sub": "",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "幡ヶ谷",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "hatagaya",
+    "slug": "shibuya/hatagaya-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "幡ヶ谷",
+      "chome": "3丁目",
+      "sub": "",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "鉢山町",
+    "chome": "",
+    "sub": "",
+    "romaji": "hachiyamamachi",
+    "slug": "shibuya/hachiyamamachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "鉢山町",
+      "chome": "",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "初台",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "shodai",
+    "slug": "shibuya/shodai-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "初台",
+      "chome": "1丁目・2丁目",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        4
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "東",
+    "chome": "1丁目〜4丁目",
+    "sub": "",
+    "romaji": "higashi",
+    "slug": "shibuya/higashi-1chome-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "東",
+      "chome": "1丁目〜4丁目",
+      "sub": "",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "広尾",
+    "chome": "1丁目〜5丁目",
+    "sub": "",
+    "romaji": "hiroo",
+    "slug": "shibuya/hiroo-1chome-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "広尾",
+      "chome": "1丁目〜5丁目",
+      "sub": "",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        3
+      ],
+      "resource": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "shibuya/honcho-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "本町",
+      "chome": "1丁目",
+      "sub": "",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        4
+      ],
+      "resource": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "2丁目・4丁目・6丁目",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "shibuya/honcho-2chome-4chome-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "本町",
+      "chome": "2丁目・4丁目・6丁目",
+      "sub": "",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "3丁目・5丁目",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "shibuya/honcho-3chome-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "本町",
+      "chome": "3丁目・5丁目",
+      "sub": "",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        4
+      ],
+      "resource": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "円山町",
+    "chome": "",
+    "sub": "7:30",
+    "romaji": "maruyamacho",
+    "slug": "shibuya/maruyamacho-7-30",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "円山町",
+      "chome": "",
+      "sub": "7:30",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "元代々木町",
+    "chome": "",
+    "sub": "",
+    "romaji": "gendai-kurikaesi-kimachi",
+    "slug": "shibuya/gendai-kurikaesi-kimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "元代々木町",
+      "chome": "",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        4
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代々木",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "yoyogi",
+    "slug": "shibuya/yoyogi-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "代々木",
+      "chome": "1丁目・2丁目",
+      "sub": "",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代々木",
+    "chome": "3丁目・4丁目(8除く)",
+    "sub": "",
+    "romaji": "yoyogi",
+    "slug": "shibuya/yoyogi-3chome-4chome-8nozoku",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "代々木",
+      "chome": "3丁目・4丁目(8除く)",
+      "sub": "",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        4
+      ],
+      "resource": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代々木",
+    "chome": "4丁目8・5丁目57〜68",
+    "sub": "",
+    "romaji": "yoyogi",
+    "slug": "shibuya/yoyogi-4chome8-5chome57-68",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "代々木",
+      "chome": "4丁目8・5丁目57〜68",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代々木",
+    "chome": "5丁目(57〜68除く)",
+    "sub": "",
+    "romaji": "yoyogi",
+    "slug": "shibuya/yoyogi-5chome-57-68nozoku",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "代々木",
+      "chome": "5丁目(57〜68除く)",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2
+      ],
+      "resource": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "渋谷区",
+    "city_en": "shibuya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代々木神園町",
+    "chome": "",
+    "sub": "",
+    "romaji": "yoyogikamisonomachi",
+    "slug": "shibuya/yoyogikamisonomachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源回収日",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（繁華街等は朝7:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d8abc1886ec44007b30ec5c29999b2d3/syuusyuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "town": "代々木神園町",
+      "chome": "",
+      "sub": "",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1
+      ],
+      "resource": [
+        "月"
+      ]
+    }
+  }
+]

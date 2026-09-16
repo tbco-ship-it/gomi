@@ -1,0 +1,9205 @@
+[
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽",
+    "chome": "1丁目",
+    "sub": "1～9番",
+    "romaji": "akabane",
+    "slug": "kita/akabane-1chome-1-9ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽一丁目",
+      "地区": "1～9番",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4水曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽",
+    "chome": "1丁目",
+    "sub": "1～9番以外",
+    "romaji": "akabane",
+    "slug": "kita/akabane-1chome-1-9banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽一丁目",
+      "地区": "1～9番以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽",
+    "chome": "2丁目",
+    "sub": "1～6番",
+    "romaji": "akabane",
+    "slug": "kita/akabane-2chome-1-6ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽二丁目",
+      "地区": "1～6番",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4水曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽",
+    "chome": "2丁目",
+    "sub": "1～6番以外",
+    "romaji": "akabane",
+    "slug": "kita/akabane-2chome-1-6banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽二丁目",
+      "地区": "1～6番以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽",
+    "chome": "3丁目",
+    "sub": "1～6番",
+    "romaji": "akabane",
+    "slug": "kita/akabane-3chome-1-6ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽三丁目",
+      "地区": "1～6番",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽",
+    "chome": "3丁目",
+    "sub": "1～6番以外",
+    "romaji": "akabane",
+    "slug": "kita/akabane-3chome-1-6banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽三丁目",
+      "地区": "1～6番以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽北",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "akabanekita",
+    "slug": "kita/akabanekita-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽北一丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽北",
+    "chome": "2丁目",
+    "sub": "都市機構赤羽北二丁目団地",
+    "romaji": "akabanekita",
+    "slug": "kita/akabanekita-2chome-toshikikoakabanekitanichomedanchi",
+    "types": {
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "集積所の表示板に記載"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽北二丁目",
+      "地区": "都市機構赤羽北二丁目団地",
+      "可燃ごみ": "集積所の表示板に記載",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽北",
+    "chome": "2丁目",
+    "sub": "都市機構赤羽北二丁目団地以外",
+    "romaji": "akabanekita",
+    "slug": "kita/akabanekita-2chome-toshikikoakabanekitanichomedanchiigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽北二丁目",
+      "地区": "都市機構赤羽北二丁目団地以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽北",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "akabanekita",
+    "slug": "kita/akabanekita-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽北三丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽台",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "akabanedai",
+    "slug": "kita/akabanedai-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽台一丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽台",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "akabanedai",
+    "slug": "kita/akabanedai-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽台二丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽台",
+    "chome": "3丁目",
+    "sub": "1～6番",
+    "romaji": "akabanedai",
+    "slug": "kita/akabanedai-3chome-1-6ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽台三丁目",
+      "地区": "1～6番",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽台",
+    "chome": "3丁目",
+    "sub": "1～6番以外",
+    "romaji": "akabanedai",
+    "slug": "kita/akabanedai-3chome-1-6banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽台三丁目",
+      "地区": "1～6番以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽台",
+    "chome": "4丁目",
+    "sub": "16～17番",
+    "romaji": "akabanedai",
+    "slug": "kita/akabanedai-4chome-16-17ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽台四丁目",
+      "地区": "16～17番",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽台",
+    "chome": "4丁目",
+    "sub": "16～17番以外",
+    "romaji": "akabanedai",
+    "slug": "kita/akabanedai-4chome-16-17banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽台四丁目",
+      "地区": "16～17番以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽西",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "akabanenishi",
+    "slug": "kita/akabanenishi-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽西一丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽西",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "akabanenishi",
+    "slug": "kita/akabanenishi-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽西二丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽西",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "akabanenishi",
+    "slug": "kita/akabanenishi-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽西三丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽西",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "akabanenishi",
+    "slug": "kita/akabanenishi-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽西四丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽西",
+    "chome": "5丁目",
+    "sub": "",
+    "romaji": "akabanenishi",
+    "slug": "kita/akabanenishi-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽西五丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽西",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "akabanenishi",
+    "slug": "kita/akabanenishi-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽西六丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤羽南",
+    "chome": "",
+    "sub": "",
+    "romaji": "akabaneminami",
+    "slug": "kita/akabaneminami",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "赤羽南",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4水曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "岩淵町",
+    "chome": "",
+    "sub": "7番の一部",
+    "romaji": "iwabuchimachi",
+    "slug": "kita/iwabuchimachi-7bannoichibu",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "岩淵町",
+      "地区": "7番の一部",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3水曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "岩淵町",
+    "chome": "",
+    "sub": "7番の一部以外",
+    "romaji": "iwabuchimachi",
+    "slug": "kita/iwabuchimachi-7bannoichibuigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "岩淵町",
+      "地区": "7番の一部以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "ukima",
+    "slug": "kita/ukima-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間一丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "2丁目",
+    "sub": "9番19～31号",
+    "romaji": "ukima",
+    "slug": "kita/ukima-2chome-9ban19-31gou",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間二丁目",
+      "地区": "9番19～31号",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "2丁目",
+    "sub": "12～31番",
+    "romaji": "ukima",
+    "slug": "kita/ukima-2chome-12-31ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間二丁目",
+      "地区": "12～31番",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "2丁目",
+    "sub": "9番19～31号・12～31番以外",
+    "romaji": "ukima",
+    "slug": "kita/ukima-2chome-9ban19-31gou-12-31banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間二丁目",
+      "地区": "9番19～31号・12～31番以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "3丁目",
+    "sub": "1～4番・28番・31～32番",
+    "romaji": "ukima",
+    "slug": "kita/ukima-3chome-1-4ban-28ban-31-32ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間三丁目",
+      "地区": "1～4番・28番・31～32番",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4木曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "3丁目",
+    "sub": "1～4番・28番・31～32番以外",
+    "romaji": "ukima",
+    "slug": "kita/ukima-3chome-1-4ban-28ban-31-32banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間三丁目",
+      "地区": "1～4番・28番・31～32番以外",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "4丁目",
+    "sub": "1～9番",
+    "romaji": "ukima",
+    "slug": "kita/ukima-4chome-1-9ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間四丁目",
+      "地区": "1～9番",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "4丁目",
+    "sub": "31～32番の線路北側",
+    "romaji": "ukima",
+    "slug": "kita/ukima-4chome-31-32bannosenrokitagawa",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間四丁目",
+      "地区": "31～32番の線路北側",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "4丁目",
+    "sub": "1～9番・31～32番の線路北側以外",
+    "romaji": "ukima",
+    "slug": "kita/ukima-4chome-1-9ban-31-32bannosenrokitagawaigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間四丁目",
+      "地区": "1～9番・31～32番の線路北側以外",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "5丁目",
+    "sub": "1番",
+    "romaji": "ukima",
+    "slug": "kita/ukima-5chome-1ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間五丁目",
+      "地区": "1番",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "浮間",
+    "chome": "5丁目",
+    "sub": "1番以外",
+    "romaji": "ukima",
+    "slug": "kita/ukima-5chome-1banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "浮間五丁目",
+      "地区": "1番以外",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "神谷",
+    "chome": "1丁目",
+    "sub": "1～9番",
+    "romaji": "kamiya",
+    "slug": "kita/kamiya-1chome-1-9ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "神谷一丁目",
+      "地区": "1～9番",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "神谷",
+    "chome": "1丁目",
+    "sub": "1～9番以外",
+    "romaji": "kamiya",
+    "slug": "kita/kamiya-1chome-1-9banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "神谷一丁目",
+      "地区": "1～9番以外",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "神谷",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "kamiya",
+    "slug": "kita/kamiya-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "神谷二丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "神谷",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "kamiya",
+    "slug": "kita/kamiya-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "神谷三丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4水曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "桐ケ丘",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "kirikeoka",
+    "slug": "kita/kirikeoka-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "桐ケ丘一丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "桐ケ丘",
+    "chome": "2丁目",
+    "sub": "11番",
+    "romaji": "kirikeoka",
+    "slug": "kita/kirikeoka-2chome-11ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "桐ケ丘二丁目",
+      "地区": "11番",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "桐ケ丘",
+    "chome": "2丁目",
+    "sub": "11番以外",
+    "romaji": "kirikeoka",
+    "slug": "kita/kirikeoka-2chome-11banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "桐ケ丘二丁目",
+      "地区": "11番以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "志茂",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "shimo",
+    "slug": "kita/shimo-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "志茂一丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4水曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "志茂",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "shimo",
+    "slug": "kita/shimo-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "志茂二丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3水曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "志茂",
+    "chome": "3丁目",
+    "sub": "1～3番・6～13番",
+    "romaji": "shimo",
+    "slug": "kita/shimo-3chome-1-3ban-6-13ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "志茂三丁目",
+      "地区": "1～3番・6～13番",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4水曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "志茂",
+    "chome": "3丁目",
+    "sub": "1～3番・6～13番以外",
+    "romaji": "shimo",
+    "slug": "kita/shimo-3chome-1-3ban-6-13banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "志茂三丁目",
+      "地区": "1～3番・6～13番以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3水曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "志茂",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "shimo",
+    "slug": "kita/shimo-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "志茂四丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3水曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "志茂",
+    "chome": "5丁目",
+    "sub": "（5～7番・33番・34番・36番・39番・40番）の一部",
+    "romaji": "shimo",
+    "slug": "kita/shimo-5chome-5-7ban-33ban-34ban-36ban-39ban-40ban-noichibu",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "志茂五丁目",
+      "地区": "（5～7番・33番・34番・36番・39番・40番）の一部",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3土曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "志茂",
+    "chome": "5丁目",
+    "sub": "（5～7番・33番・34番・36番・39番・40番）の一部以外",
+    "romaji": "shimo",
+    "slug": "kita/shimo-5chome-5-7ban-33ban-34ban-36ban-39ban-40ban-noichibuigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "志茂五丁目",
+      "地区": "（5～7番・33番・34番・36番・39番・40番）の一部以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3水曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "西が丘",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "nishigaoka",
+    "slug": "kita/nishigaoka-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "西が丘一丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "西が丘",
+    "chome": "2丁目",
+    "sub": "1～2番",
+    "romaji": "nishigaoka",
+    "slug": "kita/nishigaoka-2chome-1-2ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "西が丘二丁目",
+      "地区": "1～2番",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "西が丘",
+    "chome": "2丁目",
+    "sub": "1～2番以外",
+    "romaji": "nishigaoka",
+    "slug": "kita/nishigaoka-2chome-1-2banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "西が丘二丁目",
+      "地区": "1～2番以外",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "西が丘",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "nishigaoka",
+    "slug": "kita/nishigaoka-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "西が丘三丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子",
+    "chome": "1丁目",
+    "sub": "1番・3番",
+    "romaji": "oji",
+    "slug": "kita/oji-1chome-1ban-3ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子一丁目",
+      "地区": "1番・3番",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子",
+    "chome": "1丁目",
+    "sub": "2番",
+    "romaji": "oji",
+    "slug": "kita/oji-1chome-2ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子一丁目",
+      "地区": "2番",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子",
+    "chome": "1丁目",
+    "sub": "29番～30番",
+    "romaji": "oji",
+    "slug": "kita/oji-1chome-29ban-30ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子一丁目",
+      "地区": "29番～30番",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子",
+    "chome": "1丁目",
+    "sub": "1番・3番・2番・29番～30番以外",
+    "romaji": "oji",
+    "slug": "kita/oji-1chome-1ban-3ban-2ban-29ban-30banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子一丁目",
+      "地区": "1番・3番・2番・29番～30番以外",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "oji",
+    "slug": "kita/oji-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子二丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "oji",
+    "slug": "kita/oji-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子三丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "oji",
+    "slug": "kita/oji-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子四丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子",
+    "chome": "5丁目",
+    "sub": "王子五丁目団地",
+    "romaji": "oji",
+    "slug": "kita/oji-5chome-ojigochomedanchi",
+    "types": {
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "集団回収（古紙）火曜日（プラスチック）"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "集積所の表示板に記載"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子五丁目",
+      "地区": "王子五丁目団地",
+      "可燃ごみ": "集積所の表示板に記載",
+      "不燃ごみ": "集積所の表示板に記載",
+      "古紙・プラスチック": "集団回収（古紙）火曜日（プラスチック）",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子",
+    "chome": "5丁目",
+    "sub": "王子五丁目団地以外",
+    "romaji": "oji",
+    "slug": "kita/oji-5chome-ojigochomedanchiigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子五丁目",
+      "地区": "王子五丁目団地以外",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "oji",
+    "slug": "kita/oji-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子六丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子本町",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "ojihoncho",
+    "slug": "kita/ojihoncho-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子本町一丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子本町",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "ojihoncho",
+    "slug": "kita/ojihoncho-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子本町二丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "王子本町",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "ojihoncho",
+    "slug": "kita/ojihoncho-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "王子本町三丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "上十条",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "uejuujou",
+    "slug": "kita/uejuujou-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "上十条一丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "上十条",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "uejuujou",
+    "slug": "kita/uejuujou-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "上十条二丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "上十条",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "uejuujou",
+    "slug": "kita/uejuujou-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "上十条三丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "上十条",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "uejuujou",
+    "slug": "kita/uejuujou-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "上十条四丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "上十条",
+    "chome": "5丁目",
+    "sub": "（1番・14番・17番・27～30番・40～42番・47番・48番）の一部",
+    "romaji": "uejuujou",
+    "slug": "kita/uejuujou-5chome-1ban-14ban-17ban-27-30ban-40-42ban-47ban-48ban-noichibu",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "上十条五丁目",
+      "地区": "（1番・14番・17番・27～30番・40～42番・47番・48番）の一部",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "上十条",
+    "chome": "5丁目",
+    "sub": "30番の一部",
+    "romaji": "uejuujou",
+    "slug": "kita/uejuujou-5chome-30bannoichibu",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "上十条五丁目",
+      "地区": "30番の一部",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "上十条",
+    "chome": "5丁目",
+    "sub": "（1番・14番・17番・27～30番・40～42番・47番・48番）の一部・30番の一部以外",
+    "romaji": "uejuujou",
+    "slug": "kita/uejuujou-5chome-1ban-14ban-17ban-27-30ban-40-42ban-47ban-48ban-noichibu-30bannoichibuigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "上十条五丁目",
+      "地区": "（1番・14番・17番・27～30番・40～42番・47番・48番）の一部・30番の一部以外",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "岸町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kishicho",
+    "slug": "kita/kishicho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "岸町",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "十条台",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "juujoudai",
+    "slug": "kita/juujoudai-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "十条台一丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "十条台",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "juujoudai",
+    "slug": "kita/juujoudai-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "十条台二丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "十条仲原",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "juujounakahara",
+    "slug": "kita/juujounakahara-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "十条仲原一丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "十条仲原",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "juujounakahara",
+    "slug": "kita/juujounakahara-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "十条仲原二丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "十条仲原",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "juujounakahara",
+    "slug": "kita/juujounakahara-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "十条仲原三丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "十条仲原",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "juujounakahara",
+    "slug": "kita/juujounakahara-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "十条仲原四丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島一丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "2丁目",
+    "sub": "1～11番",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-2chome-1-11ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島二丁目",
+      "地区": "1～11番",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "2丁目",
+    "sub": "23～26番",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-2chome-23-26ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島二丁目",
+      "地区": "23～26番",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "2丁目",
+    "sub": "1～11番・23～26番以外",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-2chome-1-11ban-23-26banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島二丁目",
+      "地区": "1～11番・23～26番以外",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "3丁目",
+    "sub": "（1～3番・10番）の一部",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-3chome-1-3ban-10ban-noichibu",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島三丁目",
+      "地区": "（1～3番・10番）の一部",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "3丁目",
+    "sub": "20～28番",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-3chome-20-28ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島三丁目",
+      "地区": "20～28番",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "3丁目",
+    "sub": "（1～3番・10番）の一部・20～28番以外",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-3chome-1-3ban-10ban-noichibu-20-28banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島三丁目",
+      "地区": "（1～3番・10番）の一部・20～28番以外",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "4丁目",
+    "sub": "1～9番",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-4chome-1-9ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島四丁目",
+      "地区": "1～9番",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "4丁目",
+    "sub": "1～9番以外",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-4chome-1-9banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島四丁目",
+      "地区": "1～9番以外",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "5丁目",
+    "sub": "豊島五丁目団地",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-5chome-toyoshimagochomedanchi",
+    "types": {
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "集積所の表示板に記載"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島五丁目",
+      "地区": "豊島五丁目団地",
+      "可燃ごみ": "集積所の表示板に記載",
+      "不燃ごみ": "集積所の表示板に記載",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "5丁目",
+    "sub": "豊島五丁目団地以外",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-5chome-toyoshimagochomedanchiigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島五丁目",
+      "地区": "豊島五丁目団地以外",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "6丁目",
+    "sub": "1番",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-6chome-1ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島六丁目",
+      "地区": "1番",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "6丁目",
+    "sub": "1番以外",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-6chome-1banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島六丁目",
+      "地区": "1番以外",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "7丁目",
+    "sub": "",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-7chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島七丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊島",
+    "chome": "8丁目",
+    "sub": "",
+    "romaji": "toyoshima",
+    "slug": "kita/toyoshima-8chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "豊島八丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "中十条",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "nakajuujou",
+    "slug": "kita/nakajuujou-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "中十条一丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "中十条",
+    "chome": "2丁目",
+    "sub": "10番の一部",
+    "romaji": "nakajuujou",
+    "slug": "kita/nakajuujou-2chome-10bannoichibu",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "中十条二丁目",
+      "地区": "10番の一部",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "中十条",
+    "chome": "2丁目",
+    "sub": "10番の一部以外",
+    "romaji": "nakajuujou",
+    "slug": "kita/nakajuujou-2chome-10bannoichibuigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "中十条二丁目",
+      "地区": "10番の一部以外",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "中十条",
+    "chome": "3丁目",
+    "sub": "35～36番",
+    "romaji": "nakajuujou",
+    "slug": "kita/nakajuujou-3chome-35-36ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "中十条三丁目",
+      "地区": "35～36番",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "中十条",
+    "chome": "3丁目",
+    "sub": "35～36番以外",
+    "romaji": "nakajuujou",
+    "slug": "kita/nakajuujou-3chome-35-36banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "中十条三丁目",
+      "地区": "35～36番以外",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "中十条",
+    "chome": "4丁目",
+    "sub": "（1番・8番・14番）の一部",
+    "romaji": "nakajuujou",
+    "slug": "kita/nakajuujou-4chome-1ban-8ban-14ban-noichibu",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "中十条四丁目",
+      "地区": "（1番・8番・14番）の一部",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "中十条",
+    "chome": "4丁目",
+    "sub": "（1番・8番・14番）の一部以外",
+    "romaji": "nakajuujou",
+    "slug": "kita/nakajuujou-4chome-1ban-8ban-14ban-noichibuigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "中十条四丁目",
+      "地区": "（1番・8番・14番）の一部以外",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "東十条",
+    "chome": "",
+    "sub": "",
+    "romaji": "higashijuujou",
+    "slug": "kita/higashijuujou",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "東十条",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4木曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "堀船",
+    "chome": "",
+    "sub": "",
+    "romaji": "horifune",
+    "slug": "kita/horifune",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "堀船",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "上中里",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "kaminakasato",
+    "slug": "kita/kaminakasato-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "上中里一丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "上中里",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "kaminakasato",
+    "slug": "kita/kaminakasato-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "上中里二丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "上中里",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "kaminakasato",
+    "slug": "kita/kaminakasato-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "上中里三丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "栄町",
+    "chome": "",
+    "sub": "",
+    "romaji": "sakaemachi",
+    "slug": "kita/sakaemachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "栄町",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "昭和町",
+    "chome": "",
+    "sub": "",
+    "romaji": "shouwacho",
+    "slug": "kita/shouwacho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "昭和町",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3木曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "滝野川",
+    "chome": "1丁目",
+    "sub": "92番～93番",
+    "romaji": "takinogawa",
+    "slug": "kita/takinogawa-1chome-92ban-93ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "滝野川一丁目",
+      "地区": "92番～93番",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3土曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "滝野川",
+    "chome": "1丁目",
+    "sub": "92番～93番以外",
+    "romaji": "takinogawa",
+    "slug": "kita/takinogawa-1chome-92ban-93banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "滝野川一丁目",
+      "地区": "92番～93番以外",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3土曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "滝野川",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "takinogawa",
+    "slug": "kita/takinogawa-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "滝野川二丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3土曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "滝野川",
+    "chome": "3丁目",
+    "sub": "1～3番・84～88番",
+    "romaji": "takinogawa",
+    "slug": "kita/takinogawa-3chome-1-3ban-84-88ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "滝野川三丁目",
+      "地区": "1～3番・84～88番",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "滝野川",
+    "chome": "3丁目",
+    "sub": "1～3番・84～88番以外",
+    "romaji": "takinogawa",
+    "slug": "kita/takinogawa-3chome-1-3ban-84-88banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "滝野川三丁目",
+      "地区": "1～3番・84～88番以外",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "滝野川",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "takinogawa",
+    "slug": "kita/takinogawa-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "滝野川四丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3水曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "滝野川",
+    "chome": "5丁目",
+    "sub": "",
+    "romaji": "takinogawa",
+    "slug": "kita/takinogawa-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "滝野川五丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4土曜日",
+      "古紙・プラスチック": "金曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "滝野川",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "takinogawa",
+    "slug": "kita/takinogawa-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "滝野川六丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第1・第3水曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "滝野川",
+    "chome": "7丁目",
+    "sub": "",
+    "romaji": "takinogawa",
+    "slug": "kita/takinogawa-7chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "滝野川七丁目",
+      "地区": "全域",
+      "可燃ごみ": "月曜日・木曜日",
+      "不燃ごみ": "第2・第4水曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "田端",
+    "chome": "1丁目",
+    "sub": "28～29番",
+    "romaji": "tabata",
+    "slug": "kita/tabata-1chome-28-29ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "田端一丁目",
+      "地区": "28～29番",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "田端",
+    "chome": "1丁目",
+    "sub": "28～29番以外",
+    "romaji": "tabata",
+    "slug": "kita/tabata-1chome-28-29banigai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "田端一丁目",
+      "地区": "28～29番以外",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "田端",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "tabata",
+    "slug": "kita/tabata-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "田端二丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "田端",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "tabata",
+    "slug": "kita/tabata-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "田端三丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "田端",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "tabata",
+    "slug": "kita/tabata-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "田端四丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "田端",
+    "chome": "5丁目",
+    "sub": "",
+    "romaji": "tabata",
+    "slug": "kita/tabata-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "田端五丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "田端",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "tabata",
+    "slug": "kita/tabata-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "田端六丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "土曜日",
+      "びん・缶・ペットボトル": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "田端新町",
+    "chome": "",
+    "sub": "",
+    "romaji": "tabatashimmachi",
+    "slug": "kita/tabatashimmachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "田端新町",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4木曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "中里",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "nakazato",
+    "slug": "kita/nakazato-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "中里一丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3金曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "中里",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "nakazato",
+    "slug": "kita/nakazato-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "中里二丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "中里",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "nakazato",
+    "slug": "kita/nakazato-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "中里三丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4金曜日",
+      "古紙・プラスチック": "木曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "西ケ原",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "nishikehara",
+    "slug": "kita/nishikehara-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "西ケ原一丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "火曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "西ケ原",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "nishikehara",
+    "slug": "kita/nishikehara-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "西ケ原二丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第1・第3火曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "西ケ原",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "nishikehara",
+    "slug": "kita/nishikehara-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "西ケ原三丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "西ケ原",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "nishikehara",
+    "slug": "kita/nishikehara-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "西ケ原四丁目",
+      "地区": "全域",
+      "可燃ごみ": "水曜日・土曜日",
+      "不燃ごみ": "第2・第4火曜日",
+      "古紙・プラスチック": "月曜日",
+      "びん・缶・ペットボトル": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "東田端",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "higashidahaji",
+    "slug": "kita/higashidahaji-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "東田端一丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第1・第3月曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "北区",
+    "city_en": "kita",
+    "ward": "",
+    "ward_en": "",
+    "town": "東田端",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "higashidahaji",
+    "slug": "kita/higashidahaji-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "古紙・プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶・ペットボトル",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.kita.tokyo.jp/kankyo/gomi/shushu/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "町名": "東田端二丁目",
+      "地区": "全域",
+      "可燃ごみ": "火曜日・金曜日",
+      "不燃ごみ": "第2・第4月曜日",
+      "古紙・プラスチック": "水曜日",
+      "びん・缶・ペットボトル": "月曜日"
+    }
+  }
+]

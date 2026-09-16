@@ -1,0 +1,3278 @@
+[
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "新井",
+    "chome": "1・2・4・5丁目",
+    "sub": "",
+    "romaji": "arai",
+    "slug": "nakano/arai-1-2-4-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "1",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "新井",
+      "丁目": "1;2;4;5",
+      "資源プラスチック": "木曜日",
+      "びん,ペットボトル": "金曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4土曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "新井",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "arai",
+    "slug": "nakano/arai-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "2",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "新井",
+      "丁目": "3",
+      "資源プラスチック": "木曜日",
+      "びん,ペットボトル": "金曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3土曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "江古田",
+    "chome": "1・3丁目",
+    "sub": "",
+    "romaji": "ekoda",
+    "slug": "nakano/ekoda-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "3",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "江古田",
+      "丁目": "1;3",
+      "資源プラスチック": "金曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4木曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "江古田",
+    "chome": "2・4丁目",
+    "sub": "",
+    "romaji": "ekoda",
+    "slug": "nakano/ekoda-2-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "4",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "江古田",
+      "丁目": "2;4",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3月曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "江原町",
+    "chome": "全域丁目",
+    "sub": "",
+    "romaji": "eharacho",
+    "slug": "nakano/eharacho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "5",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "江原町",
+      "丁目": "全域",
+      "資源プラスチック": "金曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4木曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "上鷺宮",
+    "chome": "全域丁目",
+    "sub": "",
+    "romaji": "kamisaginomiya",
+    "slug": "nakano/kamisaginomiya",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "6",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "上鷺宮",
+      "丁目": "全域",
+      "資源プラスチック": "月曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4水曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "上高田",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "kamitakada",
+    "slug": "nakano/kamitakada-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "7",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "上高田",
+      "丁目": "1",
+      "資源プラスチック": "土曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4金曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "上高田",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "kamitakada",
+    "slug": "nakano/kamitakada-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "8",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "上高田",
+      "丁目": "2",
+      "資源プラスチック": "木曜日",
+      "びん,ペットボトル": "金曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4土曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "上高田",
+    "chome": "3・4・5丁目",
+    "sub": "",
+    "romaji": "kamitakada",
+    "slug": "nakano/kamitakada-3-4-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "9",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "上高田",
+      "丁目": "3;4;5",
+      "資源プラスチック": "木曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4土曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "鷺宮",
+    "chome": "1・3丁目",
+    "sub": "",
+    "romaji": "saginomiya",
+    "slug": "nakano/saginomiya-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "10",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "鷺宮",
+      "丁目": "1;3",
+      "資源プラスチック": "月曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3水曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "鷺宮",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "saginomiya",
+    "slug": "nakano/saginomiya-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "11",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "鷺宮",
+      "丁目": "2",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3月曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "鷺宮",
+    "chome": "4・5・6丁目",
+    "sub": "",
+    "romaji": "saginomiya",
+    "slug": "nakano/saginomiya-4-5-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "12",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "鷺宮",
+      "丁目": "4;5;6",
+      "資源プラスチック": "月曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4水曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "白鷺",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "shirasagi",
+    "slug": "nakano/shirasagi-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "13",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "白鷺",
+      "丁目": "1;2",
+      "資源プラスチック": "月曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3水曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "白鷺",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "shirasagi",
+    "slug": "nakano/shirasagi-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "14",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "白鷺",
+      "丁目": "3",
+      "資源プラスチック": "月曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4水曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "中央",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "chuo",
+    "slug": "nakano/chuo-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "15",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "中央",
+      "丁目": "1;2",
+      "資源プラスチック": "土曜日",
+      "びん,ペットボトル": "木曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4火曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "中央",
+    "chome": "3・4・5丁目",
+    "sub": "",
+    "romaji": "chuo",
+    "slug": "nakano/chuo-3-4-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "16",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "中央",
+      "丁目": "3;4;5",
+      "資源プラスチック": "水曜日",
+      "びん,ペットボトル": "金曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3金曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "中野",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "nakano",
+    "slug": "nakano/nakano-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "17",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "中野",
+      "丁目": "1",
+      "資源プラスチック": "水曜日",
+      "びん,ペットボトル": "木曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4金曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "中野",
+    "chome": "2・3・5（毎日収集地域は除く）丁目",
+    "sub": "",
+    "romaji": "nakano",
+    "slug": "nakano/nakano-2-3-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "18",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "中野",
+      "丁目": "2;3;5（毎日収集地域は除く）",
+      "資源プラスチック": "水曜日",
+      "びん,ペットボトル": "金曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4金曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "中野",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "nakano",
+    "slug": "nakano/nakano-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "19",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "中野",
+      "丁目": "4",
+      "資源プラスチック": "水曜日",
+      "びん,ペットボトル": "金曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3土曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "中野",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "nakano",
+    "slug": "nakano/nakano-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "20",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "中野",
+      "丁目": "6",
+      "資源プラスチック": "土曜日",
+      "びん,ペットボトル": "木曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4金曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "沼袋",
+    "chome": "全域丁目",
+    "sub": "",
+    "romaji": "numabukuro",
+    "slug": "nakano/numabukuro",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "21",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "沼袋",
+      "丁目": "全域",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4月曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "野方",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "nogata",
+    "slug": "nakano/nogata-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "22",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "野方",
+      "丁目": "1;2",
+      "資源プラスチック": "木曜日",
+      "びん,ペットボトル": "金曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3土曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "野方",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "nogata",
+    "slug": "nakano/nogata-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "23",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "野方",
+      "丁目": "3",
+      "資源プラスチック": "木曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3土曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "野方",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "nogata",
+    "slug": "nakano/nogata-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "24",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "野方",
+      "丁目": "4",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4月曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "野方",
+    "chome": "5・6丁目",
+    "sub": "",
+    "romaji": "nogata",
+    "slug": "nakano/nogata-5-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "25",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "野方",
+      "丁目": "5;6",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3月曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "東中野",
+    "chome": "1・2・4・5丁目",
+    "sub": "",
+    "romaji": "higashinakano",
+    "slug": "nakano/higashinakano-1-2-4-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "26",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "東中野",
+      "丁目": "1;2;4;5",
+      "資源プラスチック": "土曜日",
+      "びん,ペットボトル": "木曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3火曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "東中野",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "higashinakano",
+    "slug": "nakano/higashinakano-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "27",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "東中野",
+      "丁目": "3",
+      "資源プラスチック": "土曜日",
+      "びん,ペットボトル": "木曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4金曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "nakano/honcho-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "28",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "本町",
+      "丁目": "1;2",
+      "資源プラスチック": "土曜日",
+      "びん,ペットボトル": "木曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4火曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "nakano/honcho-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "29",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "本町",
+      "丁目": "3",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "木曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4木曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "4・5・6丁目",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "nakano/honcho-4-5-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "30",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "本町",
+      "丁目": "4;5;6",
+      "資源プラスチック": "水曜日",
+      "びん,ペットボトル": "土曜日",
+      "燃やすごみ": "月曜日;木曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3金曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "松が丘",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "matsugaoka",
+    "slug": "nakano/matsugaoka-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "31",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "松が丘",
+      "丁目": "1",
+      "資源プラスチック": "木曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4土曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "松が丘",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "matsugaoka",
+    "slug": "nakano/matsugaoka-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "32",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "松が丘",
+      "丁目": "2",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4月曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "丸山",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "maruyama",
+    "slug": "nakano/maruyama-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "33",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "丸山",
+      "丁目": "1",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "火曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3月曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "丸山",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "maruyama",
+    "slug": "nakano/maruyama-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "34",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "丸山",
+      "丁目": "2",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3月曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "南台",
+    "chome": "全域丁目",
+    "sub": "",
+    "romaji": "minamidai",
+    "slug": "nakano/minamidai",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "35",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "南台",
+      "丁目": "全域",
+      "資源プラスチック": "金曜日",
+      "びん,ペットボトル": "土曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3木曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "大和町",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "yamatocho",
+    "slug": "nakano/yamatocho-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "36",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "大和町",
+      "丁目": "1;2",
+      "資源プラスチック": "木曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3土曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "大和町",
+    "chome": "3・4丁目",
+    "sub": "",
+    "romaji": "yamatocho",
+    "slug": "nakano/yamatocho-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "37",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "大和町",
+      "丁目": "3;4",
+      "資源プラスチック": "月曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3土曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "弥生町",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "yayoicho",
+    "slug": "nakano/yayoicho-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "38",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "弥生町",
+      "丁目": "1",
+      "資源プラスチック": "金曜日",
+      "びん,ペットボトル": "土曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4木曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "弥生町",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "yayoicho",
+    "slug": "nakano/yayoicho-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "39",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "弥生町",
+      "丁目": "2",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "土曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第2;第4木曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "弥生町",
+    "chome": "3・4・5・6丁目",
+    "sub": "",
+    "romaji": "yayoicho",
+    "slug": "nakano/yayoicho-3-4-5-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "40",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "弥生町",
+      "丁目": "3;4;5;6",
+      "資源プラスチック": "金曜日",
+      "びん,ペットボトル": "土曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3木曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "若宮",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "wakamiya",
+    "slug": "nakano/wakamiya-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "41",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "若宮",
+      "丁目": "1",
+      "資源プラスチック": "火曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "水曜日;土曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3月曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中野区",
+    "city_en": "nakano",
+    "ward": "",
+    "ward_en": "",
+    "town": "若宮",
+    "chome": "2・3丁目",
+    "sub": "",
+    "romaji": "wakamiya",
+    "slug": "nakano/wakamiya-2-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "陶器,ガラス,金属ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん,ペットボトル",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで（びん・ペットボトルは朝8:30まで）",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www2.wagmap.jp/nakanodatamap/nakanodatamap/opendatafile/map_1/CSV/opendata_550239.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "市区町村コード": "131148",
+      "NO": "42",
+      "都道府県名": "東京都",
+      "市区町村名": "中野区",
+      "町名": "若宮",
+      "丁目": "2;3",
+      "資源プラスチック": "月曜日",
+      "びん,ペットボトル": "水曜日",
+      "燃やすごみ": "火曜日;金曜日",
+      "陶器,ガラス,金属ごみ": "第1;第3水曜日",
+      "URL": "",
+      "備考": "",
+      "最終確認日": "2021/02/08 0:00:00",
+      "経度": "139.663826537922",
+      "緯度": "35.7073459549499",
+      "分類": "資源とごみの収集曜日一覧"
+    }
+  }
+]

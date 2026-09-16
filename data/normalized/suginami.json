@@ -1,0 +1,5046 @@
+[
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "阿佐谷北",
+    "chome": "1~6丁目",
+    "sub": "",
+    "romaji": "asagayakita",
+    "slug": "suginami/asagayakita-1-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158647",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "阿佐谷北",
+      "chome": "1～6丁目",
+      "areaId": "158647",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "金"
+      ],
+      "pet": [
+        "月"
+      ],
+      "plastic": [
+        "金"
+      ],
+      "paper": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "阿佐谷南",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "asagayaminami",
+    "slug": "suginami/asagayaminami-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          3,
+          5
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158648",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "阿佐谷南",
+      "chome": "1～3丁目",
+      "areaId": "158648",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        3,
+        5
+      ],
+      "binkan": [
+        "金"
+      ],
+      "pet": [
+        "月"
+      ],
+      "plastic": [
+        "金"
+      ],
+      "paper": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "天沼",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "amanuma",
+    "slug": "suginami/amanuma-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158649",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "天沼",
+      "chome": "1～3丁目",
+      "areaId": "158649",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "木"
+      ],
+      "pet": [
+        "水"
+      ],
+      "plastic": [
+        "木"
+      ],
+      "paper": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "井草",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "igusa",
+    "slug": "suginami/igusa-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158650",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "井草",
+      "chome": "1～3丁目",
+      "areaId": "158650",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "木"
+      ],
+      "pet": [
+        "水"
+      ],
+      "plastic": [
+        "木"
+      ],
+      "paper": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "井草",
+    "chome": "4・5丁目",
+    "sub": "",
+    "romaji": "igusa",
+    "slug": "suginami/igusa-4-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158651",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "井草",
+      "chome": "4・5丁目",
+      "areaId": "158651",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "月"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "月"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "和泉",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "izumi",
+    "slug": "suginami/izumi-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158652",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "和泉",
+      "chome": "1丁目",
+      "areaId": "158652",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "火"
+      ],
+      "pet": [
+        "金"
+      ],
+      "plastic": [
+        "火"
+      ],
+      "paper": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "和泉",
+    "chome": "2~4丁目",
+    "sub": "",
+    "romaji": "izumi",
+    "slug": "suginami/izumi-2-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158653",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "和泉",
+      "chome": "2～4丁目",
+      "areaId": "158653",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "火"
+      ],
+      "pet": [
+        "金"
+      ],
+      "plastic": [
+        "火"
+      ],
+      "paper": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "今川",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "imagawa",
+    "slug": "suginami/imagawa-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158654",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "今川",
+      "chome": "1～3丁目",
+      "areaId": "158654",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "月"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "月"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "今川",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "imagawa",
+    "slug": "suginami/imagawa-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158655",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "今川",
+      "chome": "4丁目",
+      "areaId": "158655",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "月"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "月"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "梅里",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "umezato",
+    "slug": "suginami/umezato-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158656",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "梅里",
+      "chome": "1丁目",
+      "areaId": "158656",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "金"
+      ],
+      "pet": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ],
+      "paper": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "梅里",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "umezato",
+    "slug": "suginami/umezato-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          3,
+          5
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158657",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "梅里",
+      "chome": "2丁目",
+      "areaId": "158657",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        3,
+        5
+      ],
+      "binkan": [
+        "金"
+      ],
+      "pet": [
+        "月"
+      ],
+      "plastic": [
+        "金"
+      ],
+      "paper": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "永福",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "eifuku",
+    "slug": "suginami/eifuku-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158658",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "永福",
+      "chome": "1～4丁目",
+      "areaId": "158658",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "土"
+      ],
+      "pet": [
+        "水"
+      ],
+      "plastic": [
+        "土"
+      ],
+      "paper": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "大宮",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "omiya",
+    "slug": "suginami/omiya-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158659",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "大宮",
+      "chome": "1・2丁目",
+      "areaId": "158659",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "金"
+      ],
+      "pet": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ],
+      "paper": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "荻窪",
+    "chome": "1~5丁目",
+    "sub": "",
+    "romaji": "ogikubo",
+    "slug": "suginami/ogikubo-1-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158660",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "荻窪",
+      "chome": "1～5丁目",
+      "areaId": "158660",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "火"
+      ],
+      "pet": [
+        "木"
+      ],
+      "plastic": [
+        "火"
+      ],
+      "paper": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "上井草",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "kamiigusa",
+    "slug": "suginami/kamiigusa-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158661",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "上井草",
+      "chome": "1・2丁目",
+      "areaId": "158661",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "月"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "月"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "上井草",
+    "chome": "3・4丁目",
+    "sub": "",
+    "romaji": "kamiigusa",
+    "slug": "suginami/kamiigusa-3-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158662",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "上井草",
+      "chome": "3・4丁目",
+      "areaId": "158662",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "月"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "月"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "上荻",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "kamiogi",
+    "slug": "suginami/kamiogi-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158663",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "上荻",
+      "chome": "1丁目",
+      "areaId": "158663",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "火"
+      ],
+      "pet": [
+        "木"
+      ],
+      "plastic": [
+        "火"
+      ],
+      "paper": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "上荻",
+    "chome": "2~4丁目",
+    "sub": "",
+    "romaji": "kamiogi",
+    "slug": "suginami/kamiogi-2-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158664",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "上荻",
+      "chome": "2～4丁目",
+      "areaId": "158664",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "月"
+      ],
+      "pet": [
+        "金"
+      ],
+      "plastic": [
+        "月"
+      ],
+      "paper": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "上高井戸",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "kamitakaiko",
+    "slug": "suginami/kamitakaiko-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158665",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "上高井戸",
+      "chome": "1～3丁目",
+      "areaId": "158665",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "土"
+      ],
+      "pet": [
+        "火"
+      ],
+      "plastic": [
+        "土"
+      ],
+      "paper": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "久我山",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "kugayama",
+    "slug": "suginami/kugayama-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158666",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "久我山",
+      "chome": "1～3丁目",
+      "areaId": "158666",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "土"
+      ],
+      "pet": [
+        "火"
+      ],
+      "plastic": [
+        "土"
+      ],
+      "paper": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "久我山",
+    "chome": "4・5丁目",
+    "sub": "",
+    "romaji": "kugayama",
+    "slug": "suginami/kugayama-4-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158667",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "久我山",
+      "chome": "4・5丁目",
+      "areaId": "158667",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "土"
+      ],
+      "pet": [
+        "火"
+      ],
+      "plastic": [
+        "土"
+      ],
+      "paper": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "高円寺北",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "koenjikita",
+    "slug": "suginami/koenjikita-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158668",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "高円寺北",
+      "chome": "1丁目",
+      "areaId": "158668",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "木"
+      ],
+      "pet": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ],
+      "paper": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "高円寺北",
+    "chome": "2~4丁目",
+    "sub": "",
+    "romaji": "koenjikita",
+    "slug": "suginami/koenjikita-2-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158669",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "高円寺北",
+      "chome": "2～4丁目",
+      "areaId": "158669",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "月"
+      ],
+      "pet": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ],
+      "paper": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "高円寺南",
+    "chome": "1・5丁目",
+    "sub": "",
+    "romaji": "koenjiminami",
+    "slug": "suginami/koenjiminami-1-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158670",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "高円寺南",
+      "chome": "1・5丁目",
+      "areaId": "158670",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "木"
+      ],
+      "pet": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ],
+      "paper": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "高円寺南",
+    "chome": "2~4丁目",
+    "sub": "",
+    "romaji": "koenjiminami",
+    "slug": "suginami/koenjiminami-2-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158671",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "高円寺南",
+      "chome": "2～4丁目",
+      "areaId": "158671",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "月"
+      ],
+      "pet": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ],
+      "paper": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "清水",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "shimizu",
+    "slug": "suginami/shimizu-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158672",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "清水",
+      "chome": "1・2丁目",
+      "areaId": "158672",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "木"
+      ],
+      "pet": [
+        "水"
+      ],
+      "plastic": [
+        "木"
+      ],
+      "paper": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "清水",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "shimizu",
+    "slug": "suginami/shimizu-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158673",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "清水",
+      "chome": "3丁目",
+      "areaId": "158673",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "木"
+      ],
+      "pet": [
+        "水"
+      ],
+      "plastic": [
+        "木"
+      ],
+      "paper": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "下井草",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "shimoigusa",
+    "slug": "suginami/shimoigusa-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158674",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "下井草",
+      "chome": "1丁目",
+      "areaId": "158674",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "木"
+      ],
+      "pet": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ],
+      "paper": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "下井草",
+    "chome": "2~5丁目",
+    "sub": "",
+    "romaji": "shimoigusa",
+    "slug": "suginami/shimoigusa-2-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158675",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "下井草",
+      "chome": "2～5丁目",
+      "areaId": "158675",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "木"
+      ],
+      "pet": [
+        "水"
+      ],
+      "plastic": [
+        "木"
+      ],
+      "paper": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "下高井戸",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "shimotakaido",
+    "slug": "suginami/shimotakaido-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158676",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "下高井戸",
+      "chome": "1～4丁目",
+      "areaId": "158676",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "土"
+      ],
+      "pet": [
+        "水"
+      ],
+      "plastic": [
+        "土"
+      ],
+      "paper": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "下高井戸",
+    "chome": "5丁目",
+    "sub": "",
+    "romaji": "shimotakaido",
+    "slug": "suginami/shimotakaido-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158677",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "下高井戸",
+      "chome": "5丁目",
+      "areaId": "158677",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "水"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "松庵",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "shouan",
+    "slug": "suginami/shouan-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158678",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "松庵",
+      "chome": "1～3丁目",
+      "areaId": "158678",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "水"
+      ],
+      "pet": [
+        "金"
+      ],
+      "plastic": [
+        "水"
+      ],
+      "paper": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "善福寺",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "zempukuji",
+    "slug": "suginami/zempukuji-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158679",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "善福寺",
+      "chome": "1～4丁目",
+      "areaId": "158679",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "月"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "月"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "高井戸西",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "takaidonishi",
+    "slug": "suginami/takaidonishi-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158680",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "高井戸西",
+      "chome": "1丁目",
+      "areaId": "158680",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "土"
+      ],
+      "pet": [
+        "火"
+      ],
+      "plastic": [
+        "土"
+      ],
+      "paper": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "高井戸西",
+    "chome": "2・3丁目",
+    "sub": "",
+    "romaji": "takaidonishi",
+    "slug": "suginami/takaidonishi-2-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158681",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "高井戸西",
+      "chome": "2・3丁目",
+      "areaId": "158681",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "土"
+      ],
+      "pet": [
+        "火"
+      ],
+      "plastic": [
+        "土"
+      ],
+      "paper": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "高井戸東",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "takaidohigashi",
+    "slug": "suginami/takaidohigashi-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158682",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "高井戸東",
+      "chome": "1～4丁目",
+      "areaId": "158682",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "水"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "成田西",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "naritanishi",
+    "slug": "suginami/naritanishi-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158683",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "成田西",
+      "chome": "1・2丁目",
+      "areaId": "158683",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "火"
+      ],
+      "pet": [
+        "木"
+      ],
+      "plastic": [
+        "火"
+      ],
+      "paper": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "成田西",
+    "chome": "3・4丁目",
+    "sub": "",
+    "romaji": "naritanishi",
+    "slug": "suginami/naritanishi-3-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158684",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "成田西",
+      "chome": "3・4丁目",
+      "areaId": "158684",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "火"
+      ],
+      "pet": [
+        "木"
+      ],
+      "plastic": [
+        "火"
+      ],
+      "paper": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "成田東",
+    "chome": "1~5丁目",
+    "sub": "",
+    "romaji": "naritahigashi",
+    "slug": "suginami/naritahigashi-1-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158685",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "成田東",
+      "chome": "1～5丁目",
+      "areaId": "158685",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "火"
+      ],
+      "pet": [
+        "木"
+      ],
+      "plastic": [
+        "火"
+      ],
+      "paper": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "西荻北",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "nishiogikita",
+    "slug": "suginami/nishiogikita-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158686",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "西荻北",
+      "chome": "1・2丁目",
+      "areaId": "158686",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "水"
+      ],
+      "pet": [
+        "金"
+      ],
+      "plastic": [
+        "水"
+      ],
+      "paper": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "西荻北",
+    "chome": "3~5丁目",
+    "sub": "",
+    "romaji": "nishiogikita",
+    "slug": "suginami/nishiogikita-3-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158687",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "西荻北",
+      "chome": "3～5丁目",
+      "areaId": "158687",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "水"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "西荻南",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "nishiogiminami",
+    "slug": "suginami/nishiogiminami-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158688",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "西荻南",
+      "chome": "1～4丁目",
+      "areaId": "158688",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "水"
+      ],
+      "pet": [
+        "金"
+      ],
+      "plastic": [
+        "水"
+      ],
+      "paper": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "浜田山",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "hamadayama",
+    "slug": "suginami/hamadayama-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158689",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "浜田山",
+      "chome": "1～4丁目",
+      "areaId": "158689",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "水"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "方南",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "hounan",
+    "slug": "suginami/hounan-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158690",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "方南",
+      "chome": "1・2丁目",
+      "areaId": "158690",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "火"
+      ],
+      "pet": [
+        "金"
+      ],
+      "plastic": [
+        "火"
+      ],
+      "paper": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "堀ノ内",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "horinonai",
+    "slug": "suginami/horinonai-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158691",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "堀ノ内",
+      "chome": "1～3丁目",
+      "areaId": "158691",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "金"
+      ],
+      "pet": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ],
+      "paper": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "本天沼",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "honamanuma",
+    "slug": "suginami/honamanuma-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "木",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158692",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "本天沼",
+      "chome": "1～3丁目",
+      "areaId": "158692",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "木"
+      ],
+      "pet": [
+        "水"
+      ],
+      "plastic": [
+        "木"
+      ],
+      "paper": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "松ノ木",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "matsunoki",
+    "slug": "suginami/matsunoki-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "土",
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158693",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "松ノ木",
+      "chome": "1～3丁目",
+      "areaId": "158693",
+      "burnable": [
+        "土",
+        "水"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "金"
+      ],
+      "pet": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ],
+      "paper": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "南荻窪",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "minamiogikubo",
+    "slug": "suginami/minamiogikubo-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158694",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "南荻窪",
+      "chome": "1～4丁目",
+      "areaId": "158694",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "水"
+      ],
+      "pet": [
+        "金"
+      ],
+      "plastic": [
+        "水"
+      ],
+      "paper": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "宮前",
+    "chome": "1・4・5丁目",
+    "sub": "",
+    "romaji": "miyamae",
+    "slug": "suginami/miyamae-1-4-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158695",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "宮前",
+      "chome": "1・4・5丁目",
+      "areaId": "158695",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "土"
+      ],
+      "pet": [
+        "火"
+      ],
+      "plastic": [
+        "土"
+      ],
+      "paper": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "宮前",
+    "chome": "2・3丁目",
+    "sub": "",
+    "romaji": "miyamae",
+    "slug": "suginami/miyamae-2-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158696",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "宮前",
+      "chome": "2・3丁目",
+      "areaId": "158696",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "binkan": [
+        "土"
+      ],
+      "pet": [
+        "金"
+      ],
+      "plastic": [
+        "土"
+      ],
+      "paper": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "桃井",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "momoi",
+    "slug": "suginami/momoi-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "土",
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158697",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "桃井",
+      "chome": "1～4丁目",
+      "areaId": "158697",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "binkan": [
+        "月"
+      ],
+      "pet": [
+        "土"
+      ],
+      "plastic": [
+        "月"
+      ],
+      "paper": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "杉並区",
+    "city_en": "suginami",
+    "ward": "",
+    "ward_en": "",
+    "town": "和田",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "wada",
+    "slug": "suginami/wada-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          3,
+          5
+        ],
+        "time": "朝8:30まで"
+      },
+      "resource": {
+        "label": "びん・かん・ペットボトル",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      },
+      "paper_cloth": {
+        "label": "古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://manage.delight-system.com/threeR/web/calendar?menu=calendar&jichitaiId=suginamiku&areaId=158698",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "town": "和田",
+      "chome": "1～3丁目",
+      "areaId": "158698",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        3,
+        5
+      ],
+      "binkan": [
+        "木"
+      ],
+      "pet": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ],
+      "paper": [
+        "月"
+      ]
+    }
+  }
+]

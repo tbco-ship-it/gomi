@@ -1,0 +1,2303 @@
+[
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "秋葉原",
+    "chome": "",
+    "sub": "",
+    "romaji": "akihabara",
+    "slug": "taito/akihabara",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "あ",
+      "町丁名": "秋葉原",
+      "資源": "水曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の1回目・3回目の土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "浅草",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "asakusa",
+    "slug": "taito/asakusa-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "あ",
+      "町丁名": "浅草1丁目・浅草2丁目",
+      "資源": "木曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の1回目・3回目の月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "浅草",
+    "chome": "3・4・5・6・7丁目",
+    "sub": "",
+    "romaji": "asakusa",
+    "slug": "taito/asakusa-3-4-5-6-7",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "あ",
+      "町丁名": "浅草3丁目・浅草4丁目・浅草5丁目・浅草6丁目・浅草7丁目",
+      "資源": "月曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の1回目・3回目の木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "浅草橋",
+    "chome": "1・2・3・4・5丁目",
+    "sub": "",
+    "romaji": "asakusabashi",
+    "slug": "taito/asakusabashi-1-2-3-4-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "あ",
+      "町丁名": "浅草橋1丁目・浅草橋2丁目・浅草橋3丁目・浅草橋4丁目・浅草橋5丁目",
+      "資源": "土曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の1回目・3回目の水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "池之端",
+    "chome": "1・2・3・4丁目",
+    "sub": "",
+    "romaji": "ikenohata",
+    "slug": "taito/ikenohata-1-2-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "い",
+      "町丁名": "池之端1丁目・池之端2丁目・池之端3丁目・池之端4丁目",
+      "資源": "水曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の2回目・4回目の土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "今戸",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "imado",
+    "slug": "taito/imado-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "い",
+      "町丁名": "今戸1丁目・今戸2丁目",
+      "資源": "火曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の1回目・3回目の金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "入谷",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "iriya",
+    "slug": "taito/iriya-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "い",
+      "町丁名": "入谷1丁目・入谷2丁目",
+      "資源": "金曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の1回目・3回目の火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "上野",
+    "chome": "1・2・3・4・5・6・7丁目",
+    "sub": "",
+    "romaji": "ueno",
+    "slug": "taito/ueno-1-2-3-4-5-6-7",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "う",
+      "町丁名": "上野1丁目・上野2丁目・上野3丁目・上野4丁目・上野5丁目・上野6丁目・上野7丁目",
+      "資源": "水曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の1回目・3回目の土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "上野公園",
+    "chome": "",
+    "sub": "",
+    "romaji": "uenokoen",
+    "slug": "taito/uenokoen",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "う",
+      "町丁名": "上野公園",
+      "資源": "水曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の2回目・4回目の土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "上野桜木",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "uenosakuragi",
+    "slug": "taito/uenosakuragi-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "う",
+      "町丁名": "上野桜木1丁目・上野桜木2丁目",
+      "資源": "水曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の1回目・3回目の土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "雷門",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "kaminarimon",
+    "slug": "taito/kaminarimon-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "か",
+      "町丁名": "雷門1丁目・雷門2丁目",
+      "資源": "木曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の1回目・3回目の月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "北上野",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "kitakamino",
+    "slug": "taito/kitakamino-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "き",
+      "町丁名": "北上野1丁目・北上野2丁目",
+      "資源": "月曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の2回目・4回目の木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "清川",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "kiyokawa",
+    "slug": "taito/kiyokawa-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "き",
+      "町丁名": "清川1丁目・清川2丁目",
+      "資源": "火曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の1回目・3回目の金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "蔵前",
+    "chome": "1・2・3・4丁目",
+    "sub": "",
+    "romaji": "kuramae",
+    "slug": "taito/kuramae-1-2-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "く",
+      "町丁名": "蔵前1丁目・蔵前2丁目・蔵前3丁目・蔵前4丁目",
+      "資源": "木曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の2回目・4回目の月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "小島",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "kojima",
+    "slug": "taito/kojima-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "こ",
+      "町丁名": "小島1丁目・小島2丁目",
+      "資源": "土曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の1回目・3回目の水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "寿",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "hisashi",
+    "slug": "taito/hisashi-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "こ",
+      "町丁名": "寿1丁目・寿2丁目",
+      "資源": "木曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の2回目・4回目の月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "寿",
+    "chome": "3・4丁目",
+    "sub": "",
+    "romaji": "hisashi",
+    "slug": "taito/hisashi-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "こ",
+      "町丁名": "寿3丁目・寿4丁目",
+      "資源": "木曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の1回目・3回目の月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "駒形",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "komagata",
+    "slug": "taito/komagata-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "こ",
+      "町丁名": "駒形1丁目・駒形2丁目",
+      "資源": "木曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の1回目・3回目の月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "下谷",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "shitaya",
+    "slug": "taito/shitaya-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "し",
+      "町丁名": "下谷1丁目",
+      "資源": "金曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の2回目・4回目の火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "下谷",
+    "chome": "2・3丁目",
+    "sub": "",
+    "romaji": "shitaya",
+    "slug": "taito/shitaya-2-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "し",
+      "町丁名": "下谷2丁目・下谷3丁目",
+      "資源": "金曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の1回目・3回目の火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "千束",
+    "chome": "1・2・3・4丁目",
+    "sub": "",
+    "romaji": "senzoku",
+    "slug": "taito/senzoku-1-2-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "せ",
+      "町丁名": "千束1丁目・千束2丁目・千束3丁目・千束4丁目",
+      "資源": "火曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の2回目・4回目の金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "台東",
+    "chome": "1・2・3・4丁目",
+    "sub": "",
+    "romaji": "taito",
+    "slug": "taito/taito-1-2-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "た",
+      "町丁名": "台東1丁目・台東2丁目・台東3丁目・台東4丁目",
+      "資源": "土曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の2回目・4回目の水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "鳥越",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "torigoe",
+    "slug": "taito/torigoe-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "と",
+      "町丁名": "鳥越1丁目・鳥越2丁目",
+      "資源": "土曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の1回目・3回目の水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "西浅草",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "nishiasakusa",
+    "slug": "taito/nishiasakusa-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "に",
+      "町丁名": "西浅草1丁目・西浅草2丁目",
+      "資源": "月曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の2回目・4回目の木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "西浅草",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "nishiasakusa",
+    "slug": "taito/nishiasakusa-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "に",
+      "町丁名": "西浅草3丁目",
+      "資源": "月曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の1回目・3回目の木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "日本堤",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "nippontsutsumi",
+    "slug": "taito/nippontsutsumi-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "に",
+      "町丁名": "日本堤1丁目・日本堤2丁目",
+      "資源": "火曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の2回目・4回目の金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "根岸",
+    "chome": "1・2・3・4・5丁目",
+    "sub": "",
+    "romaji": "negishi",
+    "slug": "taito/negishi-1-2-3-4-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "ね",
+      "町丁名": "根岸1丁目、根岸2丁目・根岸3丁目・根岸4丁目・根岸5丁目",
+      "資源": "金曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の2回目・4回目の火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "橋場",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "hashiba",
+    "slug": "taito/hashiba-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "は",
+      "町丁名": "橋場1丁目・橋場2丁目",
+      "資源": "火曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の1回目・3回目の金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "花川戸",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "hanakawado",
+    "slug": "taito/hanakawado-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "は",
+      "町丁名": "花川戸1丁目・花川戸2丁目",
+      "資源": "木曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の1回目・3回目の月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "東浅草",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "higashiasakusa",
+    "slug": "taito/higashiasakusa-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "ひ",
+      "町丁名": "東浅草1丁目・東浅草2丁目",
+      "資源": "火曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の1回目・3回目の金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "東上野",
+    "chome": "1・2・3丁目",
+    "sub": "",
+    "romaji": "higashiueno",
+    "slug": "taito/higashiueno-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "ひ",
+      "町丁名": "東上野1丁目・東上野2丁目・東上野3丁目",
+      "資源": "土曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の2回目・4回目の水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "東上野",
+    "chome": "4・5・6丁目",
+    "sub": "",
+    "romaji": "higashiueno",
+    "slug": "taito/higashiueno-4-5-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "ひ",
+      "町丁名": "東上野4丁目・東上野5丁目・東上野6丁目",
+      "資源": "水曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の1回目・3回目の土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "松が谷",
+    "chome": "1・2・3・4丁目",
+    "sub": "",
+    "romaji": "matsugatani",
+    "slug": "taito/matsugatani-1-2-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "ま",
+      "町丁名": "松が谷1丁目・松が谷2丁目・松が谷3丁目・松が谷4丁目",
+      "資源": "月曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の2回目・4回目の木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "三筋",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "misuji",
+    "slug": "taito/misuji-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "み",
+      "町丁名": "三筋1丁目・三筋2丁目",
+      "資源": "木曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の2回目・4回目の月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "三ノ輪",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "sannowa",
+    "slug": "taito/sannowa-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "み",
+      "町丁名": "三ノ輪1丁目・三ノ輪2丁目",
+      "資源": "金曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の1回目・3回目の火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "元浅草",
+    "chome": "1・2・3・4丁目",
+    "sub": "",
+    "romaji": "motoasakusa",
+    "slug": "taito/motoasakusa-1-2-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "も",
+      "町丁名": "元浅草1丁目・元浅草2丁目・元浅草3丁目・元浅草4丁目",
+      "資源": "木曜",
+      "燃やすごみ": "火曜・金曜",
+      "燃やさないごみ": "その月の2回目・4回目の月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "谷中",
+    "chome": "1・2・3・4・5・6・7丁目",
+    "sub": "",
+    "romaji": "yanaka",
+    "slug": "taito/yanaka-1-2-3-4-5-6-7",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "や",
+      "町丁名": "谷中1丁目・谷中2丁目・谷中3丁目・谷中4丁目・谷中5丁目・谷中6丁目・谷中7丁目",
+      "資源": "水曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の2回目・4回目の土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "柳橋",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "yagihashi",
+    "slug": "taito/yagihashi-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "や",
+      "町丁名": "柳橋1丁目・柳橋2丁目",
+      "資源": "土曜",
+      "燃やすごみ": "月曜・木曜",
+      "燃やさないごみ": "その月の1回目・3回目の水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "台東区",
+    "city_en": "taito",
+    "ward": "",
+    "ward_en": "",
+    "town": "竜泉",
+    "chome": "1・2・3丁目",
+    "sub": "",
+    "romaji": "ryuusen",
+    "slug": "taito/ryuusen-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.taito.lg.jp/kusei/online/opendata/koutu/gomibunbetuitiran.files/tiikibetusyuusyuuyoubiitiran.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "索引": "り",
+      "町丁名": "竜泉1丁目・竜泉2丁目・竜泉3丁目",
+      "資源": "金曜",
+      "燃やすごみ": "水曜・土曜",
+      "燃やさないごみ": "その月の1回目・3回目の火曜日"
+    }
+  }
+]

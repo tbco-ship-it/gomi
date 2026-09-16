@@ -1,0 +1,5384 @@
+[
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "飯田橋",
+    "chome": "1丁目",
+    "sub": "・四丁目",
+    "romaji": "iidabashi",
+    "slug": "chiyoda/iidabashi-1chome-shiteime",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "イ",
+      "住所": "飯田橋一丁目・四丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第２・４月曜日",
+      "資源": "土",
+      "プラスチック": "水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "飯田橋",
+    "chome": "2丁目",
+    "sub": "・三丁目",
+    "romaji": "iidabashi",
+    "slug": "chiyoda/iidabashi-2chome-sanchome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "飯田橋二丁目・三丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第１・３月曜日",
+      "資源": "土",
+      "プラスチック": "水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "一番町",
+    "chome": "",
+    "sub": "1・2・3・4・5・7・9・11・23・25・27・29・31番地",
+    "romaji": "ichibancho",
+    "slug": "chiyoda/ichibancho-1-2-3-4-5-7-9-11-23-25-27-29-31banchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "一番町1・2・3・4・5・7・9・11・23・25・27・29・31番地",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第１・３金曜日",
+      "資源": "木",
+      "プラスチック": "月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "一番町",
+    "chome": "",
+    "sub": "6・8・10・12・13・14・15・16・17・18・19・20・21・22番地",
+    "romaji": "ichibancho",
+    "slug": "chiyoda/ichibancho-6-8-10-12-13-14-15-16-17-18-19-20-21-22banchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "一番町6・8・10・12・13・14・15・16・17・18・19・20・21・22番地",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４金曜日",
+      "資源": "木",
+      "プラスチック": "月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "岩本町",
+    "chome": "1丁目",
+    "sub": "~三丁目",
+    "romaji": "iwamotomachi",
+    "slug": "chiyoda/iwamotomachi-1chome-sanchome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "岩本町一丁目～三丁目",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "内神田",
+    "chome": "1丁目",
+    "sub": "~二丁目・三丁目(13・18・19・20・21・22番を除く)",
+    "romaji": "uchigamita",
+    "slug": "chiyoda/uchigamita-1chome-nichome-sanchome-13-18-19-20-21-22banwonozoku",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "ウ",
+      "住所": "内神田一丁目～二丁目・三丁目（13・18・19・20・21・22番を除く）",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "内神田",
+    "chome": "3丁目",
+    "sub": "13・18・19・20・21・22番",
+    "romaji": "uchigamita",
+    "slug": "chiyoda/uchigamita-3chome-13-18-19-20-21-22ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "内神田三丁目13・18・19・20・21・22番",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "内幸町",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "uchisaiwaicho",
+    "slug": "chiyoda/uchisaiwaicho-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "内幸町一丁目～二丁目",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "大手町",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "otemachi",
+    "slug": "chiyoda/otemachi-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "オ",
+      "住所": "大手町一丁目～二丁目",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "鍛冶町",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "kajicho",
+    "slug": "chiyoda/kajicho-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "カ",
+      "住所": "鍛冶町一丁目～二丁目",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "霞が関",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "kasumigaseki",
+    "slug": "chiyoda/kasumigaseki-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "霞が関三丁目",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田相生町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandaaioicho",
+    "slug": "chiyoda/kandaaioicho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田相生町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田淡路町",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "kandaawajicho",
+    "slug": "chiyoda/kandaawajicho-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田淡路町一丁目～二丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第１・３木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田和泉町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandaizumicho",
+    "slug": "chiyoda/kandaizumicho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田和泉町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田岩本町",
+    "chome": "",
+    "sub": "1・15番地",
+    "romaji": "kandaiwamotomachi",
+    "slug": "chiyoda/kandaiwamotomachi-1-15banchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田岩本町1・15番地",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田岩本町",
+    "chome": "",
+    "sub": "2・4番地",
+    "romaji": "kandaiwamotomachi",
+    "slug": "chiyoda/kandaiwamotomachi-2-4banchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田岩本町2・4番地",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田小川町",
+    "chome": "1丁目",
+    "sub": "~三丁目の奇数番地",
+    "romaji": "kandaogawacho",
+    "slug": "chiyoda/kandaogawacho-1chome-sanchomenokisuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田小川町一丁目～三丁目の奇数番地",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田小川町",
+    "chome": "1丁目",
+    "sub": "の偶数番地",
+    "romaji": "kandaogawacho",
+    "slug": "chiyoda/kandaogawacho-1chome-noguusuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田小川町一丁目の偶数番地",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第１・３木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田小川町",
+    "chome": "2丁目",
+    "sub": "~三丁目の偶数番地",
+    "romaji": "kandaogawacho",
+    "slug": "chiyoda/kandaogawacho-2chome-sanchomenoguusuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田小川町二丁目～三丁目の偶数番地",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第２・４木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田鍛冶町",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "kandakajicho",
+    "slug": "chiyoda/kandakajicho-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田鍛冶町三丁目",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田北乗物町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandakitanorimonomachi",
+    "slug": "chiyoda/kandakitanorimonomachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田北乗物町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田紺屋町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandakonyamachi",
+    "slug": "chiyoda/kandakonyamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田紺屋町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田佐久間町",
+    "chome": "1丁目",
+    "sub": "~四丁目",
+    "romaji": "kandasakumamachi",
+    "slug": "chiyoda/kandasakumamachi-1chome-shiteime",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田佐久間町一丁目～四丁目",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田佐久間河岸",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandasakumakashi",
+    "slug": "chiyoda/kandasakumakashi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田佐久間河岸",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田猿楽町丁目",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "kandasarugakuchochome",
+    "slug": "chiyoda/kandasarugakuchochome-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田猿楽町丁目一丁目～二丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第２・４木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田神保町",
+    "chome": "1丁目",
+    "sub": "~三丁目の奇数番地",
+    "romaji": "kandajinbocho",
+    "slug": "chiyoda/kandajinbocho-1chome-sanchomenokisuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田神保町一丁目～三丁目の奇数番地",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田神保町",
+    "chome": "1丁目",
+    "sub": "~二丁目の偶数番地",
+    "romaji": "kandajinbocho",
+    "slug": "chiyoda/kandajinbocho-1chome-nichomenoguusuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田神保町一丁目～二丁目の偶数番地",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第２・４木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田神保町",
+    "chome": "3丁目",
+    "sub": "の偶数番地",
+    "romaji": "kandajinbocho",
+    "slug": "chiyoda/kandajinbocho-3chome-noguusuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田神保町三丁目の偶数番地",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第１・３月曜日",
+      "資源": "土",
+      "プラスチック": "水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田須田町",
+    "chome": "1丁目",
+    "sub": "1・3・5・9・11・13・15・17・19・21・23・25番地",
+    "romaji": "kandasudacho",
+    "slug": "chiyoda/kandasudacho-1chome-1-3-5-9-11-13-15-17-19-21-23-25banchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田須田町一丁目1・3・5・9・11・13･15･17･19･21･23･25番地",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第１・３木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田須田町",
+    "chome": "1丁目",
+    "sub": "7番地",
+    "romaji": "kandasudacho",
+    "slug": "chiyoda/kandasudacho-1chome-7banchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田須田町一丁目7番地",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田須田町",
+    "chome": "1丁目",
+    "sub": "の偶数番地",
+    "romaji": "kandasudacho",
+    "slug": "chiyoda/kandasudacho-1chome-noguusuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田須田町一丁目の偶数番地",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田須田町",
+    "chome": "2丁目",
+    "sub": "の奇数番地",
+    "romaji": "kandasudacho",
+    "slug": "chiyoda/kandasudacho-2chome-nokisuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田須田町二丁目の奇数番地",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田須田町",
+    "chome": "2丁目",
+    "sub": "の偶数番地",
+    "romaji": "kandasudacho",
+    "slug": "chiyoda/kandasudacho-2chome-noguusuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田須田町二丁目の偶数番地",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田駿河台",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "kandasurugadai",
+    "slug": "chiyoda/kandasurugadai-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田駿河台一丁目～二丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第２・４木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田駿河台",
+    "chome": "3丁目",
+    "sub": "~四丁目の奇数番地",
+    "romaji": "kandasurugadai",
+    "slug": "chiyoda/kandasurugadai-3chome-shiteimenokisuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田駿河台三丁目～四丁目の奇数番地",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第２・４木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田駿河台",
+    "chome": "3丁目",
+    "sub": "~四丁目の偶数番地",
+    "romaji": "kandasurugadai",
+    "slug": "chiyoda/kandasurugadai-3chome-shiteimenoguusuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田駿河台三丁目～四丁目の偶数番地",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第１・３木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田多町",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "kandatacho",
+    "slug": "chiyoda/kandatacho-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田多町二丁目",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田司町",
+    "chome": "2丁目",
+    "sub": "の奇数番地",
+    "romaji": "kandatsukasamachi",
+    "slug": "chiyoda/kandatsukasamachi-2chome-nokisuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田司町二丁目の奇数番地",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田司町",
+    "chome": "2丁目",
+    "sub": "の偶数番地",
+    "romaji": "kandatsukasamachi",
+    "slug": "chiyoda/kandatsukasamachi-2chome-noguusuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田司町二丁目の偶数番地",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田富山町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandatoyamamachi",
+    "slug": "chiyoda/kandatoyamamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "カ",
+      "住所": "神田富山町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田錦町",
+    "chome": "1丁目",
+    "sub": "~三丁目",
+    "romaji": "kandanishikicho",
+    "slug": "chiyoda/kandanishikicho-1chome-sanchome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田錦町一丁目～三丁目",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田西福田町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandasaifukutamachi",
+    "slug": "chiyoda/kandasaifukutamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田西福田町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田練塀町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandaneribeimachi",
+    "slug": "chiyoda/kandaneribeimachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田練塀町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田花岡町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandahanaokamachi",
+    "slug": "chiyoda/kandahanaokamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田花岡町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田東紺屋町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandahigashikonyamachi",
+    "slug": "chiyoda/kandahigashikonyamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田東紺屋町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田東松下町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandahigashimatsushitamachi",
+    "slug": "chiyoda/kandahigashimatsushitamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田東松下町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田平河町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandahirakawacho",
+    "slug": "chiyoda/kandahirakawacho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田平河町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田松永町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandamatsunagamachi",
+    "slug": "chiyoda/kandamatsunagamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田松永町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田美倉町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandamikuramachi",
+    "slug": "chiyoda/kandamikuramachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田美倉町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田",
+    "chome": "3崎町1丁目",
+    "sub": "",
+    "romaji": "kanda",
+    "slug": "chiyoda/kanda-3sakimachi1chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田三崎町一丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第２・４木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田",
+    "chome": "3崎町2丁目",
+    "sub": "~三丁目",
+    "romaji": "kanda",
+    "slug": "chiyoda/kanda-3sakimachi2chome-sanchome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田三崎町二丁目～三丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第１・３月曜日",
+      "資源": "土",
+      "プラスチック": "水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "神田美土代町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kandamitoshirocho",
+    "slug": "chiyoda/kandamitoshirocho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "神田美土代町",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "紀尾井町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kioicho",
+    "slug": "chiyoda/kioicho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "キ",
+      "住所": "紀尾井町",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "北の丸公園",
+    "chome": "",
+    "sub": "",
+    "romaji": "kitanomarukosono",
+    "slug": "chiyoda/kitanomarukosono",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "北の丸公園",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第１・３金曜日",
+      "資源": "木",
+      "プラスチック": "月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "九段北一丁目",
+    "chome": "",
+    "sub": "1~11番",
+    "romaji": "kudankitaitchome",
+    "slug": "chiyoda/kudankitaitchome-1-11ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "ク",
+      "住所": "九段北一丁目１～11番",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第１・３月曜日",
+      "資源": "土",
+      "プラスチック": "水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "九段北一丁目",
+    "chome": "",
+    "sub": "12~15番・二丁目~四丁目",
+    "romaji": "kudankitaitchome",
+    "slug": "chiyoda/kudankitaitchome-12-15ban-nichome-shiteime",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "九段北一丁目12～15番・二丁目～四丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第２・４月曜日",
+      "資源": "土",
+      "プラスチック": "水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "九段南一丁目~四丁目",
+    "chome": "",
+    "sub": "",
+    "romaji": "kudanminamiitchome-shiteime",
+    "slug": "chiyoda/kudanminamiitchome-shiteime",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "九段南一丁目～四丁目",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第１・３金曜日",
+      "資源": "木",
+      "プラスチック": "月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "麹町",
+    "chome": "1丁目",
+    "sub": "~六丁目の奇数番地",
+    "romaji": "kojimachi",
+    "slug": "chiyoda/kojimachi-1chome-rokuchomenokisuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "コ",
+      "住所": "麹町一丁目～六丁目の奇数番地",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "麹町",
+    "chome": "1丁目",
+    "sub": "~六丁目の偶数番地",
+    "romaji": "kojimachi",
+    "slug": "chiyoda/kojimachi-1chome-rokuchomenoguusuubanchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "麹町一丁目～六丁目の偶数番地",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第１・３火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "五番町",
+    "chome": "",
+    "sub": "",
+    "romaji": "gobancho",
+    "slug": "chiyoda/gobancho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "五番町",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４金曜日",
+      "資源": "木",
+      "プラスチック": "月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "三番町",
+    "chome": "",
+    "sub": "1・2・3・5・6・8・10・26・28・30番地",
+    "romaji": "sambancho",
+    "slug": "chiyoda/sambancho-1-2-3-5-6-8-10-26-28-30banchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "サ",
+      "住所": "三番町1・2・3・5・6・8・10・26・28・30番地",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第１・３金曜日",
+      "資源": "木",
+      "プラスチック": "月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "三番町",
+    "chome": "",
+    "sub": "7・9・12・14・16・18・20・22・24番地",
+    "romaji": "sambancho",
+    "slug": "chiyoda/sambancho-7-9-12-14-16-18-20-22-24banchi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "三番町7・9・12・14・16・18・20・22・24番地",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４金曜日",
+      "資源": "木",
+      "プラスチック": "月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "外神田",
+    "chome": "1丁目",
+    "sub": "1~11番・二丁目~三丁目・六丁目",
+    "romaji": "sotokanda",
+    "slug": "chiyoda/sotokanda-1chome-1-11ban-nichome-sanchome-rokuchome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "ソ",
+      "住所": "外神田一丁目１～11番・二丁目～三丁目・六丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第１・３木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "外神田",
+    "chome": "1丁目",
+    "sub": "12~18番・四丁目・五丁目",
+    "romaji": "sotokanda",
+    "slug": "chiyoda/sotokanda-1chome-12-18ban-shiteime-gochome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "外神田一丁目12～18番・四丁目・五丁目",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "永田町",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "nagatacho",
+    "slug": "chiyoda/nagatacho-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "ナ",
+      "住所": "永田町一丁目～二丁目",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "西神田",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "nishikanda",
+    "slug": "chiyoda/nishikanda-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "二",
+      "住所": "西神田一丁目～二丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第２・４木曜日",
+      "資源": "水",
+      "プラスチック": "土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "西神田",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "nishikanda",
+    "slug": "chiyoda/nishikanda-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "西神田三丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第１・３月曜日",
+      "資源": "土",
+      "プラスチック": "水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "二番町",
+    "chome": "",
+    "sub": "",
+    "romaji": "nibancho",
+    "slug": "chiyoda/nibancho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "二番町",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第１・３火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "隼町",
+    "chome": "",
+    "sub": "",
+    "romaji": "hayabusacho",
+    "slug": "chiyoda/hayabusacho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "ハ",
+      "住所": "隼町",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "東神田",
+    "chome": "1丁目",
+    "sub": "~三丁目",
+    "romaji": "higashikanda",
+    "slug": "chiyoda/higashikanda-1chome-sanchome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "ヒ",
+      "住所": "東神田一丁目～三丁目",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第１・３土曜日",
+      "資源": "火",
+      "プラスチック": "金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "一ツ橋一丁目~二丁目",
+    "chome": "",
+    "sub": "",
+    "romaji": "ichitsuhashiitchome-nichome",
+    "slug": "chiyoda/ichitsuhashiitchome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "一ツ橋一丁目～二丁目",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "第２・４水曜日",
+      "資源": "金",
+      "プラスチック": "火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "日比谷公園",
+    "chome": "",
+    "sub": "",
+    "romaji": "hibiyakoen",
+    "slug": "chiyoda/hibiyakoen",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "日比谷公園",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "平河町",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "hirakawacho",
+    "slug": "chiyoda/hirakawacho-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "",
+      "住所": "平河町一丁目～二丁目",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "富士見",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "fujimi",
+    "slug": "chiyoda/fujimi-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "フ",
+      "住所": "富士見一丁目～二丁目",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "第２・４月曜日",
+      "資源": "土",
+      "プラスチック": "水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "丸の内",
+    "chome": "1丁目",
+    "sub": "~三丁目",
+    "romaji": "marunouchi",
+    "slug": "chiyoda/marunouchi-1chome-sanchome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "マ",
+      "住所": "丸の内一丁目～三丁目",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "有楽町",
+    "chome": "1丁目",
+    "sub": "~二丁目",
+    "romaji": "yuurakucho",
+    "slug": "chiyoda/yuurakucho-1chome-nichome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "ユ",
+      "住所": "有楽町一丁目～二丁目",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "四番町",
+    "chome": "",
+    "sub": "",
+    "romaji": "yombancho",
+    "slug": "chiyoda/yombancho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "ヨ",
+      "住所": "四番町",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第２・４金曜日",
+      "資源": "木",
+      "プラスチック": "月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "千代田区",
+    "city_en": "chiyoda",
+    "ward": "",
+    "ward_en": "",
+    "town": "六番町",
+    "chome": "",
+    "sub": "",
+    "romaji": "rokubancho",
+    "slug": "chiyoda/rokubancho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/hayami.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "カナ": "ロ",
+      "住所": "六番町",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "第１・３火曜日",
+      "資源": "月",
+      "プラスチック": "木"
+    }
+  }
+]

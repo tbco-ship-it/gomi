@@ -1,0 +1,4516 @@
+[
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "1・6丁目",
+    "sub": "",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-1-6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "南千住一・六丁目",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　金曜",
+      "プラスチックの回収日": "毎週　水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "2・5丁目",
+    "sub": "",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-2-5chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "南千住二・五丁目",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　金曜",
+      "プラスチックの回収日": "毎週　水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "3・4・7丁目",
+    "sub": "(大規模集合住宅は除く)",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-3-4-7chome-daikiboshuugoujuutakuhanozoku",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "南千住三・四・七丁目（大規模集合住宅は除く）",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　金曜",
+      "プラスチックの回収日": "毎週　水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "荒川",
+    "chome": "1丁目",
+    "sub": "1から39番",
+    "romaji": "arakawa",
+    "slug": "arakawa/arakawa-1chome-1kara39ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "荒川一丁目1から39番",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　金曜",
+      "プラスチックの回収日": "毎週　水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "荒川",
+    "chome": "1丁目",
+    "sub": "40から58番",
+    "romaji": "arakawa",
+    "slug": "arakawa/arakawa-1chome-40kara58ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "荒川一丁目40から58番",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　火曜",
+      "プラスチックの回収日": "毎週　土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "荒川",
+    "chome": "2・4丁目",
+    "sub": "",
+    "romaji": "arakawa",
+    "slug": "arakawa/arakawa-2-4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "荒川二・四丁目",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "荒川",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "arakawa",
+    "slug": "arakawa/arakawa-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "荒川三丁目",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　火曜",
+      "プラスチックの回収日": "毎週　土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "荒川",
+    "chome": "5・6丁目",
+    "sub": "",
+    "romaji": "arakawa",
+    "slug": "arakawa/arakawa-5-6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "荒川五・六丁目",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "荒川",
+    "chome": "7丁目",
+    "sub": "",
+    "romaji": "arakawa",
+    "slug": "arakawa/arakawa-7chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "荒川七丁目",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "荒川",
+    "chome": "8丁目",
+    "sub": "",
+    "romaji": "arakawa",
+    "slug": "arakawa/arakawa-8chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "荒川八丁目",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　金曜",
+      "プラスチックの回収日": "毎週　水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "町屋",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "machiya",
+    "slug": "arakawa/machiya-1chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "町屋一丁目",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "町屋",
+    "chome": "2から4丁目",
+    "sub": "",
+    "romaji": "machiya",
+    "slug": "arakawa/machiya-2kara4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "町屋二から四丁目※注釈",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "2・4回目　土曜",
+      "プラスチックの回収日": "毎週　木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "町屋",
+    "chome": "5から7丁目",
+    "sub": "",
+    "romaji": "machiya",
+    "slug": "arakawa/machiya-5kara7chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "町屋五から七丁目",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "1・3回目　土曜",
+      "プラスチックの回収日": "毎週　木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "町屋",
+    "chome": "8丁目",
+    "sub": "1から19番",
+    "romaji": "machiya",
+    "slug": "arakawa/machiya-8chome-1kara19ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "町屋八丁目1から19番",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　土曜",
+      "プラスチックの回収日": "毎週　土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "町屋",
+    "chome": "8丁目",
+    "sub": "20から22番",
+    "romaji": "machiya",
+    "slug": "arakawa/machiya-8chome-20kara22ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "町屋八丁目20から22番",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東尾久",
+    "chome": "1丁目",
+    "sub": "2番・5から37番",
+    "romaji": "higashiogu",
+    "slug": "arakawa/higashiogu-1chome-2ban-5kara37ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東尾久一丁目2番・5から37番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "1・3回目　月曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東尾久",
+    "chome": "1丁目",
+    "sub": "1・3・4番",
+    "romaji": "higashiogu",
+    "slug": "arakawa/higashiogu-1chome-1-3-4ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東尾久一丁目1・3・4番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東尾久",
+    "chome": "2丁目",
+    "sub": "1から4番",
+    "romaji": "higashiogu",
+    "slug": "arakawa/higashiogu-2chome-1kara4ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東尾久二丁目1から4番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東尾久",
+    "chome": "2丁目",
+    "sub": "5から49番",
+    "romaji": "higashiogu",
+    "slug": "arakawa/higashiogu-2chome-5kara49ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東尾久二丁目5から49番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "1・3回目　月曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東尾久",
+    "chome": "3丁目",
+    "sub": "1番",
+    "romaji": "higashiogu",
+    "slug": "arakawa/higashiogu-3chome-1ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東尾久三丁目1番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東尾久",
+    "chome": "3丁目",
+    "sub": "2から37番",
+    "romaji": "higashiogu",
+    "slug": "arakawa/higashiogu-3chome-2kara37ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東尾久三丁目2から37番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "1・3回目　月曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東尾久",
+    "chome": "4・5丁目",
+    "sub": "",
+    "romaji": "higashiogu",
+    "slug": "arakawa/higashiogu-4-5chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東尾久四・五丁目",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "1・3回目　水曜",
+      "プラスチックの回収日": "毎週　月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東尾久",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "higashiogu",
+    "slug": "arakawa/higashiogu-6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東尾久六丁目",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "2・4回目　土曜",
+      "プラスチックの回収日": "毎週　木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東尾久",
+    "chome": "7・8丁目",
+    "sub": "",
+    "romaji": "higashiogu",
+    "slug": "arakawa/higashiogu-7-8chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東尾久七・八丁目",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "1・3回目　土曜",
+      "プラスチックの回収日": "毎週　木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西尾久",
+    "chome": "1丁目",
+    "sub": "1から18番",
+    "romaji": "nishiogu",
+    "slug": "arakawa/nishiogu-1chome-1kara18ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西尾久一丁目1から18番",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "1・3回目　水曜",
+      "プラスチックの回収日": "毎週　月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西尾久",
+    "chome": "1丁目",
+    "sub": "19から33番",
+    "romaji": "nishiogu",
+    "slug": "arakawa/nishiogu-1chome-19kara33ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西尾久一丁目19から33番",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "2・4回目　水曜",
+      "プラスチックの回収日": "毎週　月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西尾久",
+    "chome": "2丁目",
+    "sub": "1から29・35から37番",
+    "romaji": "nishiogu",
+    "slug": "arakawa/nishiogu-2chome-1kara29-35kara37ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西尾久二丁目1から29・35から37番",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "1・3回目　水曜",
+      "プラスチックの回収日": "毎週　月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西尾久",
+    "chome": "2丁目",
+    "sub": "30から34・38番",
+    "romaji": "nishiogu",
+    "slug": "arakawa/nishiogu-2chome-30kara34-38ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西尾久二丁目30から34・38番",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "2・4回目　水曜",
+      "プラスチックの回収日": "毎週　月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西尾久",
+    "chome": "3丁目",
+    "sub": "1から20番",
+    "romaji": "nishiogu",
+    "slug": "arakawa/nishiogu-3chome-1kara20ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西尾久三丁目1から20番",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "1・3回目　土曜",
+      "プラスチックの回収日": "毎週　木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西尾久",
+    "chome": "3丁目",
+    "sub": "21から26番",
+    "romaji": "nishiogu",
+    "slug": "arakawa/nishiogu-3chome-21kara26ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西尾久三丁目21から26番",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "1・3回目　土曜",
+      "プラスチックの回収日": "毎週　月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西尾久",
+    "chome": "4・5丁目",
+    "sub": "",
+    "romaji": "nishiogu",
+    "slug": "arakawa/nishiogu-4-5chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西尾久四・五丁目",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "2・4回目　水曜",
+      "プラスチックの回収日": "毎週　月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西尾久",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "nishiogu",
+    "slug": "arakawa/nishiogu-6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西尾久六丁目",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "1・3回目　土曜",
+      "プラスチックの回収日": "毎週　月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西尾久",
+    "chome": "7・8丁目",
+    "sub": "",
+    "romaji": "nishiogu",
+    "slug": "arakawa/nishiogu-7-8chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西尾久七・八丁目",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "2・4回目　水曜",
+      "プラスチックの回収日": "毎週　月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東日暮里",
+    "chome": "1丁目",
+    "sub": "1から18番",
+    "romaji": "higashinippori",
+    "slug": "arakawa/higashinippori-1chome-1kara18ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東日暮里一丁目1から18番",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　金曜",
+      "プラスチックの回収日": "毎週　水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東日暮里",
+    "chome": "1丁目",
+    "sub": "19から42番",
+    "romaji": "higashinippori",
+    "slug": "arakawa/higashinippori-1chome-19kara42ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東日暮里一丁目19から42番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　木曜",
+      "プラスチックの回収日": "毎週　金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東日暮里",
+    "chome": "2から4丁目",
+    "sub": "",
+    "romaji": "higashinippori",
+    "slug": "arakawa/higashinippori-2kara4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東日暮里二から四丁目",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　木曜",
+      "プラスチックの回収日": "毎週　金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東日暮里",
+    "chome": "5丁目",
+    "sub": "1から39・42から47番",
+    "romaji": "higashinippori",
+    "slug": "arakawa/higashinippori-5chome-1kara39-42kara47ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東日暮里五丁目1から39・42から47番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　木曜",
+      "プラスチックの回収日": "毎週　金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東日暮里",
+    "chome": "5丁目",
+    "sub": "40・41・48から55番",
+    "romaji": "higashinippori",
+    "slug": "arakawa/higashinippori-5chome-40-41-48kara55ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東日暮里五丁目40・41・48から55番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "1・3回目　木曜",
+      "プラスチックの回収日": "毎週　金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東日暮里",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "higashinippori",
+    "slug": "arakawa/higashinippori-6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東日暮里六丁目",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "1・3回目　木曜",
+      "プラスチックの回収日": "毎週　金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西日暮里",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "nishinippori",
+    "slug": "arakawa/nishinippori-1chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西日暮里一丁目",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　火曜",
+      "プラスチックの回収日": "毎週　土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西日暮里",
+    "chome": "2丁目",
+    "sub": "1から54番",
+    "romaji": "nishinippori",
+    "slug": "arakawa/nishinippori-2chome-1kara54ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西日暮里二丁目1から54番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "1・3回目　木曜",
+      "プラスチックの回収日": "毎週　金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西日暮里",
+    "chome": "2丁目",
+    "sub": "55から58番",
+    "romaji": "nishinippori",
+    "slug": "arakawa/nishinippori-2chome-55kara58ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西日暮里二丁目55から58番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西日暮里",
+    "chome": "3・4丁目",
+    "sub": "",
+    "romaji": "nishinippori",
+    "slug": "arakawa/nishinippori-3-4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西日暮里三・四丁目",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "1・3回目　木曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西日暮里",
+    "chome": "5丁目",
+    "sub": "1から13・16・26から28番",
+    "romaji": "nishinippori",
+    "slug": "arakawa/nishinippori-5chome-1kara13-16-26kara28ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西日暮里五丁目1から13・16・26から28番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西日暮里",
+    "chome": "5丁目",
+    "sub": "14・15・18から25・29から38番",
+    "romaji": "nishinippori",
+    "slug": "arakawa/nishinippori-5chome-14-15-18kara25-29kara38ban",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西日暮里五丁目14・15・18から25・29から38番",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西日暮里",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "nishinippori",
+    "slug": "arakawa/nishinippori-6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "西日暮里6丁目",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "3丁目",
+    "sub": "レジディア南千住",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-3chome-rejideiaminamisenju",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "レジディア南千住",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　水曜",
+      "context": "南千住三丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "3丁目",
+    "sub": "リバーハープコート1,2号棟",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-3chome-ribaahaapukooto1-2gouto",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "リバーハープコート1,2号棟",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　木曜",
+      "context": "南千住三丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "3丁目",
+    "sub": "リバーハープコート3～5号棟",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-3chome-ribaahaapukooto3-5gouto",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "リバーハープコート3～5号棟",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　水曜",
+      "context": "南千住三丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "3丁目",
+    "sub": "リバーフェイス",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-3chome-ribaafueisu",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "リバーフェイス",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　水曜",
+      "context": "南千住三丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "3丁目",
+    "sub": "ロイヤルパークスシーサー南千住",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-3chome-roiyarupaakusushiisaaminamisenju",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "ロイヤルパークスシーサー南千住",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　木曜",
+      "context": "南千住三丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "4丁目",
+    "sub": "都営南千住四丁目アパート",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-4chome-toeiminamisenjushiteimeapaato",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "都営南千住四丁目アパート",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住四丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "4丁目",
+    "sub": "トミンタワー南千住四丁目",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-4chome-tomintawaaminamisenjushiteime",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "トミンタワー南千住四丁目",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住四丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "4丁目",
+    "sub": "リバーハープタワー1,2号棟",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-4chome-ribaahaaputawaa1-2gouto",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "リバーハープタワー1,2号棟",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　水曜",
+      "context": "南千住四丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "4丁目",
+    "sub": "ロイヤルパークスタワー",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-4chome-roiyarupaakusutawaa",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "ロイヤルパークスタワー",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住四丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "7丁目",
+    "sub": "エクセレントシティ南千住ブルーム",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-7chome-ekuserentoshiteiminamisenjuburuumu",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "エクセレントシティ南千住ブルーム",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　金曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住七丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "7丁目",
+    "sub": "クレヴィア南千住",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-7chome-kurebuiaminamisenju",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "クレヴィア南千住",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　金曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住七丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "7丁目",
+    "sub": "クレヴィア南千住RIVER SIDE TWIN",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-7chome-kurebuiaminamisenjuriver-side-twin",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "クレヴィア南千住RIVER SIDE TWIN",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　金曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住七丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "7丁目",
+    "sub": "コスモシティ東京イースト",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-7chome-kosumoshiteitokyouiisuto",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "コスモシティ東京イースト",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　金曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住七丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "7丁目",
+    "sub": "ダイナシティ東京リバーゲート",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-7chome-dainashiteitokyouribaageeto",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "ダイナシティ東京リバーゲート",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　金曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住七丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "7丁目",
+    "sub": "南千住スカイハイツ",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-7chome-minamisenjusukaihaitsu",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "南千住スカイハイツ",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　金曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住七丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "7丁目",
+    "sub": "南千住七丁目ハイツ",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-7chome-minamisenjushichichomehaitsu",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "南千住七丁目ハイツ",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　金曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住七丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "7丁目",
+    "sub": "ブランズタワー南千住",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-7chome-buranzutawaaminamisenju",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "ブランズタワー南千住",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "2・4回目　金曜",
+      "プラスチックの回収日": "毎週　水曜",
+      "context": "南千住七丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "けやき通り北壱、弐番館",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-keyakitorikitaichi-nibankan",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "けやき通り北壱、弐番館",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　木曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "けやき通り北参～十一番館",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-keyakitorikitasan-juuichibankan",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "けやき通り北参～十一番館",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　火曜",
+      "プラスチックの回収日": "毎週　土曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "けやき通り南壱～四番館",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-keyakitoriminamiichi-shibankan",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "けやき通り南壱～四番館",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　木曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "さくら堤通り南壱番館",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-sakuratsutsumidooririminamiichibankan",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "さくら堤通り南壱番館",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　火曜",
+      "プラスチックの回収日": "毎週　土曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "東京フロンティアシティアーバンフォート",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-tokyoufuronteiashiteiaabanfuooto",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東京フロンティアシティアーバンフォート",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "1・3回目　月曜",
+      "プラスチックの回収日": "毎週　月曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "東京フロンティアシティパークアンドパークス",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-tokyoufuronteiashiteipaakuandopaakusu",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "東京フロンティアシティパークアンドパークス",
+      "燃やすごみの収集日": "毎週　火曜・金曜",
+      "燃やさないごみの収集日": "1・3回目　月曜",
+      "プラスチックの回収日": "毎週　月曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "トキアス",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-tokiasu",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "トキアス",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　月曜",
+      "プラスチックの回収日": "毎週　火曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "とちのき通り北壱～参番館",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-tochinokitorikitaichi-sanbankan",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "とちのき通り北壱～参番館",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "2・4回目　火曜",
+      "プラスチックの回収日": "毎週　木曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "はなみずき通り北壱～参番館",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-hanamizukitorikitaichi-sanbankan",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "はなみずき通り北壱～参番館",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "1・3回目　火曜",
+      "プラスチックの回収日": "毎週　木曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "はなみずき通り北五～七番館",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-hanamizukitorikitago-shichibankan",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "はなみずき通り北五～七番館",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　火曜",
+      "プラスチックの回収日": "毎週　土曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "はなみずき通り南壱、弐番館",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-hanamizukitoriminamiichi-nibankan",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "はなみずき通り南壱、弐番館",
+      "燃やすごみの収集日": "毎週　水曜・土曜",
+      "燃やさないごみの収集日": "1・3回目　火曜",
+      "プラスチックの回収日": "毎週　木曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "はなみずき通り南参～六番館",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-hanamizukitoriminamisan-rokubankan",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "はなみずき通り南参～六番館",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　火曜",
+      "プラスチックの回収日": "毎週　土曜",
+      "context": "南千住八丁目"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "荒川区",
+    "city_en": "arakawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千住",
+    "chome": "8丁目",
+    "sub": "BELISTA都立汐入公園",
+    "romaji": "minamisenju",
+    "slug": "arakawa/minamisenju-8chome-belistatoritsushioirikoen",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "資源回収（びん・缶・紙）は町会集団回収方式で実施"
+    },
+    "source": {
+      "url": "https://www.city.arakawa.tokyo.jp/a025/recycle/shuushuubi/ichiran.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "raw": {
+      "地域_物件名": "BELISTA都立汐入公園",
+      "燃やすごみの収集日": "毎週　月曜・木曜",
+      "燃やさないごみの収集日": "1・3回目　月曜",
+      "プラスチックの回収日": "毎週　土曜",
+      "context": "南千住八丁目"
+    }
+  }
+]

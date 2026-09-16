@@ -1,0 +1,4349 @@
+[
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "明石町",
+    "chome": "",
+    "sub": "",
+    "romaji": "akashicho",
+    "slug": "chuo/akashicho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "あ",
+      "町名": "明石町",
+      "丁目": "全域",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "木曜日",
+      "プラマーク": "火曜日",
+      "資源": "月曜日",
+      "粗大ごみ": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "入船",
+    "chome": "",
+    "sub": "",
+    "romaji": "irifune",
+    "slug": "chuo/irifune",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "い",
+      "町名": "入船",
+      "丁目": "全域",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "木曜日",
+      "プラマーク": "火曜日",
+      "資源": "月曜日",
+      "粗大ごみ": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "京橋",
+    "chome": "",
+    "sub": "",
+    "romaji": "kyoubashi",
+    "slug": "chuo/kyoubashi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "き",
+      "町名": "京橋",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日～土曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "火曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "銀座",
+    "chome": "1～2丁目",
+    "sub": "",
+    "romaji": "ginza",
+    "slug": "chuo/ginza-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "き",
+      "町名": "銀座",
+      "丁目": "1～2丁目",
+      "燃やすごみ": "月曜日～土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "木曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "銀座",
+    "chome": "3～4丁目",
+    "sub": "",
+    "romaji": "ginza",
+    "slug": "chuo/ginza-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "き",
+      "町名": "銀座",
+      "丁目": "3～4丁目",
+      "燃やすごみ": "月曜日～土曜日",
+      "燃やさないごみ": "土曜日",
+      "プラマーク": "水曜日",
+      "資源": "水曜日",
+      "粗大ごみ": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "銀座",
+    "chome": "5～6丁目",
+    "sub": "",
+    "romaji": "ginza",
+    "slug": "chuo/ginza-5-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "き",
+      "町名": "銀座",
+      "丁目": "5～6丁目",
+      "燃やすごみ": "月曜日～土曜日",
+      "燃やさないごみ": "水曜日",
+      "プラマーク": "土曜日",
+      "資源": "土曜日",
+      "粗大ごみ": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "銀座",
+    "chome": "7～8丁目",
+    "sub": "",
+    "romaji": "ginza",
+    "slug": "chuo/ginza-7-8",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "き",
+      "町名": "銀座",
+      "丁目": "7～8丁目",
+      "燃やすごみ": "月曜日～土曜日",
+      "燃やさないごみ": "木曜日",
+      "プラマーク": "月曜日",
+      "資源": "月曜日",
+      "粗大ごみ": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "新川",
+    "chome": "",
+    "sub": "",
+    "romaji": "shinkawa",
+    "slug": "chuo/shinkawa",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "し",
+      "町名": "新川",
+      "丁目": "全域",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "水曜日",
+      "プラマーク": "月曜日",
+      "資源": "土曜日",
+      "粗大ごみ": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "新富",
+    "chome": "",
+    "sub": "",
+    "romaji": "shintomi",
+    "slug": "chuo/shintomi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "し",
+      "町名": "新富",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "築地",
+    "chome": "",
+    "sub": "",
+    "romaji": "tsukiji",
+    "slug": "chuo/tsukiji",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "つ",
+      "町名": "築地",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "八丁堀",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "hatchobori",
+    "slug": "chuo/hatchobori-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "は",
+      "町名": "八丁堀",
+      "丁目": "1丁目",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "木曜日",
+      "プラマーク": "火曜日",
+      "資源": "月曜日",
+      "粗大ごみ": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "八丁堀",
+    "chome": "2～4丁目",
+    "sub": "",
+    "romaji": "hatchobori",
+    "slug": "chuo/hatchobori-2-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "は",
+      "町名": "八丁堀",
+      "丁目": "2～4丁目",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "水曜日",
+      "プラマーク": "月曜日",
+      "資源": "土曜日",
+      "粗大ごみ": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "浜離宮庭園",
+    "chome": "",
+    "sub": "",
+    "romaji": "hamarikyuuteien",
+    "slug": "chuo/hamarikyuuteien",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "は",
+      "町名": "浜離宮庭園",
+      "丁目": "",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "木曜日",
+      "プラマーク": "火曜日",
+      "資源": "月曜日",
+      "粗大ごみ": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "湊",
+    "chome": "",
+    "sub": "",
+    "romaji": "minato",
+    "slug": "chuo/minato",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "み",
+      "町名": "湊",
+      "丁目": "全域",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "木曜日",
+      "プラマーク": "火曜日",
+      "資源": "月曜日",
+      "粗大ごみ": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "八重洲",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "yaesu",
+    "slug": "chuo/yaesu-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "京橋",
+      "音": "や",
+      "町名": "八重洲",
+      "丁目": "2丁目",
+      "燃やすごみ": "月曜日～土曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "火曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "大伝馬町",
+    "chome": "",
+    "sub": "",
+    "romaji": "odemmacho",
+    "slug": "chuo/odemmacho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "お",
+      "町名": "大伝馬町",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "蛎殻町",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "kakikaracho",
+    "slug": "chuo/kakikaracho-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "か",
+      "町名": "蛎殻町",
+      "丁目": "1丁目",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "金曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "蛎殻町",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "kakikaracho",
+    "slug": "chuo/kakikaracho-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "か",
+      "町名": "蛎殻町",
+      "丁目": "2丁目",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "木曜日",
+      "プラマーク": "火曜日",
+      "資源": "月曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "兜町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kabutocho",
+    "slug": "chuo/kabutocho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "か",
+      "町名": "兜町",
+      "丁目": "全域",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "木曜日",
+      "プラマーク": "火曜日",
+      "資源": "月曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "茅場町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kayabacho",
+    "slug": "chuo/kayabacho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "か",
+      "町名": "茅場町",
+      "丁目": "全域",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "木曜日",
+      "プラマーク": "火曜日",
+      "資源": "月曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小網町",
+    "chome": "",
+    "sub": "",
+    "romaji": "koamicho",
+    "slug": "chuo/koamicho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "こ",
+      "町名": "小網町",
+      "丁目": "全域",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "金曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小伝馬町",
+    "chome": "1～2番、7～21番",
+    "sub": "",
+    "romaji": "kodemmacho",
+    "slug": "chuo/kodemmacho-1-2-7-21",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "こ",
+      "町名": "小伝馬町",
+      "丁目": "1～2番、7～21番",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小伝馬町",
+    "chome": "3～6番",
+    "sub": "",
+    "romaji": "kodemmacho",
+    "slug": "chuo/kodemmacho-3-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "こ",
+      "町名": "小伝馬町",
+      "丁目": "3～6番",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "土曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小舟町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kobunemachi",
+    "slug": "chuo/kobunemachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "こ",
+      "町名": "小舟町",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "富沢町",
+    "chome": "",
+    "sub": "",
+    "romaji": "tomizawamachi",
+    "slug": "chuo/tomizawamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "と",
+      "町名": "富沢町",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "中洲",
+    "chome": "",
+    "sub": "",
+    "romaji": "nakasu",
+    "slug": "chuo/nakasu",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "な",
+      "町名": "中洲",
+      "丁目": "全域",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "金曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "日本橋",
+    "chome": "1～3丁目",
+    "sub": "",
+    "romaji": "nihombashi",
+    "slug": "chuo/nihombashi-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "に",
+      "町名": "日本橋",
+      "丁目": "1～3丁目",
+      "燃やすごみ": "月曜日～土曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "金曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "人形町",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "ningyoucho",
+    "slug": "chuo/ningyoucho-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "に",
+      "町名": "人形町",
+      "丁目": "1丁目",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "金曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "人形町",
+    "chome": "2丁目1～14番",
+    "sub": "",
+    "romaji": "ningyoucho",
+    "slug": "chuo/ningyoucho-2-1-14",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "火",
+          "水",
+          "金",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "に",
+      "町名": "人形町",
+      "丁目": "2丁目1～14番",
+      "燃やすごみ": "月曜日・火曜日・水曜日\n金曜日・土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "木曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "人形町",
+    "chome": "2丁目15～37番",
+    "sub": "",
+    "romaji": "ningyoucho",
+    "slug": "chuo/ningyoucho-2-15-37",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "に",
+      "町名": "人形町",
+      "丁目": "2丁目15～37番",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "金曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "人形町",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "ningyoucho",
+    "slug": "chuo/ningyoucho-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "に",
+      "町名": "人形町",
+      "丁目": "3丁目",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "馬喰町",
+    "chome": "",
+    "sub": "",
+    "romaji": "bakuroucho",
+    "slug": "chuo/bakuroucho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "は",
+      "町名": "馬喰町",
+      "丁目": "全域",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "水曜日",
+      "プラマーク": "月曜日",
+      "資源": "土曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "箱崎町",
+    "chome": "",
+    "sub": "",
+    "romaji": "hakozakicho",
+    "slug": "chuo/hakozakicho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "は",
+      "町名": "箱崎町",
+      "丁目": "全域",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "木曜日",
+      "プラマーク": "火曜日",
+      "資源": "月曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "浜町",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "hamacho",
+    "slug": "chuo/hamacho-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "は",
+      "町名": "浜町",
+      "丁目": "1丁目",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "水曜日",
+      "プラマーク": "月曜日",
+      "資源": "土曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "浜町",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "hamacho",
+    "slug": "chuo/hamacho-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "は",
+      "町名": "浜町",
+      "丁目": "2丁目",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "土曜日",
+      "プラマーク": "木曜日",
+      "資源": "水曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "浜町",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "hamacho",
+    "slug": "chuo/hamacho-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "は",
+      "町名": "浜町",
+      "丁目": "3丁目",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "金曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "東日本橋",
+    "chome": "",
+    "sub": "",
+    "romaji": "higashinihombashi",
+    "slug": "chuo/higashinihombashi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ひ",
+      "町名": "東日本橋",
+      "丁目": "全域",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "水曜日",
+      "プラマーク": "月曜日",
+      "資源": "土曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "久松町",
+    "chome": "",
+    "sub": "",
+    "romaji": "hisamatsumachi",
+    "slug": "chuo/hisamatsumachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ひ",
+      "町名": "久松町",
+      "丁目": "全域",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "水曜日",
+      "プラマーク": "月曜日",
+      "資源": "土曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "堀留町",
+    "chome": "",
+    "sub": "",
+    "romaji": "horidomecho",
+    "slug": "chuo/horidomecho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ほ",
+      "町名": "堀留町",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本石町",
+    "chome": "",
+    "sub": "",
+    "romaji": "hongokucho",
+    "slug": "chuo/hongokucho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ほ",
+      "町名": "本石町",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "土曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "1丁目1～5番",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "chuo/honcho-1-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ほ",
+      "町名": "本町",
+      "丁目": "1丁目1～5番",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "土曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "1丁目6～9番",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "chuo/honcho-1-6-9",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ほ",
+      "町名": "本町",
+      "丁目": "1丁目6～9番",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "1丁目10番",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "chuo/honcho-1-10",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ほ",
+      "町名": "本町",
+      "丁目": "1丁目10番",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "金曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "2丁目1～5番",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "chuo/honcho-2-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ほ",
+      "町名": "本町",
+      "丁目": "2丁目1～5番",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "土曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "2丁目6～8番",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "chuo/honcho-2-6-8",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ほ",
+      "町名": "本町",
+      "丁目": "2丁目6～8番",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "3丁目1～5番",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "chuo/honcho-3-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ほ",
+      "町名": "本町",
+      "丁目": "3丁目1～5番",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "土曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "3丁目6～11番",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "chuo/honcho-3-6-11",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ほ",
+      "町名": "本町",
+      "丁目": "3丁目6～11番",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "金曜日",
+      "プラマーク": "水曜日",
+      "資源": "火曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "chuo/honcho-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "ほ",
+      "町名": "本町",
+      "丁目": "4丁目",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "土曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "室町",
+    "chome": "",
+    "sub": "",
+    "romaji": "muromachi",
+    "slug": "chuo/muromachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "む",
+      "町名": "室町",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "土曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "八重洲",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "yaesu",
+    "slug": "chuo/yaesu-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "や",
+      "町名": "八重洲",
+      "丁目": "1丁目",
+      "燃やすごみ": "月曜日～土曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "金曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "横山町",
+    "chome": "",
+    "sub": "",
+    "romaji": "yokoyamacho",
+    "slug": "chuo/yokoyamacho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "日本橋",
+      "音": "よ",
+      "町名": "横山町",
+      "丁目": "全域",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "水曜日",
+      "プラマーク": "月曜日",
+      "資源": "土曜日",
+      "粗大ごみ": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "勝どき",
+    "chome": "",
+    "sub": "",
+    "romaji": "kachidoki",
+    "slug": "chuo/kachidoki",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "月島",
+      "音": "か",
+      "町名": "勝どき",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "土曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "月島",
+    "chome": "",
+    "sub": "",
+    "romaji": "gatsushima",
+    "slug": "chuo/gatsushima",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "月島",
+      "音": "つ",
+      "町名": "月島",
+      "丁目": "全域",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "土曜日",
+      "プラマーク": "木曜日",
+      "資源": "水曜日",
+      "粗大ごみ": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "佃",
+    "chome": "",
+    "sub": "",
+    "romaji": "tsukuda",
+    "slug": "chuo/tsukuda",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "月島",
+      "音": "つ",
+      "町名": "佃",
+      "丁目": "全域",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "金曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊海町",
+    "chome": "",
+    "sub": "",
+    "romaji": "toyomimachi",
+    "slug": "chuo/toyomimachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "月島",
+      "音": "と",
+      "町名": "豊海町",
+      "丁目": "全域",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "火曜日",
+      "プラマーク": "土曜日",
+      "資源": "金曜日",
+      "粗大ごみ": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "中央区",
+    "city_en": "chuo",
+    "ward": "",
+    "ward_en": "",
+    "town": "晴海",
+    "chome": "",
+    "sub": "",
+    "romaji": "harumi",
+    "slug": "chuo/harumi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラマーク",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "bulky": {
+        "label": "粗大ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで",
+        "note": "申込制"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.chuo.lg.jp/documents/984/gomitoshigen.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "地域": "月島",
+      "音": "は",
+      "町名": "晴海",
+      "丁目": "全域",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "月曜日",
+      "プラマーク": "金曜日",
+      "資源": "木曜日",
+      "粗大ごみ": "水曜日"
+    }
+  }
+]

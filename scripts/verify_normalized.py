@@ -49,6 +49,7 @@ def verify_file(file_path: str) -> dict:
     invalid_fetched_dates = []
     missing_romaji = 0
     missing_raw = 0
+    errors = []
 
     type_counts = {k: 0 for k in VALID_KEYS}
 
@@ -157,6 +158,10 @@ def main():
     print("=" * 50)
     all_pass = True
     for s in summary:
+        if s["status"] == "FILE_NOT_FOUND":
+            print(f"City: {s['city']:12} | Status: FILE_NOT_FOUND")
+            all_pass = False
+            continue
         print(f"City: {s['city']:12} | Records: {s['total_records']:6} | Unique Slugs: {s['unique_slugs']:6} | Status: {s['status']}")
         if s["status"] != "PASS":
             all_pass = False

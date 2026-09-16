@@ -182,6 +182,7 @@ def main():
     for page in ("about", "methodology", "privacy", "contact"):
         write(f"{page}/", f"{page}.html")
     write("guide/nenmatsu/", "guide_nenmatsu.html")
+    write("guide/hikkoshi/", "guide_hikkoshi.html")
     write("cities/", "cities.html")
     for ce, c in cities.items():
         write(f"{ce}/", "city.html", c=c)

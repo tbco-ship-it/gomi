@@ -1,0 +1,1458 @@
+[
+  {
+    "town": "阿佐谷北",
+    "chome": "1～6丁目",
+    "areaId": "158647",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "金"
+    ],
+    "pet": [
+      "月"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper": [
+      "月"
+    ]
+  },
+  {
+    "town": "阿佐谷南",
+    "chome": "1～3丁目",
+    "areaId": "158648",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      3,
+      5
+    ],
+    "binkan": [
+      "金"
+    ],
+    "pet": [
+      "月"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper": [
+      "月"
+    ]
+  },
+  {
+    "town": "天沼",
+    "chome": "1～3丁目",
+    "areaId": "158649",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "木"
+    ],
+    "pet": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper": [
+      "水"
+    ]
+  },
+  {
+    "town": "井草",
+    "chome": "1～3丁目",
+    "areaId": "158650",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "木"
+    ],
+    "pet": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper": [
+      "水"
+    ]
+  },
+  {
+    "town": "井草",
+    "chome": "4・5丁目",
+    "areaId": "158651",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "月"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "和泉",
+    "chome": "1丁目",
+    "areaId": "158652",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "火"
+    ],
+    "pet": [
+      "金"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper": [
+      "金"
+    ]
+  },
+  {
+    "town": "和泉",
+    "chome": "2～4丁目",
+    "areaId": "158653",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "火"
+    ],
+    "pet": [
+      "金"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper": [
+      "金"
+    ]
+  },
+  {
+    "town": "今川",
+    "chome": "1～3丁目",
+    "areaId": "158654",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "月"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "今川",
+    "chome": "4丁目",
+    "areaId": "158655",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "月"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "梅里",
+    "chome": "1丁目",
+    "areaId": "158656",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "金"
+    ],
+    "pet": [
+      "火"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper": [
+      "火"
+    ]
+  },
+  {
+    "town": "梅里",
+    "chome": "2丁目",
+    "areaId": "158657",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      3,
+      5
+    ],
+    "binkan": [
+      "金"
+    ],
+    "pet": [
+      "月"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper": [
+      "月"
+    ]
+  },
+  {
+    "town": "永福",
+    "chome": "1～4丁目",
+    "areaId": "158658",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "土"
+    ],
+    "pet": [
+      "水"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper": [
+      "水"
+    ]
+  },
+  {
+    "town": "大宮",
+    "chome": "1・2丁目",
+    "areaId": "158659",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "金"
+    ],
+    "pet": [
+      "火"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper": [
+      "火"
+    ]
+  },
+  {
+    "town": "荻窪",
+    "chome": "1～5丁目",
+    "areaId": "158660",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "火"
+    ],
+    "pet": [
+      "木"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper": [
+      "木"
+    ]
+  },
+  {
+    "town": "上井草",
+    "chome": "1・2丁目",
+    "areaId": "158661",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "月"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "上井草",
+    "chome": "3・4丁目",
+    "areaId": "158662",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "月"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "上荻",
+    "chome": "1丁目",
+    "areaId": "158663",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "火"
+    ],
+    "pet": [
+      "木"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper": [
+      "木"
+    ]
+  },
+  {
+    "town": "上荻",
+    "chome": "2～4丁目",
+    "areaId": "158664",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "月"
+    ],
+    "pet": [
+      "金"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper": [
+      "金"
+    ]
+  },
+  {
+    "town": "上高井戸",
+    "chome": "1～3丁目",
+    "areaId": "158665",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "土"
+    ],
+    "pet": [
+      "火"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper": [
+      "火"
+    ]
+  },
+  {
+    "town": "久我山",
+    "chome": "1～3丁目",
+    "areaId": "158666",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "土"
+    ],
+    "pet": [
+      "火"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper": [
+      "火"
+    ]
+  },
+  {
+    "town": "久我山",
+    "chome": "4・5丁目",
+    "areaId": "158667",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "土"
+    ],
+    "pet": [
+      "火"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper": [
+      "火"
+    ]
+  },
+  {
+    "town": "高円寺北",
+    "chome": "1丁目",
+    "areaId": "158668",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "木"
+    ],
+    "pet": [
+      "月"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper": [
+      "月"
+    ]
+  },
+  {
+    "town": "高円寺北",
+    "chome": "2～4丁目",
+    "areaId": "158669",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "月"
+    ],
+    "pet": [
+      "木"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper": [
+      "木"
+    ]
+  },
+  {
+    "town": "高円寺南",
+    "chome": "1・5丁目",
+    "areaId": "158670",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "木"
+    ],
+    "pet": [
+      "月"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper": [
+      "月"
+    ]
+  },
+  {
+    "town": "高円寺南",
+    "chome": "2～4丁目",
+    "areaId": "158671",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "月"
+    ],
+    "pet": [
+      "木"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper": [
+      "木"
+    ]
+  },
+  {
+    "town": "清水",
+    "chome": "1・2丁目",
+    "areaId": "158672",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "木"
+    ],
+    "pet": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper": [
+      "水"
+    ]
+  },
+  {
+    "town": "清水",
+    "chome": "3丁目",
+    "areaId": "158673",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "木"
+    ],
+    "pet": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper": [
+      "水"
+    ]
+  },
+  {
+    "town": "下井草",
+    "chome": "1丁目",
+    "areaId": "158674",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "木"
+    ],
+    "pet": [
+      "月"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper": [
+      "月"
+    ]
+  },
+  {
+    "town": "下井草",
+    "chome": "2～5丁目",
+    "areaId": "158675",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "木"
+    ],
+    "pet": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper": [
+      "水"
+    ]
+  },
+  {
+    "town": "下高井戸",
+    "chome": "1～4丁目",
+    "areaId": "158676",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "土"
+    ],
+    "pet": [
+      "水"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper": [
+      "水"
+    ]
+  },
+  {
+    "town": "下高井戸",
+    "chome": "5丁目",
+    "areaId": "158677",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "水"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "松庵",
+    "chome": "1～3丁目",
+    "areaId": "158678",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "水"
+    ],
+    "pet": [
+      "金"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper": [
+      "金"
+    ]
+  },
+  {
+    "town": "善福寺",
+    "chome": "1～4丁目",
+    "areaId": "158679",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "月"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "高井戸西",
+    "chome": "1丁目",
+    "areaId": "158680",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "土"
+    ],
+    "pet": [
+      "火"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper": [
+      "火"
+    ]
+  },
+  {
+    "town": "高井戸西",
+    "chome": "2・3丁目",
+    "areaId": "158681",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "土"
+    ],
+    "pet": [
+      "火"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper": [
+      "火"
+    ]
+  },
+  {
+    "town": "高井戸東",
+    "chome": "1～4丁目",
+    "areaId": "158682",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "水"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "成田西",
+    "chome": "1・2丁目",
+    "areaId": "158683",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "火"
+    ],
+    "pet": [
+      "木"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper": [
+      "木"
+    ]
+  },
+  {
+    "town": "成田西",
+    "chome": "3・4丁目",
+    "areaId": "158684",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "火"
+    ],
+    "pet": [
+      "木"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper": [
+      "木"
+    ]
+  },
+  {
+    "town": "成田東",
+    "chome": "1～5丁目",
+    "areaId": "158685",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "火"
+    ],
+    "pet": [
+      "木"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper": [
+      "木"
+    ]
+  },
+  {
+    "town": "西荻北",
+    "chome": "1・2丁目",
+    "areaId": "158686",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "水"
+    ],
+    "pet": [
+      "金"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper": [
+      "金"
+    ]
+  },
+  {
+    "town": "西荻北",
+    "chome": "3～5丁目",
+    "areaId": "158687",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "水"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "西荻南",
+    "chome": "1～4丁目",
+    "areaId": "158688",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "水"
+    ],
+    "pet": [
+      "金"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper": [
+      "金"
+    ]
+  },
+  {
+    "town": "浜田山",
+    "chome": "1～4丁目",
+    "areaId": "158689",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "水"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "方南",
+    "chome": "1・2丁目",
+    "areaId": "158690",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "火"
+    ],
+    "pet": [
+      "金"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper": [
+      "金"
+    ]
+  },
+  {
+    "town": "堀ノ内",
+    "chome": "1～3丁目",
+    "areaId": "158691",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "金"
+    ],
+    "pet": [
+      "火"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper": [
+      "火"
+    ]
+  },
+  {
+    "town": "本天沼",
+    "chome": "1～3丁目",
+    "areaId": "158692",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "木"
+    ],
+    "pet": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper": [
+      "水"
+    ]
+  },
+  {
+    "town": "松ノ木",
+    "chome": "1～3丁目",
+    "areaId": "158693",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "金"
+    ],
+    "pet": [
+      "火"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper": [
+      "火"
+    ]
+  },
+  {
+    "town": "南荻窪",
+    "chome": "1～4丁目",
+    "areaId": "158694",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "水"
+    ],
+    "pet": [
+      "金"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper": [
+      "金"
+    ]
+  },
+  {
+    "town": "宮前",
+    "chome": "1・4・5丁目",
+    "areaId": "158695",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "土"
+    ],
+    "pet": [
+      "火"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper": [
+      "火"
+    ]
+  },
+  {
+    "town": "宮前",
+    "chome": "2・3丁目",
+    "areaId": "158696",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "binkan": [
+      "土"
+    ],
+    "pet": [
+      "金"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper": [
+      "金"
+    ]
+  },
+  {
+    "town": "桃井",
+    "chome": "1～4丁目",
+    "areaId": "158697",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "binkan": [
+      "月"
+    ],
+    "pet": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper": [
+      "土"
+    ]
+  },
+  {
+    "town": "和田",
+    "chome": "1～3丁目",
+    "areaId": "158698",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      3,
+      5
+    ],
+    "binkan": [
+      "木"
+    ],
+    "pet": [
+      "月"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper": [
+      "月"
+    ]
+  }
+]

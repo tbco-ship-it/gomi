@@ -1,0 +1,2554 @@
+[
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "青葉台",
+    "chome": "1丁目から3丁目",
+    "sub": "",
+    "romaji": "aobadai",
+    "slug": "meguro/aobadai-1chomekara3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "青葉台１丁目から３丁目",
+      "資源": "木曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 1 ・ 第 ③ 土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "青葉台",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "aobadai",
+    "slug": "meguro/aobadai-4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "青葉台４丁目",
+      "資源": "木曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 ① ・ 第 3 土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "大岡山",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "ookayama",
+    "slug": "meguro/ookayama-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大岡山１丁目・２丁目",
+      "資源": "金曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "大橋",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "ohashi",
+    "slug": "meguro/ohashi-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大橋１丁目・２丁目",
+      "資源": "月曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 ① ・ 第 3 水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "柿の木坂",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "kakinokisaka",
+    "slug": "meguro/kakinokisaka-1chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "柿の木坂１丁目",
+      "資源": "水曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "柿の木坂",
+    "chome": "2丁目・3丁目",
+    "sub": "",
+    "romaji": "kakinokisaka",
+    "slug": "meguro/kakinokisaka-2chome-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "柿の木坂２丁目・３丁目",
+      "資源": "水曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 ① ・ 第 3 金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "上目黒",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "kamimeguro",
+    "slug": "meguro/kamimeguro-1chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "上目黒１丁目",
+      "資源": "木曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 1 ・ 第 ③ 土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "上目黒",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "kamimeguro",
+    "slug": "meguro/kamimeguro-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "上目黒２丁目",
+      "資源": "土曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "上目黒",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "kamimeguro",
+    "slug": "meguro/kamimeguro-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "上目黒３丁目",
+      "資源": "土曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "上目黒",
+    "chome": "4丁目・5丁目",
+    "sub": "",
+    "romaji": "kamimeguro",
+    "slug": "meguro/kamimeguro-4chome-5chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "上目黒４丁目・５丁目",
+      "資源": "月曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "五本木",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "gomotoki",
+    "slug": "meguro/gomotoki-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "五本木１丁目・２丁目",
+      "資源": "月曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "五本木",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "gomotoki",
+    "slug": "meguro/gomotoki-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "五本木３丁目",
+      "資源": "水曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "駒場",
+    "chome": "1丁目から4丁目",
+    "sub": "",
+    "romaji": "komaba",
+    "slug": "meguro/komaba-1chomekara4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "駒場１丁目から４丁目",
+      "資源": "月曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 ① ・ 第 3 土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "下目黒",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "shimomeguro",
+    "slug": "meguro/shimomeguro-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "下目黒１丁目・２丁目",
+      "資源": "木曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "下目黒",
+    "chome": "3丁目から5丁目",
+    "sub": "",
+    "romaji": "shimomeguro",
+    "slug": "meguro/shimomeguro-3chomekara5chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "下目黒３丁目から５丁目",
+      "資源": "木曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "下目黒",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "shimomeguro",
+    "slug": "meguro/shimomeguro-6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "下目黒６丁目",
+      "資源": "火曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 ① ・ 第 3 木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "自由が丘",
+    "chome": "1丁目から3丁目",
+    "sub": "",
+    "romaji": "jiyuugaoka",
+    "slug": "meguro/jiyuugaoka-1chomekara3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "自由が丘１丁目から３丁目",
+      "資源": "金曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 ① ・ 第 3 月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "洗足",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "sensoku",
+    "slug": "meguro/sensoku-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "洗足１丁目・２丁目",
+      "資源": "火曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "平町",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "tairamachi",
+    "slug": "meguro/tairamachi-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "平町１丁目・２丁目",
+      "資源": "金曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "鷹番",
+    "chome": "1丁目から3丁目",
+    "sub": "",
+    "romaji": "takaban",
+    "slug": "meguro/takaban-1chomekara3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "鷹番１丁目から３丁目",
+      "資源": "水曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "中央町",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "chuocho",
+    "slug": "meguro/chuocho-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "中央町１丁目・２丁目",
+      "資源": "土曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "中町",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "nakamachi",
+    "slug": "meguro/nakamachi-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "中町１丁目・２丁目",
+      "資源": "土曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 ① ・ 第 3 火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "中根",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "nakane",
+    "slug": "meguro/nakane-1chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "中根１丁目",
+      "資源": "金曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 ① ・ 第 3 月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "中根",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "nakane",
+    "slug": "meguro/nakane-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "中根２丁目",
+      "資源": "金曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "中目黒",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "nakameguro",
+    "slug": "meguro/nakameguro-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "中目黒１丁目・２丁目",
+      "資源": "木曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 1 ・ 第 ③ 土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "中目黒",
+    "chome": "3丁目から5丁目",
+    "sub": "",
+    "romaji": "nakameguro",
+    "slug": "meguro/nakameguro-3chomekara5chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "中目黒３丁目から５丁目",
+      "資源": "土曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "原町",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "haramachi",
+    "slug": "meguro/haramachi-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "原町１丁目・２丁目",
+      "資源": "火曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "東が丘",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "higashigaoka",
+    "slug": "meguro/higashigaoka-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "東が丘１丁目・２丁目",
+      "資源": "水曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 ① ・ 第 3 金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "東山",
+    "chome": "1丁目から3丁目",
+    "sub": "",
+    "romaji": "higashiyama",
+    "slug": "meguro/higashiyama-1chomekara3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "東山１丁目から３丁目",
+      "資源": "月曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 1 ・ 第 ③ 水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "碑文谷",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "himonya",
+    "slug": "meguro/himonya-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "碑文谷１丁目・２丁目",
+      "資源": "火曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "碑文谷",
+    "chome": "3丁目・4丁目",
+    "sub": "",
+    "romaji": "himonya",
+    "slug": "meguro/himonya-3chome-4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "碑文谷３丁目・４丁目",
+      "資源": "金曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "碑文谷",
+    "chome": "5丁目・6丁目",
+    "sub": "",
+    "romaji": "himonya",
+    "slug": "meguro/himonya-5chome-6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "碑文谷５丁目・６丁目",
+      "資源": "水曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "三田",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "mita",
+    "slug": "meguro/mita-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "三田１丁目・２丁目",
+      "資源": "木曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "緑が丘",
+    "chome": "1丁目から3丁目",
+    "sub": "",
+    "romaji": "midorigaoka",
+    "slug": "meguro/midorigaoka-1chomekara3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "緑が丘１丁目から３丁目",
+      "資源": "金曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 1 ・ 第 ③ 月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "南",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "minami",
+    "slug": "meguro/minami-1chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "南１丁目",
+      "資源": "火曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "南",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "minami",
+    "slug": "meguro/minami-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "南２丁目",
+      "資源": "金曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "南",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "minami",
+    "slug": "meguro/minami-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "南３丁目",
+      "資源": "金曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "目黒",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "meguro",
+    "slug": "meguro/meguro-1chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "目黒１丁目",
+      "資源": "木曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 2 ・ 第 ④ 土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "目黒",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "meguro",
+    "slug": "meguro/meguro-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "目黒２丁目",
+      "資源": "木曜日",
+      "燃やすごみ": "火曜日・金曜日",
+      "燃やさないごみ": "第 1 ・ 第 ③ 土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "目黒",
+    "chome": "3丁目・4丁目",
+    "sub": "",
+    "romaji": "meguro",
+    "slug": "meguro/meguro-3chome-4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "目黒３丁目・４丁目",
+      "資源": "土曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 1 ・ 第 ③ 火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "目黒本町",
+    "chome": "1丁目から3丁目",
+    "sub": "",
+    "romaji": "megurohoncho",
+    "slug": "meguro/megurohoncho-1chomekara3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "目黒本町１丁目から３丁目",
+      "資源": "火曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 ① ・ 第 3 木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "目黒本町",
+    "chome": "4丁目から6丁目",
+    "sub": "",
+    "romaji": "megurohoncho",
+    "slug": "meguro/megurohoncho-4chomekara6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "目黒本町４丁目から６丁目",
+      "資源": "火曜日",
+      "燃やすごみ": "水曜日・土曜日",
+      "燃やさないごみ": "第 1 ・ 第 ③ 木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "八雲",
+    "chome": "1丁目から5丁目",
+    "sub": "",
+    "romaji": "yakumo",
+    "slug": "meguro/yakumo-1chomekara5chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "八雲１丁目から５丁目",
+      "資源": "水曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 1 ・ 第 ③ 金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "目黒区",
+    "city_en": "meguro",
+    "ward": "",
+    "ward_en": "",
+    "town": "祐天寺",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "romaji": "yuutenji",
+    "slug": "meguro/yuutenji-1chome-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.meguro.tokyo.jp/documents/4335/h28syuusyuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "祐天寺１丁目・２丁目",
+      "資源": "土曜日",
+      "燃やすごみ": "月曜日・木曜日",
+      "燃やさないごみ": "第 ② ・ 第 4 火曜日"
+    }
+  }
+]

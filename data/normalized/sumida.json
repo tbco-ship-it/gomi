@@ -1,0 +1,2837 @@
+[
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "両国",
+    "chome": "",
+    "sub": "",
+    "romaji": "ryougoku",
+    "slug": "sumida/ryougoku",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_01.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 1,
+      "area": "両国",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "亀沢",
+    "chome": "",
+    "sub": "",
+    "romaji": "kamezawa",
+    "slug": "sumida/kamezawa",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_01.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 1,
+      "area": "亀沢",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "石原",
+    "chome": "",
+    "sub": "",
+    "romaji": "ishihara",
+    "slug": "sumida/ishihara",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_01.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 1,
+      "area": "石原",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "横網",
+    "chome": "",
+    "sub": "",
+    "romaji": "yokoami",
+    "slug": "sumida/yokoami",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_01.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 1,
+      "area": "横網",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "千歳",
+    "chome": "",
+    "sub": "",
+    "romaji": "chitose",
+    "slug": "sumida/chitose",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_02.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 2,
+      "area": "千歳",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "緑",
+    "chome": "",
+    "sub": "",
+    "romaji": "midori",
+    "slug": "sumida/midori",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_02.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 2,
+      "area": "緑",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "立川",
+    "chome": "",
+    "sub": "",
+    "romaji": "tachikawa",
+    "slug": "sumida/tachikawa",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_02.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 2,
+      "area": "立川",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "太平",
+    "chome": "",
+    "sub": "",
+    "romaji": "taihei",
+    "slug": "sumida/taihei",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_03.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 3,
+      "area": "太平",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "横川",
+    "chome": "",
+    "sub": "",
+    "romaji": "yokokawa",
+    "slug": "sumida/yokokawa",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_03.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 3,
+      "area": "横川",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "菊川",
+    "chome": "",
+    "sub": "",
+    "romaji": "kikugawa",
+    "slug": "sumida/kikugawa",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_04.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 4,
+      "area": "菊川",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "江東橋",
+    "chome": "",
+    "sub": "",
+    "romaji": "kotobashi",
+    "slug": "sumida/kotobashi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_04.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 4,
+      "area": "江東橋",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "錦糸",
+    "chome": "",
+    "sub": "",
+    "romaji": "kinshi",
+    "slug": "sumida/kinshi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_04.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 4,
+      "area": "錦糸",
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable_days": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "本所",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "honsho",
+    "slug": "sumida/honsho-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_05.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 5,
+      "area": "本所1〜2丁目",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "東駒形",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "tokomakatachi",
+    "slug": "sumida/tokomakatachi-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_05.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 5,
+      "area": "東駒形1〜2丁目",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "吾妻橋",
+    "chome": "",
+    "sub": "",
+    "romaji": "azumabashi",
+    "slug": "sumida/azumabashi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_05.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 5,
+      "area": "吾妻橋",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "向島",
+    "chome": "1〜3丁目",
+    "sub": "",
+    "romaji": "koshima",
+    "slug": "sumida/koshima-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_05.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 5,
+      "area": "向島1〜3丁目",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "向島",
+    "chome": "4〜5丁目",
+    "sub": "",
+    "romaji": "koshima",
+    "slug": "sumida/koshima-4-5chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_06.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 6,
+      "area": "向島4〜5丁目",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "東向島",
+    "chome": "1〜3丁目",
+    "sub": "",
+    "romaji": "higashimukishima",
+    "slug": "sumida/higashimukishima-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_06.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 6,
+      "area": "東向島1〜3丁目",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "堤通",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "tsutsumidoori",
+    "slug": "sumida/tsutsumidoori-1chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_06.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 6,
+      "area": "堤通1丁目",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "押上",
+    "chome": "",
+    "sub": "",
+    "romaji": "oshiage",
+    "slug": "sumida/oshiage",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_07.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 7,
+      "area": "押上",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "京島",
+    "chome": "",
+    "sub": "",
+    "romaji": "kyoujima",
+    "slug": "sumida/kyoujima",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_07.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 7,
+      "area": "京島",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "本所",
+    "chome": "3〜4丁目",
+    "sub": "",
+    "romaji": "honsho",
+    "slug": "sumida/honsho-3-4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_08.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 8,
+      "area": "本所3〜4丁目",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "東駒形",
+    "chome": "3〜4丁目",
+    "sub": "",
+    "romaji": "tokomakatachi",
+    "slug": "sumida/tokomakatachi-3-4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_08.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 8,
+      "area": "東駒形3〜4丁目",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "業平",
+    "chome": "",
+    "sub": "",
+    "romaji": "narihira",
+    "slug": "sumida/narihira",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_08.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 8,
+      "area": "業平",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "文花",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "bunhana",
+    "slug": "sumida/bunhana-1chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_08.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 8,
+      "area": "文花1丁目",
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable_days": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "堤通",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "tsutsumidoori",
+    "slug": "sumida/tsutsumidoori-2chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_09.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 9,
+      "area": "堤通2丁目",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable_days": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "東向島",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "higashimukishima",
+    "slug": "sumida/higashimukishima-4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_09.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 9,
+      "area": "東向島4丁目",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable_days": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "墨田",
+    "chome": "1・2・5丁目",
+    "sub": "",
+    "romaji": "sumida",
+    "slug": "sumida/sumida-1-2-5chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_09.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 9,
+      "area": "墨田1・2・5丁目",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable_days": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "東向島",
+    "chome": "5〜6丁目",
+    "sub": "",
+    "romaji": "higashimukishima",
+    "slug": "sumida/higashimukishima-5-6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_10.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 10,
+      "area": "東向島5〜6丁目",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable_days": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "墨田",
+    "chome": "3〜4丁目",
+    "sub": "",
+    "romaji": "sumida",
+    "slug": "sumida/sumida-3-4chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_10.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 10,
+      "area": "墨田3〜4丁目",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable_days": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "八広",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "yahiro",
+    "slug": "sumida/yahiro-6chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_10.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 10,
+      "area": "八広6丁目",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable_days": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "立花",
+    "chome": "",
+    "sub": "",
+    "romaji": "tachibana",
+    "slug": "sumida/tachibana",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_11.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 11,
+      "area": "立花",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable_days": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "東墨田",
+    "chome": "",
+    "sub": "",
+    "romaji": "higashisumida",
+    "slug": "sumida/higashisumida",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_11.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 11,
+      "area": "東墨田",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable_days": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "文花",
+    "chome": "2〜3丁目",
+    "sub": "",
+    "romaji": "bunhana",
+    "slug": "sumida/bunhana-2-3chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_12.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 12,
+      "area": "文花2〜3丁目",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable_days": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "墨田区",
+    "city_en": "sumida",
+    "ward": "",
+    "ward_en": "",
+    "town": "八広",
+    "chome": "1〜5丁目",
+    "sub": "",
+    "romaji": "yahiro",
+    "slug": "sumida/yahiro-1-5chome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/kateikei/gomi-calendar.files/0810_12.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "zone": 12,
+      "area": "八広1〜5丁目",
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable_days": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "火"
+      ]
+    }
+  }
+]

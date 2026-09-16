@@ -1,0 +1,977 @@
+[
+  {
+    "town": "池袋",
+    "chome": "1・4丁目",
+    "areaId": "149860",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "火"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper_cloth": [
+      "水"
+    ]
+  },
+  {
+    "town": "池袋",
+    "chome": "2丁目",
+    "areaId": "149861",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "水"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper_cloth": [
+      "火"
+    ]
+  },
+  {
+    "town": "池袋",
+    "chome": "3丁目",
+    "areaId": "149877",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "火"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper_cloth": [
+      "水"
+    ]
+  },
+  {
+    "town": "池袋本町",
+    "chome": "",
+    "areaId": "149878",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "火"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper_cloth": [
+      "水"
+    ]
+  },
+  {
+    "town": "要町",
+    "chome": "1丁目",
+    "areaId": "149879",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "木"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper_cloth": [
+      "金"
+    ]
+  },
+  {
+    "town": "要町",
+    "chome": "2丁目",
+    "areaId": "149881",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "木"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper_cloth": [
+      "金"
+    ]
+  },
+  {
+    "town": "要町",
+    "chome": "3丁目",
+    "areaId": "149883",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "木"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper_cloth": [
+      "金"
+    ]
+  },
+  {
+    "town": "上池袋",
+    "chome": "",
+    "areaId": "144905",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper_cloth": [
+      "月"
+    ]
+  },
+  {
+    "town": "北大塚",
+    "chome": "1丁目",
+    "areaId": "149885",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper_cloth": [
+      "木"
+    ]
+  },
+  {
+    "town": "北大塚",
+    "chome": "2丁目",
+    "areaId": "149892",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper_cloth": [
+      "月"
+    ]
+  },
+  {
+    "town": "北大塚",
+    "chome": "3丁目",
+    "areaId": "149893",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper_cloth": [
+      "月"
+    ]
+  },
+  {
+    "town": "駒込",
+    "chome": "",
+    "areaId": "149894",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper_cloth": [
+      "木"
+    ]
+  },
+  {
+    "town": "巣鴨",
+    "chome": "1・2・5丁目",
+    "areaId": "149895",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper_cloth": [
+      "木"
+    ]
+  },
+  {
+    "town": "巣鴨",
+    "chome": "3・4丁目",
+    "areaId": "149896",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper_cloth": [
+      "木"
+    ]
+  },
+  {
+    "town": "千川",
+    "chome": "",
+    "areaId": "149897",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      3,
+      5
+    ],
+    "resource": [
+      "木"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper_cloth": [
+      "金"
+    ]
+  },
+  {
+    "town": "雑司が谷",
+    "chome": "",
+    "areaId": "144916",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "金"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper_cloth": [
+      "土"
+    ]
+  },
+  {
+    "town": "高田",
+    "chome": "1・2丁目",
+    "areaId": "149898",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "金"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper_cloth": [
+      "土"
+    ]
+  },
+  {
+    "town": "高田",
+    "chome": "3丁目",
+    "areaId": "149899",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "月"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper_cloth": [
+      "火"
+    ]
+  },
+  {
+    "town": "高松",
+    "chome": "",
+    "areaId": "144919",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      3,
+      5
+    ],
+    "resource": [
+      "木"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper_cloth": [
+      "金"
+    ]
+  },
+  {
+    "town": "千早",
+    "chome": "",
+    "areaId": "144920",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "木"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper_cloth": [
+      "金"
+    ]
+  },
+  {
+    "town": "長崎",
+    "chome": "1～5丁目",
+    "areaId": "149900",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "月"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper_cloth": [
+      "火"
+    ]
+  },
+  {
+    "town": "長崎",
+    "chome": "6丁目",
+    "areaId": "149901",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "月"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "木"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper_cloth": [
+      "金"
+    ]
+  },
+  {
+    "town": "西池袋",
+    "chome": "1丁目",
+    "areaId": "149902",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "火"
+    ],
+    "plastic": [
+      "金"
+    ],
+    "paper_cloth": [
+      "金"
+    ]
+  },
+  {
+    "town": "西池袋",
+    "chome": "2・4丁目",
+    "areaId": "149908",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "火"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper_cloth": [
+      "水"
+    ]
+  },
+  {
+    "town": "西池袋",
+    "chome": "3丁目",
+    "areaId": "149909",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "火"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper_cloth": [
+      "水"
+    ]
+  },
+  {
+    "town": "西池袋",
+    "chome": "5丁目",
+    "areaId": "149913",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "水"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper_cloth": [
+      "火"
+    ]
+  },
+  {
+    "town": "西巣鴨",
+    "chome": "",
+    "areaId": "149919",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "土"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper_cloth": [
+      "月"
+    ]
+  },
+  {
+    "town": "東池袋",
+    "chome": "1丁目",
+    "areaId": "149920",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "水"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "木"
+    ],
+    "plastic": [
+      "月"
+    ],
+    "paper_cloth": [
+      "月"
+    ]
+  },
+  {
+    "town": "東池袋",
+    "chome": "2丁目",
+    "areaId": "149927",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "金"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper_cloth": [
+      "土"
+    ]
+  },
+  {
+    "town": "東池袋",
+    "chome": "3丁目",
+    "areaId": "149931",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "金"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper_cloth": [
+      "土"
+    ]
+  },
+  {
+    "town": "東池袋",
+    "chome": "4・5丁目",
+    "areaId": "149934",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "金"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper_cloth": [
+      "土"
+    ]
+  },
+  {
+    "town": "南池袋",
+    "chome": "1丁目",
+    "areaId": "149935",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "金"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "火"
+    ],
+    "plastic": [
+      "水"
+    ],
+    "paper_cloth": [
+      "水"
+    ]
+  },
+  {
+    "town": "南池袋",
+    "chome": "2丁目",
+    "areaId": "149937",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "金"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper_cloth": [
+      "土"
+    ]
+  },
+  {
+    "town": "南池袋",
+    "chome": "3・4丁目",
+    "areaId": "149942",
+    "burnable": [
+      "月",
+      "木"
+    ],
+    "nonburnable": [
+      "火"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "金"
+    ],
+    "plastic": [
+      "土"
+    ],
+    "paper_cloth": [
+      "土"
+    ]
+  },
+  {
+    "town": "南大塚",
+    "chome": "1・2丁目",
+    "areaId": "149943",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper_cloth": [
+      "木"
+    ]
+  },
+  {
+    "town": "南大塚",
+    "chome": "3丁目",
+    "areaId": "149944",
+    "burnable": [
+      "火",
+      "金"
+    ],
+    "nonburnable": [
+      "土"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "水"
+    ],
+    "plastic": [
+      "木"
+    ],
+    "paper_cloth": [
+      "木"
+    ]
+  },
+  {
+    "town": "南長崎",
+    "chome": "1～3丁目",
+    "areaId": "149947",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "月"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper_cloth": [
+      "火"
+    ]
+  },
+  {
+    "town": "南長崎",
+    "chome": "4～6丁目",
+    "areaId": "149948",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      1,
+      3
+    ],
+    "resource": [
+      "月"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper_cloth": [
+      "火"
+    ]
+  },
+  {
+    "town": "目白",
+    "chome": "",
+    "areaId": "149949",
+    "burnable": [
+      "土",
+      "水"
+    ],
+    "nonburnable": [
+      "木"
+    ],
+    "nonburnable_weeks": [
+      2,
+      4
+    ],
+    "resource": [
+      "月"
+    ],
+    "plastic": [
+      "火"
+    ],
+    "paper_cloth": [
+      "火"
+    ]
+  }
+]

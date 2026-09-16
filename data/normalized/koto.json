@@ -1,0 +1,3830 @@
+[
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "青海",
+    "chome": "",
+    "sub": "",
+    "romaji": "seikai",
+    "slug": "koto/seikai",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "あおみ",
+      "住所": "青海",
+      "地区番号": "6",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "有明",
+    "chome": "",
+    "sub": "",
+    "romaji": "ariake",
+    "slug": "koto/ariake",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ありあけ",
+      "住所": "有明",
+      "地区番号": "6",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "石島",
+    "chome": "",
+    "sub": "",
+    "romaji": "ishijima",
+    "slug": "koto/ishijima",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "いしじま",
+      "住所": "石島",
+      "地区番号": "11",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "海辺",
+    "chome": "",
+    "sub": "",
+    "romaji": "umibe",
+    "slug": "koto/umibe",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "うみべ",
+      "住所": "海辺",
+      "地区番号": "11",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "海の森",
+    "chome": "",
+    "sub": "",
+    "romaji": "uminomori",
+    "slug": "koto/uminomori",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "うみのもり",
+      "住所": "海の森",
+      "地区番号": "6",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "永代",
+    "chome": "",
+    "sub": "",
+    "romaji": "eitai",
+    "slug": "koto/eitai",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "えいたい",
+      "住所": "永代",
+      "地区番号": "3",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "枝川",
+    "chome": "",
+    "sub": "",
+    "romaji": "edagawa",
+    "slug": "koto/edagawa",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "えだがわ",
+      "住所": "枝川",
+      "地区番号": "12",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "越中島",
+    "chome": "",
+    "sub": "",
+    "romaji": "etchushima",
+    "slug": "koto/etchushima",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "えっちゅうじま",
+      "住所": "越中島",
+      "地区番号": "3",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "扇橋",
+    "chome": "",
+    "sub": "",
+    "romaji": "ogibashi",
+    "slug": "koto/ogibashi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "おうぎばし",
+      "住所": "扇橋",
+      "地区番号": "11",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "大島",
+    "chome": "1~2丁目",
+    "sub": "",
+    "romaji": "oshima",
+    "slug": "koto/oshima-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "おおじま",
+      "住所": "大島1～2丁目",
+      "地区番号": "8",
+      "資源": "月",
+      "プラスチック": "金",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "大島",
+    "chome": "3~7丁目",
+    "sub": "",
+    "romaji": "oshima",
+    "slug": "koto/oshima-3-7",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "おおじま",
+      "住所": "大島3～7丁目",
+      "地区番号": "10",
+      "資源": "水",
+      "プラスチック": "月",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "（隔週）木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "大島",
+    "chome": "8~9丁目",
+    "sub": "",
+    "romaji": "oshima",
+    "slug": "koto/oshima-8-9",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "おおじま",
+      "住所": "大島8～9丁目",
+      "地区番号": "4",
+      "資源": "水",
+      "プラスチック": "月",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "（隔週）木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "亀戸",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "kameido",
+    "slug": "koto/kameido-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "かめいど",
+      "住所": "亀戸1～3丁目",
+      "地区番号": "8",
+      "資源": "月",
+      "プラスチック": "金",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "亀戸",
+    "chome": "4~9丁目",
+    "sub": "",
+    "romaji": "kameido",
+    "slug": "koto/kameido-4-9",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "かめいど",
+      "住所": "亀戸4～9丁目",
+      "地区番号": "2",
+      "資源": "月",
+      "プラスチック": "金",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "北砂",
+    "chome": "1~5丁目",
+    "sub": "",
+    "romaji": "kitasuna",
+    "slug": "koto/kitasuna-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "きたすな",
+      "住所": "北砂1～5丁目",
+      "地区番号": "7",
+      "資源": "土",
+      "プラスチック": "木",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "（隔週）月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "北砂",
+    "chome": "6~7丁目",
+    "sub": "",
+    "romaji": "kitasuna",
+    "slug": "koto/kitasuna-6-7",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "きたすな",
+      "住所": "北砂6～7丁目",
+      "地区番号": "4",
+      "資源": "水",
+      "プラスチック": "月",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "（隔週）木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "木場",
+    "chome": "",
+    "sub": "",
+    "romaji": "kiba",
+    "slug": "koto/kiba",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "きば",
+      "住所": "木場",
+      "地区番号": "9",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "清澄",
+    "chome": "",
+    "sub": "",
+    "romaji": "kiyosumi",
+    "slug": "koto/kiyosumi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "きよすみ",
+      "住所": "清澄",
+      "地区番号": "3",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "佐賀",
+    "chome": "",
+    "sub": "",
+    "romaji": "saga",
+    "slug": "koto/saga",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "さが",
+      "住所": "佐賀",
+      "地区番号": "3",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "猿江",
+    "chome": "",
+    "sub": "",
+    "romaji": "sarue",
+    "slug": "koto/sarue",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "さるえ",
+      "住所": "猿江",
+      "地区番号": "11",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "塩浜",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "shiohama",
+    "slug": "koto/shiohama-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "しおはま",
+      "住所": "塩浜1丁目",
+      "地区番号": "6",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "塩浜",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "shiohama",
+    "slug": "koto/shiohama-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "しおはま",
+      "住所": "塩浜2丁目",
+      "地区番号": "12",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "潮見",
+    "chome": "",
+    "sub": "",
+    "romaji": "shiomi",
+    "slug": "koto/shiomi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "しおみ",
+      "住所": "潮見",
+      "地区番号": "12",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "東雲",
+    "chome": "",
+    "sub": "",
+    "romaji": "shinonome",
+    "slug": "koto/shinonome",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "しののめ",
+      "住所": "東雲",
+      "地区番号": "6",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "白河",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "shirakawa",
+    "slug": "koto/shirakawa-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "しらかわ",
+      "住所": "白河1～3丁目",
+      "地区番号": "5",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "白河",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "shirakawa",
+    "slug": "koto/shirakawa-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "しらかわ",
+      "住所": "白河4丁目",
+      "地区番号": "11",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "新大橋",
+    "chome": "",
+    "sub": "",
+    "romaji": "shindaihashi",
+    "slug": "koto/shindaihashi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "しんきば",
+      "住所": "新大橋",
+      "地区番号": "5",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "新木場",
+    "chome": "",
+    "sub": "",
+    "romaji": "shinkiba",
+    "slug": "koto/shinkiba",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "しんきば",
+      "住所": "新木場",
+      "地区番号": "12",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "新砂",
+    "chome": "",
+    "sub": "",
+    "romaji": "shinsuna",
+    "slug": "koto/shinsuna",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "しんすな",
+      "住所": "新砂",
+      "地区番号": "1",
+      "資源": "土",
+      "プラスチック": "木",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "（隔週）月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "住吉",
+    "chome": "",
+    "sub": "",
+    "romaji": "sumiyoshi",
+    "slug": "koto/sumiyoshi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "すみよし",
+      "住所": "住吉",
+      "地区番号": "8",
+      "資源": "月",
+      "プラスチック": "金",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "千石",
+    "chome": "",
+    "sub": "",
+    "romaji": "sengoku",
+    "slug": "koto/sengoku",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "せんごく",
+      "住所": "千石",
+      "地区番号": "11",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "千田",
+    "chome": "",
+    "sub": "",
+    "romaji": "chida",
+    "slug": "koto/chida",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "せんだ",
+      "住所": "千田",
+      "地区番号": "11",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "高橋",
+    "chome": "",
+    "sub": "",
+    "romaji": "takahashi",
+    "slug": "koto/takahashi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "たかばし",
+      "住所": "高橋",
+      "地区番号": "5",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "辰巳",
+    "chome": "",
+    "sub": "",
+    "romaji": "tatsumi",
+    "slug": "koto/tatsumi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "たつみ",
+      "住所": "辰巳",
+      "地区番号": "12",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "東陽",
+    "chome": "",
+    "sub": "",
+    "romaji": "toyou",
+    "slug": "koto/toyou",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "とうよう",
+      "住所": "東陽",
+      "地区番号": "9",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "常盤",
+    "chome": "",
+    "sub": "",
+    "romaji": "tokiwa",
+    "slug": "koto/tokiwa",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ときわ",
+      "住所": "常盤",
+      "地区番号": "5",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "富岡",
+    "chome": "",
+    "sub": "",
+    "romaji": "tomioka",
+    "slug": "koto/tomioka",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "とみおか",
+      "住所": "富岡",
+      "地区番号": "3",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊洲",
+    "chome": "",
+    "sub": "",
+    "romaji": "toyosu",
+    "slug": "koto/toyosu",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "とよす",
+      "住所": "豊洲",
+      "地区番号": "6",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "東砂",
+    "chome": "1~5丁目",
+    "sub": "",
+    "romaji": "higashisuna",
+    "slug": "koto/higashisuna-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ひがしすな",
+      "住所": "東砂1～5丁目",
+      "地区番号": "4",
+      "資源": "水",
+      "プラスチック": "月",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "（隔週）木"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "東砂",
+    "chome": "6~8丁目",
+    "sub": "",
+    "romaji": "higashisuna",
+    "slug": "koto/higashisuna-6-8",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ひがしすな",
+      "住所": "東砂6～8丁目",
+      "地区番号": "1",
+      "資源": "土",
+      "プラスチック": "木",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "（隔週）月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "平野",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "heiya",
+    "slug": "koto/heiya-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ひらの",
+      "住所": "平野1～3丁目",
+      "地区番号": "5",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "平野",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "heiya",
+    "slug": "koto/heiya-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ひらの　",
+      "住所": "平野4丁目",
+      "地区番号": "11",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "深川",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "fukagawa",
+    "slug": "koto/fukagawa-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ふかがわ",
+      "住所": "深川1丁目",
+      "地区番号": "3",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "深川",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "fukagawa",
+    "slug": "koto/fukagawa-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ふかがわ",
+      "住所": "深川2丁目",
+      "地区番号": "9",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "福住",
+    "chome": "",
+    "sub": "",
+    "romaji": "fukuzumi",
+    "slug": "koto/fukuzumi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ふくずみ",
+      "住所": "福住",
+      "地区番号": "3",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "冬木",
+    "chome": "",
+    "sub": "",
+    "romaji": "toboku",
+    "slug": "koto/toboku",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ふゆき",
+      "住所": "冬木",
+      "地区番号": "9",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "古石場",
+    "chome": "",
+    "sub": "",
+    "romaji": "furuishiba",
+    "slug": "koto/furuishiba",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ふるいしば",
+      "住所": "古石場",
+      "地区番号": "3",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "牡丹",
+    "chome": "",
+    "sub": "",
+    "romaji": "botan",
+    "slug": "koto/botan",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ぼたん",
+      "住所": "牡丹",
+      "地区番号": "3",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "南砂",
+    "chome": "1・5丁目",
+    "sub": "",
+    "romaji": "minamisuna",
+    "slug": "koto/minamisuna-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "みなみすな",
+      "住所": "南砂1・5丁目",
+      "地区番号": "7",
+      "資源": "土",
+      "プラスチック": "木",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "（隔週）月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "南砂",
+    "chome": "2~4・6~7丁目",
+    "sub": "",
+    "romaji": "minamisuna",
+    "slug": "koto/minamisuna-2-4-6-7",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "みなみすな",
+      "住所": "南砂2～4・6～7丁目",
+      "地区番号": "1",
+      "資源": "土",
+      "プラスチック": "木",
+      "燃やすごみ": "火・金",
+      "燃やさないごみ": "（隔週）月"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "三好",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "miyoshi",
+    "slug": "koto/miyoshi-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "みよし",
+      "住所": "三好1～3丁目",
+      "地区番号": "5",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "三好",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "miyoshi",
+    "slug": "koto/miyoshi-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "みよし",
+      "住所": "三好4丁目",
+      "地区番号": "11",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "毛利",
+    "chome": "",
+    "sub": "",
+    "romaji": "mouri",
+    "slug": "koto/mouri",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "もりした",
+      "住所": "毛利",
+      "地区番号": "8",
+      "資源": "月",
+      "プラスチック": "金",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）火"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "森下",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "morishita",
+    "slug": "koto/morishita-1-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "もりした",
+      "住所": "森下1～4丁目",
+      "地区番号": "5",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "森下",
+    "chome": "5丁目",
+    "sub": "",
+    "romaji": "morishita",
+    "slug": "koto/morishita-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "もりした",
+      "住所": "森下5丁目",
+      "地区番号": "11",
+      "資源": "木",
+      "プラスチック": "火",
+      "燃やすごみ": "水・土",
+      "燃やさないごみ": "（隔週）金"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "門前仲町",
+    "chome": "",
+    "sub": "",
+    "romaji": "monzennakamachi",
+    "slug": "koto/monzennakamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "もんぜんなかちょう",
+      "住所": "門前仲町",
+      "地区番号": "3",
+      "資源": "火",
+      "プラスチック": "土",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）水"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "夢の島",
+    "chome": "",
+    "sub": "",
+    "romaji": "yumenoshima",
+    "slug": "koto/yumenoshima",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "ゆめのしま",
+      "住所": "夢の島",
+      "地区番号": "12",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江東区",
+    "city_en": "koto",
+    "ward": "",
+    "ward_en": "",
+    "town": "若洲",
+    "chome": "",
+    "sub": "",
+    "romaji": "wakasu",
+    "slug": "koto/wakasu",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/koto/131083_201_kotocity_waste_recycle_collectionday.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "じゅうしょ": "わかす",
+      "住所": "若洲",
+      "地区番号": "12",
+      "資源": "金",
+      "プラスチック": "水",
+      "燃やすごみ": "月・木",
+      "燃やさないごみ": "（隔週）土"
+    }
+  }
+]

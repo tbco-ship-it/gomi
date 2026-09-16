@@ -1,0 +1,4272 @@
+[
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "相生町",
+    "chome": "",
+    "sub": "",
+    "romaji": "aioicho",
+    "slug": "itabashi/aioicho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "相生町",
+      "資源": "水",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の金",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "東新町",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "higashishimmachi",
+    "slug": "itabashi/higashishimmachi-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "東新町1〜2丁目",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤塚",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "akatsuka",
+    "slug": "itabashi/akatsuka-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "赤塚1〜2丁目",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の木",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "常盤台",
+    "chome": "1〜4丁目",
+    "sub": "",
+    "romaji": "tokiwadai",
+    "slug": "itabashi/tokiwadai-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "常盤台1〜4丁目",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤塚",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "akatsuka",
+    "slug": "itabashi/akatsuka-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "赤塚3丁目",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "徳丸",
+    "chome": "1〜4丁目",
+    "sub": "",
+    "romaji": "tokumaru",
+    "slug": "itabashi/tokumaru-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "徳丸1〜4丁目",
+      "資源": "水",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の金",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤塚",
+    "chome": "4〜5丁目",
+    "sub": "",
+    "romaji": "akatsuka",
+    "slug": "itabashi/akatsuka-4-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "赤塚4〜5丁目",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "徳丸",
+    "chome": "5〜8丁目",
+    "sub": "",
+    "romaji": "tokumaru",
+    "slug": "itabashi/tokumaru-5-8chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "徳丸5〜8丁目",
+      "資源": "水",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の金",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤塚",
+    "chome": "6〜7丁目",
+    "sub": "",
+    "romaji": "akatsuka",
+    "slug": "itabashi/akatsuka-6-7chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "赤塚6〜7丁目",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の木",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "中板橋",
+    "chome": "",
+    "sub": "",
+    "romaji": "nakaitabashi",
+    "slug": "itabashi/nakaitabashi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "中板橋",
+      "資源": "金",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤塚",
+    "chome": "8丁目",
+    "sub": "",
+    "romaji": "akatsuka",
+    "slug": "itabashi/akatsuka-8chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "赤塚8丁目",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "仲宿",
+    "chome": "",
+    "sub": "",
+    "romaji": "nakajuku",
+    "slug": "itabashi/nakajuku",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "仲宿",
+      "資源": "金",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤塚新町",
+    "chome": "1〜3丁目",
+    "sub": "",
+    "romaji": "akatsukashimmachi",
+    "slug": "itabashi/akatsukashimmachi-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "赤塚新町1〜3丁目",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の木",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "中台",
+    "chome": "1〜3丁目",
+    "sub": "",
+    "romaji": "chutai",
+    "slug": "itabashi/chutai-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "中台1〜3丁目",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "小豆沢",
+    "chome": "1〜4丁目",
+    "sub": "",
+    "romaji": "azusawa",
+    "slug": "itabashi/azusawa-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "小豆沢1〜4丁目",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "仲町",
+    "chome": "",
+    "sub": "",
+    "romaji": "nakacho",
+    "slug": "itabashi/nakacho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "仲町",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "泉町",
+    "chome": "",
+    "sub": "",
+    "romaji": "izumicho",
+    "slug": "itabashi/izumicho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "泉町",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "中丸町",
+    "chome": "",
+    "sub": "",
+    "romaji": "nakamarumachi",
+    "slug": "itabashi/nakamarumachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "中丸町",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "板橋",
+    "chome": "1〜4丁目",
+    "sub": "",
+    "romaji": "itabashi",
+    "slug": "itabashi/itabashi-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "板橋1〜4丁目",
+      "資源": "金",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "成増",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "narimasu",
+    "slug": "itabashi/narimasu-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "成増1丁目",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "稲荷台",
+    "chome": "",
+    "sub": "",
+    "romaji": "inaridai",
+    "slug": "itabashi/inaridai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "稲荷台",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "成増",
+    "chome": "2〜3丁目",
+    "sub": "",
+    "romaji": "narimasu",
+    "slug": "itabashi/narimasu-2-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "成増2〜3丁目",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大原町",
+    "chome": "",
+    "sub": "",
+    "romaji": "oharamachi",
+    "slug": "itabashi/oharamachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大原町",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "成増",
+    "chome": "4〜5丁目",
+    "sub": "",
+    "romaji": "narimasu",
+    "slug": "itabashi/narimasu-4-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "成増4〜5丁目",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大谷口",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "otanikuchi",
+    "slug": "itabashi/otanikuchi-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大谷口1〜2丁目",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西台",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "nishidai",
+    "slug": "itabashi/nishidai-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "西台1〜2丁目",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大谷口上町",
+    "chome": "",
+    "sub": "",
+    "romaji": "otanikojoumachi",
+    "slug": "itabashi/otanikojoumachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大谷口上町",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西台",
+    "chome": "3〜4丁目",
+    "sub": "",
+    "romaji": "nishidai",
+    "slug": "itabashi/nishidai-3-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "西台3〜4丁目",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の金",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大谷口北町",
+    "chome": "",
+    "sub": "",
+    "romaji": "otanikuchikitamachi",
+    "slug": "itabashi/otanikuchikitamachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大谷口北町",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "蓮沼町",
+    "chome": "",
+    "sub": "",
+    "romaji": "hasunumacho",
+    "slug": "itabashi/hasunumacho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "蓮沼町",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大山町",
+    "chome": "",
+    "sub": "",
+    "romaji": "oyamacho",
+    "slug": "itabashi/oyamacho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大山町",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "蓮根",
+    "chome": "1〜3丁目",
+    "sub": "",
+    "romaji": "renkon",
+    "slug": "itabashi/renkon-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "蓮根1〜3丁目",
+      "資源": "水",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の金",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大山金井町",
+    "chome": "",
+    "sub": "",
+    "romaji": "oyamakanaimachi",
+    "slug": "itabashi/oyamakanaimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大山金井町",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "東坂下",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "tohanshita",
+    "slug": "itabashi/tohanshita-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "東坂下1〜2丁目",
+      "資源": "水",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の金",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大山西町",
+    "chome": "",
+    "sub": "",
+    "romaji": "oyamanishimachi",
+    "slug": "itabashi/oyamanishimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大山西町",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "東山町",
+    "chome": "",
+    "sub": "",
+    "romaji": "higashiyamamachi",
+    "slug": "itabashi/higashiyamamachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "東山町",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大山東町",
+    "chome": "",
+    "sub": "",
+    "romaji": "oyamahigashicho",
+    "slug": "itabashi/oyamahigashicho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大山東町",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "氷川町",
+    "chome": "",
+    "sub": "",
+    "romaji": "hikawamachi",
+    "slug": "itabashi/hikawamachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "氷川町",
+      "資源": "金",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "加賀",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "kaga",
+    "slug": "itabashi/kaga-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "加賀1〜2丁目",
+      "資源": "金",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "富士見町",
+    "chome": "",
+    "sub": "",
+    "romaji": "fujimicho",
+    "slug": "itabashi/fujimicho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "富士見町",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "上板橋",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "kamiitabashi",
+    "slug": "itabashi/kamiitabashi-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "上板橋1〜2丁目",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "双葉町",
+    "chome": "",
+    "sub": "",
+    "romaji": "futabacho",
+    "slug": "itabashi/futabacho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "双葉町",
+      "資源": "金",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "上板橋",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "kamiitabashi",
+    "slug": "itabashi/kamiitabashi-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "上板橋3丁目",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "舟渡",
+    "chome": "1〜4丁目",
+    "sub": "",
+    "romaji": "funato",
+    "slug": "itabashi/funato-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "舟渡1〜4丁目",
+      "資源": "水",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の金",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "熊野町",
+    "chome": "",
+    "sub": "",
+    "romaji": "kumanomachi",
+    "slug": "itabashi/kumanomachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "熊野町",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "本町",
+    "chome": "",
+    "sub": "",
+    "romaji": "honcho",
+    "slug": "itabashi/honcho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "本町",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "小茂根",
+    "chome": "1〜5丁目",
+    "sub": "",
+    "romaji": "komone",
+    "slug": "itabashi/komone-1-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "小茂根1〜5丁目",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "前野町",
+    "chome": "1〜6丁目",
+    "sub": "",
+    "romaji": "maenomachi",
+    "slug": "itabashi/maenomachi-1-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "前野町1〜6丁目",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の金",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "幸町",
+    "chome": "",
+    "sub": "",
+    "romaji": "saiwaicho",
+    "slug": "itabashi/saiwaicho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "幸町",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "三園",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "misono",
+    "slug": "itabashi/misono-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "三園1丁目",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "栄町",
+    "chome": "",
+    "sub": "",
+    "romaji": "sakaemachi",
+    "slug": "itabashi/sakaemachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "栄町",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "三園",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "misono",
+    "slug": "itabashi/misono-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "三園2丁目",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の土",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "坂下",
+    "chome": "1〜3丁目",
+    "sub": "",
+    "romaji": "sakashita",
+    "slug": "itabashi/sakashita-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "坂下1〜3丁目",
+      "資源": "水",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の金",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "南町",
+    "chome": "",
+    "sub": "",
+    "romaji": "minamimachi",
+    "slug": "itabashi/minamimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "南町",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "桜川",
+    "chome": "1〜3丁目",
+    "sub": "",
+    "romaji": "sakuragawa",
+    "slug": "itabashi/sakuragawa-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "桜川1〜3丁目",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "南常盤台",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "nanjouhandai",
+    "slug": "itabashi/nanjouhandai-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "南常盤台1〜2丁目",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "清水町",
+    "chome": "",
+    "sub": "",
+    "romaji": "shimizucho",
+    "slug": "itabashi/shimizucho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "清水町",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "宮本町",
+    "chome": "",
+    "sub": "",
+    "romaji": "miyamotomachi",
+    "slug": "itabashi/miyamotomachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "宮本町",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "志村",
+    "chome": "1〜3丁目",
+    "sub": "",
+    "romaji": "shimura",
+    "slug": "itabashi/shimura-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "志村1〜3丁目",
+      "資源": "水",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の金",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "向原",
+    "chome": "1〜3丁目",
+    "sub": "",
+    "romaji": "mukaihara",
+    "slug": "itabashi/mukaihara-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "向原1〜3丁目",
+      "資源": "火",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "新河岸",
+    "chome": "1〜3丁目",
+    "sub": "",
+    "romaji": "shinkashi",
+    "slug": "itabashi/shinkashi-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "新河岸1〜3丁目",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の土",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大和町",
+    "chome": "",
+    "sub": "",
+    "romaji": "yamatocho",
+    "slug": "itabashi/yamatocho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大和町",
+      "資源": "金",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の水",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大門",
+    "chome": "",
+    "sub": "",
+    "romaji": "daimon",
+    "slug": "itabashi/daimon",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "大門",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "弥生町",
+    "chome": "",
+    "sub": "",
+    "romaji": "yayoicho",
+    "slug": "itabashi/yayoicho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "弥生町",
+      "資源": "土",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の木",
+      "管轄の事務所": "東清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "高島平",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "takashimataira",
+    "slug": "itabashi/takashimataira-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "高島平1丁目",
+      "資源": "金",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "四葉",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "yotsuba",
+    "slug": "itabashi/yotsuba-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "四葉1〜2丁目",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月1・3回目の土",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "高島平",
+    "chome": "2〜5丁目",
+    "sub": "",
+    "romaji": "takashimataira",
+    "slug": "itabashi/takashimataira-2-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "高島平2〜5丁目",
+      "資源": "金",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の水",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "若木",
+    "chome": "1〜2丁目",
+    "sub": "",
+    "romaji": "wakagi",
+    "slug": "itabashi/wakagi-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "若木1〜2丁目",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月1・3回目の金",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "高島平",
+    "chome": "6〜9丁目",
+    "sub": "",
+    "romaji": "takashimataira",
+    "slug": "itabashi/takashimataira-6-9chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "高島平6〜9丁目",
+      "資源": "木",
+      "可燃ごみ": "月・水・金",
+      "不燃ごみ": "毎月2・4回目の土",
+      "管轄の事務所": "西清掃"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "板橋区",
+    "city_en": "itabashi",
+    "ward": "",
+    "ward_en": "",
+    "town": "若木",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "wakagi",
+    "slug": "itabashi/wakagi-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/recycle/1000673.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "地域": "若木3丁目",
+      "資源": "月",
+      "可燃ごみ": "火・木・土",
+      "不燃ごみ": "毎月2・4回目の水",
+      "管轄の事務所": "西清掃"
+    }
+  }
+]

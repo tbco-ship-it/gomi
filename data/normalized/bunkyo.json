@@ -1,0 +1,2279 @@
+[
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "後楽",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "koraku",
+    "slug": "bunkyo/koraku-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "後楽",
+      "丁目": "1丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第1・第3木曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "水曜日",
+      "資源（プラスチック）（週1回）": "土曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "後楽",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "koraku",
+    "slug": "bunkyo/koraku-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "後楽",
+      "丁目": "2丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第1・第3木曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "土曜日",
+      "資源（プラスチック）（週1回）": "水曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "春日",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "kasuga",
+    "slug": "bunkyo/kasuga-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "春日",
+      "丁目": "1丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第1・第3木曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "水曜日",
+      "資源（プラスチック）（週1回）": "土曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "春日",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "kasuga",
+    "slug": "bunkyo/kasuga-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "春日",
+      "丁目": "2丁目",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第1・第3土曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "金曜日",
+      "資源（プラスチック）（週1回）": "火曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小石川",
+    "chome": "1丁目",
+    "sub": "1~16番",
+    "romaji": "koishikawa",
+    "slug": "bunkyo/koishikawa-1chome-1-16ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "小石川",
+      "丁目": "1丁目1～16番",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第1・第3土曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "火曜日",
+      "資源（プラスチック）（週1回）": "金曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小石川",
+    "chome": "1丁目",
+    "sub": "17~28番",
+    "romaji": "koishikawa",
+    "slug": "bunkyo/koishikawa-1chome-17-28ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "小石川",
+      "丁目": "1丁目17～28番",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "第2・第4金曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "木曜日",
+      "資源（プラスチック）（週1回）": "月曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小石川",
+    "chome": "2・3丁目",
+    "sub": "",
+    "romaji": "koishikawa",
+    "slug": "bunkyo/koishikawa-2-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "小石川",
+      "丁目": "2・3丁目",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第1・第3土曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "金曜日",
+      "資源（プラスチック）（週1回）": "火曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小石川",
+    "chome": "4丁目",
+    "sub": "1~14番",
+    "romaji": "koishikawa",
+    "slug": "bunkyo/koishikawa-4chome-1-14ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "小石川",
+      "丁目": "4丁目1～14番",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第1・第3土曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "金曜日",
+      "資源（プラスチック）（週1回）": "火曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小石川",
+    "chome": "4丁目",
+    "sub": "15~22番",
+    "romaji": "koishikawa",
+    "slug": "bunkyo/koishikawa-4chome-15-22ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "小石川",
+      "丁目": "4丁目15～22番",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第2・第4土曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "金曜日",
+      "資源（プラスチック）（週1回）": "火曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小石川",
+    "chome": "5丁目",
+    "sub": "",
+    "romaji": "koishikawa",
+    "slug": "bunkyo/koishikawa-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "小石川",
+      "丁目": "5丁目",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第2・第4土曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "金曜日",
+      "資源（プラスチック）（週1回）": "火曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "白山",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "hakusan",
+    "slug": "bunkyo/hakusan-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "白山",
+      "丁目": "1丁目",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第1・第3水曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "火曜日",
+      "資源（プラスチック）（週1回）": "金曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "白山",
+    "chome": "2・5丁目",
+    "sub": "",
+    "romaji": "hakusan",
+    "slug": "bunkyo/hakusan-2-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "白山",
+      "丁目": "2・5丁目",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "第2・第4金曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "木曜日",
+      "資源（プラスチック）（週1回）": "月曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "白山",
+    "chome": "3・4丁目",
+    "sub": "",
+    "romaji": "hakusan",
+    "slug": "bunkyo/hakusan-3-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "白山",
+      "丁目": "3・4丁目",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "第1・第3金曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "木曜日",
+      "資源（プラスチック）（週1回）": "月曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "千石",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "sengoku",
+    "slug": "bunkyo/sengoku-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "千石",
+      "丁目": "1～4丁目",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "第1・第3金曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "木曜日",
+      "資源（プラスチック）（週1回）": "月曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "水道",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "suidou",
+    "slug": "bunkyo/suidou-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "水道",
+      "丁目": "1・2丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第1・第3木曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "土曜日",
+      "資源（プラスチック）（週1回）": "水曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "小日向",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "obinata",
+    "slug": "bunkyo/obinata-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "小日向",
+      "丁目": "1～4丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第1・第3月曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "土曜日",
+      "資源（プラスチック）（週1回）": "水曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "大塚",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "otsuka",
+    "slug": "bunkyo/otsuka-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "大塚",
+      "丁目": "1・2丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第1・第3月曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "土曜日",
+      "資源（プラスチック）（週1回）": "水曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "大塚",
+    "chome": "3~6丁目",
+    "sub": "",
+    "romaji": "otsuka",
+    "slug": "bunkyo/otsuka-3-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "大塚",
+      "丁目": "3～6丁目",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第2・第4土曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "金曜日",
+      "資源（プラスチック）（週1回）": "火曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "関口",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "sekiguchi",
+    "slug": "bunkyo/sekiguchi-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "関口",
+      "丁目": "1～3丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第2・第4月曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "土曜日",
+      "資源（プラスチック）（週1回）": "水曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "目白台",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "mejirodai",
+    "slug": "bunkyo/mejirodai-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "目白台",
+      "丁目": "1～3丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第2・第4月曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "土曜日",
+      "資源（プラスチック）（週1回）": "水曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "音羽",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "otowa",
+    "slug": "bunkyo/otowa-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "音羽",
+      "丁目": "1・2丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第1・第3月曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "土曜日",
+      "資源（プラスチック）（週1回）": "水曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本郷",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "hongou",
+    "slug": "bunkyo/hongou-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "本郷",
+      "丁目": "1・2丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第1・第3木曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "水曜日",
+      "資源（プラスチック）（週1回）": "土曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本郷",
+    "chome": "3~7丁目",
+    "sub": "",
+    "romaji": "hongou",
+    "slug": "bunkyo/hongou-3-7chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "本郷",
+      "丁目": "3～7丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第2・第4木曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "水曜日",
+      "資源（プラスチック）（週1回）": "土曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "湯島",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "yushima",
+    "slug": "bunkyo/yushima-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "湯島",
+      "丁目": "1丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第1・第3木曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "水曜日",
+      "資源（プラスチック）（週1回）": "土曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "湯島",
+    "chome": "2~4丁目",
+    "sub": "",
+    "romaji": "yushima",
+    "slug": "bunkyo/yushima-2-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "湯島",
+      "丁目": "2～4丁目",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "第2・第4木曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "水曜日",
+      "資源（プラスチック）（週1回）": "土曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "西片",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "nishikata",
+    "slug": "bunkyo/nishikata-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "西片",
+      "丁目": "1・2丁目",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第1・第3土曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "火曜日",
+      "資源（プラスチック）（週1回）": "金曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "向丘",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "mukogaoka",
+    "slug": "bunkyo/mukogaoka-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "向丘",
+      "丁目": "1・2丁目",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第1・第3水曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "火曜日",
+      "資源（プラスチック）（週1回）": "金曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "弥生",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "yayoi",
+    "slug": "bunkyo/yayoi-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "弥生",
+      "丁目": "1・2丁目",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第1・第3水曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "火曜日",
+      "資源（プラスチック）（週1回）": "金曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "根津",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "nezu",
+    "slug": "bunkyo/nezu-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "根津",
+      "丁目": "1・2丁目",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第2・第4水曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "火曜日",
+      "資源（プラスチック）（週1回）": "金曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "千駄木",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "sendagi",
+    "slug": "bunkyo/sendagi-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "千駄木",
+      "丁目": "1・2丁目",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "第2・第4水曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "火曜日",
+      "資源（プラスチック）（週1回）": "金曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "千駄木",
+    "chome": "3~5丁目",
+    "sub": "",
+    "romaji": "sendagi",
+    "slug": "bunkyo/sendagi-3-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "千駄木",
+      "丁目": "3～5丁目",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "第1・第3火曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "月曜日",
+      "資源（プラスチック）（週1回）": "木曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本駒込",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "honkomagome",
+    "slug": "bunkyo/honkomagome-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "本駒込",
+      "丁目": "1・2丁目",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "第2・第4金曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "月曜日",
+      "資源（プラスチック）（週1回）": "木曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "文京区",
+    "city_en": "bunkyo",
+    "ward": "",
+    "ward_en": "",
+    "town": "本駒込",
+    "chome": "3~6丁目",
+    "sub": "",
+    "romaji": "honkomagome",
+    "slug": "bunkyo/honkomagome-3-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源（プラスチック）",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.bunkyo.lg.jp/documents/1915/r06bunkyou-gomisyuushuu.xlsx",
+      "fetched": "2026-09-17",
+      "basis": "official_xlsx"
+    },
+    "raw": {
+      "町名": "本駒込",
+      "丁目": "3～6丁目",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "第2・第4火曜日",
+      "資源（新聞、雑誌、雑がみ、段ボール、びん、缶、ペットボトル）（週1回）": "月曜日",
+      "資源（プラスチック）（週1回）": "木曜日",
+      "説明": "資源・ごみ収集日（資源とごみは収集日の朝8時までにお出しください）"
+    }
+  }
+]

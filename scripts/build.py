@@ -21,8 +21,24 @@ TYPE_ORDER = ["burnable", "resource", "plastic", "paper_cloth", "nonburnable", "
 TYPE_COLOR = {"burnable": "#ff7a00", "resource": "#3182f6", "plastic": "#00b06f", "paper_cloth": "#8b5cf6", "nonburnable": "#6b7684", "bulky": "#f04452"}
 
 
+KANJI_NUM = {"一": 1, "二": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9, "十": 10}
+
+
+def kanji_to_digits(s):
+    """一丁目→1丁目, 十二丁目→12丁目 (名古屋 uses kanji numerals in the source table)."""
+    def conv(m):
+        t = m.group(0); n = 0
+        if "十" in t:
+            a, b = t.split("十"); n = (KANJI_NUM[a] if a else 1) * 10 + (KANJI_NUM[b] if b else 0)
+        else:
+            n = KANJI_NUM[t]
+        return str(n)
+    return re.sub(r"[一二三四五六七八九]?十[一二三四五六七八九]?|[一二三四五六七八九]", conv, s) if re.search(r"[一二三四五六七八九十]丁目", s) else s
+
+
 def nfkc(s):
-    return re.sub(r"\s+", " ", unicodedata.normalize("NFKC", s or "")).strip()
+    s = re.sub(r"\s+", " ", unicodedata.normalize("NFKC", s or "")).strip()
+    return kanji_to_digits(s)
 
 
 def split_addr(r):

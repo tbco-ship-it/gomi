@@ -71,9 +71,8 @@
   D.forEach(e => { e.k = norm(e.cn + e.w + e.t + e.ch); e.k2 = norm(e.w + e.t + e.ch); e.rk = e.r.toLowerCase().replace(/\s+/g, ''); e.kn = kata2hira(e.kana || '').replace(/\s+/g, ''); e.name = e.w + e.t + e.ch; });
   let items = [], active = -1;
   function open(q) {
-    const nq = norm(q);
+    const toks = q.split(/[\s　、,]+/).map(norm).filter(Boolean); const nq = toks.join('');
     if (!nq) { items = []; menu.innerHTML = '<li class="empty">町名(例: 大淀中)や区名を入れてください。</li>'; menu.hidden = false; return; }
-    const toks = nq.split(/[、,]/).filter(Boolean);
     const score = e => { let s = 0; for (const t of toks) { if (e.k2.startsWith(t)) s += 3; else if (e.kn.startsWith(t)) s += 2; else if (e.k.includes(t) || e.rk.includes(t) || e.kn.includes(t)) s += 1; else return -1; } return s; };
     items = D.map(e => [score(e), e]).filter(x => x[0] > 0).sort((a, b) => b[0] - a[0] || a[1].k.localeCompare(b[1].k, 'ja')).slice(0, 10).map(x => x[1]);
     menu.innerHTML = items.length ? items.map((e, i) => `<li role="option" data-i="${i}" ${i === active ? 'aria-selected="true"' : ''}>${e.name}<small class="muted"> ${e.cn}</small></li>`).join('') : '<li class="empty">見つかりません。区名や漢字表記を変えてみてください。</li>';

@@ -153,7 +153,7 @@ def main():
     shutil.copytree(ROOT / "static", DIST / "static")
     # search index: one entry per town-group (small fields only)
     for g in groups.values():
-        wk, wr = reading(g["ward"]) if g["ward"] else ("", "")
+        wk, wr = reading(g["ward"] or g["city"])  # 23区: the city name is what people type
         tk, tr = reading(g["town"])
         g["kana"] = " ".join(x for x in (wk, tk, raw_kana(g["main"])) if x)
         g["romaji_full"] = " ".join(x for x in (wr, tr, g["romaji"]) if x)

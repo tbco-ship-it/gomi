@@ -9,30 +9,52 @@
   const TAG = { ...COLOR, burnable: '#d95d00', plastic: '#00885a' }; // white text needs ≥3:1
   const SHORT = { resource: '資源', plastic: 'プラ', paper_cloth: '古紙', nonburnable: '不燃', bulky: '粗大' };
   const short = (k, l) => SHORT[k] || l.replace(/ごみ$/, '');
+  const TYPE_EN = { burnable: 'Burnable', resource: 'Cans · bottles · PET', plastic: 'Plastic', paper_cloth: 'Paper & cloth', nonburnable: 'Non-burnable', bulky: 'Bulky' };
+  const SHORT_EN = { burnable: 'Burn', resource: 'Cans', plastic: 'Plastic', paper_cloth: 'Paper', nonburnable: 'Non-burn', bulky: 'Bulky' };
+  const I18N = {
+    nav_search: 'Search by address', nav_cities: 'Covered cities', nav_nenmatsu: 'Year-end', hero_h1: 'What garbage goes out tomorrow?',
+    pick_title: 'Pick your address', pick_label: 'Town / chome', pick_hint: 'Type kanji, hiragana, katakana or romaji. Pick down to the chome to see block-level differences.',
+    cities_h2: 'Covered cities', cities_all: 'All', today_tomorrow: 'Today & tomorrow', ics: 'Add to calendar (.ics)', remember: 'Remember this address',
+    types_h2: 'Collection day by type', exc_h2: 'Differences by block', near_h2: 'Nearby areas', placeholder: 'e.g. Oyodonaka, おおよどなか, 大淀中',
+  };
+  const JA = {}; // filled from the DOM on first toggle
+  let lang = localStorage.getItem('gomi.lang') || 'ja';
+  const EN = () => lang === 'en';
+  const DOW_EN = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  function applyLang() {
+    document.documentElement.lang = lang;
+    document.querySelectorAll('[data-i18n]').forEach(el => { const k = el.dataset.i18n; if (!(k in JA)) JA[k] = el.textContent; el.textContent = EN() ? (I18N[k] || JA[k]) : JA[k]; });
+    const ph = document.getElementById('addr'); if (ph) { if (!JA.placeholder) JA.placeholder = ph.placeholder; ph.placeholder = EN() ? I18N.placeholder : JA.placeholder; }
+    const b = document.getElementById('lang'); if (b) b.textContent = EN() ? '日本語' : 'EN';
+  }
+  applyLang();
+  const langBtn = document.getElementById('lang');
+  if (langBtn) langBtn.addEventListener('click', () => { lang = EN() ? 'ja' : 'en'; localStorage.setItem('gomi.lang', lang); applyLang(); if (window.__rerender) window.__rerender(); });
   const now = new Date(); now.setHours(0, 0, 0, 0);
   const addDays = (d, n) => { const x = new Date(d); x.setDate(x.getDate() + n); return x; };
   const iso = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
-  const md = d => `${d.getMonth() + 1}/${d.getDate()}(${JDAY[d.getDay()]})`;
+  const md = d => EN() ? `${DOW_EN[d.getDay()]} ${d.getMonth() + 1}/${d.getDate()}` : `${d.getMonth() + 1}/${d.getDate()}(${JDAY[d.getDay()]})`;
   const yearend = d => (d.getMonth() === 11 && d.getDate() === 31) || (d.getMonth() === 0 && d.getDate() <= 3);
   const nth = d => Math.ceil(d.getDate() / 7);
   // t: {days:[..], weeks:[..]|null}
   const on = (t, d) => !yearend(d) && (t.days || []).includes(JDAY[d.getDay()]) && (!t.weeks || t.weeks.includes(nth(d)));
   const typesOn = (types, d) => ORDER.filter(k => types[k] && on(types[k], d));
   const nextOf = (t, from) => { for (let i = 0; i < 70; i++) { const d = addDays(from, i); if (on(t, d)) return d; } return null; };
-  const rel = d => { const n = Math.round((d - now) / 864e5); return n === 0 ? '今日' : n === 1 ? '明日' : n === 2 ? '明後日' : md(d); };
+  const rel = d => { const n = Math.round((d - now) / 864e5); return EN() ? (n === 0 ? 'Today' : n === 1 ? 'Tomorrow' : md(d)) : (n === 0 ? '今日' : n === 1 ? '明日' : n === 2 ? '明後日' : md(d)); };
 
   function render(types, name, slug, root) {
     const today = typesOn(types, now), tomorrow = typesOn(types, addDays(now, 1));
-    const lbl = k => types[k].label;
+    const lbl = k => EN() ? TYPE_EN[k] : types[k].label;
+    const sep = EN() ? ' + ' : '・';
     let head, sub, cls;
-    if (tomorrow.length) { head = '明日は ' + tomorrow.map(lbl).join('・'); cls = 'balanced'; }
-    else { const nx = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], addDays(now, 1))]).filter(x => x[1]).sort((a, b) => a[1] - b[1])[0]; head = nx ? `次は ${rel(nx[1])} ${lbl(nx[0])}` : '収集予定なし'; cls = 'quiet'; }
-    sub = today.length ? `今日 ${md(now)} は${today.map(lbl).join('・')}の日です。` : `今日 ${md(now)} の収集はありません。`;
+    if (tomorrow.length) { head = EN() ? 'Tomorrow: ' + tomorrow.map(lbl).join(sep) : '明日は ' + tomorrow.map(lbl).join(sep); cls = 'balanced'; }
+    else { const nx = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], addDays(now, 1))]).filter(x => x[1]).sort((a, b) => a[1] - b[1])[0]; head = nx ? (EN() ? `Next: ${lbl(nx[0])} ${rel(nx[1])}` : `次は ${rel(nx[1])} ${lbl(nx[0])}`) : (EN() ? 'No collection scheduled' : '収集予定なし'); cls = 'quiet'; }
+    sub = EN() ? (today.length ? `Today (${md(now)}): ${today.map(lbl).join(sep)}.` : `Today (${md(now)}): no collection.`) : (today.length ? `今日 ${md(now)} は${today.map(lbl).join('・')}の日です。` : `今日 ${md(now)} の収集はありません。`);
     const t0 = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], now)]).filter(x => x[1]).sort((a, b) => a[1] - b[1]);
-    const upcoming = t0.map(([k, d]) => `<div class="item"><span class="dot" style="background:${COLOR[k]}"></span><b>${lbl(k)}</b>${types[k].time ? `<span class="tsub"> ${types[k].time}</span>` : ''}<span class="when">${rel(d)}</span></div>`).join('');
-    const week = Array.from({ length: 7 }, (_, i) => { const d = addDays(now, i); const ks = typesOn(types, d); return `<div class="day${i === 0 ? ' today' : ''}"><span class="dow">${i === 0 ? '今日' : JDAY[d.getDay()]}</span><span class="dnum">${d.getDate()}</span><span class="dots">${ks.map(k => `<span class="tag" style="background:${TAG[k]}">${short(k, lbl(k))}</span>`).join('')}</span></div>`; }).join('');
+    const upcoming = t0.map(([k, d]) => `<div class="item"><span class="dot" style="background:${COLOR[k]}"></span><b>${lbl(k)}</b>${EN() ? `<span class="tsub"> ${types[k].label}</span>` : ''}${types[k].time ? `<span class="tsub"> ${types[k].time}</span>` : ''}<span class="when">${rel(d)}</span></div>`).join('');
+    const week = Array.from({ length: 7 }, (_, i) => { const d = addDays(now, i); const ks = typesOn(types, d); return `<div class="day${i === 0 ? ' today' : ''}"><span class="dow">${i === 0 ? (EN() ? 'Today' : '今日') : (EN() ? DOW_EN[d.getDay()] : JDAY[d.getDay()])}</span><span class="dnum">${d.getDate()}</span><span class="dots">${ks.map(k => `<span class="tag" style="background:${TAG[k]}">${EN() ? SHORT_EN[k] : short(k, types[k].label)}</span>`).join('')}</span></div>`; }).join('');
     if (root) {
-      root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${head}</span></div><p class="sheet-title">${sub}</p><div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">この住所のページ(番地の違い・.ics)</a></p></section><div class="week">${week}</div>`;
+      root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${head}</span></div><p class="sheet-title">${sub}</p><div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">${EN() ? 'Open this address (block differences · .ics)' : 'この住所のページ(番地の違い・.ics)'}</a></p></section><div class="week">${week}</div>`;
     } else {
       const sheet = $('today'); sheet.classList.remove('balanced', 'quiet'); sheet.classList.add(cls);
       $('headline').textContent = head; $('sub').textContent = sub; $('upcoming').innerHTML = upcoming; $('week').innerHTML = week;
@@ -56,6 +78,7 @@
   if (sched) {
     const S = JSON.parse(sched.textContent);
     render(S.types, S.name, S.slug, null);
+    window.__rerender = () => render(S.types, S.name, S.slug, null);
     $('ics').href = ics(S.types, S.name);
     $('remember').addEventListener('click', () => localStorage.setItem('gomi.slug', S.slug));
     return;
@@ -65,24 +88,24 @@
   const input = $('addr'); if (!input) return;
   const out = $('result'), menu = $('addr-menu');
   const RAW = await (await fetch(base + 'static/index.json?v=' + v)).json();
-  const D = RAW.items.map(([c, w, we, t, ch, r, k, s, ty]) => ({ c, cn: RAW.cities[c], w, we, t, ch, r, kana: k, s, ty: Object.fromEntries(Object.entries(ty).map(([tk, [d, wk, tm]]) => [tk, { l: RAW.labels[c][tk], d, w: wk, tm }])) }));
+  const D = RAW.items.map(([c, w, we, t, ch, r, k, s, en, ty]) => ({ c, cn: RAW.cities[c], w, we, t, ch, r, kana: k, s, en, ty: Object.fromEntries(Object.entries(ty).map(([tk, [d, wk, tm]]) => [tk, { l: RAW.labels[c][tk], d, w: wk, tm }])) }));
   const kata2hira = s => s.replace(/[ァ-ヶ]/g, c => String.fromCharCode(c.charCodeAt(0) - 0x60));
   const norm = s => kata2hira(s.toLowerCase()).replace(/[\s　]+/g, '').replace(/ヶ/g, 'ケ').replace(/丁目|ちょうめ/g, '');
   D.forEach(e => { e.k = norm(e.cn + e.w + e.t + e.ch); e.k2 = norm(e.w + e.t + e.ch); e.rk = e.r.toLowerCase().replace(/\s+/g, ''); e.kn = kata2hira(e.kana || '').replace(/\s+/g, ''); e.name = e.w + e.t + e.ch; });
   let items = [], active = -1;
   function open(q) {
     const toks = q.split(/[\s　、,]+/).map(norm).filter(Boolean); const nq = toks.join('');
-    if (!nq) { items = []; menu.innerHTML = '<li class="empty">町名(例: 大淀中)や区名を入れてください。</li>'; menu.hidden = false; return; }
+    if (!nq) { items = []; menu.innerHTML = `<li class="empty">${EN() ? 'Type a town name (e.g. Oyodonaka) or a ward.' : '町名(例: 大淀中)や区名を入れてください。'}</li>`; menu.hidden = false; return; }
     const score = e => { let s = 0; for (const t of toks) { if (e.k2.startsWith(t)) s += 3; else if (e.kn.startsWith(t)) s += 2; else if (e.k.includes(t) || e.rk.includes(t) || e.kn.includes(t)) s += 1; else return -1; } return s; };
     items = D.map(e => [score(e), e]).filter(x => x[0] > 0).sort((a, b) => b[0] - a[0] || a[1].k.localeCompare(b[1].k, 'ja')).slice(0, 10).map(x => x[1]);
-    menu.innerHTML = items.length ? items.map((e, i) => `<li role="option" data-i="${i}" ${i === active ? 'aria-selected="true"' : ''}>${e.name}<small class="muted"> ${e.cn}</small></li>`).join('') : '<li class="empty">見つかりません。区名や漢字表記を変えてみてください。</li>';
+    menu.innerHTML = items.length ? items.map((e, i) => `<li role="option" data-i="${i}" ${i === active ? 'aria-selected="true"' : ''}>${e.name}<small class="muted"> ${e.cn}</small><span class="ro">${e.en} · ${e.c[0].toUpperCase() + e.c.slice(1)}</span></li>`).join('') : `<li class="empty">${EN() ? 'No match. Try the ward name or another spelling.' : '見つかりません。区名や漢字表記を変えてみてください。'}</li>`;
     menu.hidden = false; input.setAttribute('aria-expanded', 'true');
   }
   function close() { menu.hidden = true; active = -1; input.setAttribute('aria-expanded', 'false'); }
   function choose(e) {
     input.value = e.name; close();
     const types = {}; for (const k in e.ty) types[k] = { label: e.ty[k].l, days: e.ty[k].d, weeks: e.ty[k].w, time: e.ty[k].tm };
-    render(types, e.cn + e.name, e.s, out); localStorage.setItem('gomi.slug', e.s);
+    render(types, e.cn + e.name + (EN() ? ` — ${e.en}` : ''), e.s, out); localStorage.setItem('gomi.slug', e.s); window.__rerender = () => choose(e);
   }
   input.addEventListener('focus', () => { setTimeout(() => input.select(), 0); open(input.value); });
   input.addEventListener('input', () => { active = -1; open(input.value); });

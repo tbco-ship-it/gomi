@@ -1,6 +1,6 @@
 {# per-type list for a schedule dict `types` #}
 <ul class="types">{% for t in TYPE_ORDER if t in types %}{% set v = types[t] %}<li>
   <span class="dot" style="background:{{ TYPE_COLOR[t] }}"></span>
-  <span><span class="tname">{{ v.label }}</span>{% if v.note %}<br><span class="tsub">{{ v.note }}</span>{% endif %}</span>
+  <span><span class="tname">{{ v.label }}</span> <span class="tsub en">{{ TYPE_EN[t] }}</span>{% if v.note %}<br><span class="tsub">{{ v.note }}</span>{% endif %}</span>
   <span class="tdays">{% if v.weeks %}第{{ v.weeks|join('・') }}{% endif %}{% if v.days %}{{ v.days|join('・') }}曜{% else %}—{% endif %}{% if v.time %}<span class="ttime">{{ v.time }}</span>{% endif %}</span>
 </li>{% endfor %}</ul>

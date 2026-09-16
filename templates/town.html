@@ -13,24 +13,24 @@
 <p class="prose">{{ c.city }}{{ w.ward }}{{ g.town }}{{ g.chome }}。{% if not g.uniform %}番地や建物によって曜日が違います — 下の「番地ごとの違い」も確認してください。{% endif %}</p>
 
 <section class="sheet balanced" id="today" data-slug="{{ g.slug }}">
-  <p class="sheet-label">今日と明日</p>
+  <p class="sheet-label" data-i18n="today_tomorrow">今日と明日</p>
   <div class="sheet-num"><span class="num small-num" id="headline">読み込み中…</span></div>
   <p class="sheet-title" id="sub"></p>
   <div class="stack" id="upcoming"></div>
-  <p class="sheet-actions"><a class="next" id="ics" href="#" download="{{ g.romaji }}-gomi.ics">カレンダーに入れる(.ics)</a><a class="next" id="remember" href="{{ base }}">この住所をホームで覚える</a></p>
+  <p class="sheet-actions"><a class="next" id="ics" href="#" download="{{ g.romaji }}-gomi.ics"><span data-i18n="ics">カレンダーに入れる(.ics)</span></a><a class="next" id="remember" href="{{ base }}"><span data-i18n="remember">この住所をホームで覚える</span></a></p>
 </section>
 <div class="week" id="week" aria-label="今週の収集日"></div>
-<div class="legend">{% for t in TYPE_ORDER if t in m %}<span class="chip"><span class="dot" style="background:{{ TYPE_COLOR[t] }}"></span>{{ m[t].label }}</span>{% endfor %}</div>
+<div class="legend">{% for t in TYPE_ORDER if t in m %}<span class="chip"><span class="dot" style="background:{{ TYPE_COLOR[t] }}"></span>{{ m[t].label }} <span class="en">{{ TYPE_EN[t] }}</span></span>{% endfor %}</div>
 
 <div class="ad-slot"><!-- ad: town --></div>
 
-<div class="sec"><div class="sec-h"><h2>ごみの種類ごとの曜日</h2></div>
+<div class="sec"><div class="sec-h"><h2 data-i18n="types_h2">ごみの種類ごとの曜日</h2></div>
 <div class="card">{% with types = m %}{% include "_types.html" %}{% endwith %}</div>
 {% if g.rules %}<p class="muted small" style="margin-top:10px">{% if g.rules.time_by %}出す時間: {{ g.rules.time_by }}まで。{% endif %}{% if g.rules.holiday_collection %}{{ g.rules.holiday_collection }}。{% endif %}{% if g.rules.yearend %}年末年始は{{ g.rules.yearend }}。{% endif %}</p>{% endif %}
 </div>
 
 {% if g.exceptions %}
-<div class="sec"><div class="sec-h"><h2>番地ごとの違い</h2></div>
+<div class="sec"><div class="sec-h"><h2 data-i18n="exc_h2">番地ごとの違い</h2></div>
 <p class="prose small muted">上の表は{{ g.town }}{{ g.chome }}で最も多い曜日です。以下の番地・建物は曜日が異なります。</p>
 <table class="tbl exc"><thead><tr><th>番地・建物</th>{% for t in TYPE_ORDER if t in m %}<th>{{ m[t].label }}</th>{% endfor %}</tr></thead><tbody>
 {% for r in g.exceptions %}<tr><td>{{ r.sub or r.chome or 'その他の区域' }}</td>{% for t in TYPE_ORDER if t in m %}<td>{% if t in r.types %}{% if r.types[t].weeks %}第{{ r.types[t].weeks|join('・') }}{% endif %}{{ r.types[t].days|join('・') }}{% else %}—{% endif %}</td>{% endfor %}</tr>{% endfor %}
@@ -40,10 +40,9 @@
 
 {% set near = w.towns.values()|selectattr('town','equalto',g.town)|rejectattr('slug','equalto',g.slug)|list %}
 {% if not near %}{% set near = (w.towns.values()|sort(attribute='romaji'))[:8] %}{% endif %}
-{% if near %}<div class="sec"><div class="sec-h"><h2>近くの町丁目</h2><a href="{{ base }}{{ c.city_en }}/{% if w.ward_en %}{{ w.ward_en }}/{% endif %}">{{ w.ward or c.city }}の全町丁目</a></div>
+{% if near %}<div class="sec"><div class="sec-h"><h2 data-i18n="near_h2">近くの町丁目</h2><a href="{{ base }}{{ c.city_en }}/{% if w.ward_en %}{{ w.ward_en }}/{% endif %}">{{ w.ward or c.city }}の全町丁目</a></div>
 <ul class="list">{% for n in near[:10] %}<li><a href="{{ base }}{{ n.slug }}/">{{ n.town }}{{ n.chome }}<span class="meta">{{ n.main.types[n.primary].days|join('・') }}</span></a></li>{% endfor %}</ul></div>{% endif %}
 
 <p class="muted small" style="margin-top:24px">出典: <a href="{{ g.source.url }}" rel="noopener" target="_blank">{{ c.city }}公開データ</a>({{ g.source.fetched }}取得)。臨時の変更・災害時は市の案内が優先です。</p>
 <script id="sched" type="application/json">{{ {"types": m, "rules": g.rules, "name": w.ward ~ g.town ~ g.chome, "slug": g.slug}|tojson }}</script>
-<script src="{{ base }}static/app.js?v={{ v }}" defer></script>
 {% endblock %}

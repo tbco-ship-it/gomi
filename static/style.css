@@ -635,3 +635,9 @@ header.top{position:sticky;top:0;z-index:30;display:flex;align-items:center;just
 .result:empty{min-height:380px;border-radius:var(--r-sheet);background:var(--surface)}
 .prose a,.sheet-text a,footer a{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-color:color-mix(in srgb,currentColor 40%,transparent)}
 .week:empty{min-height:96px}.sheet .stack:empty{min-height:150px}
+
+.lang{margin-left:6px;padding:4px 10px;border-radius:999px;border:1px solid var(--line);background:var(--bg);color:var(--text-2);font:inherit;font-size:.82rem;font-weight:700;cursor:pointer}
+.lang:hover{background:var(--surface-2)}
+.en{color:var(--muted);font-weight:500;font-size:.82em}
+.menu li .ro{display:block;color:var(--muted);font-weight:500;font-size:.82rem}
+html[lang=en] .ja-only{display:none}

@@ -3,24 +3,24 @@
 {% block head %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"{{ site }}","applicationCategory":"UtilitiesApplication","inLanguage":"ja","url":"{{ origin }}{{ base }}","offers":{"@type":"Offer","price":"0","priceCurrency":"JPY"}}</script>{% endblock %}
 {% block content %}
 <section class="hero">
-  <h1>明日、何ごみの日?</h1>
+  <h1 data-i18n="hero_h1">明日、何ごみの日?</h1>
   <p>町名を入れるだけ。今日・明日に出せるごみと、この1週間の収集日をその場で表示します。{% for c in cities.values() %}{{ c.city }}{% if not loop.last %}・{% endif %}{% endfor %}の{{ '{:,}'.format(n_towns) }}町丁目に対応、市の公開データ基準。一度選んだ住所は次回も覚えています。</p>
 </section>
 
 <section class="calc-grid">
 <div class="calc card" id="calc">
-  <h2 class="card-title">住所を選ぶ</h2>
-  <label class="field">町名・丁目
+  <h2 class="card-title" data-i18n="pick_title">住所を選ぶ</h2>
+  <label class="field"><span data-i18n="pick_label">町名・丁目</span>
     <input id="addr" class="pick search" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" autocomplete="off" placeholder="例: 大淀中、おおよどなか、oyodonaka"><ul class="menu" id="addr-menu" role="listbox" hidden></ul>
   </label>
-  <p class="hint">漢字・ひらがな・カタカナ・ローマ字、どれでも探せます。丁目まで選ぶと番地ごとの違いも表示します。</p>
+  <p class="hint" data-i18n="pick_hint">漢字・ひらがな・カタカナ・ローマ字、どれでも探せます。丁目まで選ぶと番地ごとの違いも表示します。</p>
 </div>
 <div id="result" class="result" aria-live="polite"></div>
 </section>
 
 <div class="ad-slot"><!-- ad: home --></div>
 
-<div class="sec"><div class="sec-h"><h2>対応している市</h2><a href="{{ base }}cities/">一覧</a></div>
+<div class="sec"><div class="sec-h"><h2 data-i18n="cities_h2">対応している市</h2><a href="{{ base }}cities/" data-i18n="cities_all">一覧</a></div>
 <div class="cities">{% for ce, c in cities.items() %}<a href="{{ base }}{{ ce }}/"><b>{{ c.city }}</b><span>{% if '' in c.wards %}{{ c.wards['']['towns']|length }}町丁目{% else %}{{ c.wards|length }}区 · {{ '{:,}'.format(c.wards.values()|map(attribute='towns')|map('length')|sum) }}町丁目{% endif %}</span></a>{% endfor %}</div>
 </div>
 
@@ -30,5 +30,4 @@
   <h2>祝日と年末年始</h2>
   <p>3市とも祝日はふだん通り収集されます。年末年始(12月31日〜1月3日)は原則お休みで、その前後は混み合います。<a href="{{ base }}guide/nenmatsu/">年末年始のごみ出し</a>にまとめました。</p>
 </section>
-<script src="{{ base }}static/app.js?v={{ v }}" defer></script>
 {% endblock %}

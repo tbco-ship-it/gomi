@@ -18,9 +18,10 @@
 <header class="top">
   <a class="brand" href="{{ base }}">ごみの日<em>ナビ</em></a>
   <nav>
-    <a href="{{ base }}">住所で調べる</a>
-    <a href="{{ base }}cities/">対応している市</a>
-    <a href="{{ base }}guide/nenmatsu/">年末年始</a>
+    <a href="{{ base }}" data-i18n="nav_search">住所で調べる</a>
+    <a href="{{ base }}cities/" data-i18n="nav_cities">対応している市</a>
+    <a href="{{ base }}guide/nenmatsu/" data-i18n="nav_nenmatsu">年末年始</a>
+    <button type="button" class="lang" id="lang" aria-label="Switch language">EN</button>
   </nav>
 </header>
 <main>
@@ -31,5 +32,6 @@
   <p class="muted">各市が公開しているオープンデータ・収集日一覧をもとに作成しています({% for c in cities.values() %}{{ c.city }} {{ c.fetched }}取得{% if not loop.last %}、{% endif %}{% endfor %})。臨時変更や災害時は市の案内が優先です。</p>
 </footer>
 <script src="{{ base }}static/ui.js?v={{ v }}" defer></script>
+<script src="{{ base }}static/app.js?v={{ v }}" defer></script>
 </body>
 </html>

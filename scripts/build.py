@@ -42,6 +42,7 @@ DIST = ROOT / "dist"
 SITE = "ゴミの日ナビ"
 JDAY = "月火水木金土日"
 TYPE_ORDER = ["burnable", "resource", "plastic", "paper_cloth", "nonburnable", "bulky"]
+TYPE_EN = {"burnable": "Burnable", "resource": "Cans · bottles · PET", "plastic": "Plastic", "paper_cloth": "Paper & cloth", "nonburnable": "Non-burnable", "bulky": "Bulky (reservation)"}
 TYPE_COLOR = {"burnable": "#ff7a00", "resource": "#3182f6", "plastic": "#00b06f", "paper_cloth": "#8b5cf6", "nonburnable": "#6b7684", "bulky": "#f04452"}
 
 
@@ -144,7 +145,7 @@ def main():
     v = h.hexdigest()[:8]
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
     env.globals.update(site=SITE, base=base, origin=origin, today=today.isoformat(), v=v, adsense_pub=args.adsense_pub,
-                       JDAY=JDAY, TYPE_ORDER=TYPE_ORDER, TYPE_COLOR=TYPE_COLOR, cities=cities,
+                       JDAY=JDAY, TYPE_ORDER=TYPE_ORDER, TYPE_COLOR=TYPE_COLOR, TYPE_EN=TYPE_EN, cities=cities,
                        n_towns=len(groups), n_records=sum(len(g["records"]) for g in groups.values()))
 
     if DIST.exists():
@@ -157,12 +158,14 @@ def main():
         tk, tr = reading(g["town"])
         g["kana"] = " ".join(x for x in (wk, tk, raw_kana(g["main"])) if x)
         g["romaji_full"] = " ".join(x for x in (wr, tr, g["romaji"]) if x)
+        nums = re.findall(r"\d+", g["chome"])
+        g["en"] = ", ".join(x for x in ((g["ward_en"] or g["city_en"]).title(), g["romaji"].title() + (" " + "-".join(nums) if nums else "")) if x)
     # compact search index: per-city label dictionary + one small entry per town group
     labels = {}
     for g in groups.values():
         for t, v in g["main"]["types"].items():
             labels.setdefault(g["city_en"], {}).setdefault(t, v.get("label"))
-    items = [[g["city_en"], g["ward"], g["ward_en"], g["town"], g["chome"], g["romaji_full"], g["kana"], g["slug"],
+    items = [[g["city_en"], g["ward"], g["ward_en"], g["town"], g["chome"], g["romaji_full"], g["kana"], g["slug"], g["en"],
               {t: [v.get("days") or [], v.get("weeks"), v.get("time")] for t, v in g["main"]["types"].items()}] for g in groups.values()]
     index = {"cities": {ce: c["city"] for ce, c in cities.items()}, "labels": labels, "items": items}
     (DIST / "static/index.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")))

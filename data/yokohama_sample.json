@@ -1,0 +1,8977 @@
+{
+  "city": "横浜市",
+  "scraped_wards_count": 2,
+  "total_towns": 195,
+  "data": [
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "大倉山1丁目１〜２９番地",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/agyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "大倉山1丁目３０〜３５番地",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/agyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "大倉山2・3丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/agyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "大倉山4丁目13〜15番地の一部",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/agyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "大倉山4丁目上記以外の地域",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/agyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "大倉山５〜7丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/agyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "大曽根1〜3丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/agyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "大曽根１丁目25・26の一部",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/agyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "大曽根台",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/agyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "日吉1・2丁目",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/hagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "日吉3丁目１～３番地",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/hagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "日吉3丁目４～２３番地",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/hagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "日吉4丁目１・４～２１番地",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/hagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "日吉4丁目2～３番地",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/hagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "日吉5～7丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/hagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "日吉本町1～6丁目",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/hagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "富士塚1・2丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/hagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "菊名1～7丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "岸根町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "北新横浜1・2丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "小机町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "大豆戸町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/magyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "箕輪町1・2丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/magyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "箕輪町3丁目",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/magyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "師岡町環状線北側（師岡南町内会地域を除く）",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/magyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "師岡町環状線南側および北側師岡南町会エリア",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/magyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "仲手原１丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "仲手原２丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "仲手原２丁目35・38・41の一部",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "錦が丘",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "新羽町",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "篠原北1・2丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "篠原台町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "篠原町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "篠原町2553・2557・2565・2735付近",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "篠原西町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "篠原東町1〜3丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "下田町1〜6丁目",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "新横浜1〜3丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "新吉田町",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "新吉田東1〜6丁目",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "新吉田東7・8丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "高田町",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "高田西1〜5丁目",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "高田東1・4丁目",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "高田東2・3丁目",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "樽町１丁目30の一部",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "樽町２丁目13の一部",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "樽町1〜4丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "綱島上町",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "綱島台",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "綱島西1〜6丁目",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "綱島東1〜6丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "港北区",
+      "ward_en": "kohoku",
+      "town": "鳥山町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/kohoku/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "相生町1～6丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "赤門町1丁目",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "曙町1～5丁目",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "池袋",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "石川町1・2丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "石川町3～5丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "伊勢佐木町1～7丁目",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "上野町1・2丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "上野町1・2丁目西之谷町側",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "上野町3・4丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "打越",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/a-e.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "羽衣町1～3丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "羽衣町1～3丁目国道16号線よりイセザキモール側",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "初音町",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "花咲町",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "英町",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "万代町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "日ノ出町1・2丁目",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "福富町仲通・西通・東通",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "富士見町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "不老町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "弁天通1～6丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ha-he.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "蓬莱町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本郷町1・2・3丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本郷町1・2丁目本牧通りから千代町側",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本町1～6丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧荒井",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧大里町",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧三之谷",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧十二天",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧町1丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧町1丁目大鳥小学校周辺",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧町1丁目見晴らしトンネル側",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧町2丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧町2丁目大鳥小学校周辺",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧町2丁目本牧通りから北方町側",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧原",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧原16-1",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧ふ頭",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧間門",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧間門本牧通りから本牧荒井側",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧満坂",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧満坂大鳥小学校周辺",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧緑ヶ丘",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧宮原",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧宮原8～10番地",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧元町",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "本牧和田",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ho.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "海岸通",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "柏葉",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "柏葉桜道沿集積場",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "かもめ町",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "北方町",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "北仲通",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "黄金町",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "寿町1～4丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "小港町1丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "小港町1丁目磯子線から本牧町側",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "小港町1丁目磯子線からビューコート小港側",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "小港町2丁目",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "小港町2丁目関東財務局小港住宅",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "小港町3丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/kagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "松影町1～4丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ma-mi.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "豆口台",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ma-mi.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "豆口台第4公園周辺",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ma-mi.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "港町1～6丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ma-mi.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "南仲通1～5丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ma-mi.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "蓑沢",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ma-mi.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "宮川町1～3丁目",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ma-mi.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "妙香寺台",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ma-mi.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "三吉町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/ma-mi.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "麦田町1・2丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/mu-mo.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "麦田町1・2丁目本牧通りから山手公園側",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/mu-mo.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "麦田町3丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/mu-mo.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "麦田町3丁目本牧通りから鷺山側",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/mu-mo.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "麦田町4丁目本牧通りから妙香寺台側",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/mu-mo.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "麦田町4丁目本牧通りから山手駅側（商店街通り沿い）",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/mu-mo.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "麦田町4丁目本牧通りから山手駅側（本牧通り沿い",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/mu-mo.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "元浜町",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/mu-mo.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "元町",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/mu-mo.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "仲尾台",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "仲尾台ユーロハイツ付近",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "錦町",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "西竹之丸",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "西竹之丸柏葉公園通り側",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "西之谷町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "日本大通",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "根岸旭台",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "根岸加曽台",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "根岸町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "野毛町1～4丁目",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/nagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "若葉町",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/naka-youbi-wa.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "和田山",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/naka-youbi-wa.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "翁町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "扇町1丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "扇町1丁目2-1～8番地",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "扇町2丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "扇町2丁目3ー1～6番地・6～6-15番地",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "扇町3丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "扇町3丁目7～7-9番地・10～10-5番地",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "扇町4丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "大芝台",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "太田町1～6丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "大平町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "尾上町1～6丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/o.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "鷺山",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "鷺山ベイサイドヒル付近",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "桜木町",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "新山下",
+      "schedule_by_day": {
+        "月": "なし",
+        "火": "燃やすごみ",
+        "水": "缶・びん・ペットボトル",
+        "木": "なし",
+        "金": "プラスチック資源",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "金"
+        ],
+        "缶・びん・ペットボトル": [
+          "水"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "水"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "末広町",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "末吉町1～4丁目",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "住吉町1～6丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "諏訪町",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/sagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "滝之上",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "滝之上20～21-1・聖光学院プール側",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "竹之丸",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "立野",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "千歳町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "長者町1丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "長者町2～4丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "長者町5丁目",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "長者町5丁目根岸道路より関内駅側",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "長者町6～9丁目",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "千代崎町",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "塚越",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "寺久保",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "常盤町1～6丁目",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/tagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "矢口台",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "山下町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "山田町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "山手町",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "山手町共立学園周辺",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "大和町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "山吹町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "プラスチック資源",
+        "水": "なし",
+        "木": "なし",
+        "金": "燃やすごみ",
+        "土": "缶・びん・ペットボトル"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "火"
+        ],
+        "缶・びん・ペットボトル": [
+          "土"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "土"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "山元町1丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "山元町1丁目1～7番地",
+      "schedule_by_day": {
+        "月": "プラスチック資源",
+        "火": "燃やすごみ",
+        "水": "なし",
+        "木": "なし",
+        "金": "缶・びん・ペットボトル",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "月"
+        ],
+        "缶・びん・ペットボトル": [
+          "金"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "金"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "山元町2～5丁目",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "缶・びん・ペットボトル",
+        "水": "なし",
+        "木": "プラスチック資源",
+        "金": "燃やすごみ",
+        "土": "なし"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "木"
+        ],
+        "缶・びん・ペットボトル": [
+          "火"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "火"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "山元町5丁目公園",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "弥生町",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "吉田町",
+      "schedule_by_day": {
+        "月": "缶・びん・ペットボトル",
+        "火": "燃やすごみ",
+        "水": "プラスチック資源",
+        "木": "なし",
+        "金": "なし",
+        "土": "燃やすごみ"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "火",
+          "土"
+        ],
+        "プラスチック資源": [
+          "水"
+        ],
+        "缶・びん・ペットボトル": [
+          "月"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "火",
+          "土"
+        ],
+        "スプレー缶": [
+          "火",
+          "土"
+        ],
+        "乾電池": [
+          "火",
+          "土"
+        ],
+        "小さな金属類": [
+          "月"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    },
+    {
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "ward_ja": "中区",
+      "ward_en": "naka",
+      "town": "吉浜町",
+      "schedule_by_day": {
+        "月": "燃やすごみ",
+        "火": "なし",
+        "水": "なし",
+        "木": "缶・びん・ペットボトル",
+        "金": "燃やすごみ",
+        "土": "プラスチック資源"
+      },
+      "schedule_by_type": {
+        "燃やすごみ": [
+          "月",
+          "金"
+        ],
+        "プラスチック資源": [
+          "土"
+        ],
+        "缶・びん・ペットボトル": [
+          "木"
+        ]
+      },
+      "derived_schedule": {
+        "燃えないごみ": [
+          "月",
+          "金"
+        ],
+        "スプレー缶": [
+          "月",
+          "金"
+        ],
+        "乾電池": [
+          "月",
+          "金"
+        ],
+        "小さな金属類": [
+          "木"
+        ]
+      },
+      "collection_time": "朝8:00まで",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/shushuyobi/naka/yagyou.html"
+    }
+  ]
+}

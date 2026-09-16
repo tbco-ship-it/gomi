@@ -67,6 +67,10 @@ def verify_file(file_path: str) -> dict:
         if not r.get("raw"):
             missing_raw += 1
 
+        for req_field in ["pref", "city", "city_en", "ward", "ward_en", "town", "slug", "types", "source", "raw", "romaji"]:
+            if req_field not in r:
+                errors.append(f"Missing required field '{req_field}' in record slug={slug}")
+
         fetched = r.get("source", {}).get("fetched")
         if fetched != TODAY_STR:
             invalid_fetched_dates.append((slug, fetched))

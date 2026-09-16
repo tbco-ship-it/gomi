@@ -1,0 +1,6568 @@
+[
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "青井",
+    "romaji": "aoi",
+    "chome": "1～6丁目",
+    "sub": "",
+    "slug": "adachi/aoi-1-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "青井1~6丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第2・4火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "足立",
+    "romaji": "adachi",
+    "chome": "1～4丁目",
+    "sub": "",
+    "slug": "adachi/adachi-1-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "足立1~4丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第2・4金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "綾瀬",
+    "romaji": "ayase",
+    "chome": "1～7丁目",
+    "sub": "",
+    "slug": "adachi/ayase-1-7",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "綾瀬1~7丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第2・4金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "伊興",
+    "romaji": "iko",
+    "chome": "1～5丁目",
+    "sub": "",
+    "slug": "adachi/iko-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "伊興1~5丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第2・4月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "伊興本町",
+    "romaji": "ikohoncho",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/ikohoncho-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "伊興本町1、2丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第1・3月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "入谷",
+    "romaji": "iriya",
+    "chome": "1～9丁目",
+    "sub": "",
+    "slug": "adachi/iriya-1-9",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "入谷1~9丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第1・3月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "梅島",
+    "romaji": "umeshima",
+    "chome": "1～3丁目",
+    "sub": "",
+    "slug": "adachi/umeshima-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "梅島1~3丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第2・4火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "梅田",
+    "romaji": "umeda",
+    "chome": "1～8丁目",
+    "sub": "",
+    "slug": "adachi/umeda-1-8",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "梅田1~8丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第1・3金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "扇",
+    "romaji": "ogi",
+    "chome": "1、3丁目",
+    "sub": "",
+    "slug": "adachi/ogi-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "扇1、3丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "扇",
+    "romaji": "ogi",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "adachi/ogi-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "扇2丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "大谷田",
+    "romaji": "otanita",
+    "chome": "1～5丁目",
+    "sub": "",
+    "slug": "adachi/otanita-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "大谷田1~5丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第1・3土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "興野",
+    "romaji": "okino",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/okino-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "興野1、2丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "小台",
+    "romaji": "odai",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/odai-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "小台1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第1・3水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "加賀",
+    "romaji": "kaga",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/kaga-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "加賀1、2丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "加平",
+    "romaji": "kahei",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "adachi/kahei-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "加平1丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第2・4金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "加平",
+    "romaji": "kahei",
+    "chome": "2、3丁目",
+    "sub": "",
+    "slug": "adachi/kahei-2-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "加平2、3丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第1・3土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "北加平町",
+    "romaji": "kitakaheimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/kitakaheimachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "北加平町",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第1・3土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "栗原",
+    "romaji": "kurihara",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/kurihara-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "栗原1、2丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第1・3火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "栗原",
+    "romaji": "kurihara",
+    "chome": "3、4丁目",
+    "sub": "",
+    "slug": "adachi/kurihara-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "栗原3、4丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第2・4月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "弘道",
+    "romaji": "hiromichi",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/hiromichi-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "弘道1、2丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第2・4金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "江北",
+    "romaji": "kohoku",
+    "chome": "1～5、7丁目",
+    "sub": "",
+    "slug": "adachi/kohoku-1-5-7",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "江北1~5、7丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "江北",
+    "romaji": "kohoku",
+    "chome": "6丁目",
+    "sub": "",
+    "slug": "adachi/kohoku-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "江北6丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "古千谷本町",
+    "romaji": "kojiyahoncho",
+    "chome": "1～4丁目",
+    "sub": "",
+    "slug": "adachi/kojiyahoncho-1-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "古千谷本町1~4丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第1・3月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "佐野",
+    "romaji": "sano",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/sano-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "佐野1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第1・3土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "皿沼",
+    "romaji": "saranuma",
+    "chome": "1～3丁目",
+    "sub": "",
+    "slug": "adachi/saranuma-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "皿沼1~3丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "鹿浜",
+    "romaji": "shikahama",
+    "chome": "1～8丁目",
+    "sub": "",
+    "slug": "adachi/shikahama-1-8",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "鹿浜1~8丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "島根",
+    "romaji": "shimane",
+    "chome": "1～4丁目",
+    "sub": "",
+    "slug": "adachi/shimane-1-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "島根1~4丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第1・3火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "新田",
+    "romaji": "nitta",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/nitta-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "新田1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第1・3土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "新田",
+    "romaji": "nitta",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "adachi/nitta-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "新田3丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第2・4土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "神明",
+    "romaji": "jimmei",
+    "chome": "1～3丁目",
+    "sub": "",
+    "slug": "adachi/jimmei-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "神明1~3丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第1・3水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "神明南",
+    "romaji": "jimmeiminami",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/jimmeiminami-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "神明南1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第1・3土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "関原",
+    "romaji": "sekihara",
+    "chome": "1～3丁目",
+    "sub": "",
+    "slug": "adachi/sekihara-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "関原1~3丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第1・3金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住",
+    "romaji": "senju",
+    "chome": "1～3丁目",
+    "sub": "",
+    "slug": "adachi/senju-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住1~3丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第2・4金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住",
+    "romaji": "senju",
+    "chome": "4、5丁目",
+    "sub": "",
+    "slug": "adachi/senju-4-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住4、5丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第1・3金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住曙町",
+    "romaji": "senjuakebonocho",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjuakebonocho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住曙町",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第2・4火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住旭町",
+    "romaji": "senjuasahimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjuasahimachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住旭町",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第1・3火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住東",
+    "romaji": "senjuhigashi",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "adachi/senjuhigashi-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住東1丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住東",
+    "romaji": "senjuhigashi",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "adachi/senjuhigashi-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住東2丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第1・3火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住大川町",
+    "romaji": "senjuokawamachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjuokawamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住大川町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第1・3月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住河原町",
+    "romaji": "senjukawaramachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjukawaramachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住河原町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住寿町",
+    "romaji": "senjukotobukicho",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjukotobukicho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住寿町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第2・4月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住桜木",
+    "romaji": "senjusakuragi",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/senjusakuragi-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住桜木1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住関屋町",
+    "romaji": "senjusekiyamachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjusekiyamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住関屋町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住龍田町",
+    "romaji": "senjutatsutamachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjutatsutamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住龍田町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第2・4月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住中居町",
+    "romaji": "senjunakaimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjunakaimachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住中居町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第2・4月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住仲町",
+    "romaji": "senjunakacho",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjunakacho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住仲町",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第2・4金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住橋戸町",
+    "romaji": "senjuhashidomachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjuhashidomachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住橋戸町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住緑町",
+    "romaji": "senjumidorimachi",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "adachi/senjumidorimachi-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住緑町1丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住緑町",
+    "romaji": "senjumidorimachi",
+    "chome": "2、3丁目",
+    "sub": "",
+    "slug": "adachi/senjumidorimachi-2-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住緑町2、3丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住宮元町",
+    "romaji": "senjumiyamotomachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjumiyamotomachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住宮元町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住元町",
+    "romaji": "senjumotomachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjumotomachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住元町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第1・3月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "千住柳町",
+    "romaji": "senjuyanagimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/senjuyanagimachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "千住柳町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第1・3月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "竹の塚",
+    "romaji": "takenotsuka",
+    "chome": "1～7丁目",
+    "sub": "",
+    "slug": "adachi/takenotsuka-1-7",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "竹の塚1~7丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第1・3火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "辰沼",
+    "romaji": "tatsunuma",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/tatsunuma-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "辰沼1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第1・3土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "中央本町",
+    "romaji": "chuohoncho",
+    "chome": "1～5丁目",
+    "sub": "",
+    "slug": "adachi/chuohoncho-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "中央本町1~5丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第2・4火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "椿",
+    "romaji": "tsubaki",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/tsubaki-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "椿1、2丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "東和",
+    "romaji": "towa",
+    "chome": "1～5丁目",
+    "sub": "",
+    "slug": "adachi/towa-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "東和1~5丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第2・4土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "舎人",
+    "romaji": "toneri",
+    "chome": "1～6丁目",
+    "sub": "",
+    "slug": "adachi/toneri-1-6",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "舎人1~6丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第1・3月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "中川",
+    "romaji": "nakagawa",
+    "chome": "1～5丁目",
+    "sub": "",
+    "slug": "adachi/nakagawa-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "中川1~5丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第2・4土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西綾瀬",
+    "romaji": "nishiayase",
+    "chome": "1～4丁目",
+    "sub": "",
+    "slug": "adachi/nishiayase-1-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "西綾瀬1~4丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第2・4金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西新井",
+    "romaji": "nishiarai",
+    "chome": "1～7丁目",
+    "sub": "",
+    "slug": "adachi/nishiarai-1-7",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "西新井1~7丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第2・4月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西新井栄町",
+    "romaji": "nishiaraisakaecho",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/nishiaraisakaecho-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "西新井栄町1、2丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第1・3金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西新井栄町",
+    "romaji": "nishiaraisakaecho",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "adachi/nishiaraisakaecho-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "西新井栄町3丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西新井本町",
+    "romaji": "nishiaraihoncho",
+    "chome": "1～5丁目",
+    "sub": "",
+    "slug": "adachi/nishiaraihoncho-1-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "西新井本町1~5丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西伊興",
+    "romaji": "nishiiko",
+    "chome": "1～3丁目",
+    "sub": "",
+    "slug": "adachi/nishiiko-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "西伊興1~3丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第2・4月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西伊興",
+    "romaji": "nishiiko",
+    "chome": "4丁目",
+    "sub": "",
+    "slug": "adachi/nishiiko-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "西伊興4丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第1・3月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西加平",
+    "romaji": "nishikahei",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/nishikahei-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "西加平1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西竹の塚",
+    "romaji": "nishitakenotsuka",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/nishitakenotsuka-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "西竹の塚1、2丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第1・3月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "西保木間",
+    "romaji": "nishibokonoma",
+    "chome": "1～4丁目",
+    "sub": "",
+    "slug": "adachi/nishibokonoma-1-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "西保木間1~4丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第1・3火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "花畑",
+    "romaji": "hanahata",
+    "chome": "1～8丁目",
+    "sub": "",
+    "slug": "adachi/hanahata-1-8",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "花畑1~8丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第1・3水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "東綾瀬",
+    "romaji": "higashiayase",
+    "chome": "1～3丁目",
+    "sub": "",
+    "slug": "adachi/higashiayase-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "東綾瀬1~3丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第2・4土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "東伊興",
+    "romaji": "higashiiko",
+    "chome": "1～4丁目",
+    "sub": "",
+    "slug": "adachi/higashiiko-1-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "東伊興1~4丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第1・3月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "東保木間",
+    "romaji": "higashihokima",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/higashihokima-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "東保木間1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "東六月町",
+    "romaji": "higashirokugatsumachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/higashirokugatsumachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "東六月町",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "一ツ家",
+    "romaji": "ichitsuie",
+    "chome": "1～4丁目",
+    "sub": "",
+    "slug": "adachi/ichitsuie-1-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "一ツ家1~4丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "日ノ出町",
+    "romaji": "nichinodemachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/nichinodemachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "日ノ出町",
+      "burnable": "月曜日・木曜日",
+      "plastic": "土曜日",
+      "nonburnable": "第1・3金曜日",
+      "resource": "火曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "平野",
+    "romaji": "heiya",
+    "chome": "1～3丁目",
+    "sub": "",
+    "slug": "adachi/heiya-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "平野1~3丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "保木間",
+    "romaji": "hokima",
+    "chome": "1～3丁目",
+    "sub": "",
+    "slug": "adachi/hokima-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "保木間1~3丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "保木間",
+    "romaji": "hokima",
+    "chome": "4、5丁目",
+    "sub": "",
+    "slug": "adachi/hokima-4-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "保木間4、5丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第1・3水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "保塚町",
+    "romaji": "hotsukamachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/hotsukamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "保塚町",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "堀之内",
+    "romaji": "horinouchi",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/horinouchi-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "堀之内1、2丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "南花畑",
+    "romaji": "nakahatake",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/nakahatake-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "南花畑1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "南花畑",
+    "romaji": "nakahatake",
+    "chome": "3～5丁目",
+    "sub": "",
+    "slug": "adachi/nakahatake-3-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "南花畑3~5丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第1・3水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "宮城",
+    "romaji": "miyagi",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/miyagi-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "宮城1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第1・3水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "六木",
+    "romaji": "mutsugi",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/mutsugi-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "六木1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第1・3土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "六木",
+    "romaji": "mutsugi",
+    "chome": "3、4丁目",
+    "sub": "",
+    "slug": "adachi/mutsugi-3-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "六木3、4丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第1・3水曜日",
+      "resource": "土曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "本木",
+    "romaji": "motoki",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/motoki-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "本木1、2丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "本木北町",
+    "romaji": "motokikitamachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/motokikitamachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "本木北町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "本木西町",
+    "romaji": "motokinishimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/motokinishimachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "本木西町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "本木東町",
+    "romaji": "motokihigashicho",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/motokihigashicho",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "本木東町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "本木南町",
+    "romaji": "motokiminamimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "adachi/motokiminamimachi",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "本木南町",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第2・4木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "谷在家",
+    "romaji": "tanizaike",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "adachi/tanizaike-1",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "谷在家1丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "火曜日",
+      "nonburnable": "第2・4月曜日",
+      "resource": "木曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "谷在家",
+    "romaji": "tanizaike",
+    "chome": "2、3丁目",
+    "sub": "",
+    "slug": "adachi/tanizaike-2-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "谷在家2、3丁目",
+      "burnable": "水曜日・土曜日",
+      "plastic": "金曜日",
+      "nonburnable": "第1・3木曜日",
+      "resource": "月曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "谷中",
+    "romaji": "yanaka",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/yanaka-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "谷中1、2丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第2・4土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "谷中",
+    "romaji": "yanaka",
+    "chome": "3～5丁目",
+    "sub": "",
+    "slug": "adachi/yanaka-3-5",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "谷中3~5丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "月曜日",
+      "nonburnable": "第1・3土曜日",
+      "resource": "水曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "柳原",
+    "romaji": "yanagihara",
+    "chome": "1、2丁目",
+    "sub": "",
+    "slug": "adachi/yanagihara-1-2",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "柳原1、2丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第2・4火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "六月",
+    "romaji": "rokugatsu",
+    "chome": "1～3丁目",
+    "sub": "",
+    "slug": "adachi/rokugatsu-1-3",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "六月1~3丁目",
+      "burnable": "月曜日・木曜日",
+      "plastic": "水曜日",
+      "nonburnable": "第1・3火曜日",
+      "resource": "金曜日"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "足立区",
+    "city_en": "adachi",
+    "ward": "",
+    "ward_en": "",
+    "town": "六町",
+    "romaji": "rokumachi",
+    "chome": "1～4丁目",
+    "sub": "",
+    "slug": "adachi/rokumachi-1-4",
+    "types": {
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.adachi.tokyo.jp/seso/kurashi/sche.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html_table"
+    },
+    "raw": {
+      "area": "六町1~4丁目",
+      "burnable": "火曜日・金曜日",
+      "plastic": "木曜日",
+      "nonburnable": "第2・4水曜日",
+      "resource": "土曜日"
+    }
+  }
+]

@@ -1,0 +1,6932 @@
+[
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "池上",
+    "romaji": "ikegami",
+    "chome": "1丁目・2丁目・4丁目",
+    "sub": "",
+    "slug": "ota/ikegami-1-2-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "い",
+        "池 上",
+        null,
+        "1丁目・2丁目・4丁目",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "2・4 金",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "池上",
+    "romaji": "ikegami",
+    "chome": "3丁目・5丁目",
+    "sub": "1〜22番・25番・26番〕 6丁目・7丁目〔1〜23番・25番・26番・29番〕 8丁目〔1〜19番",
+    "slug": "ota/ikegami-3-5-1-22ban-25ban-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "3丁目・5丁目〔1〜22番・25番・26番〕\n6丁目・7丁目〔1〜23番・25番・26番・29番〕\n8丁目〔1〜19番〕",
+        "土",
+        "水",
+        null,
+        "月・木",
+        "1・3 火",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "池上",
+    "romaji": "ikegami",
+    "chome": "5丁目",
+    "sub": "23番・24番・27番・28番",
+    "slug": "ota/ikegami-5-23ban-24ban-27b",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        "",
+        "5丁目〔23番・24番・27番・28番〕",
+        "火",
+        "金",
+        null,
+        "水・土",
+        "2・4 木",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 0,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "池上",
+    "romaji": "ikegami",
+    "chome": "7丁目",
+    "sub": "24番・27番・28番・30番・31番〕 8丁目〔20〜27番",
+    "slug": "ota/ikegami-7-24ban-27ban-28b",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "7丁目〔24番・27番・28番・30番・31番〕\n8丁目〔20〜27番〕",
+        null,
+        null,
+        null,
+        null,
+        "1・3 木",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "石川町",
+    "romaji": "ishikawacho",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/ishikawacho-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "石川町",
+        null,
+        "全域（1丁目・2丁目）",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "2・4 水",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "鵜の木",
+    "romaji": "unoki",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "ota/unoki-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "う",
+        "鵜の木",
+        null,
+        "1丁目",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "1・3 土",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "鵜の木",
+    "romaji": "unoki",
+    "chome": "2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/unoki-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目・3丁目",
+        null,
+        null,
+        null,
+        null,
+        "2・4 土",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森北",
+    "romaji": "omorikita",
+    "chome": "4丁目・5丁目",
+    "sub": "1〜8・12・13・15・16番",
+    "slug": "ota/omorikita-4-5-1-8-12-13-15-16",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "お",
+        "大森北",
+        null,
+        "1・4丁目・5丁目（1〜8・12・13・15・16番）",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "2・4 水",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森北",
+    "romaji": "omorikita",
+    "chome": "5丁目",
+    "sub": "9〜11番・14番",
+    "slug": "ota/omorikita-5-9-11ban-14ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "5丁目（9〜11番・14番）",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森北",
+    "romaji": "omorikita",
+    "chome": "2丁目・3丁目・6丁目",
+    "sub": "",
+    "slug": "ota/omorikita-2-3-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目・3丁目・6丁目",
+        null,
+        null,
+        null,
+        null,
+        "1・3 水",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森中",
+    "romaji": "omorinaka",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/omorinaka-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "大森中",
+        null,
+        "全域（1丁目・2丁目・3丁目）",
+        "火",
+        "金",
+        null,
+        "水・土",
+        "2・4 木",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森西",
+    "romaji": "omorinishi",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/omorinishi-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "大森西",
+        null,
+        "1丁目・2丁目",
+        "金",
+        "火",
+        null,
+        "水・土",
+        "2・4 月",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森西",
+    "romaji": "omorinishi",
+    "chome": "3丁目・4丁目・5丁目・6丁目",
+    "sub": "7丁目〔1〜6番・7番(6〜19号",
+    "slug": "ota/omorinishi-3-4-5-6-7chome-1-6ban-7",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "3丁目・4丁目・5丁目・6丁目\n7丁目〔1〜6番・7番（6〜19号）〕",
+        null,
+        null,
+        null,
+        null,
+        "1・3 月",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森西",
+    "romaji": "omorinishi",
+    "chome": "7丁目",
+    "sub": "7番(1〜5号・20〜28号)・8番・9番",
+    "slug": "ota/omorinishi-7-7ban-1-5gou-20",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        "",
+        "7丁目〔7番（1〜5号・20〜28号）・8番・9番〕",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "1・3 水",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 0,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森東",
+    "romaji": "omorihigashi",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/omorihigashi-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "大森東",
+        null,
+        "1丁目・2丁目",
+        "火",
+        "金",
+        null,
+        "水・土",
+        "2・4 木",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森東",
+    "romaji": "omorihigashi",
+    "chome": "3丁目・4丁目・5丁目",
+    "sub": "",
+    "slug": "ota/omorihigashi-3-4-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "3丁目・4丁目・5丁目",
+        null,
+        null,
+        null,
+        null,
+        "1・3 木",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森本町",
+    "romaji": "omorihoncho",
+    "chome": "1丁目",
+    "sub": "1〜8番",
+    "slug": "ota/omorihoncho-1-1-8ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "大森本町",
+        null,
+        "1丁目〔1〜8番〕",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "1・3 水",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森本町",
+    "romaji": "omorihoncho",
+    "chome": "1丁目",
+    "sub": "9〜11番〕 2丁目 〔1〜24番・25番(1〜9号・20〜30号) 26番・27番(1〜4号)・31〜33番",
+    "slug": "ota/omorihoncho-1-9-11ban-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "1丁目〔9〜11番〕\n2丁目 〔1〜24番・25番（1〜9号・20〜30号）\n26番・27番（1〜4号）・31〜33番〕",
+        "金",
+        "火",
+        null,
+        "水・土",
+        "2・4 月",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森本町",
+    "romaji": "omorihoncho",
+    "chome": "2丁目",
+    "sub": "25番(10〜19号) 27番(5〜7号)・28〜30番",
+    "slug": "ota/omorihoncho-2-25ban-10-19gou",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目 〔25番（10〜19号）\n27番（5〜7号）・28〜30番〕",
+        "火",
+        "金",
+        null,
+        null,
+        "2・4 木",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "大森南",
+    "romaji": "omoriminami",
+    "chome": "1丁目",
+    "sub": "5〜11番・12番(8〜16号) 17番(7〜17号)・18番(7〜14号)〕 2丁目・3丁目・4丁目・5丁目",
+    "slug": "ota/omoriminami-1-5-11ban-12ban-8",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "大森南",
+        null,
+        "1丁目 〔5〜11番・12番（8〜16号）\n17番（7〜17号）・18番（7〜14号）〕\n2丁目・3丁目・4丁目・5丁目",
+        null,
+        null,
+        null,
+        null,
+        "1・3 木",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "森南",
+    "romaji": "moriminami",
+    "chome": "1丁目",
+    "sub": "1〜4番・12番(1号・2号・18号・20〜26号) 13〜16番・17番(1〜6号・18〜27号) 18番(1〜6号・16〜26号)・19〜24番",
+    "slug": "ota/moriminami-1-1-4ban-12ban-1g",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        "森南",
+        "1丁目 〔1〜4番・12番（1号・2号・18号・20〜26号）\n13〜16番・17番（1〜6号・18〜27号）\n18番（1〜6号・16〜26号）・19〜24番〕",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "1・3 金",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 0,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "蒲田",
+    "romaji": "kamata",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/kamata-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "か",
+        "蒲",
+        "田",
+        "1丁目・2丁目・3丁目",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "1・3 水",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "蒲田",
+    "romaji": "kamata",
+    "chome": "4丁目・5丁目",
+    "sub": "",
+    "slug": "ota/kamata-4-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "4丁目・5丁目",
+        null,
+        null,
+        null,
+        null,
+        "2・4 水",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "蒲田本町",
+    "romaji": "kamatahoncho",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/kamatahoncho-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "蒲田",
+        "本町",
+        "全域（1丁目・2丁目）",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "上池台",
+    "romaji": "kamiikedai",
+    "chome": "1丁目",
+    "sub": "18・19番・21〜53番)・4丁目",
+    "slug": "ota/kamiikedai-1-18-19ban-21-53b",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "上池台",
+        null,
+        "1丁目（18・19番・21〜53番）・4丁目",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "2・4 金",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "上池台",
+    "romaji": "kamiikedai",
+    "chome": "1丁目",
+    "sub": "1〜17番・20番",
+    "slug": "ota/kamiikedai-1-1-17ban-20ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "1丁目（1〜17番・20番）",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "上池台",
+    "romaji": "kamiikedai",
+    "chome": "2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/kamiikedai-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目・3丁目",
+        "土",
+        "水",
+        null,
+        null,
+        "1・3 火",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "上池台",
+    "romaji": "kamiikedai",
+    "chome": "5丁目",
+    "sub": "",
+    "slug": "ota/kamiikedai-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "5丁目",
+        null,
+        null,
+        null,
+        null,
+        "2・4 火",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "北糀谷",
+    "romaji": "kitakojiya",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/kitakojiya-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "き",
+        "北",
+        "糀谷",
+        "全域（1丁目・2丁目）",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "1・3 金",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 0,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "北千束",
+    "romaji": "kitasenzoku",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/kitasenzoku-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "北千束",
+        null,
+        "全域（1丁目・2丁目・3丁目）",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "1・3 金",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "北馬込",
+    "romaji": "hokubakomi",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/hokubakomi-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "北馬込",
+        null,
+        "全域（1丁目・2丁目）",
+        "木",
+        "月",
+        null,
+        "火・金",
+        "1・3 土",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "北嶺町",
+    "romaji": "hokureimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "ota/hokureimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "北嶺町",
+        null,
+        "全域",
+        "火",
+        "金",
+        null,
+        "水・土",
+        "1・3 木",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "久が原",
+    "romaji": "kyuugahara",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "ota/kyuugahara-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "く",
+        "久が原",
+        null,
+        "1丁目",
+        "火",
+        "金",
+        null,
+        "水・土",
+        "2・4 木",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "久が原",
+    "romaji": "kyuugahara",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "ota/kyuugahara-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目",
+        "金",
+        "火",
+        null,
+        "水・土",
+        "1・3 月",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "久が原",
+    "romaji": "kyuugahara",
+    "chome": "3丁目・4丁目・5丁目・6丁目",
+    "sub": "",
+    "slug": "ota/kyuugahara-3-4-5-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "3丁目・4丁目・5丁目・6丁目",
+        null,
+        null,
+        null,
+        null,
+        "2・4 月",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "山王",
+    "romaji": "sannou",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "ota/sannou-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "さ",
+        "山 王",
+        null,
+        "1丁目",
+        "木",
+        "月",
+        null,
+        "火・金",
+        "1・3 土",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "山王",
+    "romaji": "sannou",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "ota/sannou-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目",
+        null,
+        null,
+        null,
+        null,
+        "2・4 土",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "山王",
+    "romaji": "sannou",
+    "chome": "3丁目・4丁目",
+    "sub": "",
+    "slug": "ota/sannou-3-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "3丁目・4丁目",
+        null,
+        null,
+        null,
+        null,
+        "2・4 水",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "下丸子",
+    "romaji": "shimomaruko",
+    "chome": "1丁目・2丁目・3丁目・4丁目",
+    "sub": "",
+    "slug": "ota/shimomaruko-1-2-3-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "し",
+        "下",
+        "丸子",
+        "全域（1丁目・2丁目・3丁目・4丁目）",
+        "金",
+        "火",
+        null,
+        "水・土",
+        "1・3 月",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 0,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "新蒲田",
+    "romaji": "shinkamata",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/shinkamata-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "新",
+        "蒲田",
+        "全域（1丁目・2丁目・3丁目）",
+        "火",
+        "金",
+        null,
+        null,
+        "1・3 木",
+        null,
+        null,
+        null
+      ],
+      "page": 0,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "多摩川",
+    "romaji": "tamagawa",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/tamagawa-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "た",
+        "多摩川",
+        null,
+        "全域（1丁目・2丁目）",
+        "金",
+        "火",
+        null,
+        "水・土",
+        "2・4 月",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "千鳥",
+    "romaji": "chidori",
+    "chome": "1丁目",
+    "sub": "1〜19番",
+    "slug": "ota/chidori-1-1-19ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "ち",
+        "千 鳥",
+        null,
+        "1丁目〔1〜19番〕",
+        "金",
+        "火",
+        null,
+        "水・土",
+        "2・4 月",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "千鳥",
+    "romaji": "chidori",
+    "chome": "1丁目",
+    "sub": "20〜26番〕・2丁目〔1〜26番・28〜35番・37番",
+    "slug": "ota/chidori-1-20-26ban-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "1丁目〔20〜26番〕・2丁目〔1〜26番・28〜35番・37番〕",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "2・4 土",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "千鳥",
+    "romaji": "chidori",
+    "chome": "2丁目",
+    "sub": "27番・36番・38番〜41番〕・3丁目",
+    "slug": "ota/chidori-2-27ban-36ban-38b",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        "",
+        "2丁目〔27番・36番・38番〜41番〕・3丁目",
+        "金",
+        "火",
+        null,
+        "水・土",
+        "1・3 月",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "中央",
+    "romaji": "chuo",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "ota/chuo-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "中 央",
+        null,
+        "1丁目",
+        "木",
+        "月",
+        null,
+        "火・金",
+        "2・4 土",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "中央",
+    "romaji": "chuo",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "ota/chuo-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目",
+        null,
+        "水",
+        null,
+        null,
+        "2・4 月",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "中央",
+    "romaji": "chuo",
+    "chome": "3丁目・7丁目・8丁目",
+    "sub": "",
+    "slug": "ota/chuo-3-7-8",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "3丁目・7丁目・8丁目",
+        "土",
+        null,
+        null,
+        "月・木",
+        "2・4 火",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "中央",
+    "romaji": "chuo",
+    "chome": "4丁目・5丁目・6丁目",
+    "sub": "",
+    "slug": "ota/chuo-4-5-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "4丁目・5丁目・6丁目",
+        "水",
+        "土",
+        null,
+        null,
+        "2・4 金",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "田園調布",
+    "romaji": "denenchofu",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "ota/denenchofu-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "て",
+        "田園調布",
+        null,
+        "1丁目",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "2・4 水",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "田園調布",
+    "romaji": "denenchofu",
+    "chome": "2丁目・3丁目・4丁目・5丁目",
+    "sub": "",
+    "slug": "ota/denenchofu-2-3-4-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目・3丁目・4丁目・5丁目",
+        null,
+        null,
+        null,
+        null,
+        "1・3 水",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "田園調布本町",
+    "romaji": "denenchofuhoncho",
+    "chome": "",
+    "sub": "",
+    "slug": "ota/denenchofuhoncho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "田園調布本町",
+        null,
+        "全域",
+        "木",
+        "月",
+        null,
+        null,
+        "1・3 土",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "田園調布南",
+    "romaji": "denenchofuminami",
+    "chome": "",
+    "sub": "",
+    "slug": "ota/denenchofuminami",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "田園調布南",
+        null,
+        "全域",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "仲池上",
+    "romaji": "nakaikegami",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/nakaikegami-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "な",
+        "仲池上",
+        null,
+        "全域（1丁目・2丁目）",
+        "金",
+        "火",
+        null,
+        "水・土",
+        "1・3 月",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "中馬込",
+    "romaji": "nakamagome",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/nakamagome-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "中馬込",
+        null,
+        "全域（1丁目・2丁目・3丁目）",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "1・3 金",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "仲六郷",
+    "romaji": "nakarokugou",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "ota/nakarokugou-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "仲",
+        "六郷",
+        "1丁目",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "2・4 水",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "仲六郷",
+    "romaji": "nakarokugou",
+    "chome": "2丁目・3丁目・4丁目",
+    "sub": "",
+    "slug": "ota/nakarokugou-2-3-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目・3丁目・4丁目",
+        "木",
+        "月",
+        null,
+        null,
+        "2・4 土",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "西蒲田",
+    "romaji": "nishikanta",
+    "chome": "1丁目・2丁目・3丁目・4丁目・5丁目・6丁目・7丁目",
+    "sub": "",
+    "slug": "ota/nishikanta-1-2-3-4-5-6-7",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "に",
+        "西",
+        "蒲田",
+        "1丁目・2丁目・3丁目・4丁目・5丁目・6丁目・7丁目",
+        "火",
+        "金",
+        null,
+        "水・土",
+        "2・4 木",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "西蒲田",
+    "romaji": "nishikanta",
+    "chome": "8丁目",
+    "sub": "",
+    "slug": "ota/nishikanta-8",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "8丁目",
+        null,
+        null,
+        null,
+        null,
+        "1・3 木",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "西糀谷",
+    "romaji": "nishikojiya",
+    "chome": "1丁目・2丁目・3丁目・4丁目",
+    "sub": "",
+    "slug": "ota/nishikojiya-1-2-3-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "西",
+        "糀谷",
+        "全域（1丁目・2丁目・3丁目・4丁目）",
+        "土",
+        "水",
+        null,
+        "月・木",
+        "2・4 火",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "西馬込",
+    "romaji": "nishimagome",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/nishimagome-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "西馬込",
+        null,
+        "全域（1丁目・2丁目）",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "1・3 金",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "西嶺町",
+    "romaji": "seireimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "ota/seireimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "西嶺町",
+        null,
+        "全域",
+        "木",
+        "月",
+        null,
+        "火・金",
+        "1・3 土",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "西六郷",
+    "romaji": "nishirokugou",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "ota/nishirokugou-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "西",
+        "六郷",
+        "1丁目",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "2・4 水",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "西六郷",
+    "romaji": "nishirokugou",
+    "chome": "2丁目・3丁目・4丁目",
+    "sub": "",
+    "slug": "ota/nishirokugou-2-3-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目・3丁目・4丁目",
+        "木",
+        "月",
+        null,
+        null,
+        "2・4 土",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "萩中",
+    "romaji": "haginaka",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/haginaka-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "は",
+        "萩",
+        "中",
+        "全域（1丁目・2丁目・3丁目）",
+        "土",
+        "水",
+        null,
+        "月・木",
+        "1・3 火",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "羽田",
+    "romaji": "haneda",
+    "chome": "1丁目・2丁目・3丁目・4丁目・5丁目・6丁目",
+    "sub": "",
+    "slug": "ota/haneda-1-2-3-4-5-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "羽",
+        "田",
+        "全域（1丁目・2丁目・3丁目・4丁目・5丁目・6丁目）",
+        "水",
+        "土",
+        null,
+        null,
+        "2・4 金",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "羽田旭町",
+    "romaji": "hanedaasahimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "ota/hanedaasahimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "羽田",
+        "旭町",
+        "全域",
+        null,
+        null,
+        null,
+        null,
+        "1・3 金",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "東蒲田",
+    "romaji": "higashikamata",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/higashikamata-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "ひ",
+        "東",
+        "蒲田",
+        "全域（1丁目・2丁目）",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "1・3 水",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "東糀谷",
+    "romaji": "higashikojiya",
+    "chome": "1丁目・2丁目・3丁目・4丁目・5丁目・6丁目",
+    "sub": "",
+    "slug": "ota/higashikojiya-1-2-3-4-5-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "東",
+        "糀谷",
+        "全域（1丁目・2丁目・3丁目・4丁目・5丁目・6丁目）",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "1・3 金",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "東馬込",
+    "romaji": "tomakomi",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/tomakomi-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "東馬込",
+        null,
+        "全域（1丁目・2丁目）",
+        "木",
+        "月",
+        null,
+        "火・金",
+        "1・3 土",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "東嶺町",
+    "romaji": "toreimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "ota/toreimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "東嶺町",
+        null,
+        "全域",
+        "火",
+        "金",
+        null,
+        "水・土",
+        "2・4 木",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "東矢口",
+    "romaji": "higashiyaguchi",
+    "chome": "1丁目",
+    "sub": "1〜4番・8番・9番(1〜7号・19〜21号)・10番(8〜13号",
+    "slug": "ota/higashiyaguchi-1-1-4ban-8ban-9ba",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "東矢口",
+        null,
+        "1丁目〔1〜4番・8番・9番（1〜7号・19〜21号）・10番（8〜13号）〕",
+        "土",
+        "水",
+        null,
+        "月・木",
+        "1・3 火",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "矢口",
+    "romaji": "yaguchi",
+    "chome": "1丁目",
+    "sub": "5〜7番・9番(8〜18号)・10番(1〜7号)・11番〜18番〕 2丁目・3丁目",
+    "slug": "ota/yaguchi-1-5-7ban-9ban-8-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        "矢口",
+        "1丁目〔5〜7番・9番（8〜18号）・10番（1〜7号）・11番〜18番〕\n2丁目・3丁目",
+        "火",
+        "金",
+        null,
+        "水・土",
+        "1・3 木",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "東雪谷",
+    "romaji": "higashiyukitani",
+    "chome": "1丁目・4丁目",
+    "sub": "",
+    "slug": "ota/higashiyukitani-1-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "東雪谷",
+        null,
+        "1丁目・4丁目",
+        "土",
+        "水",
+        null,
+        "月・木",
+        "1・3 火",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "東雪谷",
+    "romaji": "higashiyukitani",
+    "chome": "2丁目・3丁目・5丁目",
+    "sub": "",
+    "slug": "ota/higashiyukitani-2-3-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "2丁目・3丁目・5丁目",
+        null,
+        null,
+        null,
+        null,
+        "2・4 火",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "東六郷",
+    "romaji": "higashirokugou",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/higashirokugou-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "東",
+        "六郷",
+        "全域（1丁目・2丁目・3丁目）",
+        "木",
+        "月",
+        null,
+        "火・金",
+        "1・3 土",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "平和島",
+    "romaji": "heiwashima",
+    "chome": "1丁目・2丁目・3丁目・4丁目・5丁目・6丁目",
+    "sub": "",
+    "slug": "ota/heiwashima-1-2-3-4-5-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "へ",
+        "平和島",
+        null,
+        "全域（1丁目・2丁目・3丁目・4丁目・5丁目・6丁目）",
+        "火",
+        "金",
+        null,
+        "水・土",
+        "2・4 木",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "本羽田",
+    "romaji": "honhaneda",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/honhaneda-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "ほ",
+        "本",
+        "羽田",
+        "全域（1丁目・2丁目・3丁目）",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "2・4 金",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "南蒲田",
+    "romaji": "minamikamata",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/minamikamata-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "み",
+        "南",
+        "蒲田",
+        "全域（1丁目・2丁目・3丁目）",
+        "土",
+        "水",
+        null,
+        "月・木",
+        "1・3 火",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "南久が原",
+    "romaji": "minamikyuugahara",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/minamikyuugahara-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "南久が原",
+        null,
+        "全域（1丁目・2丁目）",
+        "金",
+        "火",
+        null,
+        "水・土",
+        "2・4 木",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千束",
+    "romaji": "minamisenzoku",
+    "chome": "1丁目・2丁目",
+    "sub": "",
+    "slug": "ota/minamisenzoku-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "南千束",
+        null,
+        "1丁目・2丁目",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "2・4 金",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "南千束",
+    "romaji": "minamisenzoku",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "ota/minamisenzoku-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "3丁目",
+        null,
+        null,
+        null,
+        null,
+        "1・3 金",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "南馬込",
+    "romaji": "minamiumagome",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/minamiumagome-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "南馬込",
+        null,
+        "1丁目・2丁目・3丁目",
+        "木",
+        "月",
+        null,
+        "火・金",
+        "2・4 土",
+        null,
+        "大 森",
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "南馬込",
+    "romaji": "minamiumagome",
+    "chome": "4丁目・6丁目",
+    "sub": "",
+    "slug": "ota/minamiumagome-4-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "4丁目・6丁目",
+        "水",
+        "土",
+        null,
+        "月・木",
+        "2・4 金",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "南馬込",
+    "romaji": "minamiumagome",
+    "chome": "5丁目",
+    "sub": "",
+    "slug": "ota/minamiumagome-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "大森特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        null,
+        null,
+        "5丁目",
+        null,
+        null,
+        null,
+        null,
+        "1・3 金",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "大森"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "南雪谷",
+    "romaji": "minamiyukitani",
+    "chome": "1丁目・2丁目・3丁目・4丁目・5丁目",
+    "sub": "",
+    "slug": "ota/minamiyukitani-1-2-3-4-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "南雪谷",
+        null,
+        "全域（1丁目・2丁目・3丁目・4丁目・5丁目）",
+        "火",
+        "金",
+        null,
+        "水・土",
+        "1・3 木",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "南六郷",
+    "romaji": "minamirokugou",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/minamirokugou-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        null,
+        "南",
+        "六郷",
+        "全域（1丁目・2丁目・3丁目）",
+        "木",
+        "月",
+        null,
+        "火・金",
+        "1・3 土",
+        null,
+        "蒲",
+        "田"
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "矢口",
+    "romaji": "yaguchi",
+    "chome": "1丁目・2丁目・3丁目",
+    "sub": "",
+    "slug": "ota/yaguchi-1-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "蒲田特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "や",
+        "矢",
+        "口",
+        "全域（1丁目・2丁目・3丁目）",
+        "金",
+        "火",
+        null,
+        "水・土",
+        "2・4 月",
+        null,
+        null,
+        null
+      ],
+      "page": 1,
+      "office": "蒲田"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "大田区",
+    "city_en": "ota",
+    "ward": "",
+    "ward_en": "",
+    "town": "雪谷大塚町",
+    "romaji": "yukitaniotsukamachi",
+    "chome": "",
+    "sub": "",
+    "slug": "ota/yukitaniotsukamachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止",
+      "office": "調布特別出張所／清掃事務所"
+    },
+    "source": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.files/shuushuuyoubi.pdf",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "row": [
+        "ゆ",
+        "雪谷大塚町",
+        null,
+        "全域",
+        "月",
+        "木",
+        null,
+        "火・金",
+        "2・4 水",
+        null,
+        "調 布",
+        null
+      ],
+      "page": 1,
+      "office": "調布"
+    }
+  }
+]

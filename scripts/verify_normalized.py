@@ -136,7 +136,11 @@ def main():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     norm_dir = os.path.join(base_dir, "data", "normalized")
 
-    cities = ["osaka", "yokohama", "kitakyushu"]
+    if len(sys.argv) > 1:
+        cities = sys.argv[1:]
+    else:
+        cities = [f[:-5] for f in sorted(os.listdir(norm_dir)) if f.endswith(".json") and not f.startswith(".")]
+
     summary = []
 
     for city in cities:
@@ -159,7 +163,7 @@ def main():
         print("\n[❌] SOME VALIDATIONS FAILED!")
         sys.exit(1)
     else:
-        print("\n[✔] ALL THREE CITIES PASSED 100% OF SCHEMA VERIFICATIONS!")
+        print(f"\n[✔] ALL {len(summary)} CITIES PASSED 100% OF SCHEMA VERIFICATIONS!")
 
 
 if __name__ == "__main__":

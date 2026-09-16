@@ -1,0 +1,9204 @@
+[
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤堤",
+    "romaji": "akatsutsumi",
+    "chome": "1・3~5丁目",
+    "sub": "",
+    "slug": "setagaya/akatsutsumi-1-3-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "あ",
+      "町名": "赤堤",
+      "丁目": "1・3～5",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の月曜日",
+      "ペットボトル（月2回）": "1回目・3回目の月曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤堤",
+    "romaji": "akatsutsumi",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "setagaya/akatsutsumi-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "あ",
+      "町名": "赤堤",
+      "丁目": "2",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の木曜日",
+      "ペットボトル（月2回）": "1回目・3回目の木曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "池尻",
+    "romaji": "ikejiri",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/ikejiri-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "い",
+      "町名": "池尻",
+      "丁目": "1・2",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "池尻",
+    "romaji": "ikejiri",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "setagaya/ikejiri-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "い",
+      "町名": "池尻",
+      "丁目": "3",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "池尻",
+    "romaji": "ikejiri",
+    "chome": "4丁目",
+    "sub": "",
+    "slug": "setagaya/ikejiri-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "い",
+      "町名": "池尻",
+      "丁目": "4",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "宇奈根",
+    "romaji": "unane",
+    "chome": "1~3丁目",
+    "sub": "",
+    "slug": "setagaya/unane-1-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "う",
+      "町名": "宇奈根",
+      "丁目": "1～3",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の土曜日",
+      "ペットボトル（月2回）": "1回目・3回目の土曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "梅丘",
+    "romaji": "umeoka",
+    "chome": "1~3丁目",
+    "sub": "",
+    "slug": "setagaya/umeoka-1-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "う",
+      "町名": "梅丘",
+      "丁目": "1～3",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "大蔵",
+    "romaji": "okura",
+    "chome": "1~4丁目",
+    "sub": "",
+    "slug": "setagaya/okura-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "お",
+      "町名": "大蔵",
+      "丁目": "1～4",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "大蔵",
+    "romaji": "okura",
+    "chome": "5・6丁目",
+    "sub": "",
+    "slug": "setagaya/okura-5-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "お",
+      "町名": "大蔵",
+      "丁目": "5・6",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の水曜日",
+      "ペットボトル（月2回）": "2回目・4回目の水曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "大原",
+    "romaji": "ohara",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "setagaya/ohara-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "お",
+      "町名": "大原",
+      "丁目": "1",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の土曜日",
+      "ペットボトル（月2回）": "1回目・3回目の土曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "大原",
+    "romaji": "ohara",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "setagaya/ohara-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "お",
+      "町名": "大原",
+      "丁目": "2",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "岡本",
+    "romaji": "okamoto",
+    "chome": "1~3丁目",
+    "sub": "",
+    "slug": "setagaya/okamoto-1-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "お",
+      "町名": "岡本",
+      "丁目": "1～3",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の土曜日",
+      "ペットボトル（月2回）": "1回目・3回目の土曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "奥沢",
+    "romaji": "okusawa",
+    "chome": "1・3・4丁目",
+    "sub": "",
+    "slug": "setagaya/okusawa-1-3-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "お",
+      "町名": "奥沢",
+      "丁目": "1・3・4",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の金曜日",
+      "ペットボトル（月2回）": "2回目・4回目の金曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "奥沢",
+    "romaji": "okusawa",
+    "chome": "2・5・6丁目",
+    "sub": "",
+    "slug": "setagaya/okusawa-2-5-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "お",
+      "町名": "奥沢",
+      "丁目": "2・5・6",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の金曜日",
+      "ペットボトル（月2回）": "1回目・3回目の金曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "奥沢",
+    "romaji": "okusawa",
+    "chome": "7丁目",
+    "sub": "",
+    "slug": "setagaya/okusawa-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "お",
+      "町名": "奥沢",
+      "丁目": "7",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の火曜日",
+      "ペットボトル（月2回）": "2回目・4回目の火曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "奥沢",
+    "romaji": "okusawa",
+    "chome": "8丁目",
+    "sub": "",
+    "slug": "setagaya/okusawa-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "お",
+      "町名": "奥沢",
+      "丁目": "8",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の金曜日",
+      "ペットボトル（月2回）": "1回目・3回目の金曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "尾山台",
+    "romaji": "oyamadai",
+    "chome": "1~3丁目",
+    "sub": "",
+    "slug": "setagaya/oyamadai-1-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "お",
+      "町名": "尾山台",
+      "丁目": "1～3",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "粕谷",
+    "romaji": "kasuya",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/kasuya-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "か",
+      "町名": "粕谷",
+      "丁目": "1・2",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の木曜日",
+      "ペットボトル（月2回）": "1回目・3回目の木曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "粕谷",
+    "romaji": "kasuya",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "setagaya/kasuya-3-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "か",
+      "町名": "粕谷",
+      "丁目": "3・4",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の木曜日",
+      "ペットボトル（月2回）": "1回目・3回目の木曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "鎌田",
+    "romaji": "kamada",
+    "chome": "1~4丁目",
+    "sub": "",
+    "slug": "setagaya/kamada-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "か",
+      "町名": "鎌田",
+      "丁目": "1～4",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の土曜日",
+      "ペットボトル（月2回）": "1回目・3回目の土曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上馬",
+    "romaji": "kamiuma",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "setagaya/kamiuma-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "か",
+      "町名": "上馬",
+      "丁目": "1",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上馬",
+    "romaji": "kamiuma",
+    "chome": "2~5丁目",
+    "sub": "",
+    "slug": "setagaya/kamiuma-2-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "か",
+      "町名": "上馬",
+      "丁目": "2～5",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の水曜日",
+      "ペットボトル（月2回）": "2回目・4回目の水曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上北沢",
+    "romaji": "kamikitazawa",
+    "chome": "1~4丁目",
+    "sub": "",
+    "slug": "setagaya/kamikitazawa-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "か",
+      "町名": "上北沢",
+      "丁目": "1～4",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の火曜日",
+      "ペットボトル（月2回）": "2回目・4回目の火曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上北沢",
+    "romaji": "kamikitazawa",
+    "chome": "5丁目",
+    "sub": "",
+    "slug": "setagaya/kamikitazawa-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "か",
+      "町名": "上北沢",
+      "丁目": "5",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上祖師谷",
+    "romaji": "uesoshigaya",
+    "chome": "1・2・5~7丁目",
+    "sub": "",
+    "slug": "setagaya/uesoshigaya-1-2-5-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "か",
+      "町名": "上祖師谷",
+      "丁目": "1・2・5～7",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の木曜日",
+      "ペットボトル（月2回）": "1回目・3回目の木曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上祖師谷",
+    "romaji": "uesoshigaya",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "setagaya/uesoshigaya-3-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "か",
+      "町名": "上祖師谷",
+      "丁目": "3・4",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上野毛",
+    "romaji": "kaminoge",
+    "chome": "1・4丁目",
+    "sub": "",
+    "slug": "setagaya/kaminoge-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "か",
+      "町名": "上野毛",
+      "丁目": "1・4",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の土曜日",
+      "ペットボトル（月2回）": "1回目・3回目の土曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上野毛",
+    "romaji": "kaminoge",
+    "chome": "2・3丁目",
+    "sub": "",
+    "slug": "setagaya/kaminoge-2-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "か",
+      "町名": "上野毛",
+      "丁目": "2・3",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の月曜日",
+      "ペットボトル（月2回）": "2回目・4回目の月曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上用賀",
+    "romaji": "jouyouga",
+    "chome": "1~4丁目",
+    "sub": "",
+    "slug": "setagaya/jouyouga-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "か",
+      "町名": "上用賀",
+      "丁目": "1～4",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "上用賀",
+    "romaji": "jouyouga",
+    "chome": "5・6丁目",
+    "sub": "",
+    "slug": "setagaya/jouyouga-5-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "か",
+      "町名": "上用賀",
+      "丁目": "5・6",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "北烏山",
+    "romaji": "kitakarasuyama",
+    "chome": "1・3丁目",
+    "sub": "",
+    "slug": "setagaya/kitakarasuyama-1-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "き",
+      "町名": "北烏山",
+      "丁目": "1・3",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "北烏山",
+    "romaji": "kitakarasuyama",
+    "chome": "2・4~9丁目",
+    "sub": "",
+    "slug": "setagaya/kitakarasuyama-2-4-9",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "き",
+      "町名": "北烏山",
+      "丁目": "2・4～9",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の金曜日",
+      "ペットボトル（月2回）": "1回目・3回目の金曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "北沢",
+    "romaji": "kitazawa",
+    "chome": "1~5丁目",
+    "sub": "",
+    "slug": "setagaya/kitazawa-1-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "き",
+      "町名": "北沢",
+      "丁目": "1～5",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の土曜日",
+      "ペットボトル（月2回）": "1回目・3回目の土曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "喜多見",
+    "romaji": "kitami",
+    "chome": "1~9丁目",
+    "sub": "",
+    "slug": "setagaya/kitami-1-9",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "き",
+      "町名": "喜多見",
+      "丁目": "1～9",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の水曜日",
+      "ペットボトル（月2回）": "2回目・4回目の水曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "砧",
+    "romaji": "kinuta",
+    "chome": "1~5丁目",
+    "sub": "",
+    "slug": "setagaya/kinuta-1-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "き",
+      "町名": "砧",
+      "丁目": "1～5",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "砧",
+    "romaji": "kinuta",
+    "chome": "6・8丁目",
+    "sub": "",
+    "slug": "setagaya/kinuta-6-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "き",
+      "町名": "砧",
+      "丁目": "6・8",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "砧",
+    "romaji": "kinuta",
+    "chome": "7丁目",
+    "sub": "",
+    "slug": "setagaya/kinuta-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "き",
+      "町名": "砧",
+      "丁目": "7",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "砧公園",
+    "romaji": "kinutakoen",
+    "chome": "",
+    "sub": "",
+    "slug": "setagaya/kinutakoen",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "き",
+      "町名": "砧公園",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "給田",
+    "romaji": "kyuuden",
+    "chome": "1~3丁目",
+    "sub": "",
+    "slug": "setagaya/kyuuden-1-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "き",
+      "町名": "給田",
+      "丁目": "1～3",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の金曜日",
+      "ペットボトル（月2回）": "2回目・4回目の金曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "給田",
+    "romaji": "kyuuden",
+    "chome": "4・5丁目",
+    "sub": "",
+    "slug": "setagaya/kyuuden-4-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "き",
+      "町名": "給田",
+      "丁目": "4・5",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の金曜日",
+      "ペットボトル（月2回）": "2回目・4回目の金曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "経堂",
+    "romaji": "kyoudou",
+    "chome": "1・4・5丁目",
+    "sub": "",
+    "slug": "setagaya/kyoudou-1-4-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "き",
+      "町名": "経堂",
+      "丁目": "1・4・5",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の月曜日",
+      "ペットボトル（月2回）": "2回目・4回目の月曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "経堂",
+    "romaji": "kyoudou",
+    "chome": "2・3丁目",
+    "sub": "",
+    "slug": "setagaya/kyoudou-2-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "き",
+      "町名": "経堂",
+      "丁目": "2・3",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の月曜日",
+      "ペットボトル（月2回）": "1回目・3回目の月曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "豪徳寺",
+    "romaji": "goutokuji",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "setagaya/goutokuji-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "こ",
+      "町名": "豪徳寺",
+      "丁目": "1",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の木曜日",
+      "ペットボトル（月2回）": "1回目・3回目の木曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "豪徳寺",
+    "romaji": "goutokuji",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "setagaya/goutokuji-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "こ",
+      "町名": "豪徳寺",
+      "丁目": "2",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の金曜日",
+      "ペットボトル（月2回）": "1回目・3回目の金曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "駒沢",
+    "romaji": "komazawa",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/komazawa-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "こ",
+      "町名": "駒沢",
+      "丁目": "1・2",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の水曜日",
+      "ペットボトル（月2回）": "2回目・4回目の水曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "駒沢",
+    "romaji": "komazawa",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "setagaya/komazawa-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "こ",
+      "町名": "駒沢",
+      "丁目": "3",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の木曜日",
+      "ペットボトル（月2回）": "1回目・3回目の木曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "駒沢",
+    "romaji": "komazawa",
+    "chome": "4・5丁目",
+    "sub": "",
+    "slug": "setagaya/komazawa-4-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "こ",
+      "町名": "駒沢",
+      "丁目": "4・5",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "駒沢公園",
+    "romaji": "komazawakoen",
+    "chome": "",
+    "sub": "",
+    "slug": "setagaya/komazawakoen",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "こ",
+      "町名": "駒沢公園",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "桜",
+    "romaji": "sakura",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/sakura-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "さ",
+      "町名": "桜",
+      "丁目": "1・2",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の金曜日",
+      "ペットボトル（月2回）": "1回目・3回目の金曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "桜",
+    "romaji": "sakura",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "setagaya/sakura-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "さ",
+      "町名": "桜",
+      "丁目": "3",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の金曜日",
+      "ペットボトル（月2回）": "1回目・3回目の金曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "桜丘",
+    "romaji": "sakuraoka",
+    "chome": "1~5丁目",
+    "sub": "",
+    "slug": "setagaya/sakuraoka-1-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "さ",
+      "町名": "桜丘",
+      "丁目": "1～5",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の月曜日",
+      "ペットボトル（月2回）": "2回目・4回目の月曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "桜新町",
+    "romaji": "sakurashimmachi",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/sakurashimmachi-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "さ",
+      "町名": "桜新町",
+      "丁目": "1・2",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の木曜日",
+      "ペットボトル（月2回）": "1回目・3回目の木曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "桜上水",
+    "romaji": "sakurajousui",
+    "chome": "1~5丁目",
+    "sub": "",
+    "slug": "setagaya/sakurajousui-1-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "さ",
+      "町名": "桜上水",
+      "丁目": "1～5",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の月曜日",
+      "ペットボトル（月2回）": "1回目・3回目の月曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "三軒茶屋",
+    "romaji": "sangenjaya",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "setagaya/sangenjaya-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "さ",
+      "町名": "三軒茶屋",
+      "丁目": "1",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "三軒茶屋",
+    "romaji": "sangenjaya",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "setagaya/sangenjaya-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "さ",
+      "町名": "三軒茶屋",
+      "丁目": "2",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の水曜日",
+      "ペットボトル（月2回）": "2回目・4回目の水曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "下馬",
+    "romaji": "geba",
+    "chome": "1・3~6丁目",
+    "sub": "",
+    "slug": "setagaya/geba-1-3-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "し",
+      "町名": "下馬",
+      "丁目": "1・3～6",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の火曜日",
+      "ペットボトル（月2回）": "2回目・4回目の火曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "下馬",
+    "romaji": "geba",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "setagaya/geba-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "し",
+      "町名": "下馬",
+      "丁目": "2",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "新町",
+    "romaji": "shimmachi",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "setagaya/shimmachi-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "し",
+      "町名": "新町",
+      "丁目": "1",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "新町",
+    "romaji": "shimmachi",
+    "chome": "2・3丁目",
+    "sub": "",
+    "slug": "setagaya/shimmachi-2-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "し",
+      "町名": "新町",
+      "丁目": "2・3",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の木曜日",
+      "ペットボトル（月2回）": "1回目・3回目の木曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "成城",
+    "romaji": "seijou",
+    "chome": "1~6丁目",
+    "sub": "",
+    "slug": "setagaya/seijou-1-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "せ",
+      "町名": "成城",
+      "丁目": "1～6",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "成城",
+    "romaji": "seijou",
+    "chome": "7~9丁目",
+    "sub": "",
+    "slug": "setagaya/seijou-7-9",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "せ",
+      "町名": "成城",
+      "丁目": "7～9",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "瀬田",
+    "romaji": "seta",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/seta-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "せ",
+      "町名": "瀬田",
+      "丁目": "1・2",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の月曜日",
+      "ペットボトル（月2回）": "2回目・4回目の月曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "瀬田",
+    "romaji": "seta",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "setagaya/seta-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "せ",
+      "町名": "瀬田",
+      "丁目": "3",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の月曜日",
+      "ペットボトル（月2回）": "2回目・4回目の月曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "瀬田",
+    "romaji": "seta",
+    "chome": "4・5丁目",
+    "sub": "",
+    "slug": "setagaya/seta-4-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "せ",
+      "町名": "瀬田",
+      "丁目": "4・5",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の月曜日",
+      "ペットボトル（月2回）": "1回目・3回目の月曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "世田谷",
+    "romaji": "setagaya",
+    "chome": "1~4丁目",
+    "sub": "",
+    "slug": "setagaya/setagaya-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "せ",
+      "町名": "世田谷",
+      "丁目": "1～4",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の金曜日",
+      "ペットボトル（月2回）": "1回目・3回目の金曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "祖師谷",
+    "romaji": "soshigaya",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/soshigaya-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "そ",
+      "町名": "祖師谷",
+      "丁目": "1・2",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の月曜日",
+      "ペットボトル（月2回）": "1回目・3回目の月曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "祖師谷",
+    "romaji": "soshigaya",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "setagaya/soshigaya-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "そ",
+      "町名": "祖師谷",
+      "丁目": "3",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の月曜日",
+      "ペットボトル（月2回）": "1回目・3回目の月曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "祖師谷",
+    "romaji": "soshigaya",
+    "chome": "4~6丁目",
+    "sub": "",
+    "slug": "setagaya/soshigaya-4-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "そ",
+      "町名": "祖師谷",
+      "丁目": "4～6",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "太子堂",
+    "romaji": "taishidou",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/taishidou-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "た",
+      "町名": "太子堂",
+      "丁目": "1・2",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "太子堂",
+    "romaji": "taishidou",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "setagaya/taishidou-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "た",
+      "町名": "太子堂",
+      "丁目": "3",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "太子堂",
+    "romaji": "taishidou",
+    "chome": "4・5丁目",
+    "sub": "",
+    "slug": "setagaya/taishidou-4-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "た",
+      "町名": "太子堂",
+      "丁目": "4・5",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代沢",
+    "romaji": "shirosawa",
+    "chome": "1~3・5丁目",
+    "sub": "",
+    "slug": "setagaya/shirosawa-1-3-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "た",
+      "町名": "代沢",
+      "丁目": "1～3・5",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代沢",
+    "romaji": "shirosawa",
+    "chome": "4丁目",
+    "sub": "",
+    "slug": "setagaya/shirosawa-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "た",
+      "町名": "代沢",
+      "丁目": "4",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代田",
+    "romaji": "shirota",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "setagaya/shirota-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "た",
+      "町名": "代田",
+      "丁目": "1",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代田",
+    "romaji": "shirota",
+    "chome": "2・5丁目",
+    "sub": "",
+    "slug": "setagaya/shirota-2-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "た",
+      "町名": "代田",
+      "丁目": "2・5",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代田",
+    "romaji": "shirota",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "setagaya/shirota-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "た",
+      "町名": "代田",
+      "丁目": "3",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代田",
+    "romaji": "shirota",
+    "chome": "4丁目",
+    "sub": "",
+    "slug": "setagaya/shirota-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "た",
+      "町名": "代田",
+      "丁目": "4",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "代田",
+    "romaji": "shirota",
+    "chome": "6丁目",
+    "sub": "",
+    "slug": "setagaya/shirota-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "た",
+      "町名": "代田",
+      "丁目": "6",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の土曜日",
+      "ペットボトル（月2回）": "1回目・3回目の土曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "玉川",
+    "romaji": "tamagawa",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/tamagawa-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "た",
+      "町名": "玉川",
+      "丁目": "1・2",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の月曜日",
+      "ペットボトル（月2回）": "2回目・4回目の月曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "玉川",
+    "romaji": "tamagawa",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "setagaya/tamagawa-3-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "た",
+      "町名": "玉川",
+      "丁目": "3・4",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の月曜日",
+      "ペットボトル（月2回）": "1回目・3回目の月曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "玉川台",
+    "romaji": "tamagawadai",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/tamagawadai-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "た",
+      "町名": "玉川台",
+      "丁目": "1・2",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の月曜日",
+      "ペットボトル（月2回）": "1回目・3回目の月曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "玉川田園調布",
+    "romaji": "tamagawadenenchofu",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/tamagawadenenchofu-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "た",
+      "町名": "玉川田園調布",
+      "丁目": "1・2",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の金曜日",
+      "ペットボトル（月2回）": "1回目・3回目の金曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "玉堤",
+    "romaji": "tamatsutsumi",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/tamatsutsumi-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "た",
+      "町名": "玉堤",
+      "丁目": "1・2",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "千歳台",
+    "romaji": "chitosedai",
+    "chome": "1~6丁目",
+    "sub": "",
+    "slug": "setagaya/chitosedai-1-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "ち",
+      "町名": "千歳台",
+      "丁目": "1～6",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の月曜日",
+      "ペットボトル（月2回）": "1回目・3回目の月曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "弦巻",
+    "romaji": "gemmaki",
+    "chome": "1~5丁目",
+    "sub": "",
+    "slug": "setagaya/gemmaki-1-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "つ",
+      "町名": "弦巻",
+      "丁目": "1～5",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の金曜日",
+      "ペットボトル（月2回）": "2回目・4回目の金曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "等々力",
+    "romaji": "todoroki",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/todoroki-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "と",
+      "町名": "等々力",
+      "丁目": "1・2",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "等々力",
+    "romaji": "todoroki",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "setagaya/todoroki-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "と",
+      "町名": "等々力",
+      "丁目": "3",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "等々力",
+    "romaji": "todoroki",
+    "chome": "4・5・6丁目",
+    "sub": "",
+    "slug": "setagaya/todoroki-4-5-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "と",
+      "町名": "等々力",
+      "丁目": "4・5・6",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の火曜日",
+      "ペットボトル（月2回）": "2回目・4回目の火曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "等々力",
+    "romaji": "todoroki",
+    "chome": "7丁目",
+    "sub": "",
+    "slug": "setagaya/todoroki-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "と",
+      "町名": "等々力",
+      "丁目": "7",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の水曜日",
+      "ペットボトル（月2回）": "2回目・4回目の水曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "等々力",
+    "romaji": "todoroki",
+    "chome": "8丁目",
+    "sub": "",
+    "slug": "setagaya/todoroki-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "と",
+      "町名": "等々力",
+      "丁目": "8",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "中町",
+    "romaji": "nakamachi",
+    "chome": "1・5丁目",
+    "sub": "",
+    "slug": "setagaya/nakamachi-1-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "な",
+      "町名": "中町",
+      "丁目": "1・5",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の土曜日",
+      "ペットボトル（月2回）": "1回目・3回目の土曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "中町",
+    "romaji": "nakamachi",
+    "chome": "2~4丁目",
+    "sub": "",
+    "slug": "setagaya/nakamachi-2-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "な",
+      "町名": "中町",
+      "丁目": "2～4",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "野毛",
+    "romaji": "noge",
+    "chome": "1~3丁目",
+    "sub": "",
+    "slug": "setagaya/noge-1-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "の",
+      "町名": "野毛",
+      "丁目": "1～3",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の土曜日",
+      "ペットボトル（月2回）": "1回目・3回目の土曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "野沢",
+    "romaji": "nozawa",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "setagaya/nozawa-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "の",
+      "町名": "野沢",
+      "丁目": "1",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "野沢",
+    "romaji": "nozawa",
+    "chome": "2・3丁目",
+    "sub": "",
+    "slug": "setagaya/nozawa-2-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "の",
+      "町名": "野沢",
+      "丁目": "2・3",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の火曜日",
+      "ペットボトル（月2回）": "2回目・4回目の火曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "野沢",
+    "romaji": "nozawa",
+    "chome": "4丁目",
+    "sub": "",
+    "slug": "setagaya/nozawa-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "の",
+      "町名": "野沢",
+      "丁目": "4",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の水曜日",
+      "ペットボトル（月2回）": "2回目・4回目の水曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "八幡山",
+    "romaji": "yahatayama",
+    "chome": "1~3丁目",
+    "sub": "",
+    "slug": "setagaya/yahatayama-1-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "は",
+      "町名": "八幡山",
+      "丁目": "1～3",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の火曜日",
+      "ペットボトル（月2回）": "2回目・4回目の火曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "羽根木",
+    "romaji": "hanegi",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/hanegi-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "は",
+      "町名": "羽根木",
+      "丁目": "1・2",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "東玉川",
+    "romaji": "higashitamagawa",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/higashitamagawa-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "ひ",
+      "町名": "東玉川",
+      "丁目": "1・2",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の金曜日",
+      "ペットボトル（月2回）": "2回目・4回目の金曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "深沢",
+    "romaji": "fukazawa",
+    "chome": "1~4丁目",
+    "sub": "",
+    "slug": "setagaya/fukazawa-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "ふ",
+      "町名": "深沢",
+      "丁目": "1～4",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の水曜日",
+      "ペットボトル（月2回）": "2回目・4回目の水曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "深沢",
+    "romaji": "fukazawa",
+    "chome": "5丁目",
+    "sub": "",
+    "slug": "setagaya/fukazawa-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "ふ",
+      "町名": "深沢",
+      "丁目": "5",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "深沢",
+    "romaji": "fukazawa",
+    "chome": "6・7丁目",
+    "sub": "",
+    "slug": "setagaya/fukazawa-6-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "ふ",
+      "町名": "深沢",
+      "丁目": "6・7",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "深沢",
+    "romaji": "fukazawa",
+    "chome": "8丁目",
+    "sub": "",
+    "slug": "setagaya/fukazawa-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "ふ",
+      "町名": "深沢",
+      "丁目": "8",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "船橋",
+    "romaji": "funabashi",
+    "chome": "1~7丁目",
+    "sub": "",
+    "slug": "setagaya/funabashi-1-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "ふ",
+      "町名": "船橋",
+      "丁目": "1～7",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の月曜日",
+      "ペットボトル（月2回）": "2回目・4回目の月曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "松原",
+    "romaji": "matsubara",
+    "chome": "1~5丁目",
+    "sub": "",
+    "slug": "setagaya/matsubara-1-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "ま",
+      "町名": "松原",
+      "丁目": "1～5",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の木曜日",
+      "ペットボトル（月2回）": "1回目・3回目の木曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "松原",
+    "romaji": "matsubara",
+    "chome": "6丁目",
+    "sub": "",
+    "slug": "setagaya/matsubara-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "ま",
+      "町名": "松原",
+      "丁目": "6",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "三宿",
+    "romaji": "mishuku",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "setagaya/mishuku-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "み",
+      "町名": "三宿",
+      "丁目": "1",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "三宿",
+    "romaji": "mishuku",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "setagaya/mishuku-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "み",
+      "町名": "三宿",
+      "丁目": "2",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の土曜日",
+      "ペットボトル（月2回）": "2回目・4回目の土曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "南烏山",
+    "romaji": "minamikarasuyama",
+    "chome": "1・2・5丁目",
+    "sub": "",
+    "slug": "setagaya/minamikarasuyama-1-2-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "み",
+      "町名": "南烏山",
+      "丁目": "1・2・5",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の火曜日",
+      "ペットボトル（月2回）": "1回目・3回目の火曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "南烏山",
+    "romaji": "minamikarasuyama",
+    "chome": "3・4・6丁目",
+    "sub": "",
+    "slug": "setagaya/minamikarasuyama-3-4-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "日",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 砧",
+    "raw": {
+      "50音": "み",
+      "町名": "南烏山",
+      "丁目": "3・4・6",
+      "資源（週1回）": "水曜日",
+      "可燃ごみ（週2回）": "月曜日・木曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の金曜日",
+      "ペットボトル（月2回）": "2回目・4回目の金曜日",
+      "管轄清掃事務所": "砧"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "宮坂",
+    "romaji": "miyasaka",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/miyasaka-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "み",
+      "町名": "宮坂",
+      "丁目": "1・2",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の月曜日",
+      "ペットボトル（月2回）": "2回目・4回目の月曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "宮坂",
+    "romaji": "miyasaka",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "setagaya/miyasaka-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "み",
+      "町名": "宮坂",
+      "丁目": "3",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の月曜日",
+      "ペットボトル（月2回）": "1回目・3回目の月曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "用賀",
+    "romaji": "youga",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "setagaya/youga-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "よ",
+      "町名": "用賀",
+      "丁目": "1",
+      "資源（週1回）": "木曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の月曜日",
+      "ペットボトル（月2回）": "2回目・4回目の月曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "用賀",
+    "romaji": "youga",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "setagaya/youga-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "よ",
+      "町名": "用賀",
+      "丁目": "2",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の木曜日",
+      "ペットボトル（月2回）": "1回目・3回目の木曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "用賀",
+    "romaji": "youga",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "setagaya/youga-3-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "木",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 玉川",
+    "raw": {
+      "50音": "よ",
+      "町名": "用賀",
+      "丁目": "3・4",
+      "資源（週1回）": "金曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "1回目・3回目の木曜日",
+      "ペットボトル（月2回）": "2回目・4回目の木曜日",
+      "管轄清掃事務所": "玉川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "若林",
+    "romaji": "wakabayashi",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "setagaya/wakabayashi-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "わ",
+      "町名": "若林",
+      "丁目": "1・2",
+      "資源（週1回）": "月曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "若林",
+    "romaji": "wakabayashi",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "setagaya/wakabayashi-3-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "日",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "金",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "わ",
+      "町名": "若林",
+      "丁目": "3・4",
+      "資源（週1回）": "火曜日",
+      "可燃ごみ（週2回）": "水曜日・土曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の金曜日",
+      "ペットボトル（月2回）": "1回目・3回目の金曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "世田谷区",
+    "city_en": "setagaya",
+    "ward": "",
+    "ward_en": "",
+    "town": "若林",
+    "romaji": "wakabayashi",
+    "chome": "5丁目",
+    "sub": "",
+    "slug": "setagaya/wakabayashi-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土",
+          "日"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "日",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "ペットボトル",
+        "days": [
+          "水",
+          "日"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.setagaya.lg.jp/documents/416/27-08-26.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "notes": "管轄清掃事務所: 世田谷",
+    "raw": {
+      "50音": "わ",
+      "町名": "若林",
+      "丁目": "5",
+      "資源（週1回）": "土曜日",
+      "可燃ごみ（週2回）": "火曜日・金曜日",
+      "不燃ごみ（月2回）": "2回目・4回目の水曜日",
+      "ペットボトル（月2回）": "1回目・3回目の水曜日",
+      "管轄清掃事務所": "世田谷"
+    }
+  }
+]

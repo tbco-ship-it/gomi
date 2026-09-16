@@ -18,7 +18,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install jinja2
+      - run: pip install jinja2 pykakasi
       - run: python scripts/build.py --base / --origin https://gomiday.com --cname gomiday.com
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -40,6 +40,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install jinja2
+      - run: pip install jinja2 pykakasi
       - run: python scripts/build.py
       - run: python scripts/indexnow.py || true

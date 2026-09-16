@@ -12,6 +12,30 @@ from collections import defaultdict
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+import pykakasi
+
+KKS = pykakasi.kakasi()
+_READ = {}
+
+
+def reading(text):
+    """(hiragana, hepburn) for a 町名/区名 via pykakasi — machine reading, good enough for search matching."""
+    if text not in _READ:
+        parts = KKS.convert(text)
+        _READ[text] = ("".join(x["hira"] for x in parts), "".join(x["hepburn"] for x in parts))
+    return _READ[text]
+
+
+def raw_kana(r):
+    """Readings the source itself provides (京都 '町名 （かな）', 神戸 reading column)."""
+    raw = r.get("raw") or {}
+    row = raw.get("row") if isinstance(raw, dict) else None
+    out = []
+    if isinstance(row, list):
+        for cell in row[:4]:
+            if isinstance(cell, str):
+                out += re.findall(r"[ぁ-ゖー]{2,}", cell)
+    return "".join(dict.fromkeys(out))
 
 ROOT = Path(__file__).resolve().parent.parent
 DIST = ROOT / "dist"
@@ -128,9 +152,19 @@ def main():
     DIST.mkdir()
     shutil.copytree(ROOT / "static", DIST / "static")
     # search index: one entry per town-group (small fields only)
-    index = [{"c": g["city_en"], "cn": g["city"], "w": g["ward"], "we": g["ward_en"], "t": g["town"], "ch": g["chome"], "r": g["romaji"], "s": g["slug"],
-              "ty": {t: {"d": v.get("days") or [], "w": v.get("weeks"), "l": v.get("label"), "tm": v.get("time")} for t, v in g["main"]["types"].items()}}
-             for g in groups.values()]
+    for g in groups.values():
+        wk, wr = reading(g["ward"]) if g["ward"] else ("", "")
+        tk, tr = reading(g["town"])
+        g["kana"] = " ".join(x for x in (wk, tk, raw_kana(g["main"])) if x)
+        g["romaji_full"] = " ".join(x for x in (wr, tr, g["romaji"]) if x)
+    # compact search index: per-city label dictionary + one small entry per town group
+    labels = {}
+    for g in groups.values():
+        for t, v in g["main"]["types"].items():
+            labels.setdefault(g["city_en"], {}).setdefault(t, v.get("label"))
+    items = [[g["city_en"], g["ward"], g["ward_en"], g["town"], g["chome"], g["romaji_full"], g["kana"], g["slug"],
+              {t: [v.get("days") or [], v.get("weeks"), v.get("time")] for t, v in g["main"]["types"].items()}] for g in groups.values()]
+    index = {"cities": {ce: c["city"] for ce, c in cities.items()}, "labels": labels, "items": items}
     (DIST / "static/index.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")))
 
     urls = []

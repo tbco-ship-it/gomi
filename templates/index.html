@@ -20,8 +20,8 @@
 
 <div class="ad-slot"><!-- ad: home --></div>
 
-<div class="sec"><div class="sec-h"><h2>対応している市</h2></div>
-<div class="cities">{% for ce, c in cities.items() %}<a href="{{ base }}{{ ce }}/"><b>{{ c.city }}</b><span>{{ c.wards|length }}区 · {{ '{:,}'.format(c.wards.values()|map(attribute='towns')|map('length')|sum) }}町丁目</span></a>{% endfor %}</div>
+<div class="sec"><div class="sec-h"><h2>対応している市</h2><a href="{{ base }}cities/">一覧</a></div>
+<div class="cities">{% for ce, c in cities.items() %}<a href="{{ base }}{{ ce }}/"><b>{{ c.city }}</b><span>{% if '' in c.wards %}{{ c.wards['']['towns']|length }}町丁目{% else %}{{ c.wards|length }}区 · {{ '{:,}'.format(c.wards.values()|map(attribute='towns')|map('length')|sum) }}町丁目{% endif %}</span></a>{% endfor %}</div>
 </div>
 
 <section class="prose">

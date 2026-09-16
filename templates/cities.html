@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}対応している市 — {{ cities|length }}市区 {{ '{:,}'.format(n_towns) }}町丁目 | {{ site }}{% endblock %}
+{% block description %}ごみの日ナビが対応している市区の一覧。{% for c in cities.values() %}{{ c.city }}{% if not loop.last %}・{% endif %}{% endfor %}。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ base }}">ホーム</a> › 対応している市</nav>
+<h1>対応している市</h1>
+<p class="prose">{{ cities|length }}市区、{{ '{:,}'.format(n_towns) }}町丁目。ここにない市は順次追加しています。市の公式ページで確認してください。</p>
+<div class="cities">{% for ce, c in cities.items() %}<a href="{{ base }}{{ ce }}/"><b>{{ c.city }}</b><span>{% if '' in c.wards %}{{ c.wards['']['towns']|length }}町丁目{% else %}{{ c.wards|length }}区 · {{ '{:,}'.format(c.wards.values()|map(attribute='towns')|map('length')|sum) }}町丁目{% endif %}</span></a>{% endfor %}</div>
+{% endblock %}

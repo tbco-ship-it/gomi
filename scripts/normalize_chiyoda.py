@@ -47,14 +47,15 @@ def parse_schedule_cell(val: str, label: str) -> Dict[str, Any]:
             weeks = None
 
     days = []
-    for m in re.finditer(r"([月火水木金土日])曜?", val_norm):
-        d = m.group(1)
-        # Avoid matching 日 from 曜日
-        start_idx = m.start(1)
-        if d == "日" and start_idx > 0 and val_norm[start_idx - 1] in VALID_DAYS:
-            continue
-        if d in VALID_DAYS and d not in days:
-            days.append(d)
+    if "曜" in val_norm:
+        for m in re.finditer(r"([月火水木金土日])曜", val_norm):
+            d = m.group(1)
+            if d not in days:
+                days.append(d)
+    else:
+        for ch in val_norm:
+            if ch in VALID_DAYS and ch not in days:
+                days.append(ch)
 
     if not days:
         return None

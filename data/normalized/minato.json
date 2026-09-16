@@ -1,0 +1,5149 @@
+[
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤坂",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "akasaka",
+    "slug": "minato/akasaka-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "赤坂1丁目",
+      "calendar_num": 1,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤坂",
+    "chome": "2・6・9丁目",
+    "sub": "",
+    "romaji": "akasaka",
+    "slug": "minato/akasaka-2-6-9chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "赤坂2・6・9丁目",
+      "calendar_num": 3,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "赤坂",
+    "chome": "3・4・5・7・8丁目",
+    "sub": "",
+    "romaji": "akasaka",
+    "slug": "minato/akasaka-3-4-5-7-8chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "赤坂3・4・5・7・8丁目",
+      "calendar_num": 4,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "麻布十番",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "azabujuuban",
+    "slug": "minato/azabujuuban-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "麻布十番1～4丁目",
+      "calendar_num": 9,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "麻布台",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "azabudai",
+    "slug": "minato/azabudai-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "麻布台1丁目",
+      "calendar_num": 1,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "麻布台",
+    "chome": "2・3丁目",
+    "sub": "",
+    "romaji": "azabudai",
+    "slug": "minato/azabudai-2-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "麻布台2・3丁目",
+      "calendar_num": 9,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "麻布永坂町",
+    "chome": "",
+    "sub": "",
+    "romaji": "azabunagasakacho",
+    "slug": "minato/azabunagasakacho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "麻布永坂町",
+      "calendar_num": 9,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "麻布狸穴町",
+    "chome": "",
+    "sub": "",
+    "romaji": "azabutanukianamachi",
+    "slug": "minato/azabutanukianamachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "麻布狸穴町",
+      "calendar_num": 9,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "愛宕",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "atago",
+    "slug": "minato/atago-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "愛宕1・2丁目",
+      "calendar_num": 1,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "海岸",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "kaigan",
+    "slug": "minato/kaigan-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "海岸1丁目",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "海岸",
+    "chome": "2・3丁目",
+    "sub": "",
+    "romaji": "kaigan",
+    "slug": "minato/kaigan-2-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "海岸2・3丁目",
+      "calendar_num": 6,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "北青山",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "kitaaoyama",
+    "slug": "minato/kitaaoyama-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "北青山1～3丁目",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "港南",
+    "chome": "1~5丁目",
+    "sub": "",
+    "romaji": "konan",
+    "slug": "minato/konan-1-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "港南1～5丁目",
+      "calendar_num": 4,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "芝",
+    "chome": "1・2・5丁目",
+    "sub": "",
+    "romaji": "shiba",
+    "slug": "minato/shiba-1-2-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "芝1・2・5丁目",
+      "calendar_num": 7,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "芝",
+    "chome": "3丁目",
+    "sub": "",
+    "romaji": "shiba",
+    "slug": "minato/shiba-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "芝3丁目",
+      "calendar_num": 11,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "芝",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "shiba",
+    "slug": "minato/shiba-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "芝4丁目",
+      "calendar_num": 8,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "芝浦",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "shibaura",
+    "slug": "minato/shibaura-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "芝浦1～3丁目",
+      "calendar_num": 8,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "芝浦",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "shibaura",
+    "slug": "minato/shibaura-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "芝浦4丁目",
+      "calendar_num": 6,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "芝公園",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "shibakoen",
+    "slug": "minato/shibakoen-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "芝公園1・2丁目",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "芝公園",
+    "chome": "3・4丁目",
+    "sub": "",
+    "romaji": "shibakoen",
+    "slug": "minato/shibakoen-3-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "芝公園3・4丁目",
+      "calendar_num": 1,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "芝大門",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "shibadaimon",
+    "slug": "minato/shibadaimon-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "芝大門1・2丁目",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "白金",
+    "chome": "1・3・5丁目",
+    "sub": "",
+    "romaji": "shirogane",
+    "slug": "minato/shirogane-1-3-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "白金1・3・5丁目",
+      "calendar_num": 2,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "白金",
+    "chome": "2・4・6丁目",
+    "sub": "",
+    "romaji": "shirogane",
+    "slug": "minato/shirogane-2-4-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "白金2・4・6丁目",
+      "calendar_num": 10,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "白金台",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "shiroganedai",
+    "slug": "minato/shiroganedai-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "白金台1丁目",
+      "calendar_num": 9,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "白金台",
+    "chome": "2~5丁目",
+    "sub": "",
+    "romaji": "shiroganedai",
+    "slug": "minato/shiroganedai-2-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "白金台2～5丁目",
+      "calendar_num": 10,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "新橋",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "shimbashi",
+    "slug": "minato/shimbashi-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "新橋1丁目",
+      "calendar_num": 2,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "新橋",
+    "chome": "2丁目",
+    "sub": "1~5番、10~14番、18~21番",
+    "romaji": "shimbashi",
+    "slug": "minato/shimbashi-2chome-1-5ban-10-14ban-18-21ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "新橋2丁目1～5番、10～14番、18～21番",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "新橋",
+    "chome": "2丁目",
+    "sub": "6~9番、15~17番",
+    "romaji": "shimbashi",
+    "slug": "minato/shimbashi-2chome-6-9ban-15-17ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝7:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "新橋2丁目6～9番、15～17番",
+      "calendar_num": 13,
+      "burnable": [
+        "火",
+        "木",
+        "土"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": null,
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "新橋",
+    "chome": "3丁目",
+    "sub": "1~7番、26番",
+    "romaji": "shimbashi",
+    "slug": "minato/shimbashi-3chome-1-7ban-26ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "新橋3丁目1～7番、26番",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "新橋",
+    "chome": "3丁目",
+    "sub": "8~25番",
+    "romaji": "shimbashi",
+    "slug": "minato/shimbashi-3chome-8-25ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝7:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "新橋3丁目8～25番",
+      "calendar_num": 13,
+      "burnable": [
+        "火",
+        "木",
+        "土"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": null,
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "新橋",
+    "chome": "4丁目",
+    "sub": "1~3番、9番、19番4号、22~31番",
+    "romaji": "shimbashi",
+    "slug": "minato/shimbashi-4chome-1-3ban-9ban-19ban4gou-22-31ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "新橋4丁目1～3番、9番、19番4号、22～31番",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "新橋",
+    "chome": "4丁目",
+    "sub": "5~7番、10・11番、14・15番、18~21番(19番4号除く)",
+    "romaji": "shimbashi",
+    "slug": "minato/shimbashi-4chome-5-7ban-10-11ban-14-15ban-18-21ban-19ban4gounozoku",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "木",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝7:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "新橋4丁目5～7番、10・11番、14・15番、18～21番（19番4号除く）",
+      "calendar_num": 13,
+      "burnable": [
+        "火",
+        "木",
+        "土"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": null,
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "新橋",
+    "chome": "5・6丁目",
+    "sub": "",
+    "romaji": "shimbashi",
+    "slug": "minato/shimbashi-5-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "新橋5・6丁目",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "台場",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "daiba",
+    "slug": "minato/daiba-1-2chome",
+    "types": {
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "飲食用びん・かん",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "paper_cloth": {
+        "label": "ペットボトル・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝7:30まで",
+      "yearend": "12/31~1/3 休止",
+      "note": "台場地区の可燃ごみは管路収集（24時間投入可能）"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "台場1・2丁目",
+      "calendar_num": 15,
+      "burnable": [],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": null,
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "高輪",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "takanawa",
+    "slug": "minato/takanawa-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "高輪1・2丁目",
+      "calendar_num": 1,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "高輪",
+    "chome": "3・4丁目",
+    "sub": "",
+    "romaji": "takanawa",
+    "slug": "minato/takanawa-3-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "高輪3・4丁目",
+      "calendar_num": 3,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "虎ノ門",
+    "chome": "1~5丁目",
+    "sub": "",
+    "romaji": "toranomon",
+    "slug": "minato/toranomon-1-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "虎ノ門1～5丁目",
+      "calendar_num": 1,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "西麻布",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "nishiazabu",
+    "slug": "minato/nishiazabu-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "西麻布1丁目",
+      "calendar_num": 7,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "西麻布",
+    "chome": "2・3丁目",
+    "sub": "",
+    "romaji": "nishiazabu",
+    "slug": "minato/nishiazabu-2-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "西麻布2・3丁目",
+      "calendar_num": 8,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "西麻布",
+    "chome": "4丁目",
+    "sub": "",
+    "romaji": "nishiazabu",
+    "slug": "minato/nishiazabu-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "西麻布4丁目",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "西新橋",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "nishishimbashi",
+    "slug": "minato/nishishimbashi-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "西新橋1～3丁目",
+      "calendar_num": 2,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "浜松町",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "hamamatsucho",
+    "slug": "minato/hamamatsucho-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "浜松町1・2丁目",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "東麻布",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "higashiazabu",
+    "slug": "minato/higashiazabu-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "東麻布1～3丁目",
+      "calendar_num": 9,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "東新橋",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "higashishimbashi",
+    "slug": "minato/higashishimbashi-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "東新橋1・2丁目",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "三田",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "mita",
+    "slug": "minato/mita-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "三田1丁目",
+      "calendar_num": 9,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "木"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "火"
+      ],
+      "plastic": [
+        "金"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "三田",
+    "chome": "2~5丁目",
+    "sub": "",
+    "romaji": "mita",
+    "slug": "minato/mita-2-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "三田2～5丁目",
+      "calendar_num": 11,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "南青山",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "minamiaoyama",
+    "slug": "minato/minamiaoyama-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "南青山1・2丁目",
+      "calendar_num": 7,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "南青山",
+    "chome": "3~6丁目",
+    "sub": "",
+    "romaji": "minamiaoyama",
+    "slug": "minato/minamiaoyama-3-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "南青山3～6丁目",
+      "calendar_num": 6,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "南青山",
+    "chome": "7丁目",
+    "sub": "",
+    "romaji": "minamiaoyama",
+    "slug": "minato/minamiaoyama-7chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "南青山7丁目",
+      "calendar_num": 5,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "南麻布",
+    "chome": "1~4丁目",
+    "sub": "",
+    "romaji": "minamiazabu",
+    "slug": "minato/minamiazabu-1-4chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "南麻布1～4丁目",
+      "calendar_num": 12,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "南麻布",
+    "chome": "5丁目",
+    "sub": "",
+    "romaji": "minamiazabu",
+    "slug": "minato/minamiazabu-5chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "南麻布5丁目",
+      "calendar_num": 8,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "水"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "月"
+      ],
+      "plastic": [
+        "木"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "元赤坂",
+    "chome": "1・2丁目",
+    "sub": "",
+    "romaji": "motoakasaka",
+    "slug": "minato/motoakasaka-1-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "元赤坂1・2丁目",
+      "calendar_num": 4,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "元麻布",
+    "chome": "1~3丁目",
+    "sub": "",
+    "romaji": "motoazabu",
+    "slug": "minato/motoazabu-1-3chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "元麻布1～3丁目",
+      "calendar_num": 12,
+      "burnable": [
+        "水",
+        "土"
+      ],
+      "nonburnable": [
+        "月"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "金"
+      ],
+      "plastic": [
+        "火"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "1丁目",
+    "sub": "",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-1chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木1丁目",
+      "calendar_num": 1,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "2丁目",
+    "sub": "",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-2chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木2丁目",
+      "calendar_num": 3,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "3丁目",
+    "sub": "1~7番、15番2~21号・29号、16~18番",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-3chome-1-7ban-15ban2-21gou-29gou-16-18ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木3丁目1～7番、15番2～21号・29号、16～18番",
+      "calendar_num": 1,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "3丁目",
+    "sub": "8~14番、15番22~25号",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-3chome-8-14ban-15ban22-25gou",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝7:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木3丁目8～14番、15番22～25号",
+      "calendar_num": 14,
+      "burnable": [
+        "月",
+        "水",
+        "金"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": null,
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "4丁目",
+    "sub": "1~3番",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-4chome-1-3ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木4丁目1～3番",
+      "calendar_num": 3,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "金"
+      ],
+      "nonburnable_weeks": [
+        2,
+        4
+      ],
+      "resource": [
+        "水"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "4丁目",
+    "sub": "4~12番",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-4chome-4-12ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝7:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木4丁目4～12番",
+      "calendar_num": 14,
+      "burnable": [
+        "月",
+        "水",
+        "金"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": null,
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "5丁目",
+    "sub": "1~3番",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-5chome-1-3ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝7:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木5丁目1～3番",
+      "calendar_num": 14,
+      "burnable": [
+        "月",
+        "水",
+        "金"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": null,
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "5丁目",
+    "sub": "4~18番",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-5chome-4-18ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木5丁目4～18番",
+      "calendar_num": 2,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "6丁目",
+    "sub": "",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-6chome",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木6丁目",
+      "calendar_num": 2,
+      "burnable": [
+        "月",
+        "木"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "土"
+      ],
+      "plastic": [
+        "水"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "7丁目",
+    "sub": "1~12番、13番1号・9~11号、15~23番",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-7chome-1-12ban-13ban1gou-9-11gou-15-23ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝8:00まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木7丁目1～12番、13番1号・9～11号、15～23番",
+      "calendar_num": 7,
+      "burnable": [
+        "火",
+        "金"
+      ],
+      "nonburnable": [
+        "土"
+      ],
+      "nonburnable_weeks": [
+        1,
+        3
+      ],
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "月"
+      ]
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "港区",
+    "city_en": "minato",
+    "ward": "",
+    "ward_en": "",
+    "town": "六本木",
+    "chome": "7丁目",
+    "sub": "13番5~8号、14番",
+    "romaji": "roppongi",
+    "slug": "minato/roppongi-7chome-13ban5-8gou-14ban",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "水",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      },
+      "plastic": {
+        "label": "資源プラスチック",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝7:30まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始を除く）",
+      "time_by": "朝7:30まで",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.minato.tokyo.jp/unei/2025gomikarenda.html",
+      "fetched": "2026-09-17",
+      "basis": "official_pdf"
+    },
+    "raw": {
+      "area_raw": "六本木7丁目13番5～8号、14番",
+      "calendar_num": 14,
+      "burnable": [
+        "月",
+        "水",
+        "金"
+      ],
+      "nonburnable": [
+        "火"
+      ],
+      "nonburnable_weeks": null,
+      "resource": [
+        "木"
+      ],
+      "plastic": [
+        "土"
+      ]
+    }
+  }
+]

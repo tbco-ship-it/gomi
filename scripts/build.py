@@ -67,13 +67,9 @@ def main():
             town, chome, sub = split_addr(r)
             r["sub"] = sub
             if k not in groups:
-                slug = r["slug"]
-                if sub and chome:
-                    # town-level slug: strip trailing 番地 part
-                    m = re.match(r"^(.*?/[^/]+?-\d+)(?:-.*)?$", r["slug"])
-                    slug = m.group(1) if m else r["slug"].rsplit("-", 1)[0]
-                elif sub:
-                    slug = f"{r['city_en']}/{r['ward_en']}/{r['romaji']}"
+                # town-level slug from romaji + the digits of 丁目 (record slugs carry 番地/sub suffixes)
+                nums = [x.lower() for x in re.findall(r"\d+|[A-Za-z]+", chome)]
+                slug = f"{r['city_en']}/{r['ward_en']}/{r['romaji']}" + ("-" + "-".join(nums) if nums else "")
                 groups[k] = {"city_en": r["city_en"], "city": r["city"], "pref": r["pref"], "ward": r["ward"], "ward_en": r["ward_en"],
                              "town": town, "chome": chome, "romaji": r.get("romaji", ""), "slug": slug,
                              "records": [], "rules": r.get("rules", {}), "source": r["source"]}

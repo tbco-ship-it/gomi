@@ -1,0 +1,7070 @@
+[
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "旭丘",
+    "romaji": "asahigaoka",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/asahigaoka",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/a_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 火曜",
+    "raw": {
+      "town": "旭丘",
+      "chome": "全域",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 月曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "火曜",
+      "pet": "火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "旭町",
+    "romaji": "asahimachi",
+    "chome": "都営光が丘第一アパート",
+    "sub": "",
+    "slug": "nerima/asahimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/a_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "旭町",
+      "chome": "都営光が丘第一アパート",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 土曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "水曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "旭町",
+    "romaji": "asahimachi",
+    "chome": "上記以外の地域",
+    "sub": "",
+    "slug": "nerima/asahimachi-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/a_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "旭町",
+      "chome": "上記以外の地域",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 土曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "大泉学園町",
+    "romaji": "oizumigakuencho",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "nerima/oizumigakuencho-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/a_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "大泉学園町",
+      "chome": "1丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 月曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "大泉学園町",
+    "romaji": "oizumigakuencho",
+    "chome": "2・3丁目",
+    "sub": "",
+    "slug": "nerima/oizumigakuencho-2-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/a_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "大泉学園町",
+      "chome": "2・3丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 木曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "大泉学園町",
+    "romaji": "oizumigakuencho",
+    "chome": "4~7丁目",
+    "sub": "",
+    "slug": "nerima/oizumigakuencho-4-7",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/a_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "大泉学園町",
+      "chome": "4～7丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "大泉学園町",
+    "romaji": "oizumigakuencho",
+    "chome": "8・9丁目",
+    "sub": "",
+    "slug": "nerima/oizumigakuencho-8-9",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/a_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "大泉学園町",
+      "chome": "8・9丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 月曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "大泉町",
+    "romaji": "oizumicho",
+    "chome": "1~4丁目",
+    "sub": "",
+    "slug": "nerima/oizumicho-1-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/a_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "大泉町",
+      "chome": "1～4丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 月曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "大泉町",
+    "romaji": "oizumicho",
+    "chome": "5・6丁目",
+    "sub": "",
+    "slug": "nerima/oizumicho-5-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/a_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "大泉町",
+      "chome": "5・6丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 月曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "春日町",
+    "romaji": "kasugacho",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/kasugacho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ka_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "春日町",
+      "chome": "全域",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 木曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "上石神井",
+    "romaji": "kamiishikamii",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "nerima/kamiishikamii-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ka_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "上石神井",
+      "chome": "1丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 火曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "上石神井",
+    "romaji": "kamiishikamii",
+    "chome": "2~4丁目",
+    "sub": "",
+    "slug": "nerima/kamiishikamii-2-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ka_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "上石神井",
+      "chome": "2～4丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 水曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "上石神井南町",
+    "romaji": "kamiishikamiiminamimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/kamiishikamiiminamimachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ka_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "上石神井南町",
+      "chome": "全域",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 火曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "北町",
+    "romaji": "kitamachi",
+    "chome": "1~3丁目・5~8丁目",
+    "sub": "",
+    "slug": "nerima/kitamachi-1-3-5-8",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ka_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "北町",
+      "chome": "1～3丁目・5～8丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 土曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "北町",
+    "romaji": "kitamachi",
+    "chome": "2丁目練馬北町宿舎A~F棟",
+    "sub": "",
+    "slug": "nerima/kitamachi-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ka_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "北町",
+      "chome": "2丁目練馬北町宿舎A～F棟",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "北町",
+    "romaji": "kitamachi",
+    "chome": "4丁目(自衛隊官舎)",
+    "sub": "",
+    "slug": "nerima/kitamachi-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ka_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "北町",
+      "chome": "4丁目（自衛隊官舎）",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "金曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "向山",
+    "romaji": "mukaiyama",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/mukaiyama",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ka_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "向山",
+      "chome": "全域",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 金曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "小竹町",
+    "romaji": "kotakecho",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/kotakecho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ka_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 火曜",
+    "raw": {
+      "town": "小竹町",
+      "chome": "全域",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 月曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "火曜",
+      "pet": "火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "栄町",
+    "romaji": "sakaemachi",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/sakaemachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 火曜",
+    "raw": {
+      "town": "栄町",
+      "chome": "全域",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 月曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "火曜",
+      "pet": "火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "桜台",
+    "romaji": "sakuradai",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/sakuradai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 火曜",
+    "raw": {
+      "town": "桜台",
+      "chome": "全域",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "火曜",
+      "pet": "火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "下石神井",
+    "romaji": "shimoshakujii",
+    "chome": "1・3丁目",
+    "sub": "",
+    "slug": "nerima/shimoshakujii-1-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 火曜",
+    "raw": {
+      "town": "下石神井",
+      "chome": "1・3丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 火曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "火曜",
+      "pet": "火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "下石神井",
+    "romaji": "shimoshakujii",
+    "chome": "2・4~6丁目",
+    "sub": "",
+    "slug": "nerima/shimoshakujii-2-4-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 火曜",
+    "raw": {
+      "town": "下石神井",
+      "chome": "2・4～6丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 火曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "火曜",
+      "pet": "火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "石神井台",
+    "romaji": "shakujiidai",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "nerima/shakujiidai-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "石神井台",
+      "chome": "1・2丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 水曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "石神井台",
+    "romaji": "shakujiidai",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "nerima/shakujiidai-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "石神井台",
+      "chome": "3丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･ 3水曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "石神井台",
+    "romaji": "shakujiidai",
+    "chome": "4・5・7・8丁目",
+    "sub": "",
+    "slug": "nerima/shakujiidai-4-5-7-8",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "石神井台",
+      "chome": "4・5・7・8丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･ 4土曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "石神井台",
+    "romaji": "shakujiidai",
+    "chome": "6丁目",
+    "sub": "",
+    "slug": "nerima/shakujiidai-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "石神井台",
+      "chome": "6丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 土曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "石神井町",
+    "romaji": "shakujiimachi",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "nerima/shakujiimachi-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "石神井町",
+      "chome": "1丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 金曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "石神井町",
+    "romaji": "shakujiimachi",
+    "chome": "2・4・7・8丁目",
+    "sub": "",
+    "slug": "nerima/shakujiimachi-2-4-7-8",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "石神井町",
+      "chome": "2・4・7・8丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 水曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "石神井町",
+    "romaji": "shakujiimachi",
+    "chome": "3・6丁目",
+    "sub": "",
+    "slug": "nerima/shakujiimachi-3-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "石神井町",
+      "chome": "3・6丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 水曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "石神井町",
+    "romaji": "shakujiimachi",
+    "chome": "5丁目",
+    "sub": "",
+    "slug": "nerima/shakujiimachi-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "石神井町",
+      "chome": "5丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 火曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "関町北",
+    "romaji": "kanmachikita",
+    "chome": "1~3丁目",
+    "sub": "",
+    "slug": "nerima/kanmachikita-1-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "関町北",
+      "chome": "1～3丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "関町北",
+    "romaji": "kanmachikita",
+    "chome": "4・5丁目",
+    "sub": "",
+    "slug": "nerima/kanmachikita-4-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "関町北",
+      "chome": "4・5丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 土曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "関町東",
+    "romaji": "kanmachihigashi",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "nerima/kanmachihigashi-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "関町東",
+      "chome": "1丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 火曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "関町東",
+    "romaji": "kanmachihigashi",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "nerima/kanmachihigashi-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "関町東",
+      "chome": "2丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 水曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "関町南",
+    "romaji": "sekimachiminami",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "nerima/sekimachiminami-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "関町南",
+      "chome": "1丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 火曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "関町南",
+    "romaji": "sekimachiminami",
+    "chome": "2~4丁目",
+    "sub": "",
+    "slug": "nerima/sekimachiminami-2-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/sa_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "関町南",
+      "chome": "2～4丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "高野台",
+    "romaji": "koyadai",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/koyadai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 火曜",
+    "raw": {
+      "town": "高野台",
+      "chome": "全域",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 金曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "火曜",
+      "pet": "火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "高松",
+    "romaji": "takamatsu",
+    "chome": "1~5丁目",
+    "sub": "",
+    "slug": "nerima/takamatsu-1-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "高松",
+      "chome": "1～5丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 金曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "高松",
+    "romaji": "takamatsu",
+    "chome": "6丁目",
+    "sub": "",
+    "slug": "nerima/takamatsu-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "高松",
+      "chome": "6丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 土曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "田柄",
+    "romaji": "tagara",
+    "chome": "1~5丁目(下記地域を除く)",
+    "sub": "",
+    "slug": "nerima/tagara-1-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "田柄",
+      "chome": "1～5丁目（下記地域を除く）",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 水曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "田柄",
+    "romaji": "tagara",
+    "chome": "2丁目42番4~6号棟",
+    "sub": "",
+    "slug": "nerima/tagara-2-42-4-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "田柄",
+      "chome": "2丁目42番4～6号棟",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 水曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "火曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "立野町",
+    "romaji": "tatenomachi",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/tatenomachi",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "立野町",
+      "chome": "全域",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "土支田",
+    "romaji": "tsuchishita",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/tsuchishita",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "土支田",
+      "chome": "全域",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 土曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊玉上",
+    "romaji": "toyotamaue",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "nerima/toyotamaue-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "豊玉上",
+      "chome": "1丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 月曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊玉上",
+    "romaji": "toyotamaue",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "nerima/toyotamaue-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "豊玉上",
+      "chome": "2丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 火曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊玉北",
+    "romaji": "toyotamakita",
+    "chome": "1~4丁目",
+    "sub": "",
+    "slug": "nerima/toyotamakita-1-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "豊玉北",
+      "chome": "1～4丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 火曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊玉北",
+    "romaji": "toyotamakita",
+    "chome": "5・6丁目",
+    "sub": "",
+    "slug": "nerima/toyotamakita-5-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "豊玉北",
+      "chome": "5・6丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊玉中",
+    "romaji": "toyotamanaka",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "nerima/toyotamanaka-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "豊玉中",
+      "chome": "1・2丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 火曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊玉中",
+    "romaji": "toyotamanaka",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "nerima/toyotamanaka-3-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "豊玉中",
+      "chome": "3・4丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "豊玉南",
+    "romaji": "toyotamaminami",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/toyotamaminami",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ta_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 土曜",
+    "raw": {
+      "town": "豊玉南",
+      "chome": "全域",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 火曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "土曜",
+      "pet": "土曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "中村",
+    "romaji": "nakamura",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "nerima/nakamura-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "中村",
+      "chome": "1・2丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "中村",
+    "romaji": "nakamura",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "nerima/nakamura-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "中村",
+      "chome": "3丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 火曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "中村北",
+    "romaji": "nakamurakita",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "nerima/nakamurakita-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "中村北",
+      "chome": "1・2丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "中村北",
+    "romaji": "nakamurakita",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "nerima/nakamurakita-3-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "中村北",
+      "chome": "3・4丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 火曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "中村南",
+    "romaji": "nakamuraminami",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "nerima/nakamuraminami-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "中村南",
+      "chome": "1・2丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "中村南",
+    "romaji": "nakamuraminami",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "nerima/nakamuraminami-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "中村南",
+      "chome": "3丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 火曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "西大泉",
+    "romaji": "nishioizumi",
+    "chome": "1~3丁目",
+    "sub": "",
+    "slug": "nerima/nishioizumi-1-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "西大泉",
+      "chome": "1～3丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 木曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "西大泉",
+    "romaji": "nishioizumi",
+    "chome": "4~6丁目",
+    "sub": "",
+    "slug": "nerima/nishioizumi-4-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "西大泉",
+      "chome": "4～6丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "西大泉町",
+    "romaji": "nishioizumicho",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/nishioizumicho",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "西大泉町",
+      "chome": "全域",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "錦",
+    "romaji": "nishiki",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/nishiki",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "錦",
+      "chome": "全域",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 水曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "貫井",
+    "romaji": "nukii",
+    "chome": "1~4丁目",
+    "sub": "",
+    "slug": "nerima/nukii-1-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "貫井",
+      "chome": "1～4丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 火曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "貫井",
+    "romaji": "nukii",
+    "chome": "5丁目",
+    "sub": "",
+    "slug": "nerima/nukii-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "貫井",
+      "chome": "5丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 金曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "練馬",
+    "romaji": "nerima",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "nerima/nerima-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "練馬",
+      "chome": "1丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "練馬",
+    "romaji": "nerima",
+    "chome": "2~4丁目",
+    "sub": "",
+    "slug": "nerima/nerima-2-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/na_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "練馬",
+      "chome": "2～4丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 月曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "羽沢",
+    "romaji": "hazawa",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/hazawa",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 火曜",
+    "raw": {
+      "town": "羽沢",
+      "chome": "全域",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 月曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "火曜",
+      "pet": "火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "早宮",
+    "romaji": "hayamiya",
+    "chome": "1~3丁目",
+    "sub": "",
+    "slug": "nerima/hayamiya-1-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "早宮",
+      "chome": "1～3丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 月曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "早宮",
+    "romaji": "hayamiya",
+    "chome": "4丁目",
+    "sub": "",
+    "slug": "nerima/hayamiya-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 金曜",
+    "raw": {
+      "town": "早宮",
+      "chome": "4丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 木曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "金曜",
+      "pet": "金曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "東大泉",
+    "romaji": "higashioizumi",
+    "chome": "1~3・5丁目",
+    "sub": "",
+    "slug": "nerima/higashioizumi-1-3-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "東大泉",
+      "chome": "1～3・5丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 月曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "東大泉",
+    "romaji": "higashioizumi",
+    "chome": "4丁目",
+    "sub": "",
+    "slug": "nerima/higashioizumi-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "東大泉",
+      "chome": "4丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 木曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "東大泉",
+    "romaji": "higashioizumi",
+    "chome": "6・7丁目",
+    "sub": "",
+    "slug": "nerima/higashioizumi-6-7",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "東大泉",
+      "chome": "6・7丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 土曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "1丁目1番1号棟",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-1-1-1",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "1丁目1番1号棟",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 土曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "火曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "1丁目2番2号棟 2丁目9番",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-1-2-2-2-9",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "1丁目2番2号棟　2丁目9番",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "月曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "1丁目3番3号棟 2丁目4番",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-1-3-3-2-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "1丁目3番3号棟　2丁目4番",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "火曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "1丁目6番 2丁目2番",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-1-6-2-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "1丁目6番　2丁目2番",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 土曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "月曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "2丁目7・8番",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-2-7-8",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "2丁目7・8番",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 木曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "火曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "2丁目10番 3丁目9番1・2号",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-2-10-3-9-1-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "2丁目10番　3丁目9番1・2号",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 土曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "月曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "3丁目3番1~4号",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-3-3-1-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "3丁目3番1～4号",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 土曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "3丁目3番5~9号",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-3-3-5-9",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "3丁目3番5～9号",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 木曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "金曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "3丁目7番",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-3-7",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "3丁目7番",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "金曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "3丁目8番",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-3-8",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "3丁目8番",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 土曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "3丁目9番3号",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-3-9-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "3丁目9番3号",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "月曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "5丁目2番",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-5-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "5丁目2番",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 土曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "水曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "5丁目5番",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-5-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "5丁目5番",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "水曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "5丁目6番 6丁目",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-5-6-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "5丁目6番　6丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 金曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "水曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "7丁目3番1・2・6・7号",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-7-3-1-2-6-7",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "7丁目3番1・2・6・7号",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "7丁目3番3・4号",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-7-3-3-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "7丁目3番3・4号",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 金曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "木曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "7丁目6番1~3号、7番",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-7-6-1-3-7",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "7丁目6番1～3号、7番",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第1･3 金曜",
+      "plastic_paper": "水曜",
+      "bottles_cans": "土曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "7丁目6番5~19号",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-7-6-5-19",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "7丁目6番5～19号",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 金曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "土曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "光が丘",
+    "romaji": "hikarigaoka",
+    "chome": "7丁目8番",
+    "sub": "",
+    "slug": "nerima/hikarigaoka-7-8",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 木曜",
+    "raw": {
+      "town": "光が丘",
+      "chome": "7丁目8番",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 木曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "土曜",
+      "pet": "木曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "氷川台",
+    "romaji": "hikawadai",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/hikawadai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "氷川台",
+      "chome": "全域",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 水曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "富士見台",
+    "romaji": "fujimidai",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/fujimidai",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 火曜",
+    "raw": {
+      "town": "富士見台",
+      "chome": "全域",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 火曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "火曜",
+      "pet": "火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "平和台",
+    "romaji": "heiwadai",
+    "chome": "1・3丁目",
+    "sub": "",
+    "slug": "nerima/heiwadai-1-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "平和台",
+      "chome": "1・3丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 水曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "平和台",
+    "romaji": "heiwadai",
+    "chome": "2・4丁目",
+    "sub": "",
+    "slug": "nerima/heiwadai-2-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/ha_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "平和台",
+      "chome": "2・4丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 土曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "南大泉",
+    "romaji": "minamioizumi",
+    "chome": "1・3・4丁目",
+    "sub": "",
+    "slug": "nerima/minamioizumi-1-3-4",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/maya_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "南大泉",
+      "chome": "1・3・4丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 土曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "南大泉",
+    "romaji": "minamioizumi",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "nerima/minamioizumi-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/maya_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "南大泉",
+      "chome": "2丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第2･4 土曜",
+      "plastic_paper": "木曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "南大泉",
+    "romaji": "minamioizumi",
+    "chome": "5・6丁目",
+    "sub": "",
+    "slug": "nerima/minamioizumi-5-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/maya_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 月曜",
+    "raw": {
+      "town": "南大泉",
+      "chome": "5・6丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第2･4 木曜",
+      "plastic_paper": "金曜",
+      "bottles_cans": "月曜",
+      "pet": "月曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "南田中",
+    "romaji": "minamidanaka",
+    "chome": "",
+    "sub": "",
+    "slug": "nerima/minamidanaka",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/maya_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 火曜",
+    "raw": {
+      "town": "南田中",
+      "chome": "全域",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 火曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "火曜",
+      "pet": "火曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "三原台",
+    "romaji": "miharadai",
+    "chome": "1・3丁目",
+    "sub": "",
+    "slug": "nerima/miharadai-1-3",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/maya_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "三原台",
+      "chome": "1・3丁目",
+      "burnable": "火曜･金曜",
+      "nonburnable": "第1･3 水曜",
+      "plastic_paper": "月曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "三原台",
+    "romaji": "miharadai",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "nerima/miharadai-2",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/maya_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "三原台",
+      "chome": "2丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 月曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "谷原",
+    "romaji": "tanihara",
+    "chome": "1~5丁目",
+    "sub": "",
+    "slug": "nerima/tanihara-1-5",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/maya_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "谷原",
+      "chome": "1～5丁目",
+      "burnable": "月曜･木曜",
+      "nonburnable": "第2･4 金曜",
+      "plastic_paper": "土曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "練馬区",
+    "city_en": "nerima",
+    "ward": "",
+    "ward_en": "",
+    "town": "谷原",
+    "romaji": "tanihara",
+    "chome": "6丁目",
+    "sub": "",
+    "slug": "nerima/tanihara-6",
+    "types": {
+      "burnable": {
+        "label": "可燃ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "不燃ごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      },
+      "plastic": {
+        "label": "容器包装プラスチック・古紙",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "resource": {
+        "label": "びん・缶",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/maya_gyochiiki.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "ペットボトル: 水曜",
+    "raw": {
+      "town": "谷原",
+      "chome": "6丁目",
+      "burnable": "水曜･土曜",
+      "nonburnable": "第1･3 月曜",
+      "plastic_paper": "火曜",
+      "bottles_cans": "水曜",
+      "pet": "水曜"
+    }
+  }
+]

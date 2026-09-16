@@ -1,0 +1,7537 @@
+[
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "一之江",
+    "romaji": "ichinoe",
+    "chome": "1から5丁目",
+    "sub": "",
+    "slug": "edogawa/ichinoe-1-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "一之江",
+      "chome": "1から5丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "一之江",
+    "romaji": "ichinoe",
+    "chome": "6から8丁目",
+    "sub": "",
+    "slug": "edogawa/ichinoe-6-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "一之江",
+      "chome": "6から8丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "一之江町",
+    "romaji": "ichinoecho",
+    "chome": "",
+    "sub": "",
+    "slug": "edogawa/ichinoecho",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "一之江町",
+      "chome": "全域",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "宇喜田町",
+    "romaji": "ukitamachi",
+    "chome": "",
+    "sub": "",
+    "slug": "edogawa/ukitamachi",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "宇喜田町",
+      "chome": "全域",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "江戸川",
+    "romaji": "edogawa",
+    "chome": "1・2丁目・",
+    "sub": "11から15",
+    "slug": "edogawa/edogawa-1-2-11kara15",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "江戸川",
+      "chome": "1・2丁目（11から15）・(32から39)",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "江戸川",
+    "romaji": "edogawa",
+    "chome": "2丁目から4丁目",
+    "sub": "1から10",
+    "slug": "edogawa/edogawa-2-4-1kara10",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "江戸川",
+      "chome": "2丁目(1から10)（16から31）から4丁目(1～14)",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "江戸川",
+    "romaji": "edogawa",
+    "chome": "4丁目",
+    "sub": "16から25",
+    "slug": "edogawa/edogawa-4-16kara25",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "江戸川",
+      "chome": "4丁目（16から25）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "江戸川",
+    "romaji": "edogawa",
+    "chome": "5・6丁目環七通り東側",
+    "sub": "1から9",
+    "slug": "edogawa/edogawa-5-6-1kara9",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "江戸川",
+      "chome": "5・6丁目(1から9)(39から50)環七通り東側",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "江戸川",
+    "romaji": "edogawa",
+    "chome": "6丁目 \t\t\t環七通り西側",
+    "sub": "8から40",
+    "slug": "edogawa/edogawa-6-8kara40",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "江戸川",
+      "chome": "6丁目(8から40) \t\t\t環七通り西側",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "大杉",
+    "romaji": "osugi",
+    "chome": "1・2・5丁目",
+    "sub": "",
+    "slug": "edogawa/osugi-1-2-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "大杉",
+      "chome": "1・2・5丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "大杉",
+    "romaji": "osugi",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "edogawa/osugi-3-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "大杉",
+      "chome": "3・4丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "興宮町",
+    "romaji": "kyoumiyamachi",
+    "chome": "",
+    "sub": "",
+    "slug": "edogawa/kyoumiyamachi",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "興宮町",
+      "chome": "全域",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "上一色",
+    "romaji": "ueisshoku",
+    "chome": "1から3丁目",
+    "sub": "",
+    "slug": "edogawa/ueisshoku-1-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "上一色",
+      "chome": "1から3丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "上篠崎",
+    "romaji": "ueshinozaki",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/ueshinozaki-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "上篠崎",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4水曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "上篠崎",
+    "romaji": "ueshinozaki",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "edogawa/ueshinozaki-3-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "上篠崎",
+      "chome": "3・4丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3水曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "北葛西",
+    "romaji": "kitakatsunishi",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/kitakatsunishi-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "北葛西",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3土曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "北葛西",
+    "romaji": "kitakatsunishi",
+    "chome": "3から5丁目",
+    "sub": "",
+    "slug": "edogawa/kitakatsunishi-3-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "北葛西",
+      "chome": "3から5丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "北小岩",
+    "romaji": "kitakoiwa",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/kitakoiwa-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "北小岩",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3土曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "北小岩",
+    "romaji": "kitakoiwa",
+    "chome": "3から8丁目",
+    "sub": "",
+    "slug": "edogawa/kitakoiwa-3-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "北小岩",
+      "chome": "3から8丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4土曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "北篠崎",
+    "romaji": "kitashinozaki",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/kitashinozaki-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "北篠崎",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3水曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "小松川",
+    "romaji": "komatsugawa",
+    "chome": "1丁目",
+    "sub": "1から4、7",
+    "slug": "edogawa/komatsugawa-1-1kara4-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "小松川",
+      "chome": "1丁目（1から4、7）",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4水曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "小松川",
+    "romaji": "komatsugawa",
+    "chome": "1丁目",
+    "sub": "5の1から6",
+    "slug": "edogawa/komatsugawa-1-5no1kara6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "小松川",
+      "chome": "1丁目（5の1から6）",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4土曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "小松川",
+    "romaji": "komatsugawa",
+    "chome": "1丁目",
+    "sub": "5の7から10",
+    "slug": "edogawa/komatsugawa-1-5no7kara10",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "小松川",
+      "chome": "1丁目（5の7から10）",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "小松川",
+    "romaji": "komatsugawa",
+    "chome": "2丁目",
+    "sub": "1から4",
+    "slug": "edogawa/komatsugawa-2-1kara4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "小松川",
+      "chome": "2丁目（1から4）",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "小松川",
+    "romaji": "komatsugawa",
+    "chome": "2丁目",
+    "sub": "5から10",
+    "slug": "edogawa/komatsugawa-2-5kara10",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "小松川",
+      "chome": "2丁目（5から10）",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "小松川",
+    "romaji": "komatsugawa",
+    "chome": "3丁目",
+    "sub": "1から5",
+    "slug": "edogawa/komatsugawa-3-1kara5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "小松川",
+      "chome": "3丁目（1から5）(7の2から6)",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4土曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "小松川",
+    "romaji": "komatsugawa",
+    "chome": "3丁目・",
+    "sub": "7の1",
+    "slug": "edogawa/komatsugawa-3-7no1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "小松川",
+      "chome": "3丁目（7の1）・(7の8・9)",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4火曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "小松川",
+    "romaji": "komatsugawa",
+    "chome": "3丁目",
+    "sub": "10から13",
+    "slug": "edogawa/komatsugawa-3-10kara13",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "小松川",
+      "chome": "3丁目（10から13）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "小松川",
+    "romaji": "komatsugawa",
+    "chome": "3丁目4丁目",
+    "sub": "73から79、89、90",
+    "slug": "edogawa/komatsugawa-3-4-73kara79-89-90",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "小松川",
+      "chome": "3丁目（73から79、89、90）4丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3土曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "鹿骨",
+    "romaji": "shikabone",
+    "chome": "1・2・3丁目",
+    "sub": "1から17",
+    "slug": "edogawa/shikabone-1-2-3-1kara17",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "鹿骨",
+      "chome": "1・2・3丁目 \t\t\t（1から17）",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "鹿骨",
+    "romaji": "shikabone",
+    "chome": "3丁目",
+    "sub": "18から20",
+    "slug": "edogawa/shikabone-3-18kara20",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "鹿骨",
+      "chome": "3丁目 \t\t\t（18から20）",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "鹿骨",
+    "romaji": "shikabone",
+    "chome": "4丁目",
+    "sub": "1から8、16から30",
+    "slug": "edogawa/shikabone-4-1kara8-16kara30",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "鹿骨",
+      "chome": "4丁目 \t\t\t（1から8、16から30）",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "鹿骨",
+    "romaji": "shikabone",
+    "chome": "4丁目5・6丁目",
+    "sub": "9から15、31から33",
+    "slug": "edogawa/shikabone-4-5-6-9kara15-31kara33",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "鹿骨",
+      "chome": "4丁目（9から15、31から33）5・6丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "鹿骨町",
+    "romaji": "shikabonemachi",
+    "chome": "",
+    "sub": "",
+    "slug": "edogawa/shikabonemachi",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "鹿骨町",
+      "chome": "全域",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "篠崎町",
+    "romaji": "shinozakimachi",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/shinozakimachi-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "篠崎町",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4水曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "篠崎町",
+    "romaji": "shinozakimachi",
+    "chome": "3丁目",
+    "sub": "1から22",
+    "slug": "edogawa/shinozakimachi-3-1kara22",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "篠崎町",
+      "chome": "3丁目（1から22）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "篠崎町",
+    "romaji": "shinozakimachi",
+    "chome": "3丁目",
+    "sub": "23から33",
+    "slug": "edogawa/shinozakimachi-3-23kara33",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "篠崎町",
+      "chome": "3丁目（23から33）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "篠崎町",
+    "romaji": "shinozakimachi",
+    "chome": "4から6丁目",
+    "sub": "",
+    "slug": "edogawa/shinozakimachi-4-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "篠崎町",
+      "chome": "4から6丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "篠崎町",
+    "romaji": "shinozakimachi",
+    "chome": "7・8丁目",
+    "sub": "",
+    "slug": "edogawa/shinozakimachi-7-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "篠崎町",
+      "chome": "7・8丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4水曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "下篠崎町",
+    "romaji": "shitashinozakimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "edogawa/shitashinozakimachi",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "下篠崎町",
+      "chome": "全域",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "清新町 \t\t\t1丁目",
+    "romaji": "seishinmachi-1chome",
+    "chome": "清新中央ハイツ・清新南ハイツ",
+    "sub": "1",
+    "slug": "edogawa/seishinmachi-1chome-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "清新町 \t\t\t1丁目",
+      "chome": "（1）清新中央ハイツ・清新南ハイツ",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "清新町 \t\t\t1丁目",
+    "romaji": "seishinmachi-1chome",
+    "chome": "コーシャハイム清新",
+    "sub": "2",
+    "slug": "edogawa/seishinmachi-1chome-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "清新町 \t\t\t1丁目",
+      "chome": "（2）コーシャハイム清新",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "清新町 \t\t\t1丁目",
+    "romaji": "seishinmachi-1chome",
+    "chome": "清新プラザ \t\t\tシティコープ清新・清新北ハイツ",
+    "sub": "3",
+    "slug": "edogawa/seishinmachi-1chome-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "清新町 \t\t\t1丁目",
+      "chome": "（3）清新プラザ \t\t\t（4）シティコープ清新・清新北ハイツ",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "清新町 \t\t\t1丁目",
+    "romaji": "seishinmachi-1chome",
+    "chome": "都営清新町1丁目アパート・清新住宅",
+    "sub": "5",
+    "slug": "edogawa/seishinmachi-1chome-1-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "清新町 \t\t\t1丁目",
+      "chome": "（5）都営清新町1丁目アパート・清新住宅",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3土曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "清新町 \t\t\t2丁目",
+    "romaji": "seishinmachi-2chome",
+    "chome": "都営清新町2丁目アパート含む",
+    "sub": "1から10",
+    "slug": "edogawa/seishinmachi-2chome-2-1kara10",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "清新町 \t\t\t2丁目",
+      "chome": "（1から10） \t\t\t都営清新町2丁目アパート含む",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "清新町 \t\t\t2丁目",
+    "romaji": "seishinmachi-2chome",
+    "chome": "都営清新町2丁目第二アパート・バウス西葛西",
+    "sub": "",
+    "slug": "edogawa/seishinmachi-2chome-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "清新町 \t\t\t2丁目",
+      "chome": "都営清新町2丁目第二アパート・バウス西葛西",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "中央",
+    "romaji": "chuo",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/chuo-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "中央",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "中央",
+    "romaji": "chuo",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "edogawa/chuo-3-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "中央",
+      "chome": "3・4丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "中葛西",
+    "romaji": "nakakasai",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/nakakasai-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "中葛西",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "中葛西",
+    "romaji": "nakakasai",
+    "chome": "3から5丁目",
+    "sub": "",
+    "slug": "edogawa/nakakasai-3-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "中葛西",
+      "chome": "3から5丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "中葛西",
+    "romaji": "nakakasai",
+    "chome": "6・7丁目",
+    "sub": "",
+    "slug": "edogawa/nakakasai-6-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "中葛西",
+      "chome": "6・7丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "中葛西",
+    "romaji": "nakakasai",
+    "chome": "8丁目",
+    "sub": "",
+    "slug": "edogawa/nakakasai-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "中葛西",
+      "chome": "8丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "新堀",
+    "romaji": "shinbori",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/shinbori-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "新堀",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西一之江",
+    "romaji": "nishiichinoe",
+    "chome": "1・4丁目",
+    "sub": "",
+    "slug": "edogawa/nishiichinoe-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "西一之江",
+      "chome": "1・4丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西一之江",
+    "romaji": "nishiichinoe",
+    "chome": "2・3丁目",
+    "sub": "",
+    "slug": "edogawa/nishiichinoe-2-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "西一之江",
+      "chome": "2・3丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西葛西",
+    "romaji": "nishikasai",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/nishikasai-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "西葛西",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3土曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西葛西",
+    "romaji": "nishikasai",
+    "chome": "3から6丁目",
+    "sub": "",
+    "slug": "edogawa/nishikasai-3-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "西葛西",
+      "chome": "3から6丁目",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4土曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西葛西",
+    "romaji": "nishikasai",
+    "chome": "7・8丁目",
+    "sub": "",
+    "slug": "edogawa/nishikasai-7-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "西葛西",
+      "chome": "7・8丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西小岩",
+    "romaji": "nishikoiwa",
+    "chome": "1から5丁目",
+    "sub": "",
+    "slug": "edogawa/nishikoiwa-1-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "西小岩",
+      "chome": "1から5丁目",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4火曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西小松川",
+    "romaji": "nishikomatsugawa",
+    "chome": "",
+    "sub": "",
+    "slug": "edogawa/nishikomatsugawa",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "西小松川",
+      "chome": "全域",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4火曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西篠崎",
+    "romaji": "nishishinozaki",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/nishishinozaki-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "西篠崎",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3水曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西瑞江",
+    "romaji": "nishimizue",
+    "chome": "3・4丁目",
+    "sub": "5から9",
+    "slug": "edogawa/nishimizue-3-4-5kara9",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "西瑞江",
+      "chome": "3・4丁目(5から9)",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西瑞江",
+    "romaji": "nishimizue",
+    "chome": "4丁目",
+    "sub": "5から9を除く",
+    "slug": "edogawa/nishimizue-4-5kara9wonozoku",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "西瑞江",
+      "chome": "4丁目（5から9を除く）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "西瑞江",
+    "romaji": "nishimizue",
+    "chome": "5丁目",
+    "sub": "",
+    "slug": "edogawa/nishimizue-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "西瑞江",
+      "chome": "5丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "二之江町",
+    "romaji": "ninoecho",
+    "chome": "",
+    "sub": "",
+    "slug": "edogawa/ninoecho",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "二之江町",
+      "chome": "全域",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "春江町",
+    "romaji": "haruemachi",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/haruemachi-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "春江町",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "春江町",
+    "romaji": "haruemachi",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "edogawa/haruemachi-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "春江町",
+      "chome": "3丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "春江町",
+    "romaji": "haruemachi",
+    "chome": "4丁目",
+    "sub": "",
+    "slug": "edogawa/haruemachi-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "春江町",
+      "chome": "4丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "春江町",
+    "romaji": "haruemachi",
+    "chome": "5丁目",
+    "sub": "",
+    "slug": "edogawa/haruemachi-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "春江町",
+      "chome": "5丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東葛西",
+    "romaji": "tokatsunishi",
+    "chome": "1から4丁目",
+    "sub": "",
+    "slug": "edogawa/tokatsunishi-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "東葛西",
+      "chome": "1から4丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3火曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東葛西",
+    "romaji": "tokatsunishi",
+    "chome": "5丁目",
+    "sub": "1から52",
+    "slug": "edogawa/tokatsunishi-5-1kara52",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "東葛西",
+      "chome": "5丁目（1から52）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4火曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東葛西",
+    "romaji": "tokatsunishi",
+    "chome": "5丁目",
+    "sub": "53から56の補助289号線東側",
+    "slug": "edogawa/tokatsunishi-5-53kara56nohojo289gou",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "東葛西",
+      "chome": "5丁目（53から56の補助289号線東側)",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3火曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東葛西",
+    "romaji": "tokatsunishi",
+    "chome": "5丁目",
+    "sub": "53から56の補助289号線西側",
+    "slug": "edogawa/tokatsunishi-5-53kara56nohojo289gou-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "東葛西",
+      "chome": "5丁目（53から56の補助289号線西側）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4火曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東葛西",
+    "romaji": "tokatsunishi",
+    "chome": "5丁目",
+    "sub": "57",
+    "slug": "edogawa/tokatsunishi-5-57",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "東葛西",
+      "chome": "5丁目（57)",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3火曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東葛西",
+    "romaji": "tokatsunishi",
+    "chome": "6丁目",
+    "sub": "",
+    "slug": "edogawa/tokatsunishi-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "東葛西",
+      "chome": "6丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4火曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東葛西",
+    "romaji": "tokatsunishi",
+    "chome": "7・8丁目",
+    "sub": "",
+    "slug": "edogawa/tokatsunishi-7-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "東葛西",
+      "chome": "7・8丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4水曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東葛西",
+    "romaji": "tokatsunishi",
+    "chome": "9丁目",
+    "sub": "1から3",
+    "slug": "edogawa/tokatsunishi-9-1kara3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "東葛西",
+      "chome": "9丁目（1から3）",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3水曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東葛西",
+    "romaji": "tokatsunishi",
+    "chome": "9丁目",
+    "sub": "4から23",
+    "slug": "edogawa/tokatsunishi-9-4kara23",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "東葛西",
+      "chome": "9丁目（4から23）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4火曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東小岩",
+    "romaji": "higashikoiwa",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "edogawa/higashikoiwa-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "東小岩",
+      "chome": "1丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3水曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東小岩",
+    "romaji": "higashikoiwa",
+    "chome": "2から6丁目",
+    "sub": "",
+    "slug": "edogawa/higashikoiwa-2-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "東小岩",
+      "chome": "2から6丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3土曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東小松川",
+    "romaji": "higashikomatsugawa",
+    "chome": "1丁目から4丁目",
+    "sub": "",
+    "slug": "edogawa/higashikomatsugawa-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "東小松川",
+      "chome": "1丁目から4丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4火曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東篠崎",
+    "romaji": "higashishinozaki",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/higashishinozaki-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "東篠崎",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東篠崎町",
+    "romaji": "higashishinozakimachi",
+    "chome": "",
+    "sub": "",
+    "slug": "edogawa/higashishinozakimachi",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "東篠崎町",
+      "chome": "全域",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東松本",
+    "romaji": "higashimatsumoto",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/higashimatsumoto-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "東松本",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東瑞江",
+    "romaji": "higashimizue",
+    "chome": "1丁目",
+    "sub": "1、2",
+    "slug": "edogawa/higashimizue-1-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "東瑞江",
+      "chome": "1丁目（1、2）",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東瑞江",
+    "romaji": "higashimizue",
+    "chome": "1丁目",
+    "sub": "1、2を除く",
+    "slug": "edogawa/higashimizue-1-1-2wonozoku",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "東瑞江",
+      "chome": "1丁目 \t\t\t（1、2を除く）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東瑞江",
+    "romaji": "higashimizue",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "edogawa/higashimizue-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "東瑞江",
+      "chome": "2丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "東瑞江",
+    "romaji": "higashimizue",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "edogawa/higashimizue-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "東瑞江",
+      "chome": "3丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "平井",
+    "romaji": "hirai",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/hirai-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "平井",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3土曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "平井",
+    "romaji": "hirai",
+    "chome": "3・4丁目",
+    "sub": "",
+    "slug": "edogawa/hirai-3-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "平井",
+      "chome": "3・4丁目",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4水曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "平井",
+    "romaji": "hirai",
+    "chome": "5丁目",
+    "sub": "1から30",
+    "slug": "edogawa/hirai-5-1kara30",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "平井",
+      "chome": "5丁目（1から30）",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3水曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "平井",
+    "romaji": "hirai",
+    "chome": "5丁目",
+    "sub": "31から58",
+    "slug": "edogawa/hirai-5-31kara58",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "平井",
+      "chome": "5丁目（31から58）",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4水曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "平井",
+    "romaji": "hirai",
+    "chome": "6・7丁目",
+    "sub": "",
+    "slug": "edogawa/hirai-6-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "平井",
+      "chome": "6・7丁目",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3水曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "船堀",
+    "romaji": "funabori",
+    "chome": "1・2・4から6丁目",
+    "sub": "",
+    "slug": "edogawa/funabori-1-2-4-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "船堀",
+      "chome": "1・2・4から6丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "船堀",
+    "romaji": "funabori",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "edogawa/funabori-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "船堀",
+      "chome": "3丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "船堀",
+    "romaji": "funabori",
+    "chome": "7丁目",
+    "sub": "",
+    "slug": "edogawa/funabori-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "船堀",
+      "chome": "7丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3月曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "本一色",
+    "romaji": "honisshoku",
+    "chome": "1から3丁目",
+    "sub": "",
+    "slug": "edogawa/honisshoku-1-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "本一色",
+      "chome": "1から3丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "松江",
+    "romaji": "matsue",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/matsue-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "松江",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "松江",
+    "romaji": "matsue",
+    "chome": "3から7丁目",
+    "sub": "",
+    "slug": "edogawa/matsue-3-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "松江",
+      "chome": "3から7丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3火曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "松島",
+    "romaji": "matsushima",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "edogawa/matsushima-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "松島",
+      "chome": "1丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3土曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "松島",
+    "romaji": "matsushima",
+    "chome": "2から4丁目",
+    "sub": "",
+    "slug": "edogawa/matsushima-2-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "松島",
+      "chome": "2から4丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4土曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "松本",
+    "romaji": "matsumoto",
+    "chome": "1・2丁目",
+    "sub": "",
+    "slug": "edogawa/matsumoto-1-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小松川",
+    "raw": {
+      "town": "松本",
+      "chome": "1・2丁目",
+      "resource": "資源 \t\t\t土曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小松川"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "瑞江",
+    "romaji": "mizue",
+    "chome": "1丁目",
+    "sub": "1から21",
+    "slug": "edogawa/mizue-1-1kara21",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "瑞江",
+      "chome": "1丁目（1から21）",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "瑞江",
+    "romaji": "mizue",
+    "chome": "1丁目2・3・4丁目",
+    "sub": "22から65",
+    "slug": "edogawa/mizue-1-2-3-4-22kara65",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "瑞江",
+      "chome": "1丁目（22から65）2・3・4丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南葛西",
+    "romaji": "minamikasai",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "edogawa/minamikasai-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "南葛西",
+      "chome": "1丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南葛西",
+    "romaji": "minamikasai",
+    "chome": "2・3丁目",
+    "sub": "",
+    "slug": "edogawa/minamikasai-2-3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "南葛西",
+      "chome": "2・3丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4水曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南葛西",
+    "romaji": "minamikasai",
+    "chome": "4から7丁目",
+    "sub": "",
+    "slug": "edogawa/minamikasai-4-7",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "南葛西",
+      "chome": "4から7丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3水曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南小岩",
+    "romaji": "minamikoiwa",
+    "chome": "1から4丁目",
+    "sub": "",
+    "slug": "edogawa/minamikoiwa-1-4",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "南小岩",
+      "chome": "1から4丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南小岩",
+    "romaji": "minamikoiwa",
+    "chome": "5から8丁目",
+    "sub": "",
+    "slug": "edogawa/minamikoiwa-5-8",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "火"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "南小岩",
+      "chome": "5から8丁目",
+      "resource": "資源 \t\t\t金曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3火曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南篠崎町",
+    "romaji": "minamishinozakimachi",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "edogawa/minamishinozakimachi-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "南篠崎町",
+      "chome": "1丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南篠崎町",
+    "romaji": "minamishinozakimachi",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "edogawa/minamishinozakimachi-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "南篠崎町",
+      "chome": "2丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南篠崎町",
+    "romaji": "minamishinozakimachi",
+    "chome": "3丁目",
+    "sub": "26、27",
+    "slug": "edogawa/minamishinozakimachi-3-26-27",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "南篠崎町",
+      "chome": "3丁目（26、27）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南篠崎町",
+    "romaji": "minamishinozakimachi",
+    "chome": "3丁目",
+    "sub": "26、27を除く",
+    "slug": "edogawa/minamishinozakimachi-3-26-27wonozoku",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "南篠崎町",
+      "chome": "3丁目（26、27を除く）",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南篠崎町",
+    "romaji": "minamishinozakimachi",
+    "chome": "4丁目",
+    "sub": "9、10",
+    "slug": "edogawa/minamishinozakimachi-4-9-10",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "南篠崎町",
+      "chome": "4丁目（9、10）",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南篠崎町",
+    "romaji": "minamishinozakimachi",
+    "chome": "4丁目",
+    "sub": "9・10を除く",
+    "slug": "edogawa/minamishinozakimachi-4-9-10wonozoku",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "南篠崎町",
+      "chome": "4丁目（9・10を除く）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "南篠崎町",
+    "romaji": "minamishinozakimachi",
+    "chome": "5丁目",
+    "sub": "",
+    "slug": "edogawa/minamishinozakimachi-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "南篠崎町",
+      "chome": "5丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "谷河内",
+    "romaji": "tanigawanai",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "edogawa/tanigawanai-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "金"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "谷河内",
+      "chome": "1丁目",
+      "resource": "資源 \t\t\t火曜日",
+      "burnable": "燃やすごみ \t\t\t月曜日・木曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4金曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "谷河内",
+    "romaji": "tanigawanai",
+    "chome": "2丁目",
+    "sub": "1から3",
+    "slug": "edogawa/tanigawanai-2-1kara3",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "月"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "谷河内",
+      "chome": "2丁目（1から3）",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4月曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "谷河内",
+    "romaji": "tanigawanai",
+    "chome": "2丁目",
+    "sub": "4から15",
+    "slug": "edogawa/tanigawanai-2-4kara15",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 小岩",
+    "raw": {
+      "town": "谷河内",
+      "chome": "2丁目（4から15）",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t小岩"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "臨海町",
+    "romaji": "rinkaimachi",
+    "chome": "1丁目",
+    "sub": "",
+    "slug": "edogawa/rinkaimachi-1",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "木"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "臨海町",
+      "chome": "1丁目",
+      "resource": "資源 \t\t\t月曜日",
+      "burnable": "燃やすごみ \t\t\t水曜日・土曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3木曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "臨海町",
+    "romaji": "rinkaimachi",
+    "chome": "2丁目",
+    "sub": "",
+    "slug": "edogawa/rinkaimachi-2",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "土"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "臨海町",
+      "chome": "2丁目",
+      "resource": "資源 \t\t\t水曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3土曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "臨海町",
+    "romaji": "rinkaimachi",
+    "chome": "3丁目",
+    "sub": "",
+    "slug": "edogawa/rinkaimachi-3",
+    "types": {},
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "臨海町",
+      "chome": "3丁目",
+      "resource": "-",
+      "burnable": "-",
+      "nonburnable": "-",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "臨海町",
+    "romaji": "rinkaimachi",
+    "chome": "4・5丁目",
+    "sub": "",
+    "slug": "edogawa/rinkaimachi-4-5",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          2,
+          4
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "臨海町",
+      "chome": "4・5丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第2・4水曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  },
+  {
+    "pref": "東京都",
+    "city": "江戸川区",
+    "city_en": "edogawa",
+    "ward": "",
+    "ward_en": "",
+    "town": "臨海町",
+    "romaji": "rinkaimachi",
+    "chome": "6丁目",
+    "sub": "",
+    "slug": "edogawa/rinkaimachi-6",
+    "types": {
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "burnable": {
+        "label": "燃やすごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "朝8:00まで"
+      },
+      "nonburnable": {
+        "label": "燃やさないごみ",
+        "days": [
+          "水"
+        ],
+        "weeks": [
+          1,
+          3
+        ],
+        "time": "朝8:00まで"
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集",
+      "time_by": "8:00",
+      "yearend": "12/31~1/3 休止"
+    },
+    "source": {
+      "url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/kategomi/yobihyo.html",
+      "fetched": "2026-09-17",
+      "basis": "official_html"
+    },
+    "notes": "管轄: 葛西",
+    "raw": {
+      "town": "臨海町",
+      "chome": "6丁目",
+      "resource": "資源 \t\t\t木曜日",
+      "burnable": "燃やすごみ \t\t\t火曜日・金曜日",
+      "nonburnable": "燃やさないごみ \t\t\t第1・3水曜日",
+      "kankatsu": "管轄 \t\t\t葛西"
+    }
+  }
+]

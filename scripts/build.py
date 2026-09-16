@@ -72,7 +72,8 @@ def main():
             if k not in groups:
                 # town-level slug from romaji + the digits of 丁目 (record slugs carry 番地/sub suffixes)
                 nums = [x.lower() for x in re.findall(r"\d+|[A-Za-z]+", chome)]
-                slug = f"{r['city_en']}/{r['ward_en']}/{r['romaji']}" + ("-" + "-".join(nums) if nums else "")
+                head = f"{r['city_en']}/{r['ward_en']}" if r["ward_en"] else r["city_en"]  # 23区: the ward is the city
+                slug = f"{head}/{r['romaji']}" + ("-" + "-".join(nums) if nums else "")
                 groups[k] = {"city_en": r["city_en"], "city": r["city"], "pref": r["pref"], "ward": r["ward"], "ward_en": r["ward_en"],
                              "town": town, "chome": chome, "romaji": r.get("romaji", ""), "slug": slug,
                              "records": [], "rules": r.get("rules", {}), "source": r["source"]}
@@ -131,7 +132,8 @@ def main():
     for ce, c in cities.items():
         write(f"{ce}/", "city.html", c=c)
         for we, w in c["wards"].items():
-            write(f"{ce}/{we}/", "ward.html", c=c, w=w)
+            if we:
+                write(f"{ce}/{we}/", "ward.html", c=c, w=w)
             for g in w["towns"].values():
                 write(f"{g['slug']}/", "town.html", c=c, w=w, g=g)
 

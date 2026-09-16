@@ -75,9 +75,9 @@ def parse_schedule_field(val: str, label: str):
         return None
 
     days = []
-    for char in val:
-        if char in VALID_DAYS and char not in days:
-            days.append(char)
+    for m in re.finditer(r"([月火水木金土日])曜", val):  # "曜日" contains 日 — only the char before 曜 is a weekday
+        if m.group(1) not in days:
+            days.append(m.group(1))
 
     weeks = None
     if "回目" in val:

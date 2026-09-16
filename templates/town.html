@@ -33,7 +33,7 @@
 <div class="sec"><div class="sec-h"><h2>番地ごとの違い</h2></div>
 <p class="prose small muted">上の表は{{ g.town }}{{ g.chome }}で最も多い曜日です。以下の番地・建物は曜日が異なります。</p>
 <table class="tbl exc"><thead><tr><th>番地・建物</th>{% for t in TYPE_ORDER if t in m %}<th>{{ m[t].label }}</th>{% endfor %}</tr></thead><tbody>
-{% for r in g.exceptions %}<tr><td>{{ r.sub or r.chome }}</td>{% for t in TYPE_ORDER if t in m %}<td>{% if t in r.types %}{% if r.types[t].weeks %}第{{ r.types[t].weeks|join('・') }}{% endif %}{{ r.types[t].days|join('・') }}{% else %}—{% endif %}</td>{% endfor %}</tr>{% endfor %}
+{% for r in g.exceptions %}<tr><td>{{ r.sub or r.chome or 'その他の区域' }}</td>{% for t in TYPE_ORDER if t in m %}<td>{% if t in r.types %}{% if r.types[t].weeks %}第{{ r.types[t].weeks|join('・') }}{% endif %}{{ r.types[t].days|join('・') }}{% else %}—{% endif %}</td>{% endfor %}</tr>{% endfor %}
 </tbody></table>
 </div>
 {% endif %}

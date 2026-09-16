@@ -22,12 +22,12 @@ TYPE_COLOR = {"burnable": "#ff7a00", "resource": "#3182f6", "plastic": "#00b06f"
 
 
 def nfkc(s):
-    return unicodedata.normalize("NFKC", s or "")
+    return re.sub(r"\s+", " ", unicodedata.normalize("NFKC", s or "")).strip()
 
 
 def split_addr(r):
     """(town, chome, sub) — Osaka towns without 丁目 carry the 番地 in `chome` ("1番"); that is a sub-area, not a page."""
-    town, chome, sub = nfkc(r["town"]), nfkc(r.get("chome")), r.get("sub") or ""
+    town, chome, sub = nfkc(r["town"]), nfkc(r.get("chome")), nfkc(r.get("sub"))
     if re.fullmatch(r"\d+番.*", chome):
         sub, chome = (chome + (" " + sub if sub else "")), ""
     return town, chome, sub

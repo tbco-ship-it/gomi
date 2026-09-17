@@ -29,7 +29,8 @@
 </main>
 <footer>
   <p><a href="{{ base }}about/">このサイトについて</a> · <a href="{{ base }}methodology/">データの出どころ</a> · <a href="{{ base }}privacy/">プライバシー</a> · <a href="{{ base }}contact/">お問い合わせ</a></p>
-  <p class="muted">各市が公開しているオープンデータ・収集日一覧をもとに作成しています({% for c in cities.values() %}{{ c.city }} {{ c.fetched }}取得{% if not loop.last %}、{% endif %}{% endfor %})。臨時変更や災害時は市の案内が優先です。</p>
+  <p class="muted">各市が公開しているオープンデータ・収集日一覧をもとに作成しています({{ cities|length }}市区、最終取得 {{ cities.values()|map(attribute='fetched')|max }})。臨時変更や災害時は市の案内が優先です。</p>
+  <details class="src"><summary>市区ごとの取得日を見る</summary><p class="muted">{% for c in cities.values() %}{{ c.city }} {{ c.fetched }}取得{% if not loop.last %}、{% endif %}{% endfor %}</p></details>
 </footer>
 <script src="{{ base }}static/ui.js?v={{ v }}" defer></script>
 <script src="{{ base }}static/app.js?v={{ v }}" defer></script>

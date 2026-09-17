@@ -59,6 +59,10 @@
     const week = Array.from({ length: 7 }, (_, i) => { const d = addDays(now, i); const ks = typesOn(types, d); return `<div class="day${i === 0 ? ' today' : ''}"><span class="dow">${i === 0 ? (EN() ? 'Today' : '今日') : (EN() ? DOW_EN[d.getDay()] : JDAY[d.getDay()])}</span><span class="dnum">${d.getDate()}</span><span class="dots">${ks.map(k => `<span class="tag" style="background:${TAG[k]}">${EN() ? SHORT_EN[k] : short(k, types[k].label)}</span>`).join('')}</span></div>`; }).join('');
     if (root) {
       root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${head}</span></div><p class="sheet-title">${sub}</p><div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">${EN() ? 'Open this address (block differences · .ics)' : 'この住所のページ(番地の違い・.ics)'}</a></p></section><div class="week">${week}</div>`;
+      // Result rises in Toss-style: label → headline → sub → items → link → week, 90ms apart.
+      root.classList.remove('is-in'); root.classList.add('reveal');
+      [root.querySelector('.sheet'), ...root.querySelector('.sheet').children, root.querySelector('.week')].forEach((el, i) => { el.classList.add('rv'); el.style.setProperty('--d', (i * 90) + 'ms'); });
+      void root.offsetHeight; root.classList.add('is-in');
     } else {
       const sheet = $('today'); sheet.classList.remove('balanced', 'quiet'); sheet.classList.add(cls);
       $('headline').textContent = head; $('sub').textContent = sub; $('upcoming').innerHTML = upcoming; $('week').innerHTML = week;
@@ -125,8 +129,9 @@
   });
   menu.addEventListener('mousedown', ev => { const li = ev.target.closest('li[data-i]'); if (li) { choose(items[+li.dataset.i]); ev.preventDefault(); } });
   input.addEventListener('blur', () => setTimeout(close, 120));
-  const remembered = D.find(e => e.s === localStorage.getItem('gomi.slug')) || D.find(e => e.s === 'osaka/kita/oyodonaka-2');
-  if (remembered) choose(remembered);
+  // First visit: only the search card. A remembered address rises in on its own after the card has painted.
+  const remembered = D.find(e => e.s === localStorage.getItem('gomi.slug'));
+  if (remembered) setTimeout(() => choose(remembered), 250);
 
   // GPS: browser position → GSI reverse geocoder (muniCd + 町丁目) → index entry in that ward.
   const geoBtn = $('geo'), geoMsg = $('geo-msg');

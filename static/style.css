@@ -67,7 +67,7 @@ footer a{color:var(--text-2)}
 .seg span{display:block;padding:8px 18px;border-radius:11px;font-size:.95rem;font-weight:600;color:var(--text-2);cursor:pointer;transition:background .15s,color .15s}
 .seg input:checked+span{background:var(--bg);color:var(--text);box-shadow:0 1px 3px rgba(0,0,0,.08)}
 .seg input:focus-visible+span{outline:3px solid var(--blue)}
-.result{margin-top:16px;min-height:1em}
+.result{margin-top:16px}.result:empty{display:none}
 
 /* verdict sheet — the one loud element */
 .sheet{background:var(--blue-soft);border-radius:var(--r-sheet);padding:28px 24px 24px;margin:20px 0 8px}
@@ -551,7 +551,7 @@ header.top{position:sticky;top:0;z-index:30;display:flex;align-items:center;just
 /* Scroll reveal: each block trails the scroll — rises 40px, blur→sharp, siblings 110ms apart */
 .rv{opacity:0;transform:translateY(40px);filter:blur(6px);transition:opacity .8s ease-out var(--d,0s),transform 1s cubic-bezier(.16,1,.3,1) var(--d,0s),filter .7s ease-out var(--d,0s)}
 .reveal.is-in .rv,.reveal.is-in.rv{opacity:1;transform:none;filter:none}
-.list.rv,.tbl.rv{filter:none}/* tall blocks: blur would rasterize a huge layer */
+.list.rv,.tbl.rv,.result>.sheet.rv{filter:none}/* tall blocks: blur would rasterize a huge layer */
 @media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;filter:none;transition:none}}
 
 /* Dark-mode audit 2026-09-16 (iPhone): every surface must derive from tokens, never a literal light color */

@@ -2,9 +2,9 @@
 {% block title %}ごみ収集日を住所で検索 — 今日・明日に出せるごみがすぐ分かる | {{ site }}{% endblock %}
 {% block head %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"{{ site }}","applicationCategory":"UtilitiesApplication","inLanguage":"ja","url":"{{ origin }}{{ base }}","offers":{"@type":"Offer","price":"0","priceCurrency":"JPY"}}</script>{% endblock %}
 {% block content %}
-<section class="hero">
-  <h1 data-i18n="hero_h1">明日、何ごみの日?</h1>
-  <p>町名を入れるだけ。今日・明日に出せるごみと、この1週間の収集日をその場で表示します。{% for c in cities.values() %}{{ c.city }}{% if not loop.last %}・{% endif %}{% endfor %}の{{ '{:,}'.format(n_towns) }}町丁目に対応、市の公開データ基準。一度選んだ住所は次回も覚えています。</p>
+<section class="hero compact">
+  <h1 data-i18n="hero_h1">ゴミ捨て日検索</h1>
+  <p data-i18n="hero_sub">町名を入れるだけ。今日・明日に出せるごみと、今週の収集日がすぐわかります。{{ cities|length }}市区・{{ '{:,}'.format(n_towns) }}町丁目、市の公開データ基準。</p>
 </section>
 
 <section class="calc-grid">
@@ -13,7 +13,7 @@
   <label class="field"><span data-i18n="pick_label">町名・丁目</span>
     <input id="addr" class="pick search" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" autocomplete="off" placeholder="例: 大淀中、おおよどなか、oyodonaka"><ul class="menu" id="addr-menu" role="listbox" hidden></ul>
   </label>
-  <p class="hint" data-i18n="pick_hint">漢字・ひらがな・カタカナ・ローマ字、どれでも探せます。丁目まで選ぶと番地ごとの違いも表示します。</p>
+  <p class="hint" data-i18n="pick_hint">漢字・ひらがな・ローマ字どれでも。一度選んだ住所は次回も覚えています。</p>
 </div>
 <div id="result" class="result" aria-live="polite"></div>
 </section>

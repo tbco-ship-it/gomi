@@ -12,8 +12,8 @@
   const TYPE_EN = { burnable: 'Burnable', resource: 'Cans · bottles · PET', plastic: 'Plastic', paper_cloth: 'Paper & cloth', nonburnable: 'Non-burnable', bulky: 'Bulky' };
   const SHORT_EN = { burnable: 'Burn', resource: 'Cans', plastic: 'Plastic', paper_cloth: 'Paper', nonburnable: 'Non-burn', bulky: 'Bulky' };
   const I18N = {
-    nav_search: 'Search by address', nav_cities: 'Covered cities', nav_nenmatsu: 'Year-end', hero_h1: 'What garbage goes out tomorrow?',
-    pick_title: 'Pick your address', pick_label: 'Town / chome', pick_hint: 'Type kanji, hiragana, katakana or romaji. Pick down to the chome to see block-level differences.',
+    nav_search: 'Search by address', nav_cities: 'Covered cities', nav_nenmatsu: 'Year-end', hero_h1: 'Garbage day lookup', hero_sub: 'Type your town name to see what goes out today and tomorrow, plus this week\u2019s pickup days. Official city data.',
+    pick_title: 'Pick your address', pick_label: 'Town / chome', pick_hint: 'Kanji, hiragana or romaji all work. Your last address is remembered.',
     cities_h2: 'Covered cities', cities_all: 'All', today_tomorrow: 'Today & tomorrow', ics: 'Add to calendar (.ics)', remember: 'Remember this address',
     types_h2: 'Collection day by type', exc_h2: 'Differences by block', near_h2: 'Nearby areas', placeholder: 'e.g. Oyodonaka, おおよどなか, 大淀中',
   };

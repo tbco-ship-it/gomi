@@ -643,3 +643,11 @@ header.top{position:sticky;top:0;z-index:30;display:flex;align-items:center;just
 .en{color:var(--muted);font-weight:500;font-size:.82em}
 .menu li .ro{display:block;color:var(--muted);font-weight:500;font-size:.82rem}
 html[lang=en] .ja-only{display:none}
+
+/* header: brand left, language pill right, nav on its own row on phones */
+header.top{position:relative}
+.lang{position:absolute;right:20px;top:14px;margin:0}
+@media(max-width:560px){.lang{top:12px;right:16px}}
+.hero.compact h1{font-size:2rem;margin:.7em 0 .3em}
+.hero.compact p{font-size:.98rem;max-width:40ch;margin:0 0 6px}
+@media(max-width:560px){.hero.compact h1{font-size:1.7rem}}

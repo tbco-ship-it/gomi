@@ -1,0 +1,7622 @@
+[
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "相生",
+    "chome": null,
+    "sub": null,
+    "romaji": "aioi",
+    "slug": "sagamihara/chuo/aioi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "あ",
+      "町名・大字": "相生",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "相原",
+    "chome": null,
+    "sub": null,
+    "romaji": "aihara",
+    "slug": "sagamihara/midori/aihara",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "あ",
+      "町名・大字": "相原",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "青根",
+    "chome": null,
+    "sub": null,
+    "romaji": "aone",
+    "slug": "sagamihara/midori/aone",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "あ",
+      "町名・大字": "青根",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "青野原",
+    "chome": null,
+    "sub": null,
+    "romaji": "aonohara",
+    "slug": "sagamihara/midori/aonohara",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "あ",
+      "町名・大字": "青野原",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "青葉",
+    "chome": null,
+    "sub": null,
+    "romaji": "aoba",
+    "slug": "sagamihara/chuo/aoba",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "あ",
+      "町名・大字": "青葉",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "青山",
+    "chome": null,
+    "sub": null,
+    "romaji": "aoyama",
+    "slug": "sagamihara/midori/aoyama",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "あ",
+      "町名・大字": "青山",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "旭町",
+    "chome": null,
+    "sub": null,
+    "romaji": "asahimachi",
+    "slug": "sagamihara/minami/asahimachi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "あ",
+      "町名・大字": "旭町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "麻溝台",
+    "chome": null,
+    "sub": null,
+    "romaji": "asamizodai",
+    "slug": "sagamihara/minami/asamizodai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "あ",
+      "町名・大字": "麻溝台",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "新磯野",
+    "chome": null,
+    "sub": null,
+    "romaji": "shinisono",
+    "slug": "sagamihara/minami/shinisono",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "あ",
+      "町名・大字": "新磯野",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "磯部",
+    "chome": null,
+    "sub": null,
+    "romaji": "isobe",
+    "slug": "sagamihara/minami/isobe",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "い",
+      "町名・大字": "磯部",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "鵜野森",
+    "chome": null,
+    "sub": null,
+    "romaji": "unomori",
+    "slug": "sagamihara/minami/unomori",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "う",
+      "町名・大字": "鵜野森",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "太井(金丸、根本)",
+    "chome": null,
+    "sub": null,
+    "romaji": "futoi-kanemaru-kompon",
+    "slug": "sagamihara/midori/futoi-kanemaru-kompon",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "お",
+      "町名・大字": "太井（金丸、根本）",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "太井(金丸、根本除く)",
+    "chome": null,
+    "sub": null,
+    "romaji": "futoi-kanemaru-komponnozoku",
+    "slug": "sagamihara/midori/futoi-kanemaru-komponnozoku",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "お",
+      "町名・大字": "太井（金丸、根本除く）",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "大島",
+    "chome": null,
+    "sub": null,
+    "romaji": "oshima",
+    "slug": "sagamihara/midori/oshima",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "お",
+      "町名・大字": "大島",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "大野台",
+    "chome": null,
+    "sub": null,
+    "romaji": "onodai",
+    "slug": "sagamihara/chuo/onodai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "お",
+      "町名・大字": "大野台",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "大野台",
+    "chome": null,
+    "sub": null,
+    "romaji": "onodai",
+    "slug": "sagamihara/minami/onodai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "お",
+      "町名・大字": "大野台",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "大山町",
+    "chome": null,
+    "sub": null,
+    "romaji": "oyamacho",
+    "slug": "sagamihara/midori/oyamacho",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "お",
+      "町名・大字": "大山町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "小倉",
+    "chome": null,
+    "sub": null,
+    "romaji": "ogura",
+    "slug": "sagamihara/midori/ogura",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "お",
+      "町名・大字": "小倉",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "小原",
+    "chome": null,
+    "sub": null,
+    "romaji": "kohara",
+    "slug": "sagamihara/midori/kohara",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "お",
+      "町名・大字": "小原",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "小渕",
+    "chome": null,
+    "sub": null,
+    "romaji": "obuchi",
+    "slug": "sagamihara/midori/obuchi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "お",
+      "町名・大字": "小渕",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "小山",
+    "chome": null,
+    "sub": null,
+    "romaji": "oyama",
+    "slug": "sagamihara/chuo/oyama",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "お",
+      "町名・大字": "小山",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "鹿沼台",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "kanumadai",
+    "slug": "sagamihara/chuo/kanumadai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "か",
+      "町名・大字": "鹿沼台",
+      "夜間収集": "★1・2丁目の一部→夜間収集",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "上九沢",
+    "chome": null,
+    "sub": null,
+    "romaji": "uekyuusawa",
+    "slug": "sagamihara/midori/uekyuusawa",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "か",
+      "町名・大字": "上九沢",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "上鶴間",
+    "chome": null,
+    "sub": null,
+    "romaji": "kamitsuruma",
+    "slug": "sagamihara/minami/kamitsuruma",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "か",
+      "町名・大字": "上鶴間",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "上鶴間本町",
+    "chome": null,
+    "sub": null,
+    "romaji": "kamitsurumahoncho",
+    "slug": "sagamihara/minami/kamitsurumahoncho",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "か",
+      "町名・大字": "上鶴間本町",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "上溝",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "uwamizo",
+    "slug": "sagamihara/chuo/uwamizo",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "か",
+      "町名・大字": "上溝",
+      "夜間収集": "★3～7丁目の一部→夜間収集",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "上矢部",
+    "chome": null,
+    "sub": null,
+    "romaji": "uwayabu",
+    "slug": "sagamihara/chuo/uwayabu",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "か",
+      "町名・大字": "上矢部",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "川尻(原宿)",
+    "chome": null,
+    "sub": null,
+    "romaji": "kawajiri-harajuku",
+    "slug": "sagamihara/midori/kawajiri-harajuku",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "か",
+      "町名・大字": "川尻（原宿）",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "川尻(向原)",
+    "chome": null,
+    "sub": null,
+    "romaji": "kawajiri-mukaihara",
+    "slug": "sagamihara/midori/kawajiri-mukaihara",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "か",
+      "町名・大字": "川尻（向原）",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "川尻(小松、城北、中沢)",
+    "chome": null,
+    "sub": null,
+    "romaji": "kawajiri-komatsu-jouhoku-nakazawa",
+    "slug": "sagamihara/midori/kawajiri-komatsu-jouhoku-nakazawa",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "か",
+      "町名・大字": "川尻（小松、城北、中沢）",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "北里",
+    "chome": null,
+    "sub": null,
+    "romaji": "kitazato",
+    "slug": "sagamihara/minami/kitazato",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "き",
+      "町名・大字": "北里",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "共和",
+    "chome": null,
+    "sub": null,
+    "romaji": "kyouwa",
+    "slug": "sagamihara/chuo/kyouwa",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "き",
+      "町名・大字": "共和",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "久保沢",
+    "chome": null,
+    "sub": null,
+    "romaji": "kubosawa",
+    "slug": "sagamihara/midori/kubosawa",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "く",
+      "町名・大字": "久保沢",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "向陽町",
+    "chome": null,
+    "sub": null,
+    "romaji": "koyoumachi",
+    "slug": "sagamihara/chuo/koyoumachi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "こ",
+      "町名・大字": "向陽町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "古淵",
+    "chome": null,
+    "sub": null,
+    "romaji": "kofuchi",
+    "slug": "sagamihara/minami/kofuchi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "こ",
+      "町名・大字": "古淵",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "小町通",
+    "chome": null,
+    "sub": null,
+    "romaji": "komachitoori",
+    "slug": "sagamihara/chuo/komachitoori",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "こ",
+      "町名・大字": "小町通",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "栄町",
+    "chome": null,
+    "sub": null,
+    "romaji": "sakaemachi",
+    "slug": "sagamihara/minami/sakaemachi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "さ",
+      "町名・大字": "栄町",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "相模大野",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "sagamiono",
+    "slug": "sagamihara/minami/sagamiono",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "さ",
+      "町名・大字": "相模大野",
+      "夜間収集": "★3・5・6丁目の一部→夜間収集",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "相模台",
+    "chome": null,
+    "sub": null,
+    "romaji": "sagamidai",
+    "slug": "sagamihara/minami/sagamidai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "さ",
+      "町名・大字": "相模台",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "水",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "相模台団地",
+    "chome": null,
+    "sub": null,
+    "romaji": "sagamidaidanchi",
+    "slug": "sagamihara/minami/sagamidaidanchi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "さ",
+      "町名・大字": "相模台団地",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "相模原",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "sagamihara",
+    "slug": "sagamihara/chuo/sagamihara",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "さ",
+      "町名・大字": "相模原",
+      "夜間収集": "★1～5丁目の一部→夜間収集",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "桜台",
+    "chome": null,
+    "sub": null,
+    "romaji": "sakuradai",
+    "slug": "sagamihara/minami/sakuradai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "さ",
+      "町名・大字": "桜台",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "佐野川",
+    "chome": null,
+    "sub": null,
+    "romaji": "sanokawa",
+    "slug": "sagamihara/midori/sanokawa",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "さ",
+      "町名・大字": "佐野川",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "澤井",
+    "chome": null,
+    "sub": null,
+    "romaji": "sawai",
+    "slug": "sagamihara/midori/sawai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "さ",
+      "町名・大字": "澤井",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "下九沢",
+    "chome": null,
+    "sub": null,
+    "romaji": "shimokuzawa",
+    "slug": "sagamihara/midori/shimokuzawa",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "し",
+      "町名・大字": "下九沢",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "金",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "下溝",
+    "chome": null,
+    "sub": null,
+    "romaji": "shimomizo",
+    "slug": "sagamihara/minami/shimomizo",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "し",
+      "町名・大字": "下溝",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "城山",
+    "chome": null,
+    "sub": null,
+    "romaji": "shiroyama",
+    "slug": "sagamihara/midori/shiroyama",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "し",
+      "町名・大字": "城山",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "新戸",
+    "chome": null,
+    "sub": null,
+    "romaji": "shinko",
+    "slug": "sagamihara/minami/shinko",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "し",
+      "町名・大字": "新戸",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "寸沢嵐",
+    "chome": null,
+    "sub": null,
+    "romaji": "sunsawaarashi",
+    "slug": "sagamihara/midori/sunsawaarashi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "す",
+      "町名・大字": "寸沢嵐",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "水郷田名",
+    "chome": null,
+    "sub": null,
+    "romaji": "suigoutana",
+    "slug": "sagamihara/chuo/suigoutana",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "す",
+      "町名・大字": "水郷田名",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "すすきの町",
+    "chome": null,
+    "sub": null,
+    "romaji": "susukinomachi",
+    "slug": "sagamihara/chuo/susukinomachi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "す",
+      "町名・大字": "すすきの町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "清新",
+    "chome": null,
+    "sub": null,
+    "romaji": "seishin",
+    "slug": "sagamihara/chuo/seishin",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "せ",
+      "町名・大字": "清新",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "相南",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "sominami",
+    "slug": "sagamihara/minami/sominami",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "そ",
+      "町名・大字": "相南",
+      "夜間収集": "★4丁目の一部→夜間収集",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "相武台",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "sobudai",
+    "slug": "sagamihara/minami/sobudai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "そ",
+      "町名・大字": "相武台",
+      "夜間収集": "★1丁目の一部→夜間収集",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "相武台団地",
+    "chome": null,
+    "sub": null,
+    "romaji": "sobudaidanchi",
+    "slug": "sagamihara/minami/sobudaidanchi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "そ",
+      "町名・大字": "相武台団地",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "当麻",
+    "chome": null,
+    "sub": null,
+    "romaji": "toma",
+    "slug": "sagamihara/minami/toma",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "た",
+      "町名・大字": "当麻",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "高根",
+    "chome": null,
+    "sub": null,
+    "romaji": "takane",
+    "slug": "sagamihara/chuo/takane",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "た",
+      "町名・大字": "高根",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "田名",
+    "chome": null,
+    "sub": null,
+    "romaji": "tana",
+    "slug": "sagamihara/midori/tana",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "た",
+      "町名・大字": "田名",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "田名",
+    "chome": null,
+    "sub": null,
+    "romaji": "tana",
+    "slug": "sagamihara/chuo/tana",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "た",
+      "町名・大字": "田名",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "田名塩田",
+    "chome": null,
+    "sub": null,
+    "romaji": "tanashioda",
+    "slug": "sagamihara/chuo/tanashioda",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "た",
+      "町名・大字": "田名塩田",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "谷ヶ原",
+    "chome": null,
+    "sub": null,
+    "romaji": "tanikehara",
+    "slug": "sagamihara/midori/tanikehara",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "た",
+      "町名・大字": "谷ヶ原",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "千木良",
+    "chome": null,
+    "sub": null,
+    "romaji": "chigira",
+    "slug": "sagamihara/midori/chigira",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "ち",
+      "町名・大字": "千木良",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "中央",
+    "chome": null,
+    "sub": null,
+    "romaji": "chuo",
+    "slug": "sagamihara/chuo/chuo",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ち",
+      "町名・大字": "中央",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "千代田",
+    "chome": null,
+    "sub": null,
+    "romaji": "chiyoda",
+    "slug": "sagamihara/chuo/chiyoda",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ち",
+      "町名・大字": "千代田",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "鳥屋",
+    "chome": null,
+    "sub": null,
+    "romaji": "toriya",
+    "slug": "sagamihara/midori/toriya",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "と",
+      "町名・大字": "鳥屋",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "中沢",
+    "chome": null,
+    "sub": null,
+    "romaji": "nakazawa",
+    "slug": "sagamihara/midori/nakazawa",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "な",
+      "町名・大字": "中沢",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "長竹",
+    "chome": null,
+    "sub": null,
+    "romaji": "nagatake",
+    "slug": "sagamihara/midori/nagatake",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "な",
+      "町名・大字": "長竹",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "中野(金丸)",
+    "chome": null,
+    "sub": null,
+    "romaji": "nakano-kanemaru",
+    "slug": "sagamihara/midori/nakano-kanemaru",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "な",
+      "町名・大字": "中野（金丸）",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "中野(金丸除く)",
+    "chome": null,
+    "sub": null,
+    "romaji": "nakano-kanemarunozoku",
+    "slug": "sagamihara/midori/nakano-kanemarunozoku",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "な",
+      "町名・大字": "中野（金丸除く）",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "名倉",
+    "chome": null,
+    "sub": null,
+    "romaji": "nagura",
+    "slug": "sagamihara/midori/nagura",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "な",
+      "町名・大字": "名倉",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "並木",
+    "chome": null,
+    "sub": null,
+    "romaji": "namiki",
+    "slug": "sagamihara/chuo/namiki",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "な",
+      "町名・大字": "並木",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "西大沼",
+    "chome": null,
+    "sub": null,
+    "romaji": "nishionuma",
+    "slug": "sagamihara/minami/nishionuma",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "に",
+      "町名・大字": "西大沼",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "水",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "西橋本",
+    "chome": null,
+    "sub": null,
+    "romaji": "nishihashihon",
+    "slug": "sagamihara/midori/nishihashihon",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "に",
+      "町名・大字": "西橋本",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "二本松",
+    "chome": null,
+    "sub": null,
+    "romaji": "nihommatsu",
+    "slug": "sagamihara/midori/nihommatsu",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "に",
+      "町名・大字": "二本松",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "根小屋",
+    "chome": null,
+    "sub": null,
+    "romaji": "nekoya",
+    "slug": "sagamihara/midori/nekoya",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "ね",
+      "町名・大字": "根小屋",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "橋本",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "hashimoto",
+    "slug": "sagamihara/midori/hashimoto",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "は",
+      "町名・大字": "橋本",
+      "夜間収集": "★3・6丁目の一部→夜間収集",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "橋本(夜間収集)",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "hashimoto-yakanshuushuu",
+    "slug": "sagamihara/midori/hashimoto-yakanshuushuu",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "は",
+      "町名・大字": "橋本(夜間収集)",
+      "夜間収集": "★3・6丁目の一部で実施",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "橋本台",
+    "chome": null,
+    "sub": null,
+    "romaji": "hashimotodai",
+    "slug": "sagamihara/midori/hashimotodai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "は",
+      "町名・大字": "橋本台",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "葉山島",
+    "chome": null,
+    "sub": null,
+    "romaji": "hayamashima",
+    "slug": "sagamihara/midori/hayamashima",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "は",
+      "町名・大字": "葉山島",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "原宿",
+    "chome": null,
+    "sub": null,
+    "romaji": "harajuku",
+    "slug": "sagamihara/midori/harajuku",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "は",
+      "町名・大字": "原宿",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "原宿南",
+    "chome": null,
+    "sub": null,
+    "romaji": "harajukuminami",
+    "slug": "sagamihara/midori/harajukuminami",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "は",
+      "町名・大字": "原宿南",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "東大沼",
+    "chome": null,
+    "sub": null,
+    "romaji": "todainuma",
+    "slug": "sagamihara/minami/todainuma",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "ひ",
+      "町名・大字": "東大沼",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "水",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "東橋本",
+    "chome": null,
+    "sub": null,
+    "romaji": "azumabashihon",
+    "slug": "sagamihara/midori/azumabashihon",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "ひ",
+      "町名・大字": "東橋本",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "東淵野辺",
+    "chome": null,
+    "sub": null,
+    "romaji": "higashifuchinobe",
+    "slug": "sagamihara/chuo/higashifuchinobe",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ひ",
+      "町名・大字": "東淵野辺",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "東林間",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "torinkan",
+    "slug": "sagamihara/minami/torinkan",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "ひ",
+      "町名・大字": "東林間",
+      "夜間収集": "★4～6丁目の一部→夜間収集",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "光が丘",
+    "chome": null,
+    "sub": null,
+    "romaji": "hikarigaoka",
+    "slug": "sagamihara/chuo/hikarigaoka",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ひ",
+      "町名・大字": "光が丘",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "氷川町",
+    "chome": null,
+    "sub": null,
+    "romaji": "hikawamachi",
+    "slug": "sagamihara/chuo/hikawamachi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ひ",
+      "町名・大字": "氷川町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "日連",
+    "chome": null,
+    "sub": null,
+    "romaji": "nichiren",
+    "slug": "sagamihara/midori/nichiren",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "ひ",
+      "町名・大字": "日連",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "広田",
+    "chome": null,
+    "sub": null,
+    "romaji": "hirota",
+    "slug": "sagamihara/midori/hirota",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "ひ",
+      "町名・大字": "広田",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "富士見",
+    "chome": null,
+    "sub": null,
+    "romaji": "fujimi",
+    "slug": "sagamihara/chuo/fujimi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ふ",
+      "町名・大字": "富士見",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "双葉",
+    "chome": null,
+    "sub": null,
+    "romaji": "futaba",
+    "slug": "sagamihara/minami/futaba",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "ふ",
+      "町名・大字": "双葉",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "淵野辺",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "fuchinobe",
+    "slug": "sagamihara/chuo/fuchinobe",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ふ",
+      "町名・大字": "淵野辺",
+      "夜間収集": "★淵野辺3～４丁目の一部→夜間収集",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "淵野辺",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "fuchinobe",
+    "slug": "sagamihara/chuo/fuchinobe-2",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ふ",
+      "町名・大字": "淵野辺",
+      "夜間収集": "★淵野辺５丁目の一部→夜間収集",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "淵野辺本町",
+    "chome": null,
+    "sub": null,
+    "romaji": "fuchinobehoncho",
+    "slug": "sagamihara/chuo/fuchinobehoncho",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ふ",
+      "町名・大字": "淵野辺本町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "淵野辺本町",
+    "chome": null,
+    "sub": null,
+    "romaji": "fuchinobehoncho",
+    "slug": "sagamihara/chuo/fuchinobehoncho-2",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ふ",
+      "町名・大字": "淵野辺本町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "文京",
+    "chome": null,
+    "sub": null,
+    "romaji": "bunkyou",
+    "slug": "sagamihara/minami/bunkyou",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "ふ",
+      "町名・大字": "文京",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "星が丘",
+    "chome": null,
+    "sub": null,
+    "romaji": "hoshigaoka",
+    "slug": "sagamihara/chuo/hoshigaoka",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ほ",
+      "町名・大字": "星が丘",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "牧野",
+    "chome": null,
+    "sub": null,
+    "romaji": "makino",
+    "slug": "sagamihara/midori/makino",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "ま",
+      "町名・大字": "牧野",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "又野",
+    "chome": null,
+    "sub": null,
+    "romaji": "matano",
+    "slug": "sagamihara/midori/matano",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "ま",
+      "町名・大字": "又野",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "町屋",
+    "chome": null,
+    "sub": null,
+    "romaji": "machiya",
+    "slug": "sagamihara/midori/machiya",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "ま",
+      "町名・大字": "町屋",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "松が枝町",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "matsugaedamachi",
+    "slug": "sagamihara/minami/matsugaedamachi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "ま",
+      "町名・大字": "松が枝町",
+      "夜間収集": "★松が枝町の一部→夜間収集",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "松が丘",
+    "chome": null,
+    "sub": null,
+    "romaji": "matsugaoka",
+    "slug": "sagamihara/chuo/matsugaoka",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "ま",
+      "町名・大字": "松が丘",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "三井",
+    "chome": null,
+    "sub": null,
+    "romaji": "mitsui",
+    "slug": "sagamihara/midori/mitsui",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "み",
+      "町名・大字": "三井",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "三ケ木",
+    "chome": null,
+    "sub": null,
+    "romaji": "sankeki",
+    "slug": "sagamihara/midori/sankeki",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "み",
+      "町名・大字": "三ケ木",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "御園",
+    "chome": null,
+    "sub": null,
+    "romaji": "misono",
+    "slug": "sagamihara/minami/misono",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "み",
+      "町名・大字": "御園",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "緑が丘",
+    "chome": null,
+    "sub": null,
+    "romaji": "midorigaoka",
+    "slug": "sagamihara/chuo/midorigaoka",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "み",
+      "町名・大字": "緑が丘",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "南台",
+    "chome": null,
+    "sub": null,
+    "romaji": "minamidai",
+    "slug": "sagamihara/minami/minamidai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "み",
+      "町名・大字": "南台",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "南橋本",
+    "chome": null,
+    "sub": null,
+    "romaji": "nankyouhon",
+    "slug": "sagamihara/chuo/nankyouhon",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "み",
+      "町名・大字": "南橋本",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "宮下",
+    "chome": null,
+    "sub": null,
+    "romaji": "miyashita",
+    "slug": "sagamihara/chuo/miyashita",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "み",
+      "町名・大字": "宮下",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "宮下本町",
+    "chome": null,
+    "sub": null,
+    "romaji": "miyashitahoncho",
+    "slug": "sagamihara/chuo/miyashitahoncho",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "み",
+      "町名・大字": "宮下本町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "火",
+      "容器包装プラ": "金"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "向原",
+    "chome": null,
+    "sub": null,
+    "romaji": "mukaihara",
+    "slug": "sagamihara/midori/mukaihara",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "む",
+      "町名・大字": "向原",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "元橋本町",
+    "chome": null,
+    "sub": null,
+    "romaji": "motohashimotomachi",
+    "slug": "sagamihara/midori/motohashimotomachi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "も",
+      "町名・大字": "元橋本町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "弥栄",
+    "chome": null,
+    "sub": null,
+    "romaji": "iyasaka",
+    "slug": "sagamihara/chuo/iyasaka",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "や",
+      "町名・大字": "弥栄",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "土",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "矢部",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "yabe",
+    "slug": "sagamihara/chuo/yabe",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "や",
+      "町名・大字": "矢部",
+      "夜間収集": "★矢部2・3丁目の一部→夜間収集",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "矢部(夜間収集)",
+    "chome": null,
+    "sub": "夜間収集地区",
+    "romaji": "yabe-yakanshuushuu",
+    "slug": "sagamihara/chuo/yabe-yakanshuushuu",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": "夜間"
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "夜間",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "や",
+      "町名・大字": "矢部(夜間収集)",
+      "夜間収集": "★矢部2・3丁目の一部で実施",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "矢部新町",
+    "chome": null,
+    "sub": null,
+    "romaji": "yabeshimmachi",
+    "slug": "sagamihara/chuo/yabeshimmachi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "火"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "や",
+      "町名・大字": "矢部新町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "火"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "豊町",
+    "chome": null,
+    "sub": null,
+    "romaji": "yutakacho",
+    "slug": "sagamihara/minami/yutakacho",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "ゆ",
+      "町名・大字": "豊町",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "陽光台",
+    "chome": null,
+    "sub": null,
+    "romaji": "youkodai",
+    "slug": "sagamihara/chuo/youkodai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "よ",
+      "町名・大字": "陽光台",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "金",
+      "容器包装プラ": "水"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "横山",
+    "chome": null,
+    "sub": null,
+    "romaji": "yokoyama",
+    "slug": "sagamihara/chuo/yokoyama",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "よ",
+      "町名・大字": "横山",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "横山台",
+    "chome": null,
+    "sub": null,
+    "romaji": "yokoyamadai",
+    "slug": "sagamihara/chuo/yokoyamadai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "よ",
+      "町名・大字": "横山台",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "吉野",
+    "chome": null,
+    "sub": null,
+    "romaji": "yoshino",
+    "slug": "sagamihara/midori/yoshino",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "よ",
+      "町名・大字": "吉野",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "中央区",
+    "ward_en": "chuo",
+    "town": "由野台",
+    "chome": null,
+    "sub": null,
+    "romaji": "yunodai",
+    "slug": "sagamihara/chuo/yunodai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "中",
+      "５０音": "よ",
+      "町名・大字": "由野台",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "与瀬",
+    "chome": null,
+    "sub": null,
+    "romaji": "yose",
+    "slug": "sagamihara/midori/yose",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "よ",
+      "町名・大字": "与瀬",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "与瀬本町",
+    "chome": null,
+    "sub": null,
+    "romaji": "yosehoncho",
+    "slug": "sagamihara/midori/yosehoncho",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "月",
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "木"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "よ",
+      "町名・大字": "与瀬本町",
+      "夜間収集": "",
+      "一般ごみ": "月・木",
+      "乾電池": "木",
+      "資源": "水",
+      "容器包装プラ": "土"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "若葉台",
+    "chome": null,
+    "sub": null,
+    "romaji": "wakabadai",
+    "slug": "sagamihara/midori/wakabadai",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "水",
+          "土"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "土"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "わ",
+      "町名・大字": "若葉台",
+      "夜間収集": "",
+      "一般ごみ": "水・土",
+      "乾電池": "土",
+      "資源": "木",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "南区",
+    "ward_en": "minami",
+    "town": "若松",
+    "chome": null,
+    "sub": null,
+    "romaji": "wakamatsu",
+    "slug": "sagamihara/minami/wakamatsu",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "水"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "南",
+      "５０音": "わ",
+      "町名・大字": "若松",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "水",
+      "容器包装プラ": "月"
+    }
+  },
+  {
+    "pref": "神奈川県",
+    "city": "相模原市",
+    "city_en": "sagamihara",
+    "ward": "緑区",
+    "ward_en": "midori",
+    "town": "若柳",
+    "chome": null,
+    "sub": null,
+    "romaji": "wakayanagi",
+    "slug": "sagamihara/midori/wakayanagi",
+    "types": {
+      "burnable": {
+        "label": "一般ごみ",
+        "days": [
+          "火",
+          "金"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "resource": {
+        "label": "資源",
+        "days": [
+          "月"
+        ],
+        "weeks": null,
+        "time": null
+      },
+      "plastic": {
+        "label": "容器包装プラ",
+        "days": [
+          "木"
+        ],
+        "weeks": null,
+        "time": null
+      }
+    },
+    "rules": {
+      "holiday_collection": "祝日も収集（年末年始除く）",
+      "time_by": "8:30",
+      "yearend": "12/31~1/3 休止",
+      "battery_day": "金"
+    },
+    "source": {
+      "url": "https://opendata.city.sagamihara.kanagawa.jp/dataset/d1172a26-2e3e-4814-9584-9a82e8a2d96b/resource/9be3d5c1-ecc6-4451-8912-50a8818fdab7/download/gomisyusyu.csv",
+      "fetched": "2026-09-17",
+      "basis": "official_csv"
+    },
+    "raw": {
+      "区": "緑",
+      "５０音": "わ",
+      "町名・大字": "若柳",
+      "夜間収集": "",
+      "一般ごみ": "火・金",
+      "乾電池": "金",
+      "資源": "月",
+      "容器包装プラ": "木"
+    }
+  }
+]

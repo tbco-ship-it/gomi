@@ -676,7 +676,7 @@ header.top{position:relative}
 .stage{max-width:640px;margin:0 auto}
 .stage .calc-grid{grid-template-columns:1fr}
 html.landing .stage{display:flex;flex-direction:column;justify-content:center;min-height:calc(100svh - var(--hdr,60px) - 8px)}
-html.landing .stage .hero{padding-top:0}
+.stage .hero{padding-top:0}/* no padding jump when the landing state ends on small screens */
 html.landing .more{display:none}
 
 /* Remembered address: one-tap chip under the hint; result stays hidden until tapped */

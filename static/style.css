@@ -654,9 +654,9 @@ header.top{position:relative}
 
 /* GPS lookup: secondary pill under the address field */
 .geo-row{display:flex;flex-direction:column;gap:8px;margin-top:12px}
-.geo{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 16px;border-radius:var(--r-input);border:1px solid var(--line);background:var(--surface-2);color:var(--text);font:inherit;font-size:.92rem;font-weight:600;cursor:pointer;transition:background .15s,box-shadow .15s}
-.geo:hover{background:var(--surface)}
-.geo:focus-visible{outline:none;box-shadow:0 0 0 4px var(--blue-soft);border-color:var(--blue)}
+.geo{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 16px;border-radius:var(--r-input);border:0;background:var(--blue);color:#fff;font:inherit;font-size:.92rem;font-weight:600;cursor:pointer;box-shadow:0 4px 12px rgba(49,130,246,.18);transition:background .15s,box-shadow .15s}
+.geo:hover{background:var(--blue-press)}
+.geo:focus-visible{outline:none;box-shadow:0 0 0 4px var(--blue-soft)}
 .geo[disabled]{opacity:.6;cursor:progress}
 .geo-msg{color:var(--text-2);font-size:.9rem;line-height:1.4}
 .geo-msg.err{color:var(--red,#f04452)}

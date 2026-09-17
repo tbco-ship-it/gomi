@@ -658,6 +658,13 @@ header.top{position:relative}
 .geo:hover{background:var(--blue-press)}
 .geo:focus-visible{outline:none;box-shadow:0 0 0 4px var(--blue-soft)}
 .geo[disabled]{opacity:.6;cursor:progress}
+.geo{position:relative}
+.geo.busy{opacity:1;cursor:progress;background:var(--blue-press)}
+.geo.busy::before{content:"";position:absolute;inset:0;border-radius:inherit;box-shadow:0 0 0 0 rgba(49,130,246,.55);animation:geo-pulse 1.4s ease-out infinite}
+.geo.busy svg{animation:geo-spin 1.2s linear infinite}
+@keyframes geo-pulse{0%{box-shadow:0 0 0 0 rgba(49,130,246,.55)}100%{box-shadow:0 0 0 14px rgba(49,130,246,0)}}
+@keyframes geo-spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.geo.busy::before,.geo.busy svg{animation:none}}
 .geo-msg{color:var(--text-2);font-size:.9rem;line-height:1.4}
 .geo-msg.err{color:var(--red,#f04452)}
 .calc>.field+.geo-row{margin-top:12px}

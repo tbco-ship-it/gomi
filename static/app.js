@@ -159,8 +159,10 @@
     return { status: 'pick', list: same.slice(0, 10) };
   }
   const say = (k, extra, err) => { geoMsg.textContent = (k ? T(k) : '') + (extra || ''); geoMsg.classList.toggle('err', !!err); };
+  const geoLabel = geoBtn.querySelector('span'), geoIdle = geoLabel.textContent;
+  const busy = on => { geoBtn.disabled = on; geoBtn.classList.toggle('busy', on); geoLabel.textContent = on ? T('geo_wait') : (EN() ? I18N.geo_btn : geoIdle); };
   geoBtn.addEventListener('click', () => {
-    geoBtn.disabled = true; say('geo_wait');
+    busy(true); say('');
     navigator.geolocation.getCurrentPosition(async pos => {
       try {
         const { latitude: lat, longitude: lon } = pos.coords;
@@ -172,7 +174,7 @@
         else if (res.status === 'notown') { input.value = r.lv01Nm; input.focus(); say('geo_notown', '', true); }
         else say('geo_nocity', '', true);
       } catch (e) { say('geo_fail', '', true); }
-      finally { geoBtn.disabled = false; }
-    }, err => { geoBtn.disabled = false; say(err.code === 1 ? 'geo_denied' : 'geo_fail', '', true); }, { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 });
+      finally { busy(false); }
+    }, err => { busy(false); say(err.code === 1 ? 'geo_denied' : 'geo_fail', '', true); }, { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 });
   });
 })();

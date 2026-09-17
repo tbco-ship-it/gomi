@@ -69,6 +69,7 @@ def nfkc(s):
 def split_addr(r):
     """(town, chome, sub) — Osaka towns without 丁目 carry the 番地 in `chome` ("1番"); that is a sub-area, not a page."""
     town, chome, sub = nfkc(r["town"]), nfkc(r.get("chome")), nfkc(r.get("sub"))
+    sub = re.sub(r"[「」]|\(?朝?\d{1,2}時(\d{1,2}分)?までにお出しください。?\)?", "", sub).strip(" 、,")  # 岡山: stray quotes / time notes in sub
     if re.fullmatch(r"\d+番.*", chome):
         sub, chome = (chome + (" " + sub if sub else "")), ""
     return town, chome, sub

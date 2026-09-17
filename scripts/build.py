@@ -168,7 +168,18 @@ def main():
             labels.setdefault(g["city_en"], {}).setdefault(t, v.get("label"))
     items = [[g["city_en"], g["ward"], g["ward_en"], g["town"], g["chome"], g["romaji_full"], g["kana"], g["slug"], g["en"],
               {t: [v.get("days") or [], v.get("weeks"), v.get("time")] for t, v in g["main"]["types"].items()}] for g in groups.values()]
-    index = {"cities": {ce: c["city"] for ce, c in cities.items()}, "labels": labels, "items": items}
+    # GPS lookup: GSI reverse-geocoder muniCd (JIS 5-digit) -> [city_en, ward] for covered wards only.
+    # data/muni_codes.json is GSI's own table (https://maps.gsi.go.jp/js/muni.js), vendored 2026-09-17.
+    muni_all = json.loads((ROOT / "data/muni_codes.json").read_text())
+    muni = {}
+    for ce, c in cities.items():
+        for w in c["wards"].values():
+            wn = re.sub(r"区.*$", "区", w["ward"])  # 名古屋 '緑区大高町' rows share 緑区's code
+            want = f"{c['city']} {wn}" if w["ward"] else c["city"]
+            for code, (_pref, name) in muni_all.items():
+                if name == want and code not in muni:
+                    muni[code] = [ce, wn]
+    index = {"cities": {ce: c["city"] for ce, c in cities.items()}, "labels": labels, "items": items, "muni": muni}
     (DIST / "static/index.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")))
 
     urls = []

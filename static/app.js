@@ -16,7 +16,11 @@
     pick_title: 'Pick your address', pick_label: 'Town / chome', pick_hint: 'Kanji, hiragana or romaji all work. Your last address is remembered.',
     cities_h2: 'Covered cities', cities_all: 'All', today_tomorrow: 'Today & tomorrow', ics: 'Add to calendar (.ics)', remember: 'Remember this address',
     types_h2: 'Collection day by type', exc_h2: 'Differences by block', near_h2: 'Nearby areas', placeholder: 'e.g. Oyodonaka, おおよどなか, 大淀中',
+    geo_btn: 'Use my location', geo_wait: 'Finding your location\u2026', geo_denied: 'Location access was denied. Type your town name instead.', geo_fail: 'Could not resolve your location. Type your town name instead.',
+    geo_nocity: 'This city is not covered yet. See the city list below.', geo_pick: 'Close match \u2014 pick your block:', geo_notown: 'Town not found. Try another spelling:', geo_ok: 'Location: ',
   };
+  const JAS = { geo_wait: '現在地を取得中…', geo_denied: '位置情報が許可されていません。町名を入力してください。', geo_fail: '現在地を判定できませんでした。町名を入力してください。', geo_nocity: 'この場所の市区はまだ対応していません(下の対応市をご覧ください)。', geo_pick: '近い候補です。丁目を選んでください。', geo_notown: '町名を特定できませんでした。表記を変えてみてください。', geo_ok: '現在地: ' };
+  const T = k => EN() ? I18N[k] : JAS[k];
   const JA = {}; // filled from the DOM on first toggle
   let lang = localStorage.getItem('gomi.lang') || 'ja';
   const EN = () => lang === 'en';
@@ -97,7 +101,10 @@
     const toks = q.split(/[\s　、,]+/).map(norm).filter(Boolean); const nq = toks.join('');
     if (!nq) { items = []; menu.innerHTML = `<li class="empty">${EN() ? 'Type a town name (e.g. Oyodonaka) or a ward.' : '町名(例: 大淀中)や区名を入れてください。'}</li>`; menu.hidden = false; return; }
     const score = e => { let s = 0; for (const t of toks) { if (e.k2.startsWith(t)) s += 3; else if (e.kn.startsWith(t)) s += 2; else if (e.k.includes(t) || e.rk.includes(t) || e.kn.includes(t)) s += 1; else return -1; } return s; };
-    items = D.map(e => [score(e), e]).filter(x => x[0] > 0).sort((a, b) => b[0] - a[0] || a[1].k.localeCompare(b[1].k, 'ja')).slice(0, 10).map(x => x[1]);
+    showItems(D.map(e => [score(e), e]).filter(x => x[0] > 0).sort((a, b) => b[0] - a[0] || a[1].k.localeCompare(b[1].k, 'ja')).slice(0, 10).map(x => x[1]));
+  }
+  function showItems(list) {
+    items = list;
     menu.innerHTML = items.length ? items.map((e, i) => `<li role="option" data-i="${i}" ${i === active ? 'aria-selected="true"' : ''}>${e.name}<small class="muted"> ${e.cn}</small><span class="ro">${e.en} · ${e.c[0].toUpperCase() + e.c.slice(1)}</span></li>`).join('') : `<li class="empty">${EN() ? 'No match. Try the ward name or another spelling.' : '見つかりません。区名や漢字表記を変えてみてください。'}</li>`;
     menu.hidden = false; input.setAttribute('aria-expanded', 'true');
   }
@@ -120,4 +127,52 @@
   input.addEventListener('blur', () => setTimeout(close, 120));
   const remembered = D.find(e => e.s === localStorage.getItem('gomi.slug')) || D.find(e => e.s === 'osaka/kita/oyodonaka-2');
   if (remembered) choose(remembered);
+
+  // GPS: browser position → GSI reverse geocoder (muniCd + 町丁目) → index entry in that ward.
+  const geoBtn = $('geo'), geoMsg = $('geo-msg');
+  if (!geoBtn) return;
+  if (!('geolocation' in navigator)) { geoBtn.hidden = true; return; }
+  const KN = { 一: 1, 二: 2, 三: 3, 四: 4, 五: 5, 六: 6, 七: 7, 八: 8, 九: 9 };
+  // 西新宿二丁目 → 西新宿2丁目 (only when a 丁目 follows, so 一番町 etc. stay as written)
+  const kanji2num = s => /[一二三四五六七八九十]丁目/.test(s) ? s.replace(/[一二三四五六七八九]?十[一二三四五六七八九]?|[一二三四五六七八九]/g, t => { if (t.includes('十')) { const [a, b] = t.split('十'); return String((a ? KN[a] : 1) * 10 + (b ? KN[b] : 0)); } return String(KN[t]); }) : s;
+  const nums = s => (s.match(/\d+/g) || []).map(Number);
+  // "1~4丁目" → [1,2,3,4]; "2・3丁目" / "1丁目、2丁目" → [2,3]; "西1丁目~西9丁目" → [1..9]
+  const chomeSet = ch => ch.split(/[、・,]/).flatMap(tok => { const n = nums(tok); if (n.length === 2 && /[~〜～から]/.test(tok)) { const r = []; for (let i = n[0]; i <= n[1]; i++) r.push(i); return r; } return n; });
+  const letters = s => s.replace(/[\d丁目~〜～から・、,の\s]/g, '');
+  function locate(muniCd, lv01) {
+    const cw = RAW.muni[muniCd]; if (!cw) return { status: 'nocity' };
+    const [ce, w] = cw;
+    const q = norm(kanji2num(lv01)); // 西新宿2 / 北1条西2 / 手取本町
+    const cands = D.filter(e => e.c === ce && (!w || e.w.startsWith(w)));
+    const exact = cands.filter(e => norm(e.t + e.ch) === q);
+    if (exact.length === 1) return { status: 'ok', e: exact[0] };
+    const towns = cands.filter(e => q.startsWith(norm(e.t)));
+    if (!towns.length) return { status: 'notown' };
+    const L = Math.max(...towns.map(e => norm(e.t).length));
+    const same = towns.filter(e => norm(e.t).length === L);
+    const rest = q.slice(L), n = nums(rest)[0], lt = letters(rest);
+    const hit = same.filter(e => e.ch && n !== undefined && chomeSet(e.ch).includes(n) && [...lt].every(c => letters(e.ch).includes(c)));
+    if (hit.length === 1) return { status: 'ok', e: hit[0] };
+    if (hit.length > 1) return { status: 'pick', list: hit };
+    const whole = same.filter(e => !e.ch);
+    if (whole.length === 1 && same.length === 1) return { status: 'ok', e: whole[0] };
+    return { status: 'pick', list: same.slice(0, 10) };
+  }
+  const say = (k, extra, err) => { geoMsg.textContent = (k ? T(k) : '') + (extra || ''); geoMsg.classList.toggle('err', !!err); };
+  geoBtn.addEventListener('click', () => {
+    geoBtn.disabled = true; say('geo_wait');
+    navigator.geolocation.getCurrentPosition(async pos => {
+      try {
+        const { latitude: lat, longitude: lon } = pos.coords;
+        const r = (await (await fetch(`https://mreversegeocoder.gsi.go.jp/reverse-geocoder/LonLatToAddress?lat=${lat}&lon=${lon}`)).json()).results || {};
+        if (!r.muniCd) { say('geo_fail', '', true); return; }
+        const res = locate(r.muniCd, r.lv01Nm || '');
+        if (res.status === 'ok') { choose(res.e); say('geo_ok', r.lv01Nm); }
+        else if (res.status === 'pick') { input.value = r.lv01Nm; input.focus(); showItems(res.list); say('geo_pick'); }
+        else if (res.status === 'notown') { input.value = r.lv01Nm; input.focus(); say('geo_notown', '', true); }
+        else say('geo_nocity', '', true);
+      } catch (e) { say('geo_fail', '', true); }
+      finally { geoBtn.disabled = false; }
+    }, err => { geoBtn.disabled = false; say(err.code === 1 ? 'geo_denied' : 'geo_fail', '', true); }, { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 });
+  });
 })();

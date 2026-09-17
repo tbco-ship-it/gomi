@@ -651,3 +651,13 @@ header.top{position:relative}
 .hero.compact h1{font-size:2rem;margin:.7em 0 .3em}
 .hero.compact p{font-size:.98rem;max-width:40ch;margin:0 0 6px}
 @media(max-width:560px){.hero.compact h1{font-size:1.7rem}}
+
+/* GPS lookup: secondary pill under the address field */
+.geo-row{display:flex;flex-direction:column;gap:8px;margin-top:12px}
+.geo{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 16px;border-radius:var(--r-input);border:1px solid var(--line);background:var(--surface-2);color:var(--text);font:inherit;font-size:.92rem;font-weight:600;cursor:pointer;transition:background .15s,box-shadow .15s}
+.geo:hover{background:var(--surface)}
+.geo:focus-visible{outline:none;box-shadow:0 0 0 4px var(--blue-soft);border-color:var(--blue)}
+.geo[disabled]{opacity:.6;cursor:progress}
+.geo-msg{color:var(--text-2);font-size:.9rem;line-height:1.4}
+.geo-msg.err{color:var(--red,#f04452)}
+.calc>.field+.geo-row{margin-top:12px}

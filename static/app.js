@@ -46,6 +46,20 @@
   const nextOf = (t, from) => { for (let i = 0; i < 70; i++) { const d = addDays(from, i); if (on(t, d)) return d; } return null; };
   const rel = d => { const n = Math.round((d - now) / 864e5); return EN() ? (n === 0 ? 'Today' : n === 1 ? 'Tomorrow' : md(d)) : (n === 0 ? '今日' : n === 1 ? '明日' : n === 2 ? '明後日' : md(d)); };
 
+  // Home: the first result ends the landing state — hero + card glide up from centre (FLIP on padding-top) while the hidden sections below are armed to reveal.
+  function leaveLanding() {
+    const html = document.documentElement; if (!html.classList.contains('landing')) return;
+    const stage = $('stage'), hero = stage.firstElementChild;
+    const y0 = hero.getBoundingClientRect().top;
+    html.classList.remove('landing');
+    const dy = y0 - hero.getBoundingClientRect().top;
+    if (dy > 0 && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      stage.style.transition = 'none'; stage.style.paddingTop = dy + 'px'; void stage.offsetHeight;
+      stage.style.transition = 'padding-top 1s cubic-bezier(.16,1,.3,1)'; stage.style.paddingTop = '0px';
+      stage.addEventListener('transitionend', () => { stage.style.transition = ''; stage.style.paddingTop = ''; }, { once: true });
+    }
+    if (window.__reveal) window.__reveal($('more'), true, 500);
+  }
   function render(types, name, slug, root) {
     const today = typesOn(types, now), tomorrow = typesOn(types, addDays(now, 1));
     const lbl = k => EN() ? TYPE_EN[k] : types[k].label;
@@ -58,6 +72,7 @@
     const upcoming = t0.map(([k, d]) => `<div class="item"><span class="dot" style="background:${COLOR[k]}"></span><span class="txt"><b>${lbl(k)}</b>${EN() ? `<span class="tsub">${types[k].label}</span>` : ''}${types[k].time ? `<span class="tsub">${types[k].time}</span>` : ''}</span><span class="when">${rel(d)}</span></div>`).join('');
     const week = Array.from({ length: 7 }, (_, i) => { const d = addDays(now, i); const ks = typesOn(types, d); return `<div class="day${i === 0 ? ' today' : ''}"><span class="dow">${i === 0 ? (EN() ? 'Today' : '今日') : (EN() ? DOW_EN[d.getDay()] : JDAY[d.getDay()])}</span><span class="dnum">${d.getDate()}</span><span class="dots">${ks.map(k => `<span class="tag" style="background:${TAG[k]}">${EN() ? SHORT_EN[k] : short(k, types[k].label)}</span>`).join('')}</span></div>`; }).join('');
     if (root) {
+      leaveLanding();
       root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${head}</span></div><p class="sheet-title">${sub}</p><div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">${EN() ? 'Open this address (block differences · .ics)' : 'この住所のページ(番地の違い・.ics)'}</a></p></section><div class="week">${week}</div>`;
       // Result rises in Toss-style: label → headline → sub → items → link → week, 90ms apart.
       root.classList.remove('is-in'); root.classList.add('reveal');
@@ -129,9 +144,9 @@
   });
   menu.addEventListener('mousedown', ev => { const li = ev.target.closest('li[data-i]'); if (li) { choose(items[+li.dataset.i]); ev.preventDefault(); } });
   input.addEventListener('blur', () => setTimeout(close, 120));
-  // First visit: only the search card. A remembered address rises in on its own after the card has painted.
+  // First visit: only the centred search card. A remembered address glides in on its own once the card has painted.
   const remembered = D.find(e => e.s === localStorage.getItem('gomi.slug'));
-  if (remembered) setTimeout(() => choose(remembered), 250);
+  if (remembered) setTimeout(() => choose(remembered), 400);
 
   // GPS: browser position → GSI reverse geocoder (muniCd + 町丁目) → index entry in that ward.
   const geoBtn = $('geo'), geoMsg = $('geo-msg');

@@ -13,9 +13,9 @@
   const SHORT_EN = { burnable: 'Burn', resource: 'Cans', plastic: 'Plastic', paper_cloth: 'Paper', nonburnable: 'Non-burn', bulky: 'Bulky' };
   const I18N = {
     nav_search: 'Search by address', nav_cities: 'Covered cities', nav_nenmatsu: 'Year-end', hero_h1: 'Garbage day lookup', hero_sub: 'Type your town name to see what goes out today and tomorrow, plus this week\u2019s pickup days. Official city data.',
-    pick_title: 'Pick your address', pick_label: 'Town / chome', pick_hint: 'Kanji, hiragana or romaji all work. Your last address is remembered.',
+    pick_title: 'Pick your address', pick_label: 'Town / chome', pick_hint: 'Kanji, hiragana or romaji all work. Your last address is remembered.', last_lbl: 'Last address',
     cities_h2: 'Covered cities', cities_all: 'All', today_tomorrow: 'Today & tomorrow', ics: 'Add to calendar (.ics)', remember: 'Remember this address',
-    types_h2: 'Collection day by type', exc_h2: 'Differences by block', near_h2: 'Nearby areas', placeholder: 'e.g. Oyodonaka, おおよどなか, 大淀中',
+    types_h2: 'Collection day by type', exc_h2: 'Differences by block', near_h2: 'Nearby areas', placeholder: 'Type an address or tap below',
     geo_btn: 'Use my location', geo_wait: 'Finding your location\u2026', geo_denied: 'Location access was denied. Type your town name instead.', geo_fail: 'Could not resolve your location. Type your town name instead.',
     geo_nocity: 'This city is not covered yet. See the city list below.', geo_pick: 'Close match \u2014 pick your block:', geo_notown: 'Town not found. Try another spelling:', geo_ok: 'Location: ',
   };
@@ -144,9 +144,9 @@
   });
   menu.addEventListener('mousedown', ev => { const li = ev.target.closest('li[data-i]'); if (li) { choose(items[+li.dataset.i]); ev.preventDefault(); } });
   input.addEventListener('blur', () => setTimeout(close, 120));
-  // First visit: only the centred search card. A remembered address glides in on its own once the card has painted.
+  // First visit: only the centred search card, nothing pre-filled. A remembered address is offered as a one-tap chip; the result only appears after the tap.
   const remembered = D.find(e => e.s === localStorage.getItem('gomi.slug'));
-  if (remembered) setTimeout(() => choose(remembered), 400);
+  if (remembered) { $('last-name').textContent = remembered.cn + remembered.name; $('last').hidden = false; $('last').addEventListener('click', () => choose(remembered)); }
 
   // GPS: browser position → GSI reverse geocoder (muniCd + 町丁目) → index entry in that ward.
   const geoBtn = $('geo'), geoMsg = $('geo-msg');

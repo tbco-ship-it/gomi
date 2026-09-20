@@ -1,6 +1,6 @@
 {% extends "base.html" %}
-{% block title %}{{ c.city }}{{ w.ward }}のごみ収集日 — {{ w.towns|length }}町丁目の曜日一覧 | {{ site }}{% endblock %}
-{% block description %}{{ c.city }}{{ w.ward }}の町丁目ごとのごみ収集曜日。町名を選ぶと{{ TYPE_ORDER|length }}種類のごみの曜日・時間と番地ごとの違いが分かります。{% endblock %}
+{% block title %}{{ c.city }}{{ w.ward }}のごみ収集日 — {{ w.towns|length }}町丁目の曜日一覧 | {{ w.ward_en|title }}-ku, {{ c.city_en|title }} garbage collection days by neighbourhood | {{ site }}{% endblock %}
+{% block description %}{{ c.city }}{{ w.ward }}の町丁目ごとのごみ収集曜日。町名を選ぶと{{ TYPE_ORDER|length }}種類のごみの曜日・時間と番地ごとの違いが分かります。 Garbage and recycling collection days for every neighbourhood (chome) in {{ w.ward_en|title }}-ku, {{ c.city_en|title }}, with English labels.{% endblock %}
 {% block content %}
 <nav class="crumbs"><a href="{{ base }}">ホーム</a> › <a href="{{ base }}{{ c.city_en }}/">{{ c.city }}</a> › {{ w.ward }}</nav>
 <h1>{{ w.ward }}のごみ収集日</h1>

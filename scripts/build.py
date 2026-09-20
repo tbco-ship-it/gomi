@@ -41,6 +41,20 @@ ROOT = Path(__file__).resolve().parent.parent
 DIST = ROOT / "dist"
 SITE = "ゴミの日ナビ"
 JDAY = "月火水木金土日"
+DAY_EN = dict(zip("月火水木金土日", ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]))
+ORD_EN = {1: "1st", 2: "2nd", 3: "3rd", 4: "4th", 5: "5th"}
+
+
+def en_schedule(types):
+    """English one-liner for the foreign-resident lane: 'Burnable Mon & Thu · Plastic Sat · Non-burnable 2nd & 4th Fri'."""
+    parts = []
+    for t in TYPE_ORDER:
+        v = types.get(t)
+        if not v or not v.get("days"):
+            continue
+        wk = (" & ".join(ORD_EN.get(w, str(w)) for w in v["weeks"]) + " ") if v.get("weeks") else ""
+        parts.append(f"{TYPE_EN[t].replace(' · ', '/')} {wk}{' & '.join(DAY_EN.get(d, d) for d in v['days'])}")
+    return " · ".join(parts)
 TYPE_ORDER = ["burnable", "resource", "plastic", "paper_cloth", "nonburnable", "bulky"]
 TYPE_EN = {"burnable": "Burnable", "resource": "Cans · bottles · PET", "plastic": "Plastic", "paper_cloth": "Paper & cloth", "nonburnable": "Non-burnable", "bulky": "Bulky (reservation)"}
 TYPE_COLOR = {"burnable": "#ff7a00", "resource": "#3182f6", "plastic": "#00b06f", "paper_cloth": "#8b5cf6", "nonburnable": "#6b7684", "bulky": "#f04452"}
@@ -161,6 +175,12 @@ def main():
         g["romaji_full"] = " ".join(x for x in (wr, tr, g["romaji"]) if x)
         nums = re.findall(r"\d+", g["chome"])
         g["en"] = ", ".join(x for x in ((g["ward_en"] or g["city_en"]).title(), g["romaji"].title() + (" " + "-".join(nums) if nums else "")) if x)
+        rm = re.match(r"(.*?)(\d+)$", g["romaji"])  # '曙1,2丁目' romanises as akebono1 + chome ',2丁目': put the digit back with the chome numbers
+        en_town, en_nums = (rm.group(1), [rm.group(2)] + nums) if rm else (g["romaji"], nums)
+        g["en_place"] = ", ".join(x for x in (en_town.title() + (" " + "-".join(en_nums) + "-chome" if en_nums else ""), (g["ward_en"].title() + "-ku" if g["ward_en"] else ""), g["city_en"].title() + ("-ku" if not g["ward_en"] else "")) if x)
+        g["en_sched"] = en_schedule(g["main"]["types"])
+        tb = (g.get("rules") or {}).get("time_by") or ""
+        g["en_time"] = tb if re.fullmatch(r"\d{1,2}:\d{2}", tb) else ""  # '日没から夜12時まで' style rules stay Japanese-only
     # compact search index: per-city label dictionary + one small entry per town group
     labels = {}
     for g in groups.values():

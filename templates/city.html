@@ -1,6 +1,6 @@
 {% extends "base.html" %}
-{% block title %}{{ c.city }}のごみ収集日 — {{ c.wards|length }}区 {{ '{:,}'.format(c.wards.values()|map(attribute='towns')|map('length')|sum) }}町丁目を住所で検索 | {{ site }}{% endblock %}
-{% block description %}{{ c.city }}{{ c.wards|length }}区のごみ収集日を町丁目単位で。区を選んで町名をたどるか、トップの検索で住所を入れると今日・明日に出せるごみが分かります。{% endblock %}
+{% block title %}{{ c.city }}のごみ収集日 — {{ c.wards|length }}区 {{ '{:,}'.format(c.wards.values()|map(attribute='towns')|map('length')|sum) }}町丁目を住所で検索 | {{ c.city_en|title }} garbage collection days | {{ site }}{% endblock %}
+{% block description %}{{ c.city }}{{ c.wards|length }}区のごみ収集日を町丁目単位で。区を選んで町名をたどるか、トップの検索で住所を入れると今日・明日に出せるごみが分かります。 {{ c.city_en|title }} garbage collection schedule by ward and neighbourhood, in Japanese and English.{% endblock %}
 {% block content %}
 <nav class="crumbs"><a href="{{ base }}">ホーム</a> › {{ c.city }}</nav>
 <h1>{{ c.city }}のごみ収集日</h1>

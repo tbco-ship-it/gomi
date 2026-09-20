@@ -55,9 +55,9 @@ def en_schedule(types):
         wk = (" & ".join(ORD_EN.get(w, str(w)) for w in v["weeks"]) + " ") if v.get("weeks") else ""
         parts.append(f"{TYPE_EN[t].replace(' · ', '/')} {wk}{' & '.join(DAY_EN.get(d, d) for d in v['days'])}")
     return " · ".join(parts)
-TYPE_ORDER = ["burnable", "resource", "plastic", "paper_cloth", "nonburnable", "bulky"]
-TYPE_EN = {"burnable": "Burnable", "resource": "Cans · bottles · PET", "plastic": "Plastic", "paper_cloth": "Paper & cloth", "nonburnable": "Non-burnable", "bulky": "Bulky (reservation)"}
-TYPE_COLOR = {"burnable": "#ff7a00", "resource": "#3182f6", "plastic": "#00b06f", "paper_cloth": "#8b5cf6", "nonburnable": "#6b7684", "bulky": "#f04452"}
+TYPE_ORDER = ["burnable", "resource", "plastic", "paper_cloth", "yard", "nonburnable", "bulky"]
+TYPE_EN = {"burnable": "Burnable", "resource": "Cans · bottles · PET", "plastic": "Plastic", "paper_cloth": "Paper & cloth", "yard": "Branches · grass · leaves", "nonburnable": "Non-burnable", "bulky": "Bulky (reservation)"}
+TYPE_COLOR = {"burnable": "#ff7a00", "resource": "#3182f6", "plastic": "#00b06f", "paper_cloth": "#8b5cf6", "yard": "#65a30d", "nonburnable": "#6b7684", "bulky": "#f04452"}
 
 
 KANJI_NUM = {"一": 1, "二": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9, "十": 10}

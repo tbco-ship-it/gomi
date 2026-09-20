@@ -4,13 +4,13 @@
   const base = cssHref.replace(/static\/style\.css.*$/, '');
   const $ = id => document.getElementById(id);
   const JDAY = '日月火水木金土';
-  const ORDER = ['burnable', 'resource', 'plastic', 'paper_cloth', 'nonburnable', 'bulky'];
-  const COLOR = { burnable: '#ff7a00', resource: '#3182f6', plastic: '#00b06f', paper_cloth: '#8b5cf6', nonburnable: '#6b7684', bulky: '#f04452' };
-  const TAG = { ...COLOR, burnable: '#d95d00', plastic: '#00885a' }; // white text needs ≥3:1
-  const SHORT = { resource: '資源', plastic: 'プラ', paper_cloth: '古紙', nonburnable: '不燃', bulky: '粗大' };
+  const ORDER = ['burnable', 'resource', 'plastic', 'paper_cloth', 'yard', 'nonburnable', 'bulky'];
+  const COLOR = { burnable: '#ff7a00', resource: '#3182f6', plastic: '#00b06f', paper_cloth: '#8b5cf6', yard: '#65a30d', nonburnable: '#6b7684', bulky: '#f04452' };
+  const TAG = { ...COLOR, burnable: '#d95d00', plastic: '#00885a', yard: '#4d7c0f' }; // white text needs ≥3:1
+  const SHORT = { resource: '資源', plastic: 'プラ', paper_cloth: '古紙', yard: '枝葉', nonburnable: '不燃', bulky: '粗大' };
   const short = (k, l) => SHORT[k] || l.replace(/ごみ$/, '');
-  const TYPE_EN = { burnable: 'Burnable', resource: 'Cans · bottles · PET', plastic: 'Plastic', paper_cloth: 'Paper & cloth', nonburnable: 'Non-burnable', bulky: 'Bulky' };
-  const SHORT_EN = { burnable: 'Burn', resource: 'Cans', plastic: 'Plastic', paper_cloth: 'Paper', nonburnable: 'Non-burn', bulky: 'Bulky' };
+  const TYPE_EN = { burnable: 'Burnable', resource: 'Cans · bottles · PET', plastic: 'Plastic', paper_cloth: 'Paper & cloth', yard: 'Branches · grass · leaves', nonburnable: 'Non-burnable', bulky: 'Bulky' };
+  const SHORT_EN = { burnable: 'Burn', resource: 'Cans', plastic: 'Plastic', paper_cloth: 'Paper', yard: 'Yard', nonburnable: 'Non-burn', bulky: 'Bulky' };
   const I18N = {
     nav_search: 'Search by address', nav_cities: 'Covered cities', nav_nenmatsu: 'Year-end', hero_h1: 'Garbage day lookup', hero_sub: 'Type your town name to see what goes out today and tomorrow, plus this week\u2019s pickup days. Official city data.',
     pick_title: 'Pick your address', pick_label: 'Town / chome', pick_hint: 'Kanji, hiragana or romaji all work. Your last address is remembered.', last_lbl: 'Last address',

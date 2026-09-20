@@ -26,7 +26,7 @@ os.makedirs(WIP_DIR, exist_ok=True)
 os.makedirs(NORM_DIR, exist_ok=True)
 
 SOURCE_URL = "https://www.city.chiba.jp/kankyo/junkan/shushugyomu/shushubi.html"
-TODAY_STR = "2026-09-17"
+TODAY_STR = "2026-09-20"
 
 WARDS = [
     ("中央区", "chuo"),
@@ -138,7 +138,9 @@ def main():
             town, chome, sub = split_address(raw_town)
 
             types = {}
-            # scheds: [可燃, びん缶ペット, 古紙布類, 不燃有害, 木の枝]
+            # Official header: 町丁名 | 可燃ごみ | 資源物 (びん・缶・ペットボトル, 古紙・布類, 木の枝・刈り草・葉) | 不燃ごみ・有害ごみ
+            # so scheds = [可燃, びん缶ペット, 古紙布類, 木の枝, 不燃有害]. (An earlier version read column 4 as 不燃 —
+            # 高洲1丁目 showed 1・3木 for 不燃 when the city says 2・4木; 1・3木 is the branches/grass day.)
             # 1. Burnable
             if len(scheds) > 0:
                 b_days, b_weeks, _ = parse_schedule_cell(scheds[0])
@@ -157,9 +159,15 @@ def main():
                 if p_days:
                     types["paper_cloth"] = {"label": "古紙・布類", "days": p_days, "weeks": p_weeks, "time": None}
 
-            # 4. Nonburnable (不燃ごみ・有害ごみ)
+            # 4. Yard (木の枝・刈り草・葉) — 10:00 deadline, unlike 8:00 for everything else
             if len(scheds) > 3:
-                nb_days, nb_weeks, _ = parse_schedule_cell(scheds[3])
+                y_days, y_weeks, _ = parse_schedule_cell(scheds[3])
+                if y_days:
+                    types["yard"] = {"label": "木の枝・刈り草・葉", "days": y_days, "weeks": y_weeks, "time": "10:00"}
+
+            # 5. Nonburnable (不燃ごみ・有害ごみ)
+            if len(scheds) > 4:
+                nb_days, nb_weeks, _ = parse_schedule_cell(scheds[4])
                 if nb_days:
                     types["nonburnable"] = {"label": "不燃ごみ・有害ごみ", "days": nb_days, "weeks": nb_weeks, "time": None}
 
@@ -208,8 +216,8 @@ def main():
                     "burnable": scheds[0] if len(scheds) > 0 else "",
                     "bin_can_pet": scheds[1] if len(scheds) > 1 else "",
                     "paper_cloth": scheds[2] if len(scheds) > 2 else "",
-                    "nonburnable": scheds[3] if len(scheds) > 3 else "",
-                    "tree_branch": scheds[4] if len(scheds) > 4 else "",
+                    "tree_branch": scheds[3] if len(scheds) > 3 else "",
+                    "nonburnable": scheds[4] if len(scheds) > 4 else "",
                 },
             }
             records.append(rec)

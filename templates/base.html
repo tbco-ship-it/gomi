@@ -11,6 +11,12 @@
 <noscript><link rel="stylesheet" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-jp-dynamic-subset.min.css"></noscript>
 <link rel="stylesheet" href="{{ base }}static/style.css?v={{ v }}">
 <link rel="icon" href="{{ base }}static/favicon.svg?v={{ v }}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ base }}static/apple-touch-icon.png?v={{ v }}">
+<link rel="manifest" href="{{ base }}static/manifest.webmanifest?v={{ v }}">
+<meta name="apple-mobile-web-app-title" content="ゴミの日ナビ">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17171c" media="(prefers-color-scheme: dark)">
 {% if adsense_pub %}<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-{{ adsense_pub }}" crossorigin="anonymous"></script>{% endif %}
 {% if origin == "https://gomiday.com" %}<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "128b3860033c4672882c5525677a13d7"}'></script>{% endif %}
 {% block head %}{% endblock %}
@@ -34,6 +40,7 @@
   <details class="src"><summary>市区ごとの取得日を見る</summary><p class="muted">{% for c in cities.values() %}{{ c.city }} {{ c.fetched }}取得{% if not loop.last %}、{% endif %}{% endfor %}</p></details>
 </footer>
 <script src="{{ base }}static/ui.js?v={{ v }}" defer></script>
+<script src="{{ base }}static/a2hs.js?v={{ v }}" defer></script>
 <script src="{{ base }}static/app.js?v={{ v }}" defer></script>
 </body>
 </html>

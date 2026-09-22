@@ -10,6 +10,7 @@ import shutil
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
+from xml.sax.saxutils import escape
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import pykakasi
@@ -96,6 +97,36 @@ def group_key(r):
 
 def sched_sig(r):
     return json.dumps({t: [v.get("days"), v.get("weeks")] for t, v in r["types"].items()}, ensure_ascii=False, sort_keys=True)
+
+
+
+def write_sitemaps(urls, origin, base, lastmod=None, limit=5000):
+    """One sitemap index plus a file per section, so Search Console reports coverage per section
+    instead of one opaque pile. urls is a list of (shard, path)."""
+    shards = defaultdict(list)
+    for shard, u in urls:
+        shards[shard].append(u)
+    for k in [k for k, v in shards.items() if len(v) < 10 and k != "core"]:
+        shards["core"] += shards.pop(k)
+    out = DIST / "sitemaps"
+    out.mkdir(parents=True, exist_ok=True)
+    names = []
+    for shard in sorted(shards):
+        rows = shards[shard]
+        parts = [rows[i:i + limit] for i in range(0, len(rows), limit)] or [[]]
+        for n, part in enumerate(parts, 1):
+            fn = f"{shard}.xml" if len(parts) == 1 else f"{shard}-{n}.xml"
+            lm = f"<lastmod>{lastmod}</lastmod>" if lastmod else ""
+            body = "\n".join(f"<url><loc>{escape(origin + base + u)}</loc>{lm}</url>" for u in part)
+            (out / fn).write_text('<?xml version="1.0" encoding="UTF-8"?>\n'
+                                  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+                                  + body + "\n</urlset>")
+            names.append(fn)
+    idx = "".join(f"<sitemap><loc>{origin}{base}sitemaps/{n}</loc></sitemap>" for n in names)
+    (DIST / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n'
+                                      '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+                                      + idx + "</sitemapindex>")
+    return names
 
 
 def main():
@@ -204,11 +235,11 @@ def main():
 
     urls = []
 
-    def write(path, template, **ctx):
+    def write(path, template, sm=None, **ctx):
         out = DIST / path
         out.mkdir(parents=True, exist_ok=True)
         (out / "index.html").write_text(env.get_template(template).render(path=path, **ctx))
-        urls.append(path)
+        urls.append((sm or path.split("/")[0] or "core", path))
 
     write("", "index.html")
     for page in ("about", "methodology", "privacy", "contact"):
@@ -224,11 +255,7 @@ def main():
             for g in w["towns"].values():
                 write(f"{g['slug']}/", "town.html", c=c, w=w, g=g)
 
-    sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    for u in urls:
-        sm.append(f"<url><loc>{origin}{base}{u}</loc><lastmod>{today.isoformat()}</lastmod></url>")
-    sm.append("</urlset>")
-    (DIST / "sitemap.xml").write_text("\n".join(sm))
+    write_sitemaps(urls, origin, base, today.isoformat())
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {origin}{base}sitemap.xml\n")
     (DIST / "404.html").write_text(env.get_template("404.html").render(path="404"))
     (DIST / ".nojekyll").write_text("")

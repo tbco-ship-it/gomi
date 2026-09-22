@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% set m = cl.main.types %}
+{% set bt = cl.primary %}
+{% set place = cl.ward or cl.city %}
+{% set names = cl.members|map(attribute='town')|list|unique|list %}
+{% set head_names = names[:6]|join('・') %}
+{% block title %}{{ place }}{{ head_names }}{% if names|length > 6 %}ほかのごみ収集日{% else %}のごみ収集日{% endif %} — {{ m[bt].label }}は{{ m[bt].days|join('・') }}曜 | {{ cl.ward_en|default(cl.city_en,true)|title }} garbage collection days | {{ site }}{% endblock %}
+{% block description %}{{ cl.city }}{{ cl.ward }}の{{ cl.members|length }}町丁目({{ head_names }}ほか)は同じ収集日です。{% for t in TYPE_ORDER if t in m %}{{ m[t].label }}{% if m[t].weeks %}第{{ m[t].weeks|join('・') }}{% endif %}{{ m[t].days|join('・') }}曜{% if not loop.last %}、{% endif %}{% endfor %}。自治体の公開データ基準、今日・明日に出せるごみも表示。{% endblock %}
+{% block head %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"{{ cl.city }}","item":"{{ origin }}{{ base }}{{ cl.city_en }}/"}{% if cl.ward_en %},{"@type":"ListItem","position":2,"name":"{{ cl.ward }}","item":"{{ origin }}{{ base }}{{ cl.city_en }}/{{ cl.ward_en }}/"}{% endif %},{"@type":"ListItem","position":{{ 3 if cl.ward_en else 2 }},"name":"{{ head_names }}"}]}</script>
+{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ base }}">ホーム</a> › <a href="{{ base }}{{ cl.city_en }}/">{{ cl.city }}</a> › {% if cl.ward_en %}<a href="{{ base }}{{ cl.city_en }}/{{ cl.ward_en }}/">{{ cl.ward }}</a> › {% endif %}{{ m[bt].label }}{{ m[bt].days|join('・') }}曜</nav>
+{% set h1_names = names[:3]|join("・") %}
+<h1>{{ place }}{{ h1_names }}{% if names|length > 3 %}ほか{{ cl.members|length }}町丁目{% endif %}のごみ収集日</h1>
+<p class="prose">{{ cl.city }}{{ cl.ward }}のうち、下の{{ cl.members|length }}町丁目は収集日がすべて同じです。{{ m[bt].label }}は{% if m[bt].weeks %}第{{ m[bt].weeks|join('・') }}{% endif %}{{ m[bt].days|join('・') }}曜。</p>
+
+<section class="sheet balanced" id="today" data-slug="{{ cl.slug }}">
+  <p class="sheet-label" data-i18n="today_tomorrow">今日と明日</p>
+  <div class="sheet-num"><span class="num small-num" id="headline">読み込み中…</span></div>
+  <p class="sheet-title" id="sub"></p>
+  <div class="stack" id="upcoming"></div>
+  <p class="sheet-actions"><a class="next" id="ics" href="#" download="{{ cl.members[0].romaji }}-gomi.ics"><span data-i18n="ics">カレンダーに入れる(.ics)</span></a><a class="next" id="remember" href="{{ base }}"><span data-i18n="remember">この住所をホームで覚える</span></a></p>
+</section>
+<div class="week" id="week" aria-label="今週の収集日"></div>
+<div class="legend">{% for t in TYPE_ORDER if t in m %}<span class="chip"><span class="dot" style="background:{{ TYPE_COLOR[t] }}"></span>{{ m[t].label }} <span class="en">{{ TYPE_EN[t] }}</span></span>{% endfor %}</div>
+
+<div class="ad-slot"><!-- ad: cluster --></div>
+
+<div class="sec"><div class="sec-h"><h2 data-i18n="types_h2">ごみの種類ごとの曜日</h2></div>
+<div class="card">{% with types = m %}{% include "_types.html" %}{% endwith %}</div>
+{% if cl.rules %}<p class="muted small" style="margin-top:10px">{% if cl.rules.time_by %}出す時間: {{ cl.rules.time_by }}まで。{% endif %}{% if cl.rules.holiday_collection %}{{ cl.rules.holiday_collection }}。{% endif %}{% if cl.rules.yearend %}年末年始は{{ cl.rules.yearend }}。{% endif %}</p>{% endif %}
+</div>
+
+<div class="sec"><div class="sec-h"><h2>この収集日の対象地域 <span class="muted small">{{ cl.members|length }}町丁目</span></h2></div>
+<p class="prose small muted">お住まいの町丁目が下にあれば、上の曜日がそのまま当てはまります。</p>
+<ul class="towns">{% for g in cl.members %}<li id="{{ g.anchor }}">{{ g.town }}{{ g.chome }}<small lang="en">{{ g.en_place }}</small></li>{% endfor %}</ul>
+</div>
+
+{% set exc = cl.members|selectattr('exceptions')|list %}
+{% if exc %}
+<div class="sec"><div class="sec-h"><h2 data-i18n="exc_h2">番地ごとの違い</h2></div>
+<p class="prose small muted">上の表はこの地域で最も多い曜日です。以下の番地・建物は曜日が異なります。</p>
+<table class="tbl exc"><thead><tr><th>番地・建物</th>{% for t in TYPE_ORDER if t in m %}<th>{{ m[t].label }}</th>{% endfor %}</tr></thead><tbody>
+{% for g in exc %}{% for r in g.exceptions %}<tr><td>{{ g.town }}{{ g.chome }} {{ r.sub or r.chome or '' }}</td>{% for t in TYPE_ORDER if t in m %}<td>{% if t in r.types %}{% if r.types[t].weeks %}第{{ r.types[t].weeks|join('・') }}{% endif %}{{ r.types[t].days|join('・') }}{% else %}—{% endif %}</td>{% endfor %}</tr>{% endfor %}{% endfor %}
+</tbody></table>
+</div>
+{% endif %}
+
+<p class="muted small" style="margin-top:24px">出典: <a href="{{ cl.source.url }}" rel="noopener" target="_blank">{{ cl.city }}公開データ</a>({{ cl.source.fetched }}取得)。臨時の変更・災害時は市の案内が優先です。</p>
+<script id="sched" type="application/json">{{ {"types": m, "rules": cl.rules, "name": place ~ head_names, "slug": cl.members[0].slug}|tojson }}</script>
+{% endblock %}

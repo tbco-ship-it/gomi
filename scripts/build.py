@@ -8,7 +8,7 @@ import json
 import re
 import shutil
 import unicodedata
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -99,6 +99,15 @@ def sched_sig(r):
     return json.dumps({t: [v.get("days"), v.get("weeks")] for t, v in r["types"].items()}, ensure_ascii=False, sort_keys=True)
 
 
+def answer_sig(g):
+    """Everything a reader actually gets on the page: collection days, put-out time and the
+    municipality's holiday rules. Two 町 with the same signature are the same answer."""
+    return json.dumps({"t": {t: [v.get("days"), v.get("weeks"), v.get("time"), v.get("label")]
+                             for t, v in sorted(g["main"]["types"].items())},
+                       "r": dict(sorted((g.get("rules") or {}).items()))},
+                      ensure_ascii=False, sort_keys=True)
+
+
 
 def write_sitemaps(urls, origin, base, lastmod=None, limit=5000):
     """One sitemap index plus a file per section, so Search Console reports coverage per section
@@ -185,6 +194,47 @@ def main():
         g["primary"] = "burnable" if "burnable" in g["main"]["types"] else next(iter(g["main"]["types"]))
         cities[g["city_en"]]["wards"][g["ward_en"]]["towns"][g["slug"]] = g
 
+    # One indexable page per distinct answer, not per 町丁目. 23,105 町 share ~2,000 schedules,
+    # so 11 URLs repeated one answer and Google indexed 0.85% of them. Every 町 keeps a URL, but
+    # it redirects to the cluster page that carries its schedule and lists it by name.
+    cpath = ROOT / "data/clusters.json"
+    prev = json.loads(cpath.read_text()) if cpath.exists() else {}
+    clusters = {}
+    for g in groups.values():
+        head = f"{g['city_en']}/{g['ward_en']}" if g["ward_en"] else g["city_en"]
+        key = (head, answer_sig(g))
+        cl = clusters.setdefault(key, {"head": head, "members": [], "main": g["main"], "rules": g.get("rules") or {},
+                                       "source": g["source"], "city_en": g["city_en"], "city": g["city"],
+                                       "pref": g["pref"], "ward": g["ward"], "ward_en": g["ward_en"],
+                                       "primary": g["primary"]})
+        cl["members"].append(g)
+    # Cluster ids persist across data refreshes: a cluster keeps the id most of its members had last
+    # build, so a schedule edit in one 町 doesn't renumber a whole ward's URLs.
+    taken, pending = defaultdict(set), []
+    for key, cl in sorted(clusters.items(), key=lambda kv: -len(kv[1]["members"])):
+        votes = Counter(prev[g["slug"]] for g in cl["members"] if g["slug"] in prev)
+        cid = next((i for i, _ in votes.most_common() if i not in taken[cl["head"]]), None)
+        if cid is None:
+            pending.append(cl)
+            continue
+        cl["cid"] = cid
+        taken[cl["head"]].add(cid)
+    for cl in pending:
+        n = 1
+        while n in taken[cl["head"]]:
+            n += 1
+        cl["cid"] = n
+        taken[cl["head"]].add(n)
+    for cl in clusters.values():
+        cl["slug"] = f"{cl['head']}/c{cl['cid']}"
+        cl["members"].sort(key=lambda g: (g["romaji"], g["chome"]))
+        for g in cl["members"]:
+            g["cluster"] = cl
+            g["anchor"] = "t-" + g["slug"].rsplit("/", 1)[-1]
+            g["url"] = f"{cl['slug']}/#{g['anchor']}"
+    cpath.write_text(json.dumps({g["slug"]: g["cluster"]["cid"] for g in sorted(groups.values(), key=lambda g: g["slug"])},
+                                ensure_ascii=False, indent=0))
+
     h = hashlib.md5()
     for f in sorted((ROOT / "static").glob("*")):
         h.update(f.read_bytes())
@@ -217,8 +267,8 @@ def main():
     for g in groups.values():
         for t, v in g["main"]["types"].items():
             labels.setdefault(g["city_en"], {}).setdefault(t, v.get("label"))
-    items = [[g["city_en"], g["ward"], g["ward_en"], g["town"], g["chome"], g["romaji_full"], g["kana"], g["slug"], g["en"],
-              {t: [v.get("days") or [], v.get("weeks"), v.get("time")] for t, v in g["main"]["types"].items()}] for g in groups.values()]
+    items = [[g["city_en"], g["ward"], g["ward_en"], g["town"], g["chome"], g["romaji_full"], g["kana"], g["cluster"]["slug"], g["en"],
+              {t: [v.get("days") or [], v.get("weeks"), v.get("time")] for t, v in g["main"]["types"].items()}, g["slug"]] for g in groups.values()]
     # GPS lookup: GSI reverse-geocoder muniCd (JIS 5-digit) -> [city_en, ward] for covered wards only.
     # data/muni_codes.json is GSI's own table (https://maps.gsi.go.jp/js/muni.js), vendored 2026-09-17.
     muni_all = json.loads((ROOT / "data/muni_codes.json").read_text())
@@ -252,8 +302,16 @@ def main():
         for we, w in c["wards"].items():
             if we:
                 write(f"{ce}/{we}/", "ward.html", c=c, w=w)
-            for g in w["towns"].values():
-                write(f"{g['slug']}/", "town.html", c=c, w=w, g=g)
+    for cl in clusters.values():
+        write(f"{cl['slug']}/", "cluster.html", sm=cl["city_en"], c=cities[cl["city_en"]], cl=cl)
+    # Legacy 町 URLs stay reachable but stop being search landing pages: Google reads an instant
+    # meta refresh as a permanent redirect, and GitHub Pages can't serve a 301. Not in the sitemap.
+    tpl = env.get_template("redirect.html")
+    for g in groups.values():
+        out = DIST / g["slug"]
+        out.mkdir(parents=True, exist_ok=True)
+        (out / "index.html").write_text(tpl.render(target=f"{base}{g['url']}", canonical=f"{origin}{base}{g['cluster']['slug']}/",
+                                                   name=f"{g['town']}{g['chome']}"))
 
     write_sitemaps(urls, origin, base, today.isoformat())
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {origin}{base}sitemap.xml\n")
@@ -265,7 +323,7 @@ def main():
         (DIST / "ads.txt").write_text(f"google.com, {args.adsense_pub}, DIRECT, f08c47fec0942fa0\n")
     if args.cname:
         (DIST / "CNAME").write_text(args.cname + "\n")
-    print(f"built {len(urls)} pages ({len(groups)} towns, {sum(len(g['records']) for g in groups.values())} records) -> {DIST}")
+    print(f"built {len(urls)} indexable pages ({len(clusters)} clusters, {len(groups)} towns redirected, {sum(len(g['records']) for g in groups.values())} records) -> {DIST}")
 
 
 if __name__ == "__main__":

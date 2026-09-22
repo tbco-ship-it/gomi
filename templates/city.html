@@ -6,7 +6,7 @@
 <h1>{{ c.city }}のごみ収集日</h1>
 <p class="prose">{{ c.pref }}{{ c.city }}{% if '' in c.wards %}の{{ c.wards['']['towns']|length }}町丁目。町名を選んでください。{% else %}の{{ c.wards|length }}区。区を選んでください。{% endif %}{% if c.rules.holiday_collection %}{{ c.rules.holiday_collection }}{% endif %}{% if c.rules.yearend %}、年末年始は{{ c.rules.yearend }}。{% endif %} 住所から直接探すなら<a href="{{ base }}">トップの検索</a>が早いです。</p>
 <div class="ad-slot"><!-- ad: city --></div>
-{% if '' in c.wards %}<ul class="list">{% for g in c.wards['']['towns'].values()|sort(attribute='romaji') %}<li><a href="{{ base }}{{ g.slug }}/">{{ g.town }}{{ g.chome }}<span class="meta">{{ g.main.types[g.primary].days|join('・') }}</span></a></li>{% endfor %}</ul>
+{% if '' in c.wards %}<ul class="list">{% for g in c.wards['']['towns'].values()|sort(attribute='romaji') %}<li><a href="{{ base }}{{ g.url }}">{{ g.town }}{{ g.chome }}<span class="meta">{{ g.main.types[g.primary].days|join('・') }}</span></a></li>{% endfor %}</ul>
 {% else %}<ul class="list">{% for we, w in c.wards.items() %}<li><a href="{{ base }}{{ c.city_en }}/{{ we }}/">{{ w.ward }}<span class="meta">{{ w.towns|length }}町丁目</span></a></li>{% endfor %}</ul>{% endif %}
 <p class="muted small" style="margin-top:20px">出典: {{ c.city }}公開データ({{ c.source }}、{{ c.fetched }}取得)。</p>
 {% endblock %}

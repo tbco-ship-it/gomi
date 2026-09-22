@@ -689,3 +689,9 @@ html.landing .more{display:none}
 /* footer: per-city fetch dates fold behind a "see details" toggle; the summary line keeps the count and latest date */
 footer .src{margin-top:8px}footer .src summary{cursor:pointer;list-style:none;font-size:.88rem;font-weight:600;color:var(--text-2);padding:4px 0}footer .src summary::-webkit-details-marker{display:none}footer .src summary::before{content:"+ ";color:var(--muted)}footer .src[open] summary::before{content:"\2013  "}footer .src p{margin:4px 0 0}
 #result{scroll-margin-top:calc(var(--hdr,64px) + 16px)}/* phone: the result scrolls to just below the sticky header */
+
+/* cluster page: the 町丁目 one schedule covers — plain rows, the English name wraps under the 町名 */
+.towns{columns:2;column-gap:20px;padding:0;margin:.4em 0;list-style:none}
+.towns li{break-inside:avoid;padding:7px 2px;border-bottom:1px solid var(--line);font-weight:600;line-height:1.35}
+.towns li small{display:block;font-weight:500;font-size:.84rem;color:var(--muted)}
+@media(max-width:560px){.towns{columns:1}}

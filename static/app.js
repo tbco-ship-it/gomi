@@ -117,7 +117,7 @@
   const input = $('addr'); if (!input) return;
   const out = $('result'), menu = $('addr-menu');
   const RAW = await (await fetch(base + 'static/index.json?v=' + v)).json();
-  const D = RAW.items.map(([c, w, we, t, ch, r, k, s, en, ty]) => ({ c, cn: RAW.cities[c], w, we, t, ch, r, kana: k, s, en, ty: Object.fromEntries(Object.entries(ty).map(([tk, [d, wk, tm]]) => [tk, { l: RAW.labels[c][tk], d, w: wk, tm }])) }));
+  const D = RAW.items.map(([c, w, we, t, ch, r, k, s, en, ty, ts]) => ({ c, cn: RAW.cities[c], w, we, t, ch, r, kana: k, s, ts, en, ty: Object.fromEntries(Object.entries(ty).map(([tk, [d, wk, tm]]) => [tk, { l: RAW.labels[c][tk], d, w: wk, tm }])) }));
   const kata2hira = s => s.replace(/[ァ-ヶ]/g, c => String.fromCharCode(c.charCodeAt(0) - 0x60));
   const norm = s => kata2hira(s.toLowerCase()).replace(/[\s　]+/g, '').replace(/ヶ/g, 'ケ').replace(/丁目|ちょうめ/g, '');
   D.forEach(e => { e.k = norm(e.cn + e.w + e.t + e.ch); e.k2 = norm(e.w + e.t + e.ch); e.rk = e.r.toLowerCase().replace(/\s+/g, ''); e.kn = kata2hira(e.kana || '').replace(/\s+/g, ''); e.name = e.w + e.t + e.ch; });
@@ -137,7 +137,7 @@
   function choose(e) {
     input.value = e.name; close();
     const types = {}; for (const k in e.ty) types[k] = { label: e.ty[k].l, days: e.ty[k].d, weeks: e.ty[k].w, time: e.ty[k].tm };
-    render(types, e.cn + e.name + (EN() ? ` — ${e.en}` : ''), e.s, out); localStorage.setItem('gomi.slug', e.s); window.__rerender = () => choose(e);
+    render(types, e.cn + e.name + (EN() ? ` — ${e.en}` : ''), e.s, out); localStorage.setItem('gomi.slug', e.ts); window.__rerender = () => choose(e);
   }
   input.addEventListener('focus', () => { setTimeout(() => input.select(), 0); open(input.value); });
   input.addEventListener('input', () => { active = -1; open(input.value); });
@@ -151,7 +151,7 @@
   menu.addEventListener('mousedown', ev => { const li = ev.target.closest('li[data-i]'); if (li) { choose(items[+li.dataset.i]); ev.preventDefault(); } });
   input.addEventListener('blur', () => setTimeout(close, 120));
   // First visit: only the centred search card, nothing pre-filled. A remembered address is offered as a one-tap chip; the result only appears after the tap.
-  const remembered = D.find(e => e.s === localStorage.getItem('gomi.slug'));
+  const remembered = D.find(e => e.ts === localStorage.getItem('gomi.slug'));
   if (remembered) { $('last-name').textContent = remembered.cn + remembered.name; $('last').hidden = false; $('last').addEventListener('click', () => choose(remembered)); }
 
   // GPS: browser position → GSI reverse geocoder (muniCd + 町丁目) → index entry in that ward.

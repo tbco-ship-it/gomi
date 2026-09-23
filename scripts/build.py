@@ -292,7 +292,7 @@ def main():
         urls.append((sm or path.split("/")[0] or "core", path))
 
     write("", "index.html")
-    for page in ("about", "methodology", "privacy", "contact"):
+    for page in ("about", "methodology", "privacy", "terms", "contact"):
         write(f"{page}/", f"{page}.html")
     write("guide/nenmatsu/", "guide_nenmatsu.html")
     write("guide/hikkoshi/", "guide_hikkoshi.html")

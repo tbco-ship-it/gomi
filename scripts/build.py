@@ -138,6 +138,23 @@ def write_sitemaps(urls, origin, base, lastmod=None, limit=5000):
     return names
 
 
+def compare_cities(cities, clusters):
+    """市区ページの「ほかの市区と比べると」: 市区ごとに数字が違う比較。町丁目ページ(実験中)には触れない。"""
+    stats = {}
+    for ce, c in cities.items():
+        towns = [g for w in c["wards"].values() for g in w["towns"].values()]
+        kinds = Counter(sum(1 for v in g["main"]["types"].values() if v.get("days")) for g in towns).most_common(1)[0][0]
+        burn = Counter(len((g["main"]["types"].get("burnable") or {}).get("days") or []) for g in towns).most_common(1)[0][0]
+        stats[ce] = {"towns": len(towns), "sched": sum(1 for cl in clusters.values() if cl["city_en"] == ce),
+                     "kinds": kinds, "burn": burn, "time_by": (c.get("rules") or {}).get("time_by") or ""}
+    n = len(stats)
+    for ce, st in stats.items():
+        more_kinds = sum(1 for x in stats.values() if x["kinds"] > st["kinds"])
+        st.update(n=n, more_kinds=more_kinds, same_burn=sum(1 for x in stats.values() if x["burn"] == st["burn"]),
+                  ratio=round(st["towns"] / st["sched"]) if st["sched"] else None)
+        cities[ce]["cmp"] = st
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--base", default="/")
@@ -234,6 +251,8 @@ def main():
             g["url"] = f"{cl['slug']}/#{g['anchor']}"
     cpath.write_text(json.dumps({g["slug"]: g["cluster"]["cid"] for g in sorted(groups.values(), key=lambda g: g["slug"])},
                                 ensure_ascii=False, indent=0))
+
+    compare_cities(cities, clusters)
 
     h = hashlib.md5()
     for f in sorted((ROOT / "static").glob("*")):

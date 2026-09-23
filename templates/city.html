@@ -6,6 +6,13 @@
 <h1>{{ c.city }}のごみ収集日</h1>
 <p class="prose">{{ c.pref }}{{ c.city }}{% if '' in c.wards %}の{{ c.wards['']['towns']|length }}町丁目。町名を選んでください。{% else %}の{{ c.wards|length }}区。区を選んでください。{% endif %}{% if c.rules.holiday_collection %}{{ c.rules.holiday_collection }}{% endif %}{% if c.rules.yearend %}、年末年始は{{ c.rules.yearend }}。{% endif %} 住所から直接探すなら<a href="{{ base }}">トップの検索</a>が早いです。</p>
 <div class="ad-slot"><!-- ad: city --></div>
+{% set m = c.cmp %}<div class="sec"><div class="sec-h"><h2>ほかの市区と比べると</h2><a href="{{ base }}cities/">{{ m.n }}市区一覧</a></div>
+<div class="prose">
+<p>{{ c.city }}{% if '' not in c.wards %}{{ c.wards|length }}区{% endif %}の{{ '{:,}'.format(m.towns) }}町丁目で、収集日の組み合わせは<strong>{{ m.sched }}通り</strong>です{% if m.ratio and m.ratio > 1 %}(1通りを平均{{ m.ratio }}町丁目が共有){% endif %}。</p>
+<p>曜日が決まっている分別区分は<strong>{{ m.kinds }}種類</strong>。{% if m.more_kinds == 0 %}このサイトの{{ m.n }}市区の中で最も細かい部類です。{% else %}{{ m.n }}市区のうち{{ m.more_kinds }}市区が{{ c.city }}より細かく分けています。{% endif %}</p>
+{% if m.burn %}<p>燃やすごみは<strong>週{{ m.burn }}回</strong>。{% if m.same_burn == m.n %}{{ m.n }}市区すべて同じです。{% else %}{{ m.n }}市区中{{ m.same_burn }}市区が同じ回数です。{% endif %}</p>{% endif %}
+{% if m.time_by %}<p>出す時間: {{ m.time_by }}{{ "まで" if m.time_by[-1] in "0123456789" else "" }}。</p>{% endif %}
+</div></div>
 {% if '' in c.wards %}<ul class="list">{% for g in c.wards['']['towns'].values()|sort(attribute='romaji') %}<li><a href="{{ base }}{{ g.url }}">{{ g.town }}{{ g.chome }}<span class="meta">{{ g.main.types[g.primary].days|join('・') }}</span></a></li>{% endfor %}</ul>
 {% else %}<ul class="list">{% for we, w in c.wards.items() %}<li><a href="{{ base }}{{ c.city_en }}/{{ we }}/">{{ w.ward }}<span class="meta">{{ w.towns|length }}町丁目</span></a></li>{% endfor %}</ul>{% endif %}
 <p class="muted small" style="margin-top:20px">出典: {{ c.city }}公開データ({{ c.source }}、{{ c.fetched }}取得)。</p>

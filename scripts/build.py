@@ -81,6 +81,103 @@ def nfkc(s):
     return kanji_to_digits(s)
 
 
+def parse_month_day(value):
+    """Read a month/day from a string or {month, day} mapping."""
+    if isinstance(value, dict):
+        try:
+            month, day = int(value["month"]), int(value["day"])
+            dt.date(2000, month, day)
+            return month, day
+        except (KeyError, TypeError, ValueError):
+            return None
+    if not isinstance(value, str):
+        return None
+    iso = re.search(r"(?<!\d)\d{4}[-/](\d{1,2})[-/](\d{1,2})(?!\d)", value)
+    match = iso or re.search(r"(?<!\d)(\d{1,2})\s*(?:月|[/.-])\s*(\d{1,2})\s*日?(?!\d)", value)
+    if not match:
+        return None
+    try:
+        month, day = int(match.group(1)), int(match.group(2))
+        dt.date(2000, month, day)
+        return month, day
+    except ValueError:
+        return None
+
+
+def month_days(value):
+    """Return all valid month/day pairs from an official rule or a period label."""
+    if not isinstance(value, str):
+        return []
+    found = []
+    for match in re.finditer(r"(?<!\d)\d{4}[-/](\d{1,2})[-/](\d{1,2})(?!\d)", value):
+        try:
+            pair = (int(match.group(1)), int(match.group(2)))
+            dt.date(2000, *pair)
+            found.append(pair)
+        except ValueError:
+            continue
+    if found:
+        return found
+    for match in re.finditer(r"(?<!\d)(\d{1,2})\s*(?:月|[/.-])\s*(\d{1,2})\s*日?(?!\d)", value):
+        try:
+            pair = (int(match.group(1)), int(match.group(2)))
+            dt.date(2000, *pair)
+            found.append(pair)
+        except ValueError:
+            continue
+    return found
+
+
+def normalize_yearend(value):
+    """Normalize rules.yearend for the app while preserving an explicit confirmation state.
+
+    Accepted forms are the current `12/31~1/3 休止` string and a structured mapping such as
+    {"start": "12/30", "end": "1/3", "note": "12/31は一部のみ収集"}.
+    """
+    start = end = None
+    note = ""
+    if isinstance(value, dict):
+        period = value.get("period")
+        period = period if isinstance(period, dict) else value
+        note_value = value.get("note") or value.get("period_note") or period.get("note") or period.get("period_note")
+        note = note_value if isinstance(note_value, str) else ""
+        start = parse_month_day(period.get("start") or period.get("from") or period.get("start_date"))
+        end = parse_month_day(period.get("end") or period.get("through") or period.get("end_date"))
+        if (not start or not end) and isinstance(value.get("period"), str):
+            parts = month_days(value["period"])
+            if len(parts) >= 2:
+                start, end = parts[0], parts[1]
+    elif isinstance(value, str):
+        parts = month_days(value)
+        if len(parts) >= 2:
+            start, end = parts[0], parts[1]
+
+    confirmed = bool(start and end)
+    if not confirmed:
+        start, end = (12, 31), (1, 3)
+    start_label = f"{start[0]}/{start[1]}"
+    end_label = f"{end[0]}/{end[1]}"
+    start_year = 2027 if start[0] <= 3 else 2026
+    last = dt.date(start_year, *start) - dt.timedelta(days=1)
+    return {
+        "start_month": start[0], "start_day": start[1],
+        "end_month": end[0], "end_day": end[1],
+        "start": start_label, "end": end_label,
+        "label": f"{start[0]}月{start[1]}日〜{end[0]}月{end[1]}日 休止",
+        "last_collection": f"{last.month}月{last.day}日",
+        "note": note.strip(),
+        "confirmed": confirmed,
+    }
+
+
+def city_yearend_window(values):
+    """Use one city period only when its normalized records agree; otherwise require review."""
+    values = list(values)
+    if not values or len({json.dumps(v, ensure_ascii=False, sort_keys=True) for v in values}) != 1:
+        return normalize_yearend(None)
+    return normalize_yearend(values[0])
+
+
 def split_addr(r):
     """(town, chome, sub) — Osaka towns without 丁目 carry the 番地 in `chome` ("1番"); that is a sub-area, not a page."""
     town, chome, sub = nfkc(r["town"]), nfkc(r.get("chome")), nfkc(r.get("sub"))
@@ -176,8 +273,9 @@ def main():
         for r in recs:
             if not r["types"]:
                 continue  # e.g. 横浜 南区平楽: "事務所にお問合せください" — nothing to show
-            cities.setdefault(r["city_en"], {"city": r["city"], "pref": r["pref"], "city_en": r["city_en"], "wards": {}, "source": r["source"]["url"].split("/")[2], "fetched": r["source"]["fetched"], "rules": r.get("rules", {})})
+            cities.setdefault(r["city_en"], {"city": r["city"], "pref": r["pref"], "city_en": r["city_en"], "wards": {}, "source": r["source"]["url"].split("/")[2], "fetched": r["source"]["fetched"], "rules": r.get("rules", {}), "yearend_values": []})
             c = cities[r["city_en"]]
+            c["yearend_values"].append((r.get("rules") or {}).get("yearend"))
             c["wards"].setdefault(r["ward_en"], {"ward": r["ward"], "ward_en": r["ward_en"], "towns": {}})
             k = group_key(r)
             town, chome, sub = split_addr(r)
@@ -189,8 +287,18 @@ def main():
                 slug = f"{head}/{r['romaji']}" + ("-" + "-".join(nums) if nums else "")
                 groups[k] = {"city_en": r["city_en"], "city": r["city"], "pref": r["pref"], "ward": r["ward"], "ward_en": r["ward_en"],
                              "town": town, "chome": chome, "romaji": r.get("romaji", ""), "slug": slug,
-                             "records": [], "rules": r.get("rules", {}), "source": r["source"]}
+                             "records": [], "rules": r.get("rules", {}),
+                             "yearend_window": normalize_yearend((r.get("rules") or {}).get("yearend")),
+                             "source": r["source"]}
             groups[k]["records"].append(r)
+    for c in cities.values():
+        c["yearend_window"] = city_yearend_window(c.pop("yearend_values"))
+    city_list = sorted(cities.values(), key=lambda c: c["city"])
+    city_periods = {(c["yearend_window"]["start_month"], c["yearend_window"]["start_day"],
+                     c["yearend_window"]["end_month"], c["yearend_window"]["end_day"])
+                    for c in city_list}
+    guide_same_period = (len(city_periods) == 1 and all(c["yearend_window"]["confirmed"] for c in city_list))
+    guide_window = city_list[0]["yearend_window"] if guide_same_period else None
     # resolve slug collisions across groups (different chome parsed to same slug)
     seen = {}
     for k, g in groups.items():
@@ -221,6 +329,7 @@ def main():
         head = f"{g['city_en']}/{g['ward_en']}" if g["ward_en"] else g["city_en"]
         key = (head, answer_sig(g))
         cl = clusters.setdefault(key, {"head": head, "members": [], "main": g["main"], "rules": g.get("rules") or {},
+                                       "yearend_window": g["yearend_window"],
                                        "source": g["source"], "city_en": g["city_en"], "city": g["city"],
                                        "pref": g["pref"], "ward": g["ward"], "ward_en": g["ward_en"],
                                        "primary": g["primary"]})
@@ -261,6 +370,7 @@ def main():
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
     env.globals.update(site=SITE, base=base, origin=origin, today=today.isoformat(), v=v, adsense_pub=args.adsense_pub,
                        JDAY=JDAY, TYPE_ORDER=TYPE_ORDER, TYPE_COLOR=TYPE_COLOR, TYPE_EN=TYPE_EN, cities=cities,
+                       yearend_guide={"same_period": guide_same_period, "window": guide_window},
                        n_towns=len(groups), n_records=sum(len(g["records"]) for g in groups.values()))
 
     if DIST.exists():
@@ -287,7 +397,8 @@ def main():
         for t, v in g["main"]["types"].items():
             labels.setdefault(g["city_en"], {}).setdefault(t, v.get("label"))
     items = [[g["city_en"], g["ward"], g["ward_en"], g["town"], g["chome"], g["romaji_full"], g["kana"], g["cluster"]["slug"], g["en"],
-              {t: [v.get("days") or [], v.get("weeks"), v.get("time")] for t, v in g["main"]["types"].items()}, g["slug"]] for g in groups.values()]
+              {t: [v.get("days") or [], v.get("weeks"), v.get("time")] for t, v in g["main"]["types"].items()},
+              g["slug"], g["yearend_window"]] for g in groups.values()]
     # GPS lookup: GSI reverse-geocoder muniCd (JIS 5-digit) -> [city_en, ward] for covered wards only.
     # data/muni_codes.json is GSI's own table (https://maps.gsi.go.jp/js/muni.js), vendored 2026-09-17.
     muni_all = json.loads((ROOT / "data/muni_codes.json").read_text())

@@ -4,7 +4,7 @@
 {% block content %}
 <nav class="crumbs"><a href="{{ base }}">ホーム</a> › {{ c.city }}</nav>
 <h1>{{ c.city }}のごみ収集日</h1>
-<p class="prose">{{ c.pref }}{{ c.city }}{% if '' in c.wards %}の{{ c.wards['']['towns']|length }}町丁目。町名を選んでください。{% else %}の{{ c.wards|length }}区。区を選んでください。{% endif %}{% if c.rules.holiday_collection %}{{ c.rules.holiday_collection }}{% endif %}{% if c.rules.yearend %}、年末年始は{{ c.rules.yearend }}。{% endif %} 住所から直接探すなら<a href="{{ base }}">トップの検索</a>が早いです。</p>
+<p class="prose">{{ c.pref }}{{ c.city }}{% if '' in c.wards %}の{{ c.wards['']['towns']|length }}町丁目。町名を選んでください。{% else %}の{{ c.wards|length }}区。区を選んでください。{% endif %}{% if c.rules.holiday_collection %}{{ c.rules.holiday_collection }}{% endif %} 年末年始は{{ c.yearend_window.label }}。{% if not c.yearend_window.confirmed %}期間は確認必要です。{% endif %} 住所から直接探すなら<a href="{{ base }}">トップの検索</a>が早いです。</p>
 <div class="ad-slot"><!-- ad: city --></div>
 {% set m = c.cmp %}<div class="sec"><div class="sec-h"><h2>ほかの市区と比べると</h2><a href="{{ base }}cities/">{{ m.n }}市区一覧</a></div>
 <div class="prose">

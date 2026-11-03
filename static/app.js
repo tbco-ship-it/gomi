@@ -38,13 +38,35 @@
   const addDays = (d, n) => { const x = new Date(d); x.setDate(x.getDate() + n); return x; };
   const iso = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
   const md = d => EN() ? `${DOW_EN[d.getDay()]} ${d.getMonth() + 1}/${d.getDate()}` : `${d.getMonth() + 1}/${d.getDate()}(${JDAY[d.getDay()]})`;
-  const yearend = d => (d.getMonth() === 11 && d.getDate() === 31) || (d.getMonth() === 0 && d.getDate() <= 3);
+  const FALLBACK_YEAREND = { start_month: 12, start_day: 31, end_month: 1, end_day: 3, confirmed: false, note: '' };
+  const yearend = (d, rule) => {
+    const w = rule || FALLBACK_YEAREND;
+    const key = (month, day) => month * 100 + day;
+    const current = key(d.getMonth() + 1, d.getDate());
+    const start = key(w.start_month, w.start_day), end = key(w.end_month, w.end_day);
+    return start <= end ? current >= start && current <= end : current >= start || current <= end;
+  };
   const nth = d => Math.ceil(d.getDate() / 7);
   // t: {days:[..], weeks:[..]|null}
-  const on = (t, d) => !yearend(d) && (t.days || []).includes(JDAY[d.getDay()]) && (!t.weeks || t.weeks.includes(nth(d)));
-  const typesOn = (types, d) => ORDER.filter(k => types[k] && on(types[k], d));
-  const nextOf = (t, from) => { for (let i = 0; i < 70; i++) { const d = addDays(from, i); if (on(t, d)) return d; } return null; };
+  const on = (t, d, rule) => !yearend(d, rule) && !yearendNoteOn(d, rule) && (t.days || []).includes(JDAY[d.getDay()]) && (!t.weeks || t.weeks.includes(nth(d)));
+  const typesOn = (types, d, rule) => ORDER.filter(k => types[k] && on(types[k], d, rule));
+  const nextOf = (t, from, rule) => { for (let i = 0; i < 70; i++) { const d = addDays(from, i); if (on(t, d, rule)) return d; } return null; };
   const rel = d => { const n = Math.round((d - now) / 864e5); return EN() ? (n === 0 ? 'Today' : n === 1 ? 'Tomorrow' : md(d)) : (n === 0 ? '今日' : n === 1 ? '明日' : n === 2 ? '明後日' : md(d)); };
+  const escapeHtml = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+  const yearendNoteDate = rule => {
+    if (Number.isInteger(rule?.note_month) && Number.isInteger(rule?.note_day)) return [rule.note_month, rule.note_day];
+    const note = rule?.note || '';
+    const match = note.match(/(?:^|[^\d])(?:\d{4}[/-])?(\d{1,2})\s*(?:月|[\/.-])\s*(\d{1,2})\s*日?/);
+    return match ? [Number(match[1]), Number(match[2])] : [12, 31];
+  };
+  const yearendNoteOn = (d, rule) => {
+    if (!rule?.note) return false;
+    const [month, day] = yearendNoteDate(rule);
+    return d.getMonth() + 1 === month && d.getDate() === day;
+  };
+  const yearendAlert = rule => !rule?.confirmed
+    ? (EN() ? 'Year-end closure dates need confirmation. Check the city notice.' : '年末年始の休止期間は確認が必要です。自治体のお知らせを確認してください。')
+    : '';
 
   // Home: the first result ends the landing state — hero + card glide up from centre (FLIP on transform) while the hidden sections below are armed to reveal.
   function leaveLanding() {
@@ -65,20 +87,22 @@
   // Layout position (offsetTop chain), not the rendered box: right after the first result the stage is mid-glide (translateY) and
   // scrollIntoView would land ~100px too far down; scroll-margin-top keeps the target below the sticky header.
   const bringIntoView = el => { if (innerWidth >= 900) return; setTimeout(() => { let y = 0; for (let e = el; e; e = e.offsetParent) y += e.offsetTop; y -= parseFloat(getComputedStyle(el).scrollMarginTop) || 0; scrollTo({ top: y, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); }, 60); };
-  function render(types, name, slug, root) {
-    const today = typesOn(types, now), tomorrow = typesOn(types, addDays(now, 1));
+  function render(types, name, slug, root, yearendWindow) {
+    const rule = yearendWindow || FALLBACK_YEAREND;
+    const alert = yearendAlert(rule);
+    const today = typesOn(types, now, rule), tomorrow = typesOn(types, addDays(now, 1), rule);
     const lbl = k => EN() ? TYPE_EN[k] : types[k].label;
     const sep = EN() ? ' + ' : '・';
     let head, sub, cls;
     if (tomorrow.length) { head = EN() ? 'Tomorrow: ' + tomorrow.map(lbl).join(sep) : '明日は ' + tomorrow.map(lbl).join(sep); cls = 'balanced'; }
-    else { const nx = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], addDays(now, 1))]).filter(x => x[1]).sort((a, b) => a[1] - b[1])[0]; head = nx ? (EN() ? `Next: ${lbl(nx[0])} ${rel(nx[1])}` : `次は ${rel(nx[1])} ${lbl(nx[0])}`) : (EN() ? 'No collection scheduled' : '収集予定なし'); cls = 'quiet'; }
+    else { const nx = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], addDays(now, 1), rule)]).filter(x => x[1]).sort((a, b) => a[1] - b[1])[0]; head = nx ? (EN() ? `Next: ${lbl(nx[0])} ${rel(nx[1])}` : `次は ${rel(nx[1])} ${lbl(nx[0])}`) : (EN() ? 'No collection scheduled' : '収集予定なし'); cls = 'quiet'; }
     sub = EN() ? (today.length ? `Today (${md(now)}): ${today.map(lbl).join(sep)}.` : `Today (${md(now)}): no collection.`) : (today.length ? `今日 ${md(now)} は${today.map(lbl).join('・')}の日です。` : `今日 ${md(now)} の収集はありません。`);
-    const t0 = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], now)]).filter(x => x[1]).sort((a, b) => a[1] - b[1]);
+    const t0 = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], now, rule)]).filter(x => x[1]).sort((a, b) => a[1] - b[1]);
     const upcoming = t0.map(([k, d]) => `<div class="item"><span class="dot" style="background:${COLOR[k]}"></span><span class="txt"><b>${lbl(k)}</b>${EN() ? `<span class="tsub">${types[k].label}</span>` : ''}${types[k].time ? `<span class="tsub">${types[k].time}</span>` : ''}</span><span class="when">${rel(d)}</span></div>`).join('');
-    const week = Array.from({ length: 7 }, (_, i) => { const d = addDays(now, i); const ks = typesOn(types, d); return `<div class="day${i === 0 ? ' today' : ''}"><span class="dow">${i === 0 ? (EN() ? 'Today' : '今日') : (EN() ? DOW_EN[d.getDay()] : JDAY[d.getDay()])}</span><span class="dnum">${d.getDate()}</span><span class="dots">${ks.map(k => `<span class="tag" style="background:${TAG[k]}">${EN() ? SHORT_EN[k] : short(k, types[k].label)}</span>`).join('')}</span></div>`; }).join('');
+    const week = Array.from({ length: 7 }, (_, i) => { const d = addDays(now, i); const ks = typesOn(types, d, rule); const note = yearendNoteOn(d, rule) ? `<span class="day-note">${escapeHtml(rule.note)}</span>` : ''; return `<div class="day${i === 0 ? ' today' : ''}"><span class="dow">${i === 0 ? (EN() ? 'Today' : '今日') : (EN() ? DOW_EN[d.getDay()] : JDAY[d.getDay()])}</span><span class="dnum">${d.getDate()}</span><span class="dots">${ks.map(k => `<span class="tag" style="background:${TAG[k]}">${EN() ? SHORT_EN[k] : short(k, types[k].label)}</span>`).join('')}</span>${note}</div>`; }).join('');
     if (root) {
       leaveLanding();
-      root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${head}</span></div><p class="sheet-title">${sub}</p><div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">${EN() ? 'Open this address (block differences · .ics)' : 'この住所のページ(番地の違い・.ics)'}</a></p></section><div class="week">${week}</div>`;
+      root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${head}</span></div><p class="sheet-title">${sub}</p>${alert ? `<p class="yearend-alert">${escapeHtml(alert)}</p>` : ''}<div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">${EN() ? 'Open this address (block differences · .ics)' : 'この住所のページ(番地の違い・.ics)'}</a></p></section><div class="week">${week}</div>`;
       // Result rises in Toss-style: label → headline → sub → items → link → week, 90ms apart.
       root.classList.remove('is-in'); root.classList.add('reveal');
       [root.querySelector('.sheet'), ...root.querySelector('.sheet').children, root.querySelector('.week')].forEach((el, i) => { el.classList.add('rv'); el.style.setProperty('--d', (i * 90) + 'ms'); });
@@ -87,14 +111,15 @@
     } else {
       const sheet = $('today'); sheet.classList.remove('balanced', 'quiet'); sheet.classList.add(cls);
       $('headline').textContent = head; $('sub').textContent = sub; $('upcoming').innerHTML = upcoming; $('week').innerHTML = week;
+      const alertEl = $('yearend-alert'); if (alertEl) { alertEl.textContent = alert; alertEl.hidden = !alert; }
     }
     return { today, tomorrow };
   }
 
-  function ics(types, name) {
+  function ics(types, name, yearendWindow) {
     const lines = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//ごみの日ナビ//JP', 'CALSCALE:GREGORIAN', `X-WR-CALNAME:${name} ごみ収集日`];
     for (let i = 0; i < 120; i++) {
-      const d = addDays(now, i); const ks = typesOn(types, d); if (!ks.length) continue;
+      const d = addDays(now, i); const ks = typesOn(types, d, yearendWindow); if (!ks.length) continue;
       const ymd = iso(d).replace(/-/g, ''), nxt = iso(addDays(d, 1)).replace(/-/g, '');
       lines.push('BEGIN:VEVENT', `UID:${ymd}-${ks.join('-')}@gomi`, `DTSTAMP:${ymd}T000000Z`, `DTSTART;VALUE=DATE:${ymd}`, `DTEND;VALUE=DATE:${nxt}`, `SUMMARY:🗑 ${ks.map(k => types[k].label).join('・')}`, `DESCRIPTION:${name}${ks.map(k => types[k].time ? ` ${types[k].label} ${types[k].time}` : '').join('')}`, 'END:VEVENT');
     }
@@ -106,9 +131,9 @@
   const sched = $('sched');
   if (sched) {
     const S = JSON.parse(sched.textContent);
-    render(S.types, S.name, S.slug, null);
-    window.__rerender = () => render(S.types, S.name, S.slug, null);
-    $('ics').href = ics(S.types, S.name);
+    render(S.types, S.name, S.slug, null, S.yearend);
+    window.__rerender = () => render(S.types, S.name, S.slug, null, S.yearend);
+    $('ics').href = ics(S.types, S.name, S.yearend);
     $('remember').addEventListener('click', () => localStorage.setItem('gomi.slug', S.slug));
     return;
   }
@@ -117,7 +142,7 @@
   const input = $('addr'); if (!input) return;
   const out = $('result'), menu = $('addr-menu');
   const RAW = await (await fetch(base + 'static/index.json?v=' + v)).json();
-  const D = RAW.items.map(([c, w, we, t, ch, r, k, s, en, ty, ts]) => ({ c, cn: RAW.cities[c], w, we, t, ch, r, kana: k, s, ts, en, ty: Object.fromEntries(Object.entries(ty).map(([tk, [d, wk, tm]]) => [tk, { l: RAW.labels[c][tk], d, w: wk, tm }])) }));
+  const D = RAW.items.map(([c, w, we, t, ch, r, k, s, en, ty, ts, yearendWindow]) => ({ c, cn: RAW.cities[c], w, we, t, ch, r, kana: k, s, ts, en, yearend: yearendWindow, ty: Object.fromEntries(Object.entries(ty).map(([tk, [d, wk, tm]]) => [tk, { l: RAW.labels[c][tk], d, w: wk, tm }])) }));
   const kata2hira = s => s.replace(/[ァ-ヶ]/g, c => String.fromCharCode(c.charCodeAt(0) - 0x60));
   const norm = s => kata2hira(s.toLowerCase()).replace(/[\s　]+/g, '').replace(/ヶ/g, 'ケ').replace(/丁目|ちょうめ/g, '');
   D.forEach(e => { e.k = norm(e.cn + e.w + e.t + e.ch); e.k2 = norm(e.w + e.t + e.ch); e.rk = e.r.toLowerCase().replace(/\s+/g, ''); e.kn = kata2hira(e.kana || '').replace(/\s+/g, ''); e.name = e.w + e.t + e.ch; });
@@ -137,7 +162,7 @@
   function choose(e) {
     input.value = e.name; close();
     const types = {}; for (const k in e.ty) types[k] = { label: e.ty[k].l, days: e.ty[k].d, weeks: e.ty[k].w, time: e.ty[k].tm };
-    render(types, e.cn + e.name + (EN() ? ` — ${e.en}` : ''), e.s, out); localStorage.setItem('gomi.slug', e.ts); window.__rerender = () => choose(e);
+    render(types, e.cn + e.name + (EN() ? ` — ${e.en}` : ''), e.s, out, e.yearend); localStorage.setItem('gomi.slug', e.ts); window.__rerender = () => choose(e);
   }
   input.addEventListener('focus', () => { setTimeout(() => input.select(), 0); open(input.value); });
   input.addEventListener('input', () => { active = -1; open(input.value); });

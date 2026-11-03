@@ -17,6 +17,7 @@
   <p class="sheet-label" data-i18n="today_tomorrow">今日と明日</p>
   <div class="sheet-num"><span class="num small-num" id="headline">読み込み中…</span></div>
   <p class="sheet-title" id="sub"></p>
+  <p class="yearend-alert" id="yearend-alert" role="status" hidden></p>
   <div class="stack" id="upcoming"></div>
   <p class="sheet-actions"><a class="next" id="ics" href="#" download="{{ g.romaji }}-gomi.ics"><span data-i18n="ics">カレンダーに入れる(.ics)</span></a><a class="next" id="remember" href="{{ base }}"><span data-i18n="remember">この住所をホームで覚える</span></a></p>
 </section>
@@ -27,7 +28,7 @@
 
 <div class="sec"><div class="sec-h"><h2 data-i18n="types_h2">ごみの種類ごとの曜日</h2></div>
 <div class="card">{% with types = m %}{% include "_types.html" %}{% endwith %}</div>
-{% if g.rules %}<p class="muted small" style="margin-top:10px">{% if g.rules.time_by %}出す時間: {{ g.rules.time_by }}まで。{% endif %}{% if g.rules.holiday_collection %}{{ g.rules.holiday_collection }}。{% endif %}{% if g.rules.yearend %}年末年始は{{ g.rules.yearend }}。{% endif %}</p>{% endif %}
+{% if g.rules %}<p class="muted small" style="margin-top:10px">{% if g.rules.time_by %}出す時間: {{ g.rules.time_by }}まで。{% endif %}{% if g.rules.holiday_collection %}{{ g.rules.holiday_collection }}。{% endif %}年末年始は{{ g.yearend_window.label }}。{% if not g.yearend_window.confirmed %}期間は確認必要です。{% endif %}</p>{% endif %}
 </div>
 
 {% if g.exceptions %}
@@ -45,5 +46,5 @@
 <ul class="list">{% for n in near[:10] %}<li><a href="{{ base }}{{ n.slug }}/">{{ n.town }}{{ n.chome }}<span class="meta">{{ n.main.types[n.primary].days|join('・') }}</span></a></li>{% endfor %}</ul></div>{% endif %}
 
 <p class="muted small" style="margin-top:24px">出典: <a href="{{ g.source.url }}" rel="noopener" target="_blank">{{ c.city }}公開データ</a>({{ g.source.fetched }}取得)。臨時の変更・災害時は市の案内が優先です。</p>
-<script id="sched" type="application/json">{{ {"types": m, "rules": g.rules, "name": w.ward ~ g.town ~ g.chome, "slug": g.slug}|tojson }}</script>
+<script id="sched" type="application/json">{{ {"types": m, "rules": g.rules, "yearend": g.yearend_window, "name": w.ward ~ g.town ~ g.chome, "slug": g.slug}|tojson }}</script>
 {% endblock %}

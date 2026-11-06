@@ -128,15 +128,36 @@ def month_days(value):
     return found
 
 
+def season_date(value):
+    """Return an ISO date for the 2026-27 season from an ISO or month/day value."""
+    if isinstance(value, str):
+        try:
+            return dt.date.fromisoformat(value).isoformat()
+        except ValueError:
+            pass
+    pair = parse_month_day(value)
+    if not pair:
+        return None
+    month, day = pair
+    year = 2026 if month == 12 else 2027
+    try:
+        return dt.date(year, month, day).isoformat()
+    except ValueError:
+        return None
+
+
 def normalize_yearend(value):
-    """Normalize season-specific year-end evidence without promoting a default to fact."""
+    """Normalize verified holiday and check windows for the client schedule."""
     kind = "unconfirmed"
     start = end = None
     note = ""
     display_note = ""
     source_url = ""
+    display_mode = ""
+    windows = []
     if isinstance(value, dict):
         kind = value.get("kind") or "unconfirmed"
+        display_mode = value.get("display_mode") or ""
         period = value.get("period")
         if isinstance(period, dict):
             start = parse_month_day(period.get("start") or period.get("from") or period.get("start_date"))
@@ -154,8 +175,42 @@ def normalize_yearend(value):
         display_note = display_value.strip().rstrip("。. ") if isinstance(display_value, str) else ""
         source_url = value.get("source_url") if isinstance(value.get("source_url"), str) else ""
 
+        raw_windows = value.get("windows")
+        if isinstance(raw_windows, list):
+            for raw in raw_windows:
+                if not isinstance(raw, dict) or raw.get("state") not in {"closed", "check"}:
+                    continue
+                window_start = season_date(raw.get("start"))
+                window_end = season_date(raw.get("end"))
+                if not window_start or not window_end or window_start > window_end:
+                    continue
+                raw_types = raw.get("types")
+                types = raw_types if isinstance(raw_types, list) and all(isinstance(t, str) for t in raw_types) else None
+                windows.append({
+                    "start": window_start,
+                    "end": window_end,
+                    "state": raw["state"],
+                    **({"types": types} if types is not None else {}),
+                    "source_url": raw.get("source_url") if isinstance(raw.get("source_url"), str) else source_url,
+                    "cell": raw.get("cell") if isinstance(raw.get("cell"), str) else "",
+                })
+
     period_known = bool(start and end)
-    confirmed = period_known and kind in {"confirmed", "annual"}
+    if not windows and period_known:
+        start_iso = season_date((value.get("period") or {}).get("start")) if isinstance(value, dict) and isinstance(value.get("period"), dict) else None
+        end_iso = season_date((value.get("period") or {}).get("end")) if isinstance(value, dict) and isinstance(value.get("period"), dict) else None
+        if start_iso and end_iso:
+            windows.append({
+                "start": start_iso, "end": end_iso, "state": "closed",
+                "source_url": source_url, "cell": "公式案内の休止期間",
+            })
+    if not windows:
+        windows.append({
+            "start": "2026-12-29", "end": "2027-01-04", "state": "check",
+            "source_url": source_url, "cell": "具体的な日程が未確認。公式案内で確認",
+        })
+
+    confirmed = kind in {"confirmed", "annual"} and any(w["state"] == "closed" for w in windows)
     if period_known:
         start_month, start_day = start
         end_month, end_day = end
@@ -173,9 +228,11 @@ def normalize_yearend(value):
         "label": label,
         "period_known": period_known,
         "kind": kind,
+        "display_mode": display_mode,
         "note": note.strip(),
         "display_note": display_note.strip(),
         "source_url": source_url,
+        "windows": windows,
         "confirmed": confirmed,
     }
 
@@ -292,7 +349,7 @@ def main():
         for r in recs:
             if not r["types"]:
                 continue  # e.g. 横浜 南区平楽: "事務所にお問合せください" — nothing to show
-            cities.setdefault(r["city_en"], {"city": r["city"], "pref": r["pref"], "city_en": r["city_en"], "wards": {}, "source": r["source"]["url"].split("/")[2], "fetched": r["source"]["fetched"], "rules": r.get("rules", {})})
+            cities.setdefault(r["city_en"], {"city": r["city"], "pref": r["pref"], "city_en": r["city_en"], "wards": {}, "source": r["source"]["url"].split("/")[2], "source_url": r["source"]["url"], "fetched": r["source"]["fetched"], "rules": r.get("rules", {})})
             c = cities[r["city_en"]]
             c["wards"].setdefault(r["ward_en"], {"ward": r["ward"], "ward_en": r["ward_en"], "towns": {}})
             k = group_key(r)
@@ -310,6 +367,11 @@ def main():
             groups[k]["records"].append(r)
     for c in cities.values():
         c["yearend_window"] = normalize_yearend(current_yearend.get(c["city_en"]))
+        if not c["yearend_window"]["source_url"]:
+            c["yearend_window"]["source_url"] = c["source_url"]
+            for window in c["yearend_window"]["windows"]:
+                if not window["source_url"]:
+                    window["source_url"] = c["source_url"]
         c["rules"] = dict(c.get("rules") or {})
         c["rules"]["yearend"] = c["yearend_window"]
     for g in groups.values():

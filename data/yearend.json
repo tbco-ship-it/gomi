@@ -17,7 +17,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "saitama",
       "kind": "annual",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2027-01-01",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.saitama.lg.jp/001/006/010/003/p042612.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "世田谷区",
@@ -28,7 +37,16 @@
       "verification_origin": "Ori override: VERIFY_ORI_OVERRIDES.md row 40",
       "city_en": "setagaya",
       "kind": "annual",
-      "display_note": "常設パンフレットは12/29～1/3の収集日を区のおしらせ等で案内するとしており、2026-27の具体日程は未確認"
+      "display_note": "12月29日〜1月3日の収集日程は区のおしらせ「せたがや」などでご確認ください。2026-27年の具体的な日程は未確定です。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.setagaya.lg.jp/documents/3639/02.pdf",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "中央区",
@@ -65,7 +83,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "nakano",
       "kind": "annual",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.tokyo-nakano.lg.jp/faq/gomi/gomi29.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "京都市",
@@ -79,7 +106,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "kyoto",
       "kind": "confirmed",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2026-12-30",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.kyoto.lg.jp/kankyo/page/0000358386.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "仙台市",
@@ -90,7 +126,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "sendai",
       "kind": "annual",
-      "display_note": "年末年始は原則休み。具体的な収集日は別途お知らせと記載"
+      "display_note": "年末年始は原則休みです。具体的な収集日は別途案内をご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.sendai.jp/haiki-shido/kurashi/machi/genryo/gomi/wakekata/kategomi.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "北九州市",
@@ -113,7 +158,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "kita",
       "kind": "annual",
-      "display_note": "具体的な年末年始日程は記載なし。週2日の地域別収集で、年末年始は除外"
+      "display_note": "週2回の地域別収集です。年末年始の日程はお住まいの地区の案内をご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.kita.lg.jp/living/bins/1002013/1002027/1002028.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "千代田区",
@@ -124,7 +178,16 @@
       "verification_origin": "Ori override: VERIFY_ORI_OVERRIDES.md row 18; quote corrected to source punctuation",
       "city_en": "chiyoda",
       "kind": "annual",
-      "display_note": "2026-27年の地区別カレンダーは公開されていますが、このルールページに年末年始の日付はありません"
+      "display_note": "2026-27年の日程は地区別カレンダーをご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/index.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "千葉市",
@@ -149,7 +212,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "chiba",
       "kind": "annual",
-      "display_note": "年末年始の具体日程はこのFAQに記載なし"
+      "display_note": "年末年始の具体的な日程は、区の案内をご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.chiba.jp/faq/kankyo/junkan/shushugyomu/1053.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "台東区",
@@ -160,7 +232,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "taito",
       "kind": "unconfirmed",
-      "display_note": "令和8年度（2026年4月〜2027年3月）の地区別カレンダー。年末年始は収集日を変更する可能性があり、12月の広報たいとう・区HPを確認するよう案内。具体日程なし"
+      "display_note": "地区別カレンダーの年末年始は変更される場合があります。具体的な日程は12月の広報たいとう・区HPでご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.taito.lg.jp/kurashi/gomi/keikaku/kakusyupanfuretto/R8gomidasikarennda-.files/2026_04L.pdf",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "名古屋市",
@@ -174,7 +255,45 @@
       "verification_origin": "Pudding PASS",
       "city_en": "nagoya",
       "kind": "confirmed",
-      "display_note": "プラスチック・電池は12/31〜1/3、びん・缶などは12/31〜1/4が休止（原文）"
+      "display_note": "プラスチック・電池は12月31日〜1月3日、びん・缶などは12月31日〜1月4日が休止です。品目・地区によって日程が異なるため、詳しくは市の公式案内をご確認ください。",
+      "display_mode": "varied",
+      "windows": [
+        {
+          "start": "2026-12-30",
+          "end": "2026-12-30",
+          "state": "check",
+          "source_url": "https://www.city.nagoya.jp/kurashi/gomi/1012183/1054883.html",
+          "cell": "可燃ごみ等の12月30日収集休止を含む年末年始日程"
+        },
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.nagoya.jp/kurashi/gomi/1012183/1054883.html",
+          "cell": "12月31日〜1月3日の年末年始収集休止欄"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-04",
+          "state": "check",
+          "types": [
+            "resource"
+          ],
+          "source_url": "https://www.city.nagoya.jp/kurashi/gomi/1012183/1054883.html",
+          "cell": "月曜日のびん・缶等、1月4日収集休止欄"
+        },
+        {
+          "start": "2027-01-05",
+          "end": "2027-01-29",
+          "state": "check",
+          "types": [
+            "nonburnable",
+            "bulky"
+          ],
+          "source_url": "https://www.city.nagoya.jp/kurashi/gomi/1012183/1054883.html",
+          "cell": "金曜日の不燃ごみ・粗大ごみが1週後ろにずれる欄"
+        }
+      ]
     },
     {
       "city": "品川区",
@@ -221,7 +340,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "sumida",
       "kind": "annual",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/faq/gomi-yokuaru-situmon.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "大田区",
@@ -246,7 +374,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "ota",
       "kind": "annual",
-      "display_note": "通年ルールでは年末年始を例外としていますが、日付の範囲は示されていません"
+      "display_note": "年末年始の具体的な休止期間は、市の案内をご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "大阪市",
@@ -287,7 +424,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "okayama",
       "kind": "annual",
-      "display_note": "通年ルールでは年末年始を収集対象外としていますが、該当出典に日付範囲はなく、年次案内で確認が必要です"
+      "display_note": "年末年始の収集日は、年次案内でご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.okayama.jp/faq/faq_detail.php?frmId=319",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "川崎市",
@@ -301,7 +447,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "kawasaki",
       "kind": "annual",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2027-01-01",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.kawasaki.jp/templates/faq/300/0000125241.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "広島市",
@@ -315,7 +470,17 @@
       "verification_origin": "Pudding PASS",
       "city_en": "hiroshima",
       "kind": "confirmed",
-      "display_note": "令和8年度の公式案内。地区・品目により、前後の日程を変更するものあり"
+      "display_note": "地区により前後の日程が変わる場合があります。お住まいの地区の収集日程をご確認ください。",
+      "display_mode": "",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/037/640/shukujitsu-shushu2026.pdf",
+          "cell": "12月31日〜1月3日 年末年始・収集なし欄"
+        }
+      ]
     },
     {
       "city": "文京区",
@@ -340,7 +505,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "bunkyo",
       "kind": "annual",
-      "display_note": "通年ルールには年末年始の休止のみ記載され、日付範囲はありません。期間は年次案内で確認が必要です"
+      "display_note": "年末年始の具体的な休止期間は、区の年次案内をご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.bunkyo.lg.jp/b038/p007494.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "新宿区",
@@ -365,7 +539,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "shinjuku",
       "kind": "annual",
-      "display_note": "現在のルールは日曜日・年末年始を例外としていますが、日付範囲は明記されていません"
+      "display_note": "日曜日と年末年始は収集対象外です。年末年始の具体的な日程は区の案内をご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.shinjuku.lg.jp/seikatsu/file09_01_00002.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "新潟市",
@@ -389,7 +572,24 @@
       "verification_origin": "Pudding PASS",
       "city_en": "niigata",
       "kind": "confirmed",
-      "display_note": "北区・豊栄地区「豊栄1」カレンダー。12月31日は燃やすごみのみ特別収集"
+      "display_note": "12月31日は「燃やすごみ」を特別収集します。品目・地区によって収集日が異なる場合があります。お住まいの地区のカレンダーをご確認ください。",
+      "display_mode": "varied",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "state": "check",
+          "source_url": "https://www.city.niigata.lg.jp/kurashi/gomi/gomishigen/gomidasi/gomi_calemder/kita.files/toyosaka-01.pdf",
+          "cell": "12月31日の燃やすごみ特別収集欄"
+        },
+        {
+          "start": "2027-01-01",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.niigata.lg.jp/kurashi/gomi/gomishigen/gomidasi/gomi_calemder/kita.files/toyosaka-01.pdf",
+          "cell": "1月1日〜3日の収集休止欄"
+        }
+      ]
     },
     {
       "city": "札幌市",
@@ -413,7 +613,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "sapporo",
       "kind": "confirmed",
-      "display_note": "中央区カレンダー1の規則"
+      "display_note": "地区により異なる場合があります。お住まいの地区のカレンダーで収集日をご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-30",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.sapporo.jp/seiso/kaisyu/yomiage/carender/01chuo/01chuo1.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "杉並区",
@@ -427,7 +636,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "suginami",
       "kind": "annual",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.suginami.tokyo.jp/s104/713.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "板橋区",
@@ -441,7 +659,24 @@
       "verification_origin": "Pudding PASS",
       "city_en": "itabashi",
       "kind": "confirmed",
-      "display_note": "12月31日（木曜日）は一部地域の可燃ごみのみ収集。資源・粗大ごみは休み"
+      "display_note": "品目・地区によって日程が異なります。12月31日は一部地域で可燃ごみを収集します。資源・粗大ごみの収集はありません。",
+      "display_mode": "varied",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2026-12-31",
+          "state": "check",
+          "source_url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/1035547.html",
+          "cell": "12月31日の一部地域・可燃ごみ欄"
+        },
+        {
+          "start": "2027-01-01",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/1035547.html",
+          "cell": "1月1日〜3日の収集休止欄"
+        }
+      ]
     },
     {
       "city": "横浜市",
@@ -455,7 +690,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "yokohama",
       "kind": "confirmed",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/nenmatsunenshi.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "江戸川区",
@@ -469,7 +713,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "edogawa",
       "kind": "annual",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/fukyu/kidscorner/q_a/5_syokuin.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "江東区",
@@ -494,7 +747,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "koto",
       "kind": "annual",
-      "display_note": "通年ルールでは年末年始を除外していますが、実際の日付範囲はこのFAQにありません"
+      "display_note": "祝日も収集します。年末年始の具体的な日程は区の案内をご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.koto.lg.jp/388010/kurashi/gomi/shitumon.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "浜松市",
@@ -518,7 +780,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "hamamatsu",
       "kind": "confirmed",
-      "display_note": "中央区・相生町を含むカレンダーNo.16。12月31日と1月1～3日は収集なし"
+      "display_note": "相生町を含むカレンダーNo.16では12月31日・1月1日〜3日は収集しません。地区により異なる場合があります。対象地区の公式カレンダーをご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.hamamatsu.shizuoka.jp/documents/156973/gomicalendar_r8_251212_16.pdf",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "渋谷区",
@@ -543,7 +814,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "shibuya",
       "kind": "annual",
-      "display_note": "2026-11-02更新ページは年末年始の収集を休止・変更する場合があると案内しています。2026-27の日程は未確定"
+      "display_note": "年末年始の収集は休止・変更の場合があります。2026-27年の具体的な日程は区の案内をご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.shibuya.tokyo.jp/kurashi/gomi/kateigomi/gomid.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "港区",
@@ -557,7 +837,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "minato",
       "kind": "annual",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.minato.tokyo.jp/unei/kuse/kocho/faq/gomi/009.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "目黒区",
@@ -568,7 +857,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "meguro",
       "kind": "annual",
-      "display_note": "通年ルールには年末年始の休止のみ記載され、日付範囲はありません。期間は年次案内で確認が必要です"
+      "display_note": "年末年始の具体的な日程は、区の年次案内をご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.meguro.tokyo.jp/seisou/kusei/faq/gomi-4.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "相模原市",
@@ -582,7 +880,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "sagamihara",
       "kind": "annual",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.sagamihara.kanagawa.jp/shisei/1026875/faq/gomi/1002503.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "神戸市",
@@ -596,7 +903,24 @@
       "verification_origin": "Pudding PASS",
       "city_en": "kobe",
       "kind": "confirmed",
-      "display_note": "品目・地域により12/29〜31に臨時収集があります（原文）"
+      "display_note": "品目・地域により、12月29日〜31日に臨時収集があります。対象地域と品目は市の公式案内をご確認ください。",
+      "display_mode": "varied",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2026-12-31",
+          "state": "check",
+          "source_url": "https://www.city.kobe.lg.jp/a04164/kurashi/recycle/gomi/dashikata/r8_nenmatunensigomishuushuu.html",
+          "cell": "品目・曜日別の12月29日〜31日臨時収集表"
+        },
+        {
+          "start": "2027-01-01",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.kobe.lg.jp/a04164/kurashi/recycle/gomi/dashikata/r8_nenmatunensigomishuushuu.html",
+          "cell": "1月1日〜3日の年始収集休止欄"
+        }
+      ]
     },
     {
       "city": "福岡市",
@@ -610,7 +934,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "fukuoka",
       "kind": "annual",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.fukuoka.lg.jp/kankyo/kateigomi/hp/syukuzitutounokateigomisyusyu.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "練馬区",
@@ -624,7 +957,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "nerima",
       "kind": "annual",
-      "display_note": "年末年始期間（12月31日〜1月3日）の収集日程は変更される場合があります。詳細は年末年始のお知らせをご覧ください（原文）"
+      "display_note": "12月31日〜1月3日の収集日程が変更される場合があります。詳しくは区の年末年始のお知らせをご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/index.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "荒川区",
@@ -635,7 +977,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "arakawa",
       "kind": "unconfirmed",
-      "display_note": "令和8年度（2026年4月〜2027年3月）の地区別カレンダー。具体的な年末年始日程は12月の区報・HPを確認するよう案内"
+      "display_note": "具体的な日程は12月の区報・区HPでご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.arakawa.tokyo.jp/documents/735/2026-12.pdf",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "豊島区",
@@ -649,7 +1000,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "toshima",
       "kind": "confirmed",
-      "display_note": ""
+      "display_note": "",
+      "windows": [
+        {
+          "start": "2026-12-31",
+          "end": "2027-01-03",
+          "state": "closed",
+          "source_url": "https://www.city.toshima.lg.jp/150/kurashi/gomi/shigen/2609221700.html",
+          "cell": "公式案内の年末年始休止期間"
+        }
+      ]
     },
     {
       "city": "足立区",
@@ -660,7 +1020,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "adachi",
       "kind": "unconfirmed",
-      "display_note": "令和8年（2026年）の年末年始の具体的な収集内容は12月の「あだち広報」で案内予定。現時点では日付未公表"
+      "display_note": "令和8年の具体的な収集内容はまだ未公表です。12月の「あだち広報」で案内予定です。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.adachi.tokyo.jp/seso/2026calender.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     },
     {
       "city": "静岡市",
@@ -683,7 +1052,16 @@
       "verification_origin": "Pudding PASS",
       "city_en": "shizuoka",
       "kind": "annual",
-      "display_note": "可燃ごみの出し方ページ。年末年始の具体日程は別途広報紙等で案内すると記載"
+      "display_note": "年末年始の具体的な日程は、別途広報紙などでお知らせします。ご確認ください。",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.shizuoka.lg.jp/gomi/s000666.html",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     }
   ],
   "unconfirmed": [
@@ -694,7 +1072,16 @@
       "period": null,
       "source_url": "https://www.city.kumamoto.jp/kiji0034637/3_4637_up_7jcgaozv.pdf",
       "display_note": "地区のごみカレンダーで確認してください。",
-      "verification_origin": "Ori decision: VERIFY_ORI_OVERRIDES.md row 43; failed quote and city-wide period are excluded"
+      "verification_origin": "Ori decision: VERIFY_ORI_OVERRIDES.md row 43; failed quote and city-wide period are excluded",
+      "windows": [
+        {
+          "start": "2026-12-29",
+          "end": "2027-01-04",
+          "state": "check",
+          "source_url": "https://www.city.kumamoto.jp/kiji0034637/3_4637_up_7jcgaozv.pdf",
+          "cell": "具体的な日程は未確認。公式案内で確認"
+        }
+      ]
     }
   ]
 }

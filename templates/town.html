@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "_yearend.html" import summary as yearend_summary %}
 {% set m = g.main.types %}
 {% set bt = g.primary %}
 {% block title %}{{ c.city }}{{ w.ward }}{{ g.town }}{{ g.chome }}のごみ収集日 — {{ m[bt].label }}は{{ m[bt].days|join('・') }}曜 | {{ g.en_place }} garbage collection days | {{ site }}{% endblock %}
@@ -28,7 +29,7 @@
 
 <div class="sec"><div class="sec-h"><h2 data-i18n="types_h2">ごみの種類ごとの曜日</h2></div>
 <div class="card">{% with types = m %}{% include "_types.html" %}{% endwith %}</div>
-{% if g.rules %}<p class="muted small" style="margin-top:10px">{% if g.rules.time_by %}出す時間: {{ g.rules.time_by }}まで。{% endif %}{% if g.rules.holiday_collection %}{{ g.rules.holiday_collection }}。{% endif %}年末年始は{{ g.yearend_window.label }}。{% if not g.yearend_window.confirmed %}期間は確認必要です。{% endif %}</p>{% endif %}
+{% if g.rules %}<p class="muted small" style="margin-top:10px">{% if g.rules.time_by %}出す時間: {{ g.rules.time_by }}まで。{% endif %}{% if g.rules.holiday_collection %}{{ g.rules.holiday_collection }}。{% endif %}{{ yearend_summary(g.yearend_window) }}</p>{% endif %}
 </div>
 
 {% if g.exceptions %}

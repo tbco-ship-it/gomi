@@ -1,0 +1,700 @@
+{
+  "season": "2026-27",
+  "audit_sources": [
+    "OUTBOX/수익화_GOMIDAY_NENMATSU_20261103/VERIFIED_ROWS.json (46 PASS)",
+    "OUTBOX/수익화_GOMIDAY_NENMATSU_20261103/VERIFY_ORI_OVERRIDES.md (3 additional PASS corrections)"
+  ],
+  "rows": [
+    {
+      "city": "さいたま市",
+      "period": {
+        "start": "2027-01-01",
+        "end": "2027-01-03"
+      },
+      "quote": "祝日も収集します。（1月1日～3日は除く）",
+      "source_url": "https://www.city.saitama.lg.jp/001/006/010/003/p042612.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "saitama",
+      "kind": "annual",
+      "display_note": ""
+    },
+    {
+      "city": "世田谷区",
+      "period": null,
+      "quote": "12月29日～1月3日の収集日は区のおしらせ「せたがや」などでお知らせします。",
+      "source_url": "https://www.city.setagaya.lg.jp/documents/3639/02.pdf",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Ori override: VERIFY_ORI_OVERRIDES.md row 40",
+      "city_en": "setagaya",
+      "kind": "annual",
+      "display_note": "常設パンフレットは12/29～1/3の収集日を区のおしらせ等で案内するとしており、2026-27の具体日程は未確認"
+    },
+    {
+      "city": "中央区",
+      "period": {
+        "start": "2026-01-01",
+        "end": "2026-01-04"
+      },
+      "quote": "12月31日（水）まで／令和8年1月5日（月）から",
+      "source_url": "https://www.city.chuo.lg.jp/documents/17857/chuou251201_12.pdf",
+      "year_basis": "2025-26 공지(전년)",
+      "scope": "中央区の年末年始ごみ・資源収集案内",
+      "supporting_sources": [
+        {
+          "source_url": "https://www.city.chuo.lg.jp/a0039/kurashi/gomi/bunbetsu/wakekata/panhuretto.html",
+          "note": "2026年1月改訂の分別冊子ページ。2026-27の年末年始日程は記載なし。",
+          "capture": "captures/chuo_rules_20261103.png",
+          "accessed": "2026-11-03T01:38:44Z"
+        }
+      ],
+      "verification_origin": "Pudding PASS",
+      "city_en": "chuo",
+      "kind": "previous",
+      "display_note": "12/31は可燃・不燃ごみのみ収集し、資源物は収集しない（原文）"
+    },
+    {
+      "city": "中野区",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "日曜日と年末年始（12月31日～1月3日）を除き、収集、回収日が祝日（振替休日を含む）の際にも、ごみの収集、資源の回収を行っています。",
+      "source_url": "https://www.city.tokyo-nakano.lg.jp/faq/gomi/gomi29.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "nakano",
+      "kind": "annual",
+      "display_note": ""
+    },
+    {
+      "city": "京都市",
+      "period": {
+        "start": "2026-12-30",
+        "end": "2027-01-03"
+      },
+      "quote": "12月30日（水曜日）から1月3日（日曜日）は、収集はありません。",
+      "source_url": "https://www.city.kyoto.lg.jp/kankyo/page/0000358386.html",
+      "year_basis": "2026-27 공지",
+      "verification_origin": "Pudding PASS",
+      "city_en": "kyoto",
+      "kind": "confirmed",
+      "display_note": ""
+    },
+    {
+      "city": "仙台市",
+      "period": null,
+      "quote": "年末年始の収集は原則お休みです。（収集日は別途お知らせします）",
+      "source_url": "https://www.city.sendai.jp/haiki-shido/kurashi/machi/genryo/gomi/wakekata/kategomi.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "sendai",
+      "kind": "annual",
+      "display_note": "年末年始は原則休み。具体的な収集日は別途お知らせと記載"
+    },
+    {
+      "city": "北九州市",
+      "period": null,
+      "quote": "年末最後の収集日以降のごみは年始最初の収集日までは出さないでください。",
+      "source_url": "https://ssl.city.kitakyushu.lg.jp/page/dayori/251215/topics/topics.html",
+      "year_basis": "2025-26 공지(전년)",
+      "scope": "令和7年12月15日号の年末年始収集案内",
+      "verification_origin": "Pudding PASS",
+      "city_en": "kitakyushu",
+      "kind": "previous",
+      "display_note": "地域・品目により、年末最後の収集日と年始の再開日が異なる（原文）"
+    },
+    {
+      "city": "北区",
+      "period": null,
+      "quote": "月曜日から土曜日までの間で決められた週2日（年末年始を除き、祝日も収集します）",
+      "source_url": "https://www.city.kita.lg.jp/living/bins/1002013/1002027/1002028.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "kita",
+      "kind": "annual",
+      "display_note": "具体的な年末年始日程は記載なし。週2日の地域別収集で、年末年始は除外"
+    },
+    {
+      "city": "千代田区",
+      "period": null,
+      "quote": "千代田区では、資源とごみの回収・収集は、日曜日と年末年始を除く毎日行っています（住所別のカレンダーは「資源とごみの収集カレンダー」をご覧ください）。",
+      "source_url": "https://www.city.chiyoda.lg.jp/koho/kurashi/gomi/wakekata/index.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Ori override: VERIFY_ORI_OVERRIDES.md row 18; quote corrected to source punctuation",
+      "city_en": "chiyoda",
+      "kind": "annual",
+      "display_note": "2026-27年の地区別カレンダーは公開されていますが、このルールページに年末年始の日付はありません"
+    },
+    {
+      "city": "千葉市",
+      "period": {
+        "start": "2026-01-01",
+        "end": "2026-01-04"
+      },
+      "quote": "令和7年度 年末・年始のごみ収集について",
+      "source_url": "https://www.city.chiba.jp/shimin/shimin/jichi/documents/20251119_syusyugyomu.pdf",
+      "year_basis": "2025-26 공지(전년)",
+      "verification_origin": "Pudding PASS",
+      "city_en": "chiba",
+      "kind": "previous",
+      "display_note": "区分・曜日ごとに年内最終日・年始開始日が異なる(原文)"
+    },
+    {
+      "city": "千葉市",
+      "period": null,
+      "quote": "年末年始を除き、祝日も収集を行います。",
+      "source_url": "https://www.city.chiba.jp/faq/kankyo/junkan/shushugyomu/1053.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "chiba",
+      "kind": "annual",
+      "display_note": "年末年始の具体日程はこのFAQに記載なし"
+    },
+    {
+      "city": "台東区",
+      "period": null,
+      "quote": "※年末年始は収集日を変更する場合があります。12月の広報たいとうや台東区ホームページなどでご確認ください。",
+      "source_url": "https://www.city.taito.lg.jp/kurashi/gomi/keikaku/kakusyupanfuretto/R8gomidasikarennda-.files/2026_04L.pdf",
+      "year_basis": "2026-27 공지",
+      "verification_origin": "Pudding PASS",
+      "city_en": "taito",
+      "kind": "unconfirmed",
+      "display_note": "令和8年度（2026年4月〜2027年3月）の地区別カレンダー。年末年始は収集日を変更する可能性があり、12月の広報たいとう・区HPを確認するよう案内。具体日程なし"
+    },
+    {
+      "city": "名古屋市",
+      "period": {
+        "start": "2026-12-30",
+        "end": "2027-01-03"
+      },
+      "quote": "12月30日（水曜日）から1月3日（日曜日）の収集はありません。",
+      "source_url": "https://www.city.nagoya.jp/kurashi/gomi/1012183/1054883.html",
+      "year_basis": "2026-27 공지",
+      "verification_origin": "Pudding PASS",
+      "city_en": "nagoya",
+      "kind": "confirmed",
+      "display_note": "プラスチック・電池は12/31〜1/3、びん・缶などは12/31〜1/4が休止（原文）"
+    },
+    {
+      "city": "品川区",
+      "period": {
+        "start": "2026-01-01",
+        "end": "2026-01-04"
+      },
+      "quote": "1月1日（木曜日）～1月4日（日曜日）までは、全ての資源・ごみの収集は休みです。",
+      "source_url": "https://www.city.shinagawa.tokyo.jp/kurashi/gomi/1009407/1003963/1003918.html",
+      "year_basis": "2025-26 공지(전년)",
+      "verification_origin": "Pudding PASS",
+      "city_en": "shinagawa",
+      "kind": "previous",
+      "display_note": "12/31は水・土曜地区の可燃ごみを臨時収集（原文）"
+    },
+    {
+      "city": "堺市",
+      "period": null,
+      "quote": "5日（月）から／6日（火）から／7日（水）から",
+      "source_url": "https://www.city.sakai.lg.jp/shisei/koho/koho/koho_sakai/kobo_sakai_pdf/koho_sakai_2026/202601.files/260106.pdf",
+      "year_basis": "2025-26 공지(전년)",
+      "supporting_sources": [
+        {
+          "source_url": "https://www.city.sakai.lg.jp/kurashi/gomi/gomi_recy/bunbetsu/news/77127820240422150746871.html",
+          "quote": "ゴールデンウイークやお盆、年末も通常通り収集を行います",
+          "capture": "captures/sakai.png",
+          "accessed": "2026-11-03T00:43:03Z"
+        }
+      ],
+      "verification_origin": "Pudding PASS",
+      "city_en": "sakai",
+      "kind": "previous",
+      "display_note": "2025-26年始は生活ごみが曜日別に1/5（月）・1/6（火）・1/7（水）から再開。2026-27の具体日程は未確認。常設案内では年末も通常収集"
+    },
+    {
+      "city": "墨田区",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "年末年始（12月31日から翌年1月3日まで）と日曜日を除き、土曜日・祝日もごみの収集、資源物の回収を行っています。",
+      "source_url": "https://www.city.sumida.lg.jp/kurashi/gomi_recycle/faq/gomi-yokuaru-situmon.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "sumida",
+      "kind": "annual",
+      "display_note": ""
+    },
+    {
+      "city": "大田区",
+      "period": {
+        "start": "2025-12-31",
+        "end": "2026-01-03"
+      },
+      "quote": "12月31日から1月3日は全てのごみ収集をお休みします",
+      "source_url": "https://www.city.ota.tokyo.jp/kuho/kuho_web/20251201/johobox.html",
+      "year_basis": "2025-26 공지(전년)",
+      "verification_origin": "Pudding PASS",
+      "city_en": "ota",
+      "kind": "previous",
+      "display_note": "通年ルールでは年末年始を例外としていますが、日付の範囲は示されていません"
+    },
+    {
+      "city": "大田区",
+      "period": null,
+      "quote": "年末年始を除き、祝日でも収集（回収）は曜日どおりに行っています。",
+      "source_url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/shigentogomi/gomishigen.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "ota",
+      "kind": "annual",
+      "display_note": "通年ルールでは年末年始を例外としていますが、日付の範囲は示されていません"
+    },
+    {
+      "city": "大阪市",
+      "period": {
+        "start": "2026-01-01",
+        "end": "2026-01-04"
+      },
+      "quote": "※収集曜日は普段と変わりません。ただし、令和8年1月1日（木曜日）～令和8年1月4日（日曜日）の間の収集は、お休みさせていただきます。",
+      "source_url": "https://www.city.osaka.lg.jp/nishiyodogawa/page/0000640422.html",
+      "year_basis": "2025-26 공지(전년)",
+      "scope": "大阪市西淀川区の年末年始収集案内",
+      "verification_origin": "Pudding PASS",
+      "city_en": "osaka",
+      "kind": "previous",
+      "display_note": "収集曜日は通常どおりで、該当する4日間は収集を休止（原文）"
+    },
+    {
+      "city": "岡山市",
+      "period": {
+        "start": "2025-12-31",
+        "end": "2026-01-04"
+      },
+      "quote": "年末は12月30日（火曜）まで、年始は1月5日（月曜）から決められた曜日にごみを収集します。",
+      "source_url": "https://www.city.okayama.jp/0000066642.html",
+      "year_basis": "2025-26 공지(전년)",
+      "scope": "瀬戸・建部地区を除く",
+      "verification_origin": "Pudding PASS",
+      "city_en": "okayama",
+      "kind": "previous",
+      "display_note": "通年ルールでは年末年始を収集対象外としていますが、該当出典に日付範囲はなく、年次案内で確認が必要です"
+    },
+    {
+      "city": "岡山市",
+      "period": null,
+      "quote": "土曜日、日曜日、年末年始を除いて、祝日や振替休日も通常通り収集しています。",
+      "source_url": "https://www.city.okayama.jp/faq/faq_detail.php?frmId=319",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "okayama",
+      "kind": "annual",
+      "display_note": "通年ルールでは年末年始を収集対象外としていますが、該当出典に日付範囲はなく、年次案内で確認が必要です"
+    },
+    {
+      "city": "川崎市",
+      "period": {
+        "start": "2027-01-01",
+        "end": "2027-01-03"
+      },
+      "quote": "資源物・普通ごみは、祝日、大型連休、お盆も通常どおり行います。（日曜日・1月1日～3日は収集しません。）",
+      "source_url": "https://www.city.kawasaki.jp/templates/faq/300/0000125241.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "kawasaki",
+      "kind": "annual",
+      "display_note": ""
+    },
+    {
+      "city": "広島市",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "12月31日（木）～1月3日（日）年末年始　収集はありません",
+      "source_url": "https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/037/640/shukujitsu-shushu2026.pdf",
+      "year_basis": "2026-27 공지",
+      "verification_origin": "Pudding PASS",
+      "city_en": "hiroshima",
+      "kind": "confirmed",
+      "display_note": "令和8年度の公式案内。地区・品目により、前後の日程を変更するものあり"
+    },
+    {
+      "city": "文京区",
+      "period": {
+        "start": "2025-12-31",
+        "end": "2026-01-03"
+      },
+      "quote": "12月31日㈬～8年1月3日㈯ ごみ収集はお休み",
+      "source_url": "https://www.city.bunkyo.lg.jp/documents/12289/20251125.pdf",
+      "year_basis": "2025-26 공지(전년)",
+      "verification_origin": "Pudding PASS",
+      "city_en": "bunkyo",
+      "kind": "previous",
+      "display_note": "通年ルールには年末年始の休止のみ記載され、日付範囲はありません。期間は年次案内で確認が必要です"
+    },
+    {
+      "city": "文京区",
+      "period": null,
+      "quote": "ごみ・資源は、年末年始を除き、祝日や振替休日にも収集しています。",
+      "source_url": "https://www.city.bunkyo.lg.jp/b038/p007494.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "bunkyo",
+      "kind": "annual",
+      "display_note": "通年ルールには年末年始の休止のみ記載され、日付範囲はありません。期間は年次案内で確認が必要です"
+    },
+    {
+      "city": "新宿区",
+      "period": {
+        "start": "2025-12-31",
+        "end": "2026-01-03"
+      },
+      "quote": "12月31日～1月3日は収集作業をお休みします。",
+      "source_url": "https://www.city.shinjuku.lg.jp/content/000441502.pdf",
+      "year_basis": "2025-26 공지(전년)",
+      "verification_origin": "Pudding PASS",
+      "city_en": "shinjuku",
+      "kind": "previous",
+      "display_note": "現在のルールは日曜日・年末年始を例外としていますが、日付範囲は明記されていません"
+    },
+    {
+      "city": "新宿区",
+      "period": null,
+      "quote": "祝日も曜日どおりに収集します。（日曜日・年末年始は除く）",
+      "source_url": "https://www.city.shinjuku.lg.jp/seikatsu/file09_01_00002.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "shinjuku",
+      "kind": "annual",
+      "display_note": "現在のルールは日曜日・年末年始を例外としていますが、日付範囲は明記されていません"
+    },
+    {
+      "city": "新潟市",
+      "period": {
+        "start": "2027-01-01",
+        "end": "2027-01-03"
+      },
+      "quote": "※31日は「燃やすごみ」を特別に収集します。／※1日～3日は収集を行いません。",
+      "source_url": "https://www.city.niigata.lg.jp/kurashi/gomi/gomishigen/gomidasi/gomi_calemder/kita.files/toyosaka-01.pdf",
+      "year_basis": "2026-27 공지",
+      "scope": "2개 구역 확인, 같음",
+      "scope_evidence_captures": [
+        "captures/niigata_chuo.png"
+      ],
+      "scope_evidence": [
+        {
+          "capture": "captures/niigata_chuo.png",
+          "accessed": "2026-11-03T00:59:36Z"
+        }
+      ],
+      "verification_origin": "Pudding PASS",
+      "city_en": "niigata",
+      "kind": "confirmed",
+      "display_note": "北区・豊栄地区「豊栄1」カレンダー。12月31日は燃やすごみのみ特別収集"
+    },
+    {
+      "city": "札幌市",
+      "period": {
+        "start": "2026-12-30",
+        "end": "2027-01-03"
+      },
+      "quote": "ただし、年末年始期間の12月30日から1月3日までは収集はありません。",
+      "source_url": "https://www.city.sapporo.jp/seiso/kaisyu/yomiage/carender/01chuo/01chuo1.html",
+      "year_basis": "2026-27 공지",
+      "scope": "2개 구역 확인, 같음",
+      "scope_evidence_captures": [
+        "captures/sapporo_kita3.png"
+      ],
+      "scope_evidence": [
+        {
+          "capture": "captures/sapporo_kita3.png",
+          "accessed": "2026-11-03T00:58:37Z"
+        }
+      ],
+      "verification_origin": "Pudding PASS",
+      "city_en": "sapporo",
+      "kind": "confirmed",
+      "display_note": "中央区カレンダー1の規則"
+    },
+    {
+      "city": "杉並区",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "日曜日、年末年始（12月31日～1月3日まで）を除き、祝日も収集します。",
+      "source_url": "https://www.city.suginami.tokyo.jp/s104/713.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "suginami",
+      "kind": "annual",
+      "display_note": ""
+    },
+    {
+      "city": "板橋区",
+      "period": {
+        "start": "2027-01-01",
+        "end": "2027-01-03"
+      },
+      "quote": "12月31日（木曜日）に一部の地域で可燃ごみの収集を行います。／12月31日（木曜日）の資源の回収、粗大ごみの収集はお休みします。／1月1日（金曜日）から1月3日（日曜日）の収集はお休みします。",
+      "source_url": "https://www.city.itabashi.tokyo.jp/tetsuduki/gomi/1035547.html",
+      "year_basis": "2026-27 공지",
+      "verification_origin": "Pudding PASS",
+      "city_en": "itabashi",
+      "kind": "confirmed",
+      "display_note": "12月31日（木曜日）は一部地域の可燃ごみのみ収集。資源・粗大ごみは休み"
+    },
+    {
+      "city": "横浜市",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "令和８年12月31日(木)から令和９年１月３日(日)まで、資源とごみの収集をお休みさせていただきます。",
+      "source_url": "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/nenmatsunenshi.html",
+      "year_basis": "2026-27 공지",
+      "verification_origin": "Pudding PASS",
+      "city_en": "yokohama",
+      "kind": "confirmed",
+      "display_note": ""
+    },
+    {
+      "city": "江戸川区",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "日曜日と12月31日～1月3日（年末年始）がお休みになります。",
+      "source_url": "https://www.city.edogawa.tokyo.jp/e025/kurashi/gomi_recycle/fukyu/kidscorner/q_a/5_syokuin.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "edogawa",
+      "kind": "annual",
+      "display_note": ""
+    },
+    {
+      "city": "江東区",
+      "period": {
+        "start": "2025-12-31",
+        "end": "2026-01-03"
+      },
+      "quote": "年末は12月30日（火曜日）まで、年始は1月4日（日曜日）から通常どおり資源の回収とごみの収集を行います。",
+      "source_url": "https://www.city.koto.lg.jp/011501/kuse/koho/kuho/r07/text/121112.html",
+      "year_basis": "2025-26 공지(전년)",
+      "verification_origin": "Ori override: VERIFY_ORI_OVERRIDES.md row 50; period supplied",
+      "city_en": "koto",
+      "kind": "previous",
+      "display_note": "通年ルールでは年末年始を除外していますが、実際の日付範囲はこのFAQにありません"
+    },
+    {
+      "city": "江東区",
+      "period": null,
+      "quote": "年末年始を除き祝日も収集します。",
+      "source_url": "https://www.city.koto.lg.jp/388010/kurashi/gomi/shitumon.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "koto",
+      "kind": "annual",
+      "display_note": "通年ルールでは年末年始を除外していますが、実際の日付範囲はこのFAQにありません"
+    },
+    {
+      "city": "浜松市",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "12月31日は収集を行いません。／1月1日～3日は収集を行いません。",
+      "source_url": "https://www.city.hamamatsu.shizuoka.jp/documents/156973/gomicalendar_r8_251212_16.pdf",
+      "year_basis": "2026-27 공지",
+      "scope": "2개 구역 확인, 같음",
+      "scope_evidence_captures": [
+        "captures/hamamatsu_no1.png"
+      ],
+      "scope_evidence": [
+        {
+          "capture": "captures/hamamatsu_no1.png",
+          "accessed": "2026-11-03T01:00:57Z"
+        }
+      ],
+      "verification_origin": "Pudding PASS",
+      "city_en": "hamamatsu",
+      "kind": "confirmed",
+      "display_note": "中央区・相生町を含むカレンダーNo.16。12月31日と1月1～3日は収集なし"
+    },
+    {
+      "city": "渋谷区",
+      "period": {
+        "start": "2026-01-01",
+        "end": "2026-01-04"
+      },
+      "quote": "1月1日（木曜日・祝日）～4日（日曜日）は休止し、1月5日（月曜日）から通常どおり回収・収集します。",
+      "source_url": "https://www.city.shibuya.tokyo.jp/contents/koho-news/1594/20251115_special_mini.html",
+      "year_basis": "2025-26 공지(전년)",
+      "verification_origin": "Pudding PASS",
+      "city_en": "shibuya",
+      "kind": "previous",
+      "display_note": "2026-11-02更新ページは年末年始の収集を休止・変更する場合があると案内しています。2026-27の日程は未確定"
+    },
+    {
+      "city": "渋谷区",
+      "period": null,
+      "quote": "年末年始は収集を休んだり、変更することがあります。日程が決まり次第、しぶや区ニュース等でお知らせします。",
+      "source_url": "https://www.city.shibuya.tokyo.jp/kurashi/gomi/kateigomi/gomid.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "shibuya",
+      "kind": "annual",
+      "display_note": "2026-11-02更新ページは年末年始の収集を休止・変更する場合があると案内しています。2026-27の日程は未確定"
+    },
+    {
+      "city": "港区",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "原則、年末年始（12月31日から翌年1月3日まで）と日曜日を除き、祝祭日も資源回収・ごみ収集を行っています。",
+      "source_url": "https://www.city.minato.tokyo.jp/unei/kuse/kocho/faq/gomi/009.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "minato",
+      "kind": "annual",
+      "display_note": ""
+    },
+    {
+      "city": "目黒区",
+      "period": null,
+      "quote": "資源とごみの収集は、年末年始と日曜日を除き祝日でも行います。",
+      "source_url": "https://www.city.meguro.tokyo.jp/seisou/kusei/faq/gomi-4.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "meguro",
+      "kind": "annual",
+      "display_note": "通年ルールには年末年始の休止のみ記載され、日付範囲はありません。期間は年次案内で確認が必要です"
+    },
+    {
+      "city": "相模原市",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "原則、12月31日から1月3日を除き、休日（祝日）もごみの収集を行います。",
+      "source_url": "https://www.city.sagamihara.kanagawa.jp/shisei/1026875/faq/gomi/1002503.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "sagamihara",
+      "kind": "annual",
+      "display_note": ""
+    },
+    {
+      "city": "神戸市",
+      "period": {
+        "start": "2026-12-29",
+        "end": "2027-01-03"
+      },
+      "quote": "通常のごみ収集は、年末の12月28日（月曜）まで、年始は1月4日（月曜）から行います。",
+      "source_url": "https://www.city.kobe.lg.jp/a04164/kurashi/recycle/gomi/dashikata/r8_nenmatunensigomishuushuu.html",
+      "year_basis": "2026-27 공지",
+      "verification_origin": "Pudding PASS",
+      "city_en": "kobe",
+      "kind": "confirmed",
+      "display_note": "品目・地域により12/29〜31に臨時収集があります（原文）"
+    },
+    {
+      "city": "福岡市",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "家庭ごみの収集につきましては、祝日等（ゴールデンウイークやお盆等）も通常通り収集いたします。※年末年始（12月31日～1月３日）のみ休み。",
+      "source_url": "https://www.city.fukuoka.lg.jp/kankyo/kateigomi/hp/syukuzitutounokateigomisyusyu.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "fukuoka",
+      "kind": "annual",
+      "display_note": ""
+    },
+    {
+      "city": "練馬区",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "年末年始期間（12月31日から1月3日まで）の資源回収・ごみ収集の日程については変更になる場合があります。詳細については年末年始のお知らせをご覧ください。",
+      "source_url": "https://www.city.nerima.tokyo.jp/kurashi/gomi/wakekata/ichiran/index.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "nerima",
+      "kind": "annual",
+      "display_note": "年末年始期間（12月31日〜1月3日）の収集日程は変更される場合があります。詳細は年末年始のお知らせをご覧ください（原文）"
+    },
+    {
+      "city": "荒川区",
+      "period": null,
+      "quote": "※年末年始は収集日を変更する場合があります。区報やHPをご確認ください。",
+      "source_url": "https://www.city.arakawa.tokyo.jp/documents/735/2026-12.pdf",
+      "year_basis": "2026-27 공지",
+      "verification_origin": "Pudding PASS",
+      "city_en": "arakawa",
+      "kind": "unconfirmed",
+      "display_note": "令和8年度（2026年4月〜2027年3月）の地区別カレンダー。具体的な年末年始日程は12月の区報・HPを確認するよう案内"
+    },
+    {
+      "city": "豊島区",
+      "period": {
+        "start": "2026-12-31",
+        "end": "2027-01-03"
+      },
+      "quote": "資源回収・ごみ収集は令和8年12月31日（木曜日）から令和9年1月3日（日曜日）までお休みします。",
+      "source_url": "https://www.city.toshima.lg.jp/150/kurashi/gomi/shigen/2609221700.html",
+      "year_basis": "2026-27 공지",
+      "verification_origin": "Pudding PASS",
+      "city_en": "toshima",
+      "kind": "confirmed",
+      "display_note": ""
+    },
+    {
+      "city": "足立区",
+      "period": null,
+      "quote": "令和８年年末年始のごみ・資源収集に関する内容は、12月のあだち広報でお知らせします。",
+      "source_url": "https://www.city.adachi.tokyo.jp/seso/2026calender.html",
+      "year_basis": "2026-27 공지",
+      "verification_origin": "Pudding PASS",
+      "city_en": "adachi",
+      "kind": "unconfirmed",
+      "display_note": "令和8年（2026年）の年末年始の具体的な収集内容は12月の「あだち広報」で案内予定。現時点では日付未公表"
+    },
+    {
+      "city": "静岡市",
+      "period": null,
+      "quote": "資源ごみ（葵区・駿河区）、不燃・粗大ごみの収集日",
+      "source_url": "https://www.city.shizuoka.lg.jp/documents/55436/2512.pdf",
+      "year_basis": "2025-26 공지(전년)",
+      "scope": "広報しずおか2025年12月号の収集日程",
+      "verification_origin": "Pudding PASS",
+      "city_en": "shizuoka",
+      "kind": "previous",
+      "display_note": "区・品目・収集コースごとに年内最終日・年始最初の日が異なる(原文)"
+    },
+    {
+      "city": "静岡市",
+      "period": null,
+      "quote": "年末年始の収集については、別途広報紙等でお知らせします。",
+      "source_url": "https://www.city.shizuoka.lg.jp/gomi/s000666.html",
+      "year_basis": "상시 규칙",
+      "verification_origin": "Pudding PASS",
+      "city_en": "shizuoka",
+      "kind": "annual",
+      "display_note": "可燃ごみの出し方ページ。年末年始の具体日程は別途広報紙等で案内すると記載"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "city_en": "kumamoto",
+      "city": "熊本市",
+      "kind": "unconfirmed",
+      "period": null,
+      "source_url": "https://www.city.kumamoto.jp/kiji0034637/3_4637_up_7jcgaozv.pdf",
+      "display_note": "地区のごみカレンダーで確認してください。",
+      "verification_origin": "Ori decision: VERIFY_ORI_OVERRIDES.md row 43; failed quote and city-wide period are excluded"
+    }
+  ]
+}

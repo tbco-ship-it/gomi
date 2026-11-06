@@ -1,0 +1,14 @@
+{% macro summary(window) -%}
+{% if window.kind == "confirmed" and window.period_known %}
+2026-27年の公式発表: {{ window.label }}
+{% elif window.kind == "annual" and window.period_known %}
+市の通年ルール: {{ window.label }}
+{% elif window.kind == "annual" %}
+{{ window.display_note or "年末年始は市の通年ルールで休止します。具体的な日付は案内をご確認ください" }}
+{% else %}
+2026-27年の具体的な休止期間は未確定です{% if window.display_note %}。{{ window.display_note }}{% endif %}
+{% endif %}
+{% if window.period_known and window.display_note %}。{{ window.display_note }}{% endif %}
+{% if window.source_url %} <a href="{{ window.source_url }}" rel="noopener" target="_blank">公式案内</a>{% endif %}
+。
+{%- endmacro %}

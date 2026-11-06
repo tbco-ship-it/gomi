@@ -129,53 +129,55 @@ def month_days(value):
 
 
 def normalize_yearend(value):
-    """Normalize rules.yearend for the app while preserving an explicit confirmation state.
-
-    Accepted forms are the current `12/31~1/3 休止` string and a structured mapping such as
-    {"start": "12/30", "end": "1/3", "note": "12/31は一部のみ収集"}.
-    """
+    """Normalize season-specific year-end evidence without promoting a default to fact."""
+    kind = "unconfirmed"
     start = end = None
     note = ""
+    display_note = ""
+    source_url = ""
     if isinstance(value, dict):
+        kind = value.get("kind") or "unconfirmed"
         period = value.get("period")
-        period = period if isinstance(period, dict) else value
-        note_value = value.get("note") or value.get("period_note") or period.get("note") or period.get("period_note")
-        note = note_value if isinstance(note_value, str) else ""
-        start = parse_month_day(period.get("start") or period.get("from") or period.get("start_date"))
-        end = parse_month_day(period.get("end") or period.get("through") or period.get("end_date"))
-        if (not start or not end) and isinstance(value.get("period"), str):
-            parts = month_days(value["period"])
+        if isinstance(period, dict):
+            start = parse_month_day(period.get("start") or period.get("from") or period.get("start_date"))
+            end = parse_month_day(period.get("end") or period.get("through") or period.get("end_date"))
+        elif isinstance(period, str):
+            parts = month_days(period)
             if len(parts) >= 2:
                 start, end = parts[0], parts[1]
-    elif isinstance(value, str):
-        parts = month_days(value)
-        if len(parts) >= 2:
-            start, end = parts[0], parts[1]
+        elif value.get("start") or value.get("end"):
+            start = parse_month_day(value.get("start") or value.get("from") or value.get("start_date"))
+            end = parse_month_day(value.get("end") or value.get("through") or value.get("end_date"))
+        note_value = value.get("calendar_note")
+        note = note_value if isinstance(note_value, str) else ""
+        display_value = value.get("display_note") or value.get("period_note") or value.get("quote")
+        display_note = display_value.strip().rstrip("。. ") if isinstance(display_value, str) else ""
+        source_url = value.get("source_url") if isinstance(value.get("source_url"), str) else ""
 
-    confirmed = bool(start and end)
-    if not confirmed:
-        start, end = (12, 31), (1, 3)
-    start_label = f"{start[0]}/{start[1]}"
-    end_label = f"{end[0]}/{end[1]}"
-    start_year = 2027 if start[0] <= 3 else 2026
-    last = dt.date(start_year, *start) - dt.timedelta(days=1)
+    period_known = bool(start and end)
+    confirmed = period_known and kind in {"confirmed", "annual"}
+    if period_known:
+        start_month, start_day = start
+        end_month, end_day = end
+        start_label = f"{start[0]}/{start[1]}"
+        end_label = f"{end[0]}/{end[1]}"
+        label = f"{start[0]}月{start[1]}日〜{end[0]}月{end[1]}日 休止"
+    else:
+        start_month = start_day = end_month = end_day = None
+        start_label = end_label = ""
+        label = ""
     return {
-        "start_month": start[0], "start_day": start[1],
-        "end_month": end[0], "end_day": end[1],
+        "start_month": start_month, "start_day": start_day,
+        "end_month": end_month, "end_day": end_day,
         "start": start_label, "end": end_label,
-        "label": f"{start[0]}月{start[1]}日〜{end[0]}月{end[1]}日 休止",
-        "last_collection": f"{last.month}月{last.day}日",
+        "label": label,
+        "period_known": period_known,
+        "kind": kind,
         "note": note.strip(),
+        "display_note": display_note.strip(),
+        "source_url": source_url,
         "confirmed": confirmed,
     }
-
-
-def city_yearend_window(values):
-    """Use one city period only when its normalized records agree; otherwise require review."""
-    values = list(values)
-    if not values or len({json.dumps(v, ensure_ascii=False, sort_keys=True) for v in values}) != 1:
-        return normalize_yearend(None)
-    return normalize_yearend(values[0])
 
 
 def split_addr(r):
@@ -263,6 +265,23 @@ def main():
     origin = args.origin.rstrip("/")
     today = dt.date.today()
 
+    yearend_data = json.loads((ROOT / "data/yearend.json").read_text())
+    current_yearend = {}
+    current_priority = {}
+    previous_yearend = []
+    for row in yearend_data.get("rows", []):
+        kind = row.get("kind")
+        if kind == "previous":
+            previous_yearend.append(row)
+            continue
+        priority = {"confirmed": 3, "unconfirmed": 3, "annual": 2}.get(kind, 0)
+        if priority > current_priority.get(row["city_en"], -1):
+            current_yearend[row["city_en"]] = row
+            current_priority[row["city_en"]] = priority
+    for row in yearend_data.get("unconfirmed", []):
+        current_yearend[row["city_en"]] = row
+        current_priority[row["city_en"]] = 3
+
     cities = {}
     groups = {}
     ndir = ROOT / "data/normalized"
@@ -273,9 +292,8 @@ def main():
         for r in recs:
             if not r["types"]:
                 continue  # e.g. 横浜 南区平楽: "事務所にお問合せください" — nothing to show
-            cities.setdefault(r["city_en"], {"city": r["city"], "pref": r["pref"], "city_en": r["city_en"], "wards": {}, "source": r["source"]["url"].split("/")[2], "fetched": r["source"]["fetched"], "rules": r.get("rules", {}), "yearend_values": []})
+            cities.setdefault(r["city_en"], {"city": r["city"], "pref": r["pref"], "city_en": r["city_en"], "wards": {}, "source": r["source"]["url"].split("/")[2], "fetched": r["source"]["fetched"], "rules": r.get("rules", {})})
             c = cities[r["city_en"]]
-            c["yearend_values"].append((r.get("rules") or {}).get("yearend"))
             c["wards"].setdefault(r["ward_en"], {"ward": r["ward"], "ward_en": r["ward_en"], "towns": {}})
             k = group_key(r)
             town, chome, sub = split_addr(r)
@@ -288,17 +306,16 @@ def main():
                 groups[k] = {"city_en": r["city_en"], "city": r["city"], "pref": r["pref"], "ward": r["ward"], "ward_en": r["ward_en"],
                              "town": town, "chome": chome, "romaji": r.get("romaji", ""), "slug": slug,
                              "records": [], "rules": r.get("rules", {}),
-                             "yearend_window": normalize_yearend((r.get("rules") or {}).get("yearend")),
                              "source": r["source"]}
             groups[k]["records"].append(r)
     for c in cities.values():
-        c["yearend_window"] = city_yearend_window(c.pop("yearend_values"))
-    city_list = sorted(cities.values(), key=lambda c: c["city"])
-    city_periods = {(c["yearend_window"]["start_month"], c["yearend_window"]["start_day"],
-                     c["yearend_window"]["end_month"], c["yearend_window"]["end_day"])
-                    for c in city_list}
-    guide_same_period = (len(city_periods) == 1 and all(c["yearend_window"]["confirmed"] for c in city_list))
-    guide_window = city_list[0]["yearend_window"] if guide_same_period else None
+        c["yearend_window"] = normalize_yearend(current_yearend.get(c["city_en"]))
+        c["rules"] = dict(c.get("rules") or {})
+        c["rules"]["yearend"] = c["yearend_window"]
+    for g in groups.values():
+        g["yearend_window"] = cities[g["city_en"]]["yearend_window"]
+        g["rules"] = dict(g.get("rules") or {})
+        g["rules"]["yearend"] = g["yearend_window"]
     # resolve slug collisions across groups (different chome parsed to same slug)
     seen = {}
     for k, g in groups.items():
@@ -370,7 +387,7 @@ def main():
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
     env.globals.update(site=SITE, base=base, origin=origin, today=today.isoformat(), v=v, adsense_pub=args.adsense_pub,
                        JDAY=JDAY, TYPE_ORDER=TYPE_ORDER, TYPE_COLOR=TYPE_COLOR, TYPE_EN=TYPE_EN, cities=cities,
-                       yearend_guide={"same_period": guide_same_period, "window": guide_window},
+                       yearend_previous=sorted(previous_yearend, key=lambda row: (row["city"], row["source_url"])),
                        n_towns=len(groups), n_records=sum(len(g["records"]) for g in groups.values()))
 
     if DIST.exists():

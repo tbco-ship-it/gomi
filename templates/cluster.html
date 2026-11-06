@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "_yearend.html" import summary as yearend_summary %}
 {% set m = cl.main.types %}
 {% set bt = cl.primary %}
 {% set place = cl.ward or cl.city %}
@@ -30,7 +31,7 @@
 
 <div class="sec"><div class="sec-h"><h2 data-i18n="types_h2">ごみの種類ごとの曜日</h2></div>
 <div class="card">{% with types = m %}{% include "_types.html" %}{% endwith %}</div>
-{% if cl.rules %}<p class="muted small" style="margin-top:10px">{% if cl.rules.time_by %}出す時間: {{ cl.rules.time_by }}まで。{% endif %}{% if cl.rules.holiday_collection %}{{ cl.rules.holiday_collection }}。{% endif %}年末年始は{{ cl.yearend_window.label }}。{% if not cl.yearend_window.confirmed %}期間は確認必要です。{% endif %}</p>{% endif %}
+{% if cl.rules %}<p class="muted small" style="margin-top:10px">{% if cl.rules.time_by %}出す時間: {{ cl.rules.time_by }}まで。{% endif %}{% if cl.rules.holiday_collection %}{{ cl.rules.holiday_collection }}。{% endif %}{{ yearend_summary(cl.yearend_window) }}</p>{% endif %}
 </div>
 
 <div class="sec"><div class="sec-h"><h2>この収集日の対象地域 <span class="muted small">{{ cl.members|length }}町丁目</span></h2></div>

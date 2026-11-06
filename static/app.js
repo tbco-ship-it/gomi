@@ -38,9 +38,10 @@
   const addDays = (d, n) => { const x = new Date(d); x.setDate(x.getDate() + n); return x; };
   const iso = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
   const md = d => EN() ? `${DOW_EN[d.getDay()]} ${d.getMonth() + 1}/${d.getDate()}` : `${d.getMonth() + 1}/${d.getDate()}(${JDAY[d.getDay()]})`;
-  const FALLBACK_YEAREND = { start_month: 12, start_day: 31, end_month: 1, end_day: 3, confirmed: false, note: '' };
+  const FALLBACK_YEAREND = { confirmed: false, note: '', source_url: '' };
   const yearend = (d, rule) => {
     const w = rule || FALLBACK_YEAREND;
+    if (!w.confirmed) return false;
     const key = (month, day) => month * 100 + day;
     const current = key(d.getMonth() + 1, d.getDate());
     const start = key(w.start_month, w.start_day), end = key(w.end_month, w.end_day);
@@ -65,7 +66,10 @@
     return d.getMonth() + 1 === month && d.getDate() === day;
   };
   const yearendAlert = rule => !rule?.confirmed
-    ? (EN() ? 'Year-end closure dates need confirmation. Check the city notice.' : '年末年始の休止期間は確認が必要です。自治体のお知らせを確認してください。')
+    ? { text: EN() ? 'Year-end closure dates need confirmation. Check the city notice.' : '年末年始の休止期間は確認が必要です。自治体のお知らせを確認してください。', source: rule?.source_url || '' }
+    : null;
+  const yearendAlertHtml = alert => alert
+    ? `${escapeHtml(alert.text)}${alert.source ? ` <a href="${escapeHtml(alert.source)}" rel="noopener" target="_blank">${EN() ? 'Official notice' : '自治体の案内'}</a>` : ''}`
     : '';
 
   // Home: the first result ends the landing state — hero + card glide up from centre (FLIP on transform) while the hidden sections below are armed to reveal.
@@ -90,6 +94,7 @@
   function render(types, name, slug, root, yearendWindow) {
     const rule = yearendWindow || FALLBACK_YEAREND;
     const alert = yearendAlert(rule);
+    const alertHtml = yearendAlertHtml(alert);
     const today = typesOn(types, now, rule), tomorrow = typesOn(types, addDays(now, 1), rule);
     const lbl = k => EN() ? TYPE_EN[k] : types[k].label;
     const sep = EN() ? ' + ' : '・';
@@ -102,7 +107,7 @@
     const week = Array.from({ length: 7 }, (_, i) => { const d = addDays(now, i); const ks = typesOn(types, d, rule); const note = yearendNoteOn(d, rule) ? `<span class="day-note">${escapeHtml(rule.note)}</span>` : ''; return `<div class="day${i === 0 ? ' today' : ''}"><span class="dow">${i === 0 ? (EN() ? 'Today' : '今日') : (EN() ? DOW_EN[d.getDay()] : JDAY[d.getDay()])}</span><span class="dnum">${d.getDate()}</span><span class="dots">${ks.map(k => `<span class="tag" style="background:${TAG[k]}">${EN() ? SHORT_EN[k] : short(k, types[k].label)}</span>`).join('')}</span>${note}</div>`; }).join('');
     if (root) {
       leaveLanding();
-      root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${head}</span></div><p class="sheet-title">${sub}</p>${alert ? `<p class="yearend-alert">${escapeHtml(alert)}</p>` : ''}<div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">${EN() ? 'Open this address (block differences · .ics)' : 'この住所のページ(番地の違い・.ics)'}</a></p></section><div class="week">${week}</div>`;
+      root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${head}</span></div><p class="sheet-title">${sub}</p>${alertHtml ? `<p class="yearend-alert">${alertHtml}</p>` : ''}<div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">${EN() ? 'Open this address (block differences · .ics)' : 'この住所のページ(番地の違い・.ics)'}</a></p></section><div class="week">${week}</div>`;
       // Result rises in Toss-style: label → headline → sub → items → link → week, 90ms apart.
       root.classList.remove('is-in'); root.classList.add('reveal');
       [root.querySelector('.sheet'), ...root.querySelector('.sheet').children, root.querySelector('.week')].forEach((el, i) => { el.classList.add('rv'); el.style.setProperty('--d', (i * 90) + 'ms'); });
@@ -111,7 +116,7 @@
     } else {
       const sheet = $('today'); sheet.classList.remove('balanced', 'quiet'); sheet.classList.add(cls);
       $('headline').textContent = head; $('sub').textContent = sub; $('upcoming').innerHTML = upcoming; $('week').innerHTML = week;
-      const alertEl = $('yearend-alert'); if (alertEl) { alertEl.textContent = alert; alertEl.hidden = !alert; }
+      const alertEl = $('yearend-alert'); if (alertEl) { alertEl.innerHTML = alertHtml; alertEl.hidden = !alert; }
     }
     return { today, tomorrow };
   }

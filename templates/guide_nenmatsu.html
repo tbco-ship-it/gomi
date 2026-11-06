@@ -1,26 +1,28 @@
 {% extends "base.html" %}
-{% block title %}年末年始のごみ収集はいつ休み? {{ cities|length }}市区の12月31日〜1月3日と前後の出し方 | {{ site }}{% endblock %}
-{% block description %}{% if yearend_guide.same_period %}{% set yw = yearend_guide.window %}年末年始({{ yw.start_month }}月{{ yw.start_day }}日〜{{ yw.end_month }}月{{ yw.end_day }}日)のごみ収集休止期間と、その前後の出し方。{% else %}年末年始のごみ収集休止期間は市区ごとに異なります。休止期間とその前後の出し方。{% endif %}{% for c in cities.values() %}{{ c.city }}{% if not loop.last %}・{% endif %}{% endfor %}の公開情報をもとに。{% endblock %}
+{% from "_yearend.html" import summary as yearend_summary %}
+{% block title %}2026-27年末年始のごみ収集日と自治体別の案内 | {{ site }}{% endblock %}
+{% block description %}2026-27年末年始のごみ収集休止日を自治体の公式案内に沿って掲載。確認済み期間、通年ルール、未確定の自治体、前年の参考情報を分けて確認できます。{% endblock %}
 {% block content %}
 <nav class="crumbs"><a href="{{ base }}">ホーム</a> › 年末年始</nav>
-<h1>年末年始のごみ出し</h1>
+<h1>2026-27年末年始のごみ出し</h1>
 <div class="prose">
-{% if yearend_guide.same_period %}{% set yw = yearend_guide.window %}
-<p>対応している{{ cities|length }}市区はいずれも<strong>{{ yw.start_month }}月{{ yw.start_day }}日から{{ yw.end_month }}月{{ yw.end_day }}日までは収集がお休み</strong>です。{{ yw.last_collection }}までに出しきり、年明けは休止明けの最初の収集日から通常どおりです。祝日はふだん通り収集されます(年末年始だけが例外)。</p>
-{% else %}
-<p>対応している{{ cities|length }}市区の年末年始の休止期間は市区ごとに異なります。休止期間と休止前の最終収集日は、下の市区別一覧で確認してください。祝日の収集は市区の通常ルールに従います。</p>
-{% endif %}
-<p>このサイトの「今日と明日」表示と週カレンダーは、この期間を自動で除いて次の収集日を出します。市が別途「年末年始特別収集」を告知した場合はそちらが優先です。</p>
+<p>年末年始の収集日は市区ごとに異なります。今季の公式発表で期間を確認できた自治体、通年ルールだけ確認できた自治体、具体日程が未公表の自治体を分けて掲載しています。最新案内へのリンクも付けています。</p>
+<p>「今日と明日」表示と週カレンダーは、日付を確認できた自治体の休止期間だけを収集日計算から除きます。日程が未確定の自治体は期間を推測せず、案内の確認を表示します。</p>
 <h2>年末に多いごみの出し方</h2>
 <ul>
-<li><strong>大掃除の可燃ごみ</strong>: 12月最後の収集日は量が多く、時間が遅れがちです。前日夜ではなく当日朝に、いつもの時間までに。</li>
-<li><strong>粗大ごみ</strong>: 12月は申込が最も混み、12月中旬には年内枠が埋まる市が多いです。年内に出すなら11月中に申込を。</li>
-<li><strong>びん・缶・ペットボトル</strong>: 年末年始で家庭内に溜まりやすいので、1月最初の資源日を町丁目ページで確認しておくと楽です。</li>
+<li><strong>大掃除の可燃ごみ</strong>: 年末最後の収集日は量が多く、時間が遅れがちです。前日夜ではなく当日朝に、いつもの時間までに。</li>
+<li><strong>粗大ごみ</strong>: 12月は申込が混み合うことがあります。年内に出すなら、自治体の受付状況を早めに確認してください。</li>
+<li><strong>びん・缶・ペットボトル</strong>: 年末年始で家庭内に溜まりやすいので、1月最初の資源日を町丁目ページで確認してください。</li>
 <li><strong>年賀状・ダンボール</strong>: 古紙(資源)。ひもでしばって、資源の日に。</li>
 </ul>
+<h2>自治体ごとの今季の案内</h2>
+<ul>{% for c in cities.values()|sort(attribute='city') %}<li><a href="{{ base }}{{ c.city_en }}/">{{ c.city }}</a> — {{ yearend_summary(c.yearend_window) }}</li>{% endfor %}</ul>
+{% if yearend_previous %}
+<h2>昨年(2025-26)の参考</h2>
+<p>以下は前年の案内です。今季の休止期間を示すものではありません。</p>
+<ul>{% for row in yearend_previous %}<li><a href="{{ base }}{{ row.city_en }}/">{{ row.city }}</a> — {% if row.period %}昨年(2025-26)の休止期間は{{ row.period.start }}〜{{ row.period.end }}{% else %}昨年(2025-26)の案内: {{ row.quote.rstrip("。") }}{% endif %}。<a href="{{ row.source_url }}" rel="noopener" target="_blank">前年の公式案内</a></li>{% endfor %}</ul>
+{% endif %}
 <h2>年始の最初の収集日</h2>
-<p>年始は各市区の休止明け、最初に該当する曜日から通常収集です。このサイトの町丁目ページは市区ごとの休止期間を飛ばして次の収集日を計算します。</p>
-<h2>市ごとの案内</h2>
-<ul>{% for c in cities.values() %}<li><a href="{{ base }}{{ c.city_en }}/">{{ c.city }}</a> — {{ c.yearend_window.label }}{% if not c.yearend_window.confirmed %}(確認必要){% endif %}。休止前の最終収集日は{{ c.yearend_window.last_collection }}{% if c.rules.holiday_collection %}。{{ c.rules.holiday_collection }}{% endif %}{% if c.yearend_window.note %}。{{ c.yearend_window.note }}{% endif %}</li>{% endfor %}</ul>
+<p>年始は各市区の休止明け、最初に該当する曜日から通常収集です。具体日程が未確定の自治体は、リンク先の最新案内で確認してください。</p>
 </div>
 {% endblock %}

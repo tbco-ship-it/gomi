@@ -154,10 +154,15 @@ def normalize_yearend(value):
     display_note = ""
     source_url = ""
     display_mode = ""
+    season_year = 2026
     windows = []
     if isinstance(value, dict):
         kind = value.get("kind") or "unconfirmed"
         display_mode = value.get("display_mode") or ""
+        year_basis = value.get("year_basis")
+        season_match = re.search(r"(\d{4})-\d{2}", year_basis) if isinstance(year_basis, str) else None
+        if season_match:
+            season_year = int(season_match.group(1))
         period = value.get("period")
         if isinstance(period, dict):
             start = parse_month_day(period.get("start") or period.get("from") or period.get("start_date"))
@@ -186,11 +191,19 @@ def normalize_yearend(value):
                     continue
                 raw_types = raw.get("types")
                 types = raw_types if isinstance(raw_types, list) and all(isinstance(t, str) for t in raw_types) else None
+                raw_weekdays = raw.get("weekdays")
+                if "weekdays" in raw and (
+                    not isinstance(raw_weekdays, list)
+                    or not raw_weekdays
+                    or not all(isinstance(day, str) and day in "日月火水木金土" for day in raw_weekdays)
+                ):
+                    continue
                 windows.append({
                     "start": window_start,
                     "end": window_end,
                     "state": raw["state"],
                     **({"types": types} if types is not None else {}),
+                    **({"weekdays": raw_weekdays} if "weekdays" in raw else {}),
                     "source_url": raw.get("source_url") if isinstance(raw.get("source_url"), str) else source_url,
                     "cell": raw.get("cell") if isinstance(raw.get("cell"), str) else "",
                 })
@@ -233,6 +246,9 @@ def normalize_yearend(value):
         "display_note": display_note.strip(),
         "source_url": source_url,
         "windows": windows,
+        "repeat_windows": kind == "annual",
+        "check_outside_season": kind != "annual",
+        "season_year": season_year,
         "confirmed": confirmed,
     }
 

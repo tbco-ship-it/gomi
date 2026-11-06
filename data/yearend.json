@@ -255,15 +255,20 @@
       "verification_origin": "Pudding PASS",
       "city_en": "nagoya",
       "kind": "confirmed",
-      "display_note": "プラスチック・電池は12月31日〜1月3日、びん・缶などは12月31日〜1月4日が休止です。品目・地区によって日程が異なるため、詳しくは市の公式案内をご確認ください。",
+      "display_note": "プラスチック・電池は12月31日〜1月3日、びん・缶などは12月31日〜1月4日が休止です。品目・地区によって日程が異なるため、詳しくは市の公式案内をご確認ください。瑞穂区の資源各戸収集モデル地域は日程が異なります。",
       "display_mode": "varied",
       "windows": [
         {
           "start": "2026-12-30",
           "end": "2026-12-30",
-          "state": "check",
+          "state": "closed",
+          "types": [
+            "burnable",
+            "nonburnable",
+            "bulky"
+          ],
           "source_url": "https://www.city.nagoya.jp/kurashi/gomi/1012183/1054883.html",
-          "cell": "可燃ごみ等の12月30日収集休止を含む年末年始日程"
+          "cell": "12月30日（水曜日）から1月3日（日曜日）の収集はありません。"
         },
         {
           "start": "2026-12-31",
@@ -275,12 +280,12 @@
         {
           "start": "2027-01-04",
           "end": "2027-01-04",
-          "state": "check",
+          "state": "closed",
           "types": [
             "resource"
           ],
           "source_url": "https://www.city.nagoya.jp/kurashi/gomi/1012183/1054883.html",
-          "cell": "月曜日のびん・缶等、1月4日収集休止欄"
+          "cell": "12月31日（木曜日）から1月4日（月曜日）の収集はありません。"
         },
         {
           "start": "2027-01-05",
@@ -290,8 +295,11 @@
             "nonburnable",
             "bulky"
           ],
+          "weekdays": [
+            "金"
+          ],
           "source_url": "https://www.city.nagoya.jp/kurashi/gomi/1012183/1054883.html",
-          "cell": "金曜日の不燃ごみ・粗大ごみが1週後ろにずれる欄"
+          "cell": "不燃ごみ・粗大ごみの収集日が金曜日の地域は、1月の収集日は1週ずつ後ろにずれます。"
         }
       ]
     },

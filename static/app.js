@@ -2,7 +2,7 @@
   const cssHref = document.querySelector('link[href*="static/style.css"]').getAttribute('href');
   const v = (cssHref.match(/\?v=([^&]+)/) || [])[1] || '';
   const base = cssHref.replace(/static\/style\.css.*$/, '');
-  const { ORDER, JDAY, windowState, regularPickup, typesOn: scheduleTypesOn, checkSource, calendarEvents } =
+  const { ORDER, JDAY, typesOn: scheduleTypesOn, checkTypesOn, nextPickup, checkSource, calendarEvents } =
     await import(`${base}static/yearend.mjs?v=${v}`);
   const $ = id => document.getElementById(id);
   const COLOR = { burnable: '#ff7a00', resource: '#3182f6', plastic: '#00b06f', paper_cloth: '#8b5cf6', yard: '#65a30d', nonburnable: '#6b7684', bulky: '#f04452' };
@@ -40,9 +40,14 @@
   const md = d => EN() ? `${DOW_EN[d.getDay()]} ${d.getMonth() + 1}/${d.getDate()}` : `${d.getMonth() + 1}/${d.getDate()}(${JDAY[d.getDay()]})`;
   const FALLBACK_YEAREND = { confirmed: false, note: '', source_url: '', windows: [] };
   // t: {days:[..], weeks:[..]|null}
-  const on = (t, key, d, rule) => windowState(d, key, rule) === 'normal' && !yearendNoteOn(d, rule) && regularPickup(t, d);
   const typesOn = (types, d, rule) => scheduleTypesOn(types, d, rule).filter(k => !yearendNoteOn(d, rule));
-  const nextOf = (t, key, from, rule) => { for (let i = 0; i < 70; i++) { const d = addDays(from, i); if (on(t, key, d, rule)) return d; } return null; };
+  const nextOf = (t, key, from, rule) => {
+    let next = nextPickup(t, key, from, rule);
+    while (next?.state === 'normal' && yearendNoteOn(next.date, rule)) {
+      next = nextPickup(t, key, addDays(next.date, 1), rule);
+    }
+    return next;
+  };
   const rel = d => { const n = Math.round((d - now) / 864e5); return EN() ? (n === 0 ? 'Today' : n === 1 ? 'Tomorrow' : md(d)) : (n === 0 ? '今日' : n === 1 ? '明日' : n === 2 ? '明後日' : md(d)); };
   const escapeHtml = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
   const yearendNoteDate = rule => {
@@ -57,12 +62,11 @@
     return d.getMonth() + 1 === month && d.getDate() === day;
   };
   const yearendAlert = (types, rule) => {
-    const date = [now, addDays(now, 1)].find(d =>
-      ORDER.some(key => types[key] && windowState(d, key, rule) === 'check')
-    );
+    const date = [now, addDays(now, 1)].find(d => checkTypesOn(types, d, rule).length);
+    const type = date && checkTypesOn(types, date, rule)[0];
     return date ? {
       text: EN() ? 'Check the official notice for the special year-end schedule.' : '年末年始の特別日程 — 公式案内で確認',
-      source: checkSource(date, rule),
+      source: checkSource(date, rule, type),
     } : null;
   };
   const yearendAlertHtml = alert => alert
@@ -95,16 +99,36 @@
     const today = typesOn(types, now, rule), tomorrow = typesOn(types, addDays(now, 1), rule);
     const lbl = k => EN() ? TYPE_EN[k] : types[k].label;
     const sep = EN() ? ' + ' : '・';
-    let head, sub, cls;
+    let head, sub, cls, nextCheck = null;
     if (tomorrow.length) { head = EN() ? 'Tomorrow: ' + tomorrow.map(lbl).join(sep) : '明日は ' + tomorrow.map(lbl).join(sep); cls = 'balanced'; }
-    else { const nx = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], k, addDays(now, 1), rule)]).filter(x => x[1]).sort((a, b) => a[1] - b[1])[0]; head = nx ? (EN() ? `Next: ${lbl(nx[0])} ${rel(nx[1])}` : `次は ${rel(nx[1])} ${lbl(nx[0])}`) : (EN() ? 'No collection scheduled' : '収集予定なし'); cls = 'quiet'; }
+    else {
+      const nx = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], k, addDays(now, 1), rule)])
+        .filter(x => x[1]).sort((a, b) => a[1].date - b[1].date)[0];
+      if (nx?.[1].state === 'check') nextCheck = nx[1];
+      head = nx
+        ? (nx[1].state === 'check'
+          ? (EN() ? `Next: Check ${lbl(nx[0])}` : `次は 要確認 ${lbl(nx[0])}`)
+          : (EN() ? `Next: ${lbl(nx[0])} ${rel(nx[1].date)}` : `次は ${rel(nx[1].date)} ${lbl(nx[0])}`))
+        : (EN() ? 'No collection scheduled' : '収集予定なし');
+      cls = 'quiet';
+    }
+    const headHtml = `${escapeHtml(head)}${nextCheck?.source ? ` <a href="${escapeHtml(nextCheck.source)}" rel="noopener" target="_blank">${EN() ? 'Official notice' : '公式案内'}</a>` : ''}`;
     sub = EN() ? (today.length ? `Today (${md(now)}): ${today.map(lbl).join(sep)}.` : `Today (${md(now)}): no collection.`) : (today.length ? `今日 ${md(now)} は${today.map(lbl).join('・')}の日です。` : `今日 ${md(now)} の収集はありません。`);
-    const t0 = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], k, now, rule)]).filter(x => x[1]).sort((a, b) => a[1] - b[1]);
-    const upcoming = t0.map(([k, d]) => `<div class="item"><span class="dot" style="background:${COLOR[k]}"></span><span class="txt"><b>${lbl(k)}</b>${EN() ? `<span class="tsub">${types[k].label}</span>` : ''}${types[k].time ? `<span class="tsub">${types[k].time}</span>` : ''}</span><span class="when">${rel(d)}</span></div>`).join('');
+    const t0 = ORDER.filter(k => types[k]).map(k => [k, nextOf(types[k], k, now, rule)])
+      .filter(x => x[1]).sort((a, b) => a[1].date - b[1].date);
+    const upcoming = t0.map(([k, next]) => {
+      const when = next.state === 'check'
+        ? (next.source
+          ? `<a href="${escapeHtml(next.source)}" rel="noopener" target="_blank">${EN() ? 'Check official notice' : '要確認（公式案内）'}</a>`
+          : (EN() ? 'Check official notice' : '要確認'))
+        : rel(next.date);
+      return `<div class="item"><span class="dot" style="background:${COLOR[k]}"></span><span class="txt"><b>${lbl(k)}</b>${EN() ? `<span class="tsub">${types[k].label}</span>` : ''}${types[k].time ? `<span class="tsub">${types[k].time}</span>` : ''}</span><span class="when">${when}</span></div>`;
+    }).join('');
     const week = Array.from({ length: 7 }, (_, i) => {
       const d = addDays(now, i), ks = typesOn(types, d, rule);
-      const check = ORDER.some(k => types[k] && windowState(d, k, rule) === 'check');
-      const source = checkSource(d, rule);
+      const checkTypes = checkTypesOn(types, d, rule);
+      const check = checkTypes.length > 0;
+      const source = check ? checkSource(d, rule, checkTypes[0]) : '';
       const notice = check
         ? `<span class="day-note">${EN() ? 'Check official year-end schedule' : '年末年始の特別日程 — 公式案内で確認'}${source ? ` <a href="${escapeHtml(source)}" rel="noopener" target="_blank">${EN() ? 'Notice' : '公式案内'}</a>` : ''}</span>`
         : yearendNoteOn(d, rule) ? `<span class="day-note">${escapeHtml(rule.note)}</span>` : '';
@@ -112,7 +136,7 @@
     }).join('');
     if (root) {
       leaveLanding();
-      root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${head}</span></div><p class="sheet-title">${sub}</p>${alertHtml ? `<p class="yearend-alert">${alertHtml}</p>` : ''}<div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">${EN() ? 'Open this address (block differences · .ics)' : 'この住所のページ(番地の違い・.ics)'}</a></p></section><div class="week">${week}</div>`;
+      root.innerHTML = `<section class="sheet ${cls}"><p class="sheet-label">${name}</p><div class="sheet-num"><span class="num small-num">${headHtml}</span></div><p class="sheet-title">${sub}</p>${alertHtml ? `<p class="yearend-alert">${alertHtml}</p>` : ''}<div class="stack">${upcoming}</div><p class="sheet-actions"><a class="next" href="${base}${slug}/">${EN() ? 'Open this address (block differences · .ics)' : 'この住所のページ(番地の違い・.ics)'}</a></p></section><div class="week">${week}</div>`;
       // Result rises in Toss-style: label → headline → sub → items → link → week, 90ms apart.
       root.classList.remove('is-in'); root.classList.add('reveal');
       [root.querySelector('.sheet'), ...root.querySelector('.sheet').children, root.querySelector('.week')].forEach((el, i) => { el.classList.add('rv'); el.style.setProperty('--d', (i * 90) + 'ms'); });
@@ -120,7 +144,7 @@
       bringIntoView(root);
     } else {
       const sheet = $('today'); sheet.classList.remove('balanced', 'quiet'); sheet.classList.add(cls);
-      $('headline').textContent = head; $('sub').textContent = sub; $('upcoming').innerHTML = upcoming; $('week').innerHTML = week;
+      $('headline').innerHTML = headHtml; $('sub').textContent = sub; $('upcoming').innerHTML = upcoming; $('week').innerHTML = week;
       const alertEl = $('yearend-alert'); if (alertEl) { alertEl.innerHTML = alertHtml; alertEl.hidden = !alert; }
     }
     return { today, tomorrow };
